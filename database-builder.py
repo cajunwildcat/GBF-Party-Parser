@@ -43,5 +43,5 @@ f.write(json.dumps(requestData("characters", "id,_pageName=name", 0)))
 f.close()
 
 f = open("summons.json", "w")
-f.write(json.dumps(requestData("summons", "id,_pageName=name,evo_max", 0)))
+f.write(json.dumps(requestData("summons", "id,_pageName=name", 0)))
 f.close()
