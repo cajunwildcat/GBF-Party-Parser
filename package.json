@@ -1,0 +1,15 @@
+{
+  "name": "gbf-party-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wiki-exporter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx bookmarklet wiki-exporter.js bookmarklet"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bookmarklet": "^3.0.0"
+  }
+}

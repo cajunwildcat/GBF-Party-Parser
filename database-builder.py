@@ -29,7 +29,11 @@ def requestData(table, fields, offset):
         d = {}
         for c in o:
             c = c["title"]
-            d[c["id"]] = c["name"]
+            q = {}
+            for prop in c:
+                if prop == "id": continue
+                q[prop] = c[prop]
+            d[c["id"]] = q
         if len(o) == limit:
             d.update(requestData(table, fields, offset + limit))
         return d
@@ -39,5 +43,5 @@ f.write(json.dumps(requestData("characters", "id,_pageName=name", 0)))
 f.close()
 
 f = open("summons.json", "w")
-f.write(json.dumps(requestData("summons", "id,_pageName=name", 0)))
+f.write(json.dumps(requestData("summons", "id,_pageName=name,evo_max", 0)))
 f.close()
