@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 2.1;
+const V = 2.2;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -30,7 +30,6 @@ const specialWepSeries = [
 const keyMap = { /*ultima 1*/ "Dominion": "will", "Parity": "strife", "Utopia": "vitality", "Plenum": "strength", "Ultio": "zeal", "Ars": "courage", /*ultima 2*/ "Aggressio": "auto", "Facultas": "skill", "Arcanum": "ougi", "Catena": "cb", /*ultima 3*/ "Fortis": "cap", "Sanatio": "healing", "Impetus": "seraphic", "Elatio": "cbgain", /*dopus 2*/ "α": "auto", "β": "skill", "γ": "ougi", "Δ": "cb", /*dopus 3*/ "Fruit": "apple", "Conduct": "depravity ", "Fallacy": "echo", /*draconic 2*/ "True": "def", "Vermillion": "fire", "Azure": "water", "Golden": "earth", "Emerald": "wind", "White": "light", "Black": "dark" };
 const elements = ["Fire", "Water", "Earth", "Wind", "Light", "Dark"];
 const charImgMap = {"4": null,"5":"C","6":"D"};
-const sumLBMap = {"3":"mlb","4":"flb","5":"ulb","6":"tlb"};
 const uncaps = [40,60,80,100,150,200];
 const transcendences = [200, 210, 220, 230, 240];
 const arcarumSums = {"Justice": [2030081000, 2040236000],"The Hanged Man": [2030085000, 2040237000],"Death": [2030089000, 2040238000],"Temperance": [2030093000, 2040239000],"The Devil": [2030097000, 2040240000],"The Tower": [2030101000, 2040241000],"The Star": [2030105000, 2040242000],"The Moon": [2030109000, 2040243000],"The Sun": [2030113000, 2040244000],"Judgement": [2030117000, 2040245000]}
@@ -79,7 +78,7 @@ const fillSummonData = (e,i) => {
     }
     final.summons.push(e.master? summons[id]["name"] : null);
     final.summonsTrans.push(e.param ? (parseInt(e.param.level, 10) - 200) / 10: null);
-    final.summonsUncap.push(e.param ? e.param.evolution + sumLBMap[summons[id]["evo max"]] : null);
+    final.summonsUncap.push(e.param ? e.param.evolution : null);
     final.summonsImg.push((function(u,t){
         if (u <= 4 || Object.keys(arcarumSums).includes(e.master.name)) return "A";
         else if (u == 5) return "B";
