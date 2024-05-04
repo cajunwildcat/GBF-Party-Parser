@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 2;
+const V = 2.1;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -90,10 +90,16 @@ const fillSummonData = (e,i) => {
 }
 Object.values(window.Game.view.deck_model.attributes.deck.pc.summons).forEach(fillSummonData);
 let suppS = window.Game.view.expectancyDamageData;
-final.summons.push(suppS ? summons[toString(parseInt(suppS.summonId))] : null);
+final.summons.push(suppS ? summons[parseInt(suppS.summonId)]["name"] : null);
 final.summonsTrans.push(suppS ? parseInt(suppS.evolution) == 6? 5 : 0 : null);
 final.summonsUncap.push(suppS ? parseInt(suppS.evolution) : null);
-suppS? null : suppS = window.Game.view.deck_model.attributes.deck.pc.damage_info.summon_name;
+final.summonsImg.push(suppS? (function(u,t){
+    if (u <= 4 || Object.keys(arcarumSums).includes(suppS)) return "A";
+    else if (u == 5) return "B";
+    else if (u == 6 && t < 5) return "C";
+    else return "D";
+})(final.summonsUncap.slice(-1), final.summonsTrans.slice(-1)) : null);
+suppS? null : final.summons.splice(-1,1,window.Game.view.deck_model.attributes.deck.pc.damage_info.summon_name);
 Object.values(window.Game.view.deck_model.attributes.deck.pc.sub_summons).forEach(fillSummonData);
 //weapons
 Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach(e => {
