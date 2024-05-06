@@ -1,1181 +1,2606 @@
 {
-  "2010001000": {
-    "name": "Wind Rabbit"
+  "3020000000": {
+    "name": "Ryan"
   },
-  "2010002000": {
-    "name": "Air Devil"
+  "3020001000": {
+    "name": "Herja"
   },
-  "2010003000": {
-    "name": "Killer Bee"
+  "3020002000": {
+    "name": "Eso"
   },
-  "2010004000": {
-    "name": "Goblin"
+  "3020004000": {
+    "name": "Galadar"
   },
-  "2010005000": {
-    "name": "Scalewing"
+  "3020005000": {
+    "name": "Deliford"
   },
-  "2010006000": {
-    "name": "Pincer"
+  "3020006000": {
+    "name": "Farrah"
   },
-  "2010010000": {
-    "name": "Skewerfish"
+  "3020007000": {
+    "name": "Volenna"
   },
-  "2010011000": {
-    "name": "Timber Wolf"
+  "3020008000": {
+    "name": "Anna"
   },
-  "2010012000": {
-    "name": "Mirage Maker"
+  "3020009000": {
+    "name": "Hazen"
   },
-  "2020002000": {
-    "name": "Alpha Wolf"
+  "3020010000": {
+    "name": "Will"
   },
-  "2020003000": {
-    "name": "Storm Rabbit"
+  "3020011000": {
+    "name": "Petra"
   },
-  "2020004000": {
-    "name": "Hornbird"
+  "3020012000": {
+    "name": "Jasmine"
   },
-  "2020005000": {
-    "name": "Magma Golem"
+  "3020013000": {
+    "name": "Walder"
   },
-  "2020006000": {
-    "name": "Spearsting"
+  "3020014000": {
+    "name": "Richard"
   },
-  "2020007000": {
-    "name": "Lavavian"
+  "3020015000": {
+    "name": "Tanya"
   },
-  "2020008000": {
-    "name": "Wind Elemental"
+  "3020016000": {
+    "name": "Mary"
   },
-  "2020009000": {
-    "name": "Skeleton"
+  "3020017000": {
+    "name": "Zehek"
   },
-  "2020010000": {
-    "name": "Dragonflair"
+  "3020018000": {
+    "name": "Rosamia"
   },
-  "2020011000": {
-    "name": "Crusher"
+  "3020019000": {
+    "name": "Stan"
   },
-  "2020012000": {
-    "name": "Minotaur"
+  "3020020000": {
+    "name": "Feather"
   },
-  "2020013000": {
-    "name": "Mandrake"
+  "3020021000": {
+    "name": "Anna (Summer)"
   },
-  "2020014000": {
-    "name": "Sleepyhead"
+  "3020022000": {
+    "name": "Walder (Summer)"
   },
-  "2020015000": {
-    "name": "Angelie"
+  "3020023000": {
+    "name": "Mary (Summer)"
   },
-  "2020016000": {
-    "name": "Jawfish"
+  "3020024000": {
+    "name": "Daetta"
   },
-  "2020017000": {
-    "name": "Swordshark"
+  "3020025000": {
+    "name": "Elmelaura"
   },
-  "2020018000": {
-    "name": "Fire Elemental"
+  "3020026000": {
+    "name": "Leonora"
   },
-  "2020019000": {
-    "name": "Water Elemental"
+  "3020027000": {
+    "name": "Garma"
   },
-  "2020020000": {
-    "name": "Earth Elemental"
+  "3020028000": {
+    "name": "Walder (Holiday)"
   },
-  "2020021000": {
-    "name": "Angel Queen"
+  "3020029000": {
+    "name": "Suframare"
   },
-  "2020022000": {
-    "name": "Cave Bat"
+  "3020030000": {
+    "name": "Yodarha"
   },
-  "2020023000": {
-    "name": "Rivacuda"
+  "3020031000": {
+    "name": "Lowain"
   },
-  "2020024000": {
-    "name": "Lumacie Griffin"
+  "3020032000": {
+    "name": "Camieux"
   },
-  "2020025000": {
-    "name": "Venom Lancer"
+  "3020033000": {
+    "name": "Norcel"
   },
-  "2020026000": {
-    "name": "Rodfly"
+  "3020034000": {
+    "name": "Barawa"
   },
-  "2020027000": {
-    "name": "Walking Torch"
+  "3020035000": {
+    "name": "Krugne"
   },
-  "2020028000": {
-    "name": "Slime"
+  "3020036000": {
+    "name": "Karva"
   },
-  "2020029000": {
-    "name": "Imp"
+  "3020037000": {
+    "name": "Vanzza"
   },
-  "2020030000": {
-    "name": "Bonethorn"
+  "3020038000": {
+    "name": "Ippatsu"
   },
-  "2020031000": {
-    "name": "Twilight Devil"
+  "3020039000": {
+    "name": "Philosophia"
   },
-  "2020032000": {
-    "name": "Purgatorian"
+  "3020040000": {
+    "name": "Joel"
   },
-  "2020033000": {
-    "name": "Belle"
+  "3020041000": {
+    "name": "Lowain (Summer)"
   },
-  "2020034000": {
-    "name": "Ghost Light"
+  "3020043000": {
+    "name": "Karteira"
   },
-  "2020035000": {
-    "name": "Crawler"
+  "3020044000": {
+    "name": "Dante"
   },
-  "2030000000": {
-    "name": "Tiamat (Summon)"
+  "3020045000": {
+    "name": "Pavidus"
   },
-  "2030001000": {
-    "name": "Colossus (Summon)"
+  "3020046000": {
+    "name": "Viceroy"
   },
-  "2030002000": {
-    "name": "Proto Bahamut"
+  "3020047000": {
+    "name": "Camieux (Earth)"
   },
-  "2030003000": {
-    "name": "Griffin"
+  "3020048000": {
+    "name": "Bridgette"
   },
-  "2030005000": {
-    "name": "Golem"
+  "3020049000": {
+    "name": "Flesselles"
   },
-  "2030006000": {
-    "name": "Hydra"
+  "3020050000": {
+    "name": "Lunalu"
   },
-  "2030007000": {
-    "name": "Wyvern"
+  "3020051000": {
+    "name": "Nene"
   },
-  "2030008000": {
-    "name": "Myconid"
+  "3020052000": {
+    "name": "Lamretta (R)"
   },
-  "2030009000": {
-    "name": "Hellhound"
+  "3020053000": {
+    "name": "Alistair"
   },
-  "2030010000": {
-    "name": "Doomworm"
+  "3020054000": {
+    "name": "Vermeil"
   },
-  "2030011000": {
-    "name": "Leviathan"
+  "3020055000": {
+    "name": "Balurga"
   },
-  "2030012000": {
-    "name": "Basilisk"
+  "3020056000": {
+    "name": "Thelonim"
   },
-  "2030013000": {
-    "name": "Machina Soldier MK II"
+  "3020057000": {
+    "name": "Rosine"
   },
-  "2030015000": {
-    "name": "Yggdrasil (Summon)"
+  "3020058000": {
+    "name": "La Coiffe"
   },
-  "2030016000": {
-    "name": "Peridot Carbuncle"
+  "3020059000": {
+    "name": "Chloe"
   },
-  "2030017000": {
-    "name": "Archangel Queen"
+  "3020060000": {
+    "name": "Ippatsu (Summer)"
   },
-  "2030018000": {
-    "name": "Hitodama"
+  "3020061000": {
+    "name": "Lunalu (Summer)"
   },
-  "2030019000": {
-    "name": "Wilinus Icewyrm"
+  "3020062000": {
+    "name": "Cailana"
   },
-  "2030020000": {
-    "name": "Elmenhilde Windsprite"
+  "3020063000": {
+    "name": "Drusilla"
   },
-  "2030021000": {
-    "name": "Aquamarine Carbuncle"
+  "3020064000": {
+    "name": "Cordelia"
   },
-  "2030022000": {
-    "name": "Vrazarek Firewyrm"
+  "3020066000": {
+    "name": "Bakura"
   },
-  "2030023000": {
-    "name": "Stone Golem"
+  "3020070000": {
+    "name": "Randall"
   },
-  "2030024000": {
-    "name": "Zircon Carbuncle"
+  "3020071000": {
+    "name": "Spinnah"
   },
-  "2030025000": {
-    "name": "Ruination Gargoyle"
+  "3020072000": {
+    "name": "Young Cat (Event)"
   },
-  "2030026000": {
-    "name": "White Rabbit"
+  "3020073000": {
+    "name": "Vikala (Event)"
   },
-  "2030028000": {
-    "name": "Pixie"
+  "3020074000": {
+    "name": "Catura (Event)"
   },
-  "2030029000": {
-    "name": "Anneliefe"
+  "3030000000": {
+    "name": "Naoise (Promo)"
   },
-  "2030031000": {
-    "name": "Garnet Carbuncle"
+  "3030001000": {
+    "name": "Therese (Event)"
   },
-  "2030032000": {
-    "name": "Luminiera"
+  "3030002000": {
+    "name": "Mishra"
   },
-  "2030033000": {
-    "name": "Elusious Windwyrm"
+  "3030003000": {
+    "name": "Alec"
   },
-  "2030034000": {
-    "name": "Angelie Cascade"
+  "3030004000": {
+    "name": "Helnar"
   },
-  "2030039000": {
-    "name": "Onyx Carbuncle"
+  "3030005000": {
+    "name": "Katalina"
   },
-  "2030040000": {
-    "name": "Nopal"
+  "3030006000": {
+    "name": "Io"
   },
-  "2030041000": {
-    "name": "Celeste"
+  "3030007000": {
+    "name": "Eugen"
   },
-  "2030042000": {
-    "name": "Opal Carbuncle"
+  "3030008000": {
+    "name": "Rackam"
   },
-  "2030051000": {
-    "name": "Belle Sylphid"
+  "3030009000": {
+    "name": "Gayne"
   },
-  "2030062000": {
-    "name": "Tiamat Alter"
+  "3030010000": {
+    "name": "Rosetta"
   },
-  "2030063000": {
-    "name": "Colossus Alter"
+  "3030011000": {
+    "name": "Abby (Promo)"
   },
-  "2030064000": {
-    "name": "Leviathan Alter"
+  "3030012000": {
+    "name": "Ange"
   },
-  "2030065000": {
-    "name": "Yggdrasil Alter"
+  "3030013000": {
+    "name": "Lamretta"
   },
-  "2030066000": {
-    "name": "Luminiera Alter"
+  "3030014000": {
+    "name": "Ulamnuran"
   },
-  "2030067000": {
-    "name": "Celeste Alter"
+  "3030015000": {
+    "name": "Aliza (Event)"
   },
-  "2030068000": {
-    "name": "Diantha (Summon)"
+  "3030016000": {
+    "name": "Jessica (Event)"
   },
-  "2030069000": {
-    "name": "Linaria"
+  "3030017000": {
+    "name": "Danua"
   },
-  "2030070000": {
-    "name": "Harie"
+  "3030018000": {
+    "name": "Sutera"
   },
-  "2030071000": {
-    "name": "Canna"
+  "3030019000": {
+    "name": "Vira"
   },
-  "2030072000": {
-    "name": "Diola"
+  "3030020000": {
+    "name": "Soriz"
   },
-  "2030073000": {
-    "name": "Ruby Carbuncle"
+  "3030021000": {
+    "name": "Sara (Event)"
   },
-  "2030074000": {
-    "name": "Sapphire Carbuncle"
+  "3030022000": {
+    "name": "Jin (Event)"
   },
-  "2030075000": {
-    "name": "Amber Carbuncle"
+  "3030023000": {
+    "name": "Elmott"
   },
-  "2030076000": {
-    "name": "Jade Carbuncle"
+  "3030024000": {
+    "name": "Keehar"
   },
-  "2030077000": {
-    "name": "Moonlight Carbuncle"
+  "3030025000": {
+    "name": "Elta"
   },
-  "2030078000": {
-    "name": "Obsidian Carbuncle"
+  "3030026000": {
+    "name": "Selfira (Event)"
   },
-  "2030079000": {
-    "name": "Black Rabbit"
+  "3030027000": {
+    "name": "Ezecrain"
   },
-  "2030080000": {
-    "name": "Clay Golem"
+  "3030028000": {
+    "name": "Sig (Event)"
   },
-  "2030081000": {
-    "name": "Justice (SR)"
+  "3030029000": {
+    "name": "Katalina (Summer)"
   },
-  "2030085000": {
-    "name": "The Hanged Man (SR)"
+  "3030030000": {
+    "name": "Jessica (Summer)"
   },
-  "2030089000": {
-    "name": "Death (SR)"
+  "3030031000": {
+    "name": "Helnar (Summer)"
   },
-  "2030093000": {
-    "name": "Temperance (SR)"
+  "3030032000": {
+    "name": "Ferry"
   },
-  "2030097000": {
-    "name": "The Devil (SR)"
+  "3030033000": {
+    "name": "Lucius"
   },
-  "2030101000": {
-    "name": "The Tower (SR)"
+  "3030034000": {
+    "name": "Teena"
   },
-  "2030105000": {
-    "name": "The Star (SR)"
+  "3030035000": {
+    "name": "Feena (Event)"
   },
-  "2030109000": {
-    "name": "The Moon (SR)"
+  "3030036000": {
+    "name": "Arusha"
   },
-  "2030113000": {
-    "name": "The Sun (SR)"
+  "3030037000": {
+    "name": "Farrah (SR)"
   },
-  "2030117000": {
-    "name": "Judgement (SR)"
+  "3030038000": {
+    "name": "Juri (Event)"
   },
-  "2040001000": {
-    "name": "Satan"
+  "3030039000": {
+    "name": "Noa"
   },
-  "2040002000": {
-    "name": "Macula Marius (Summon)"
+  "3030040000": {
+    "name": "Uzuki Shimamura"
   },
-  "2040003000": {
-    "name": "Bahamut"
+  "3030041000": {
+    "name": "Rin Shibuya"
   },
-  "2040004000": {
-    "name": "Vortex Dragon"
+  "3030042000": {
+    "name": "Ange (Halloween)"
   },
-  "2040005000": {
-    "name": "Dark Angel Olivia"
+  "3030043000": {
+    "name": "Mimlemel"
   },
-  "2040006000": {
-    "name": "Anat"
+  "3030044000": {
+    "name": "Aster (Event)"
   },
-  "2040007000": {
-    "name": "Grani"
+  "3030045000": {
+    "name": "Mariah"
   },
-  "2040008000": {
-    "name": "Phoenix"
+  "3030046000": {
+    "name": "Carren"
   },
-  "2040009000": {
-    "name": "Quetzalcoatl"
+  "3030047000": {
+    "name": "Vane (Event)"
   },
-  "2040010000": {
-    "name": "Cocytus"
+  "3030048000": {
+    "name": "Rackam (Holiday)"
   },
-  "2040011000": {
-    "name": "Nephthys"
+  "3030049000": {
+    "name": "Rosamia (SR)"
   },
-  "2040012000": {
-    "name": "Lich (Summon)"
+  "3030050000": {
+    "name": "Johann (Event)"
   },
-  "2040013000": {
-    "name": "Baal (Summon)"
+  "3030051000": {
+    "name": "Mika Jougasaki"
   },
-  "2040014000": {
-    "name": "Vohu Manah"
+  "3030052000": {
+    "name": "Mio Honda"
   },
-  "2040015000": {
-    "name": "Manawydan"
+  "3030053000": {
+    "name": "Baotorda"
   },
-  "2040016000": {
-    "name": "Ifrit"
+  "3030054000": {
+    "name": "Rita"
   },
-  "2040017000": {
-    "name": "Siren"
+  "3030055000": {
+    "name": "Ladiva"
   },
-  "2040018000": {
-    "name": "Midgardsormr"
+  "3030056000": {
+    "name": "Volenna (Event)"
   },
-  "2040019000": {
-    "name": "Behemoth"
+  "3030057000": {
+    "name": "Claudia"
   },
-  "2040020000": {
-    "name": "Tiamat Omega"
+  "3030058000": {
+    "name": "Dorothy"
   },
-  "2040021000": {
-    "name": "Athena (Summon)"
+  "3030059000": {
+    "name": "Zaja"
   },
-  "2040022000": {
-    "name": "Grendel"
+  "3030060000": {
+    "name": "Zehek (Event)"
   },
-  "2040023000": {
-    "name": "Apollo"
+  "3030061000": {
+    "name": "Ejaeli"
   },
-  "2040024000": {
-    "name": "Albacore"
+  "3030062000": {
+    "name": "Therese"
   },
-  "2040025000": {
-    "name": "Cait Sith"
+  "3030063000": {
+    "name": "Sarya (Event)"
   },
-  "2040026000": {
-    "name": "Gugalanna"
+  "3030064000": {
+    "name": "Milleore"
   },
-  "2040027000": {
-    "name": "Yggdrasil Omega"
+  "3030065000": {
+    "name": "Amira (Promo)"
   },
-  "2040028000": {
-    "name": "Leviathan Omega"
+  "3030066000": {
+    "name": "Hazen (SR)"
   },
-  "2040029000": {
-    "name": "Odin"
+  "3030067000": {
+    "name": "Syr (Event)"
   },
-  "2040030000": {
-    "name": "Hekatonkheir"
+  "3030068000": {
+    "name": "Mary (SR)"
   },
-  "2040031000": {
-    "name": "Sagittarius"
+  "3030069000": {
+    "name": "Mizuki Kawashima"
   },
-  "2040032000": {
-    "name": "Cerberus (Summon)"
+  "3030070000": {
+    "name": "Miku Maekawa"
   },
-  "2040033000": {
-    "name": "Oceanus"
+  "3030071000": {
+    "name": "Anzu Futaba"
   },
-  "2040034000": {
-    "name": "Colossus Omega"
+  "3030072000": {
+    "name": "Lecia"
   },
-  "2040035000": {
-    "name": "Allosaurus"
+  "3030073000": {
+    "name": "Pengy (Event)"
   },
-  "2040036000": {
-    "name": "Cybele"
+  "3030074000": {
+    "name": "Ceylan (Event)"
   },
-  "2040037000": {
-    "name": "Poseidon (Summon)"
+  "3030075000": {
+    "name": "J.J."
   },
-  "2040038000": {
-    "name": "Brunnhilde"
+  "3030076000": {
+    "name": "Sahli Lao"
   },
-  "2040039000": {
-    "name": "Mithra"
+  "3030077000": {
+    "name": "Romeo (Event)"
   },
-  "2040041000": {
-    "name": "Jack-o&#039;-Lantern"
+  "3030078000": {
+    "name": "Feather (SR)"
   },
-  "2040042000": {
-    "name": "Nezha (Summon)"
+  "3030079000": {
+    "name": "Robomi (Event)"
   },
-  "2040043000": {
-    "name": "Marduk"
+  "3030080000": {
+    "name": "Milla Maxwell"
   },
-  "2040044000": {
-    "name": "Corow"
+  "3030081000": {
+    "name": "Yuri Lowell"
   },
-  "2040045000": {
-    "name": "Audumbla"
+  "3030082000": {
+    "name": "Sophie"
   },
-  "2040046000": {
-    "name": "Celeste Omega"
+  "3030083000": {
+    "name": "Elmott (Summer)"
   },
-  "2040047000": {
-    "name": "Luminiera Omega"
+  "3030084000": {
+    "name": "Tanya (Summer)"
   },
-  "2040048000": {
-    "name": "Sylph (Summon)"
+  "3030085000": {
+    "name": "Eugen (Summer)"
   },
-  "2040049000": {
-    "name": "Fenrir"
+  "3030086000": {
+    "name": "Jin (Ronin)"
   },
-  "2040050000": {
-    "name": "Mahisha"
+  "3030087000": {
+    "name": "Lecia (Summer)"
   },
-  "2040053000": {
-    "name": "Satyr (Summon)"
+  "3030088000": {
+    "name": "Rika Jougasaki"
   },
-  "2040055000": {
-    "name": "Wind God and Thunder God"
+  "3030089000": {
+    "name": "Kanako Mimura"
   },
-  "2040056000": {
-    "name": "Lucifer"
+  "3030090000": {
+    "name": "Koume Shirasaka"
   },
-  "2040057000": {
-    "name": "Ranko Kanzaki (Summon)"
+  "3030091000": {
+    "name": "Suframare (Summer)"
   },
-  "2040058000": {
-    "name": "Kirari Moroboshi"
+  "3030092000": {
+    "name": "Will (SR)"
   },
-  "2040059000": {
-    "name": "Medusa (Summon)"
+  "3030093000": {
+    "name": "Malinda (Event)"
   },
-  "2040060000": {
-    "name": "Branwen"
+  "3030094000": {
+    "name": "Galadar (SR)"
   },
-  "2040062000": {
-    "name": "Diablo"
+  "3030095000": {
+    "name": "Anna (SR)"
   },
-  "2040063000": {
-    "name": "Twin Elements"
+  "3030096000": {
+    "name": "Naoise (Event)"
   },
-  "2040064000": {
-    "name": "Magus (Summon)"
+  "3030097000": {
+    "name": "Teru Tendo"
   },
-  "2040065000": {
-    "name": "Grand Order"
+  "3030098000": {
+    "name": "Kaoru Sakuraba"
   },
-  "2040067000": {
-    "name": "Mammon"
+  "3030099000": {
+    "name": "Tsubasa Kashiwagi"
   },
-  "2040069000": {
-    "name": "Neptune"
+  "3030100000": {
+    "name": "Goblin Mage"
   },
-  "2040071000": {
-    "name": "Garuda"
+  "3030101000": {
+    "name": "Ferry (Halloween)"
   },
-  "2040072000": {
-    "name": "Avaritia"
+  "3030102000": {
+    "name": "Jasmine (SR)"
   },
-  "2040073000": {
-    "name": "Kirari"
+  "3030103000": {
+    "name": "Farrah (Event)"
   },
-  "2040076000": {
-    "name": "Oxymoron"
+  "3030104000": {
+    "name": "Ryu"
   },
-  "2040080000": {
-    "name": "Zeus"
+  "3030105000": {
+    "name": "Chun-Li"
   },
-  "2040081000": {
-    "name": "Robomi Rocket"
+  "3030106000": {
+    "name": "Sig"
   },
-  "2040084000": {
-    "name": "Titan"
+  "3030107000": {
+    "name": "Vane"
   },
-  "2040085000": {
-    "name": "Ebisu"
+  "3030108000": {
+    "name": "Lancelot (Event)"
   },
-  "2040086000": {
-    "name": "Inchoate World"
+  "3030109000": {
+    "name": "Ladiva (Holiday)"
   },
-  "2040090000": {
-    "name": "Hades"
+  "3030110000": {
+    "name": "Anila (Event)"
   },
-  "2040091000": {
-    "name": "Veselago"
+  "3030111000": {
+    "name": "Yaia"
   },
-  "2040094000": {
-    "name": "Agni"
+  "3030112000": {
+    "name": "Skull (Event)"
   },
-  "2040095000": {
-    "name": "Deirdre"
+  "3030113000": {
+    "name": "Sutera (Fire)"
   },
-  "2040096000": {
-    "name": "Pierre"
+  "3030114000": {
+    "name": "Lina"
   },
-  "2040097000": {
-    "name": "Harvest Myconid"
+  "3030115000": {
+    "name": "Naga"
   },
-  "2040098000": {
-    "name": "Zephyrus"
+  "3030116000": {
+    "name": "Daetta (SR)"
   },
-  "2040099000": {
-    "name": "Fafnir"
+  "3030117000": {
+    "name": "Soriz (Event)"
   },
-  "2040100000": {
-    "name": "Varuna"
+  "3030118000": {
+    "name": "Sevilbarra"
   },
-  "2040105000": {
-    "name": "Rose Queen"
+  "3030119000": {
+    "name": "Ryan (SR)"
   },
-  "2040109000": {
-    "name": "Illuyanka"
+  "3030120000": {
+    "name": "Sachiko Koshimizu"
   },
-  "2040113000": {
-    "name": "Odajumoki Gang"
+  "3030121000": {
+    "name": "Airi Totoki"
   },
-  "2040114000": {
-    "name": "Kaguya (Summon)"
+  "3030122000": {
+    "name": "Redluck"
   },
-  "2040115000": {
-    "name": "Joya"
+  "3030123000": {
+    "name": "Lowain (Event)"
   },
-  "2040122000": {
-    "name": "Morrigna (Summon)"
+  "3030124000": {
+    "name": "Shao"
   },
-  "2040123000": {
-    "name": "King Krustacea"
+  "3030125000": {
+    "name": "Karin"
   },
-  "2040124000": {
-    "name": "Ti Icniuhtli Xolotl"
+  "3030126000": {
+    "name": "Rashid"
   },
-  "2040125000": {
-    "name": "Prometheus"
+  "3030127000": {
+    "name": "Sen"
   },
-  "2040129000": {
-    "name": "Lady Katapillar"
+  "3030128000": {
+    "name": "Eso (SR)"
   },
-  "2040130000": {
-    "name": "Gilgamesh"
+  "3030129000": {
+    "name": "Stan (Event)"
   },
-  "2040131000": {
-    "name": "Bahamut Unchained"
+  "3030130000": {
+    "name": "Sakura Shinguji"
   },
-  "2040133000": {
-    "name": "Druj"
+  "3030131000": {
+    "name": "Erica Fontaine"
   },
-  "2040134000": {
-    "name": "Anubis"
+  "3030132000": {
+    "name": "Gemini Sunrise"
   },
-  "2040141000": {
-    "name": "Queen Bee"
+  "3030133000": {
+    "name": "Laguna"
   },
-  "2040142000": {
-    "name": "Ikelos"
+  "3030134000": {
+    "name": "Jamil"
   },
-  "2040144000": {
-    "name": "Hector"
+  "3030135000": {
+    "name": "Morphe and Phoebe (Event)"
   },
-  "2040157000": {
-    "name": "Huanglong"
+  "3030136000": {
+    "name": "Stahn Aileron"
   },
-  "2040158000": {
-    "name": "Qilin"
+  "3030137000": {
+    "name": "Tear Grants"
   },
-  "2040159000": {
-    "name": "Super Robo Gigantes"
+  "3030138000": {
+    "name": "Elize Lutus"
   },
-  "2040160000": {
-    "name": "Ca Ong"
+  "3030139000": {
+    "name": "Almeida"
   },
-  "2040167000": {
-    "name": "Bonito"
+  "3030140000": {
+    "name": "Johann"
   },
-  "2040168000": {
-    "name": "Custos Citrullus"
+  "3030141000": {
+    "name": "Nicholas (Event)"
   },
-  "2040170000": {
-    "name": "Milia"
+  "3030142000": {
+    "name": "Novei"
   },
-  "2040171000": {
-    "name": "Sethlans"
+  "3030143000": {
+    "name": "Augusta"
   },
-  "2040172000": {
-    "name": "Treant"
+  "3030144000": {
+    "name": "Robertina (Promo)"
   },
-  "2040173000": {
-    "name": "Tezcatlipoca"
+  "3030145000": {
+    "name": "Pamela"
   },
-  "2040175000": {
-    "name": "Verona Heart"
+  "3030146000": {
+    "name": "Cecile"
   },
-  "2040177000": {
-    "name": "Setekh"
+  "3030147000": {
+    "name": "Sara (Summer)"
   },
-  "2040178000": {
-    "name": "Grueler"
+  "3030149000": {
+    "name": "J.J. (Summer)"
   },
-  "2040180000": {
-    "name": "Typhon"
+  "3030150000": {
+    "name": "Diantha (Promo)"
   },
-  "2040181000": {
-    "name": "Dragon Knights"
+  "3030151000": {
+    "name": "Jin (Wind)"
   },
-  "2040184000": {
-    "name": "Blue Orbit"
+  "3030152000": {
+    "name": "Camieux (Summer)"
   },
-  "2040185000": {
-    "name": "Shiva (Summon)"
+  "3030153000": {
+    "name": "Pengy"
   },
-  "2040188000": {
-    "name": "Thor"
+  "3030154000": {
+    "name": "Barawa (Event)"
   },
-  "2040189000": {
-    "name": "Levin Sisters (Summon)"
+  "3030155000": {
+    "name": "Cucouroux"
   },
-  "2040192000": {
-    "name": "Bellringer Angel"
+  "3030156000": {
+    "name": "Dante (SR)"
   },
-  "2040195000": {
-    "name": "Sandalphon (Summon)"
+  "3030157000": {
+    "name": "Paris (Event)"
   },
-  "2040198000": {
-    "name": "Dark Flame Scion"
+  "3030159000": {
+    "name": "Jessica"
   },
-  "2040199000": {
-    "name": "Seraphim Cradle"
+  "3030160000": {
+    "name": "Anastasia"
   },
-  "2040202000": {
-    "name": "Raphael (Summon)"
+  "3030161000": {
+    "name": "Miria Akagi"
   },
-  "2040203000": {
-    "name": "Uriel (Summon)"
+  "3030162000": {
+    "name": "Ranko Kanzaki"
   },
-  "2040205000": {
-    "name": "Godsworn Alexiel"
+  "3030163000": {
+    "name": "Beatrix (Halloween)"
   },
-  "2040207000": {
-    "name": "H.P.A."
+  "3030164000": {
+    "name": "Erin"
   },
-  "2040211000": {
-    "name": "Super Cute Genius Alchemist"
+  "3030165000": {
+    "name": "Lily (Event)"
   },
-  "2040212000": {
-    "name": "Nacht"
+  "3030166000": {
+    "name": "Mimlemel and Stumpeye"
   },
-  "2040214000": {
-    "name": "Lumiel Gourmet"
+  "3030167000": {
+    "name": "Tanya (SR)"
   },
-  "2040216000": {
-    "name": "Aphrodite"
+  "3030168000": {
+    "name": "Percival (Event)"
   },
-  "2040219000": {
-    "name": "Forest Ranger"
+  "3030169000": {
+    "name": "Sen (Holiday)"
   },
-  "2040221000": {
-    "name": "Garula, Shining Hawk"
+  "3030170000": {
+    "name": "Andira (Event)"
   },
-  "2040224000": {
-    "name": "Urkin"
+  "3030171000": {
+    "name": "Lucius (Fire)"
   },
-  "2040225000": {
-    "name": "Europa (Summon)"
+  "3030172000": {
+    "name": "Meteon (Event)"
   },
-  "2040228000": {
-    "name": "Lonesome Dragoness (Summon)"
+  "3030173000": {
+    "name": "Haohmaru"
   },
-  "2040229000": {
-    "name": "Zaoshen"
+  "3030174000": {
+    "name": "Nakoruru"
   },
-  "2040232000": {
-    "name": "Sharom"
+  "3030175000": {
+    "name": "Herja (SR)"
   },
-  "2040233000": {
-    "name": "Ankusha"
+  "3030176000": {
+    "name": "Mina"
   },
-  "2040234000": {
-    "name": "Kero-chan"
+  "3030177000": {
+    "name": "Albert (Event)"
   },
-  "2040236000": {
-    "name": "Justice (SSR)"
+  "3030178000": {
+    "name": "Jin (Summer)"
   },
-  "2040237000": {
-    "name": "The Hanged Man (SSR)"
+  "3030179000": {
+    "name": "Arisa"
   },
-  "2040238000": {
-    "name": "Death (SSR)"
+  "3030180000": {
+    "name": "Luna"
   },
-  "2040239000": {
-    "name": "Temperance (SSR)"
+  "3030181000": {
+    "name": "Tyre"
   },
-  "2040240000": {
-    "name": "The Devil (SSR)"
+  "3030182000": {
+    "name": "Lyria (Event)"
   },
-  "2040241000": {
-    "name": "The Tower (SSR)"
+  "3030183000": {
+    "name": "Vermeil (SR)"
   },
-  "2040242000": {
-    "name": "The Star (SSR)"
+  "3030184000": {
+    "name": "Cain"
   },
-  "2040243000": {
-    "name": "The Moon (SSR)"
+  "3030185000": {
+    "name": "Ludmila"
   },
-  "2040244000": {
-    "name": "The Sun (SSR)"
+  "3030186000": {
+    "name": "Lamretta (Water)"
   },
-  "2040245000": {
-    "name": "Judgement (SSR)"
+  "3030187000": {
+    "name": "Sutera (Event)"
   },
-  "2040248000": {
-    "name": "Sapphire Dance: Gentiana"
+  "3030188000": {
+    "name": "Deliford (SR)"
   },
-  "2040249000": {
-    "name": "Snow White"
+  "3030189000": {
+    "name": "Cagliostro (Event)"
   },
-  "2040252000": {
-    "name": "Knight of Knights"
+  "3030190000": {
+    "name": "Predator"
   },
-  "2040253000": {
-    "name": "Adramelech"
+  "3030191000": {
+    "name": "Sevastien"
   },
-  "2040255000": {
-    "name": "Eren"
+  "3030192000": {
+    "name": "Charlotta (Event)"
   },
-  "2040259000": {
-    "name": "Crimson Spear, Ebony Scythe"
+  "3030193000": {
+    "name": "Minami Nitta"
   },
-  "2040261000": {
-    "name": "Grimnir (Summon)"
+  "3030194000": {
+    "name": "Shiki Ichinose"
   },
-  "2040263000": {
-    "name": "Tsukuyomi"
+  "3030195000": {
+    "name": "Jeanne d&#039;Arc (SR)"
   },
-  "2040269000": {
-    "name": "Demi Agni"
+  "3030196000": {
+    "name": "Jamil (Dark)"
   },
-  "2040270000": {
-    "name": "Demi Varuna"
+  "3030197000": {
+    "name": "Walder (Event)"
   },
-  "2040271000": {
-    "name": "Demi Titan"
+  "3030198000": {
+    "name": "Charlotta (Summer)"
   },
-  "2040272000": {
-    "name": "Demi Zephyrus"
+  "3030199000": {
+    "name": "Ayer (Summer)"
   },
-  "2040273000": {
-    "name": "Demi Zeus"
+  "3030200000": {
+    "name": "Carren (Event)"
   },
-  "2040274000": {
-    "name": "Demi Hades"
+  "3030201000": {
+    "name": "Ghandagoza (Summer)"
   },
-  "2040275000": {
-    "name": "Halluel and Malluel (Summon)"
+  "3030202000": {
+    "name": "Chloe (Summer)"
   },
-  "2040279000": {
-    "name": "Gigante Blazer"
+  "3030203000": {
+    "name": "Blazing Teacher Elmott"
   },
-  "2040281000": {
-    "name": "Freyr (Summon)"
+  "3030204000": {
+    "name": "Grea (Event)"
   },
-  "2040282000": {
-    "name": "Unrivaled Fighter"
+  "3030205000": {
+    "name": "Izuminokami Kanesada"
   },
-  "2040285000": {
-    "name": "Gorilla"
+  "3030206000": {
+    "name": "Yamanbagiri Kunihiro"
   },
-  "2040286000": {
-    "name": "Lunalu (Summon)"
+  "3030207000": {
+    "name": "Owen"
   },
-  "2040288000": {
-    "name": "Morgana Car"
+  "3030208000": {
+    "name": "Reinhardtzar"
   },
-  "2040290000": {
-    "name": "Nobiyo"
+  "3030209000": {
+    "name": "Sarya"
   },
-  "2040291000": {
-    "name": "Narita"
+  "3030210000": {
+    "name": "Ezecrain (Event)"
   },
-  "2040292000": {
-    "name": "Electric Eal"
+  "3030220000": {
+    "name": "Mimlemel and Pun-Kin (Halloween)"
   },
-  "2040293000": {
-    "name": "Macula Marius (Summer)"
+  "3030221000": {
+    "name": "Vania (SR)"
   },
-  "2040294000": {
-    "name": "JEHUTY"
+  "3030222000": {
+    "name": "Karteira (SR)"
   },
-  "2040295000": {
-    "name": "Gearcycle"
+  "3030223000": {
+    "name": "Yuel (Event)"
   },
-  "2040296000": {
-    "name": "Hamsa"
+  "3030224000": {
+    "name": "Mirin"
   },
-  "2040297000": {
-    "name": "Anat, for Love and War"
+  "3030225000": {
+    "name": "Sophia (SR)"
   },
-  "2040298000": {
-    "name": "H.D. Mining Excavator"
+  "3030226000": {
+    "name": "Arthur (Event)"
   },
-  "2040299000": {
-    "name": "Mepple and Mipple"
+  "3030227000": {
+    "name": "Mikasa"
   },
-  "2040300000": {
-    "name": "Vane&#039;s Cooking"
+  "3030228000": {
+    "name": "Feena (Holiday)"
   },
-  "2040301000": {
-    "name": "Krelkulkil"
+  "3030229000": {
+    "name": "Mahira (Event)"
   },
-  "2040302000": {
-    "name": "Poseidon, the Tide Father"
+  "3030230000": {
+    "name": "Karva (SR)"
   },
-  "2040303000": {
-    "name": "Princess Knight"
+  "3030231000": {
+    "name": "Zeta (Event)"
   },
-  "2040304000": {
-    "name": "Sylph, Flutterspirit of Purity"
+  "3030232000": {
+    "name": "Ippatsu (SR)"
   },
-  "2040305000": {
-    "name": "Cerberus, Hellhound Trifecta"
+  "3030233000": {
+    "name": "Zooey (Event)"
   },
-  "2040306000": {
-    "name": "Michael (Summon)"
+  "3030234000": {
+    "name": "Randall (SR)"
   },
-  "2040309000": {
-    "name": "Flamek Pact"
+  "3030235000": {
+    "name": "Narmaya (Valentine)"
   },
-  "2040310000": {
-    "name": "Magus, Triad of Wisdom"
+  "3030236000": {
+    "name": "Teena (Valentine)"
   },
-  "2040311000": {
-    "name": "Gabriel (Summon)"
+  "3030237000": {
+    "name": "Nezahualpilli (SR)"
   },
-  "2040312000": {
-    "name": "Cat Parade"
+  "3030238000": {
+    "name": "Tōru Amuro"
   },
-  "2040323000": {
-    "name": "Marduk, Battlefield Reaper"
+  "3030239000": {
+    "name": "Barawa (SR)"
   },
-  "2040324000": {
-    "name": "Dragon&#039;s Rage"
+  "3030240000": {
+    "name": "Carmelina (SR)"
   },
-  "2040325000": {
-    "name": "Delinquent Spirit"
+  "3030241000": {
+    "name": "Leona"
   },
-  "2040326000": {
-    "name": "Demonbream"
+  "3030242000": {
+    "name": "Aliza (Water)"
   },
-  "2040327000": {
-    "name": "Sariel (Summon)"
+  "3030243000": {
+    "name": "Vanzza (SR)"
   },
-  "2040328000": {
-    "name": "Gorgon Sisters"
+  "3030244000": {
+    "name": "Elta (Light)"
   },
-  "2040329000": {
-    "name": "From Ladiva with Love"
+  "3030245000": {
+    "name": "Yuisis (Yukata)"
   },
-  "2040330000": {
-    "name": "Metatron (Summon)"
+  "3030246000": {
+    "name": "Olivia (Event)"
   },
-  "2040331000": {
-    "name": "C.C."
+  "3030247000": {
+    "name": "Lilele (Summer)"
   },
-  "2040332000": {
-    "name": "Rainy Day"
+  "3030248000": {
+    "name": "Farrah (Summer)"
   },
-  "2040333000": {
-    "name": "Yggdrasil (Summer)"
+  "3030249000": {
+    "name": "Arulumaya (Yukata)"
   },
-  "2040334000": {
-    "name": "God Albacore"
+  "3030250000": {
+    "name": "Almeida (Summer)"
   },
-  "2040335000": {
-    "name": "Satyr (Summer)"
+  "3030251000": {
+    "name": "Cailana (SR)"
   },
-  "2040336000": {
-    "name": "Rose Queen (Summer)"
+  "3030252000": {
+    "name": "The Lowain Bros"
   },
-  "2040337000": {
-    "name": "Dancing Man"
+  "3030253000": {
+    "name": "Juri"
   },
-  "2040338000": {
-    "name": "Surtr"
+  "3030254000": {
+    "name": "Feather (Halloween)"
   },
-  "2040339000": {
-    "name": "Team Chickadee"
+  "3030255000": {
+    "name": "Arthur and Mordred"
   },
-  "2040340000": {
-    "name": "Princess Long Ji"
+  "3030256000": {
+    "name": "Rosine (SR)"
   },
-  "2040341000": {
-    "name": "Sapphire Dance: Habotan"
+  "3030257000": {
+    "name": "Razia (SR)"
   },
-  "2040342000": {
-    "name": "Dogu"
+  "3030258000": {
+    "name": "Sevilbarra (Event)"
   },
-  "2040343000": {
-    "name": "Sky Carriage SS Pew Pew"
+  "3030259000": {
+    "name": "Yaia (Holiday)"
   },
-  "2040344000": {
-    "name": "Elil"
+  "3030261000": {
+    "name": "Beatrix (SR)"
   },
-  "2040345000": {
-    "name": "Mukku"
+  "3030262000": {
+    "name": "Cassius (Event)"
   },
-  "2040347000": {
-    "name": "Belial"
+  "3030263000": {
+    "name": "Skull"
   },
-  "2040348000": {
-    "name": "Proto-Joya"
+  "3030264000": {
+    "name": "Catherine (SR)"
   },
-  "2040349000": {
-    "name": "Swinger of the Ebony Scythe"
+  "3030265000": {
+    "name": "Mirin (Light)"
   },
-  "2040350000": {
-    "name": "Heimdallr"
+  "3030266000": {
+    "name": "Korwa (SR)"
   },
-  "2040351000": {
-    "name": "The Eternal Defenders"
+  "3030267000": {
+    "name": "Richard (SR)"
   },
-  "2040352000": {
-    "name": "Nyarlathotep"
+  "3030268000": {
+    "name": "Aster"
   },
-  "2040360000": {
-    "name": "Dynamic Merc Duo"
+  "3030269000": {
+    "name": "Bridgette and Cordelia"
   },
-  "2040361000": {
-    "name": "Red Hare"
+  "3030270000": {
+    "name": "Philosophia (SR)"
   },
-  "2040362000": {
-    "name": "Silver Salvation"
+  "3030271000": {
+    "name": "Friday (Summer)"
   },
-  "2040363000": {
-    "name": "Charybdis"
+  "3030272000": {
+    "name": "Lancelot and Vane (Summer)"
   },
-  "2040364000": {
-    "name": "Golden Piña"
+  "3030273000": {
+    "name": "Cassius (Yukata)"
   },
-  "2040365000": {
-    "name": "Goregrinders"
+  "3030274000": {
+    "name": "Leona (Yukata)"
   },
-  "2040366000": {
-    "name": "Owlcat"
+  "3030275000": {
+    "name": "La Coiffe (SR)"
   },
-  "2040367000": {
-    "name": "Xeno Ifrit"
+  "3030276000": {
+    "name": "Zaja (Halloween)"
   },
-  "2040368000": {
-    "name": "Mammoth"
+  "3030277000": {
+    "name": "You (Event)"
   },
-  "2040369000": {
-    "name": "Athena (Summer)"
+  "3030278000": {
+    "name": "Krugne (SR)"
   },
-  "2040370000": {
-    "name": "Xeno Vohu Manah"
+  "3030279000": {
+    "name": "Kumbhira (Event)"
   },
-  "2040371000": {
-    "name": "Deepflight Oyster"
+  "3030280000": {
+    "name": "Joy (Event)"
   },
-  "2040373000": {
-    "name": "Colossal Hermit"
+  "3030290000": {
+    "name": "Meg (Event)"
   },
-  "2040374000": {
-    "name": "Freyr (Yukata)"
+  "3030300000": {
+    "name": "Tyre (Yukata)"
   },
-  "2040375000": {
-    "name": "Kaguya (Summer)"
+  "3030310000": {
+    "name": "Ferry (Summer)"
   },
-  "2040376000": {
-    "name": "Zhuque"
+  "3030320000": {
+    "name": "Joel (SR)"
   },
-  "2040377000": {
-    "name": "Xuanwu"
+  "3030321000": {
+    "name": "Wulf and Renie (Halloween)"
   },
-  "2040378000": {
-    "name": "Baihu"
+  "3030322000": {
+    "name": "Spinnah (Holiday)"
   },
-  "2040379000": {
-    "name": "Qinglong"
+  "3040000000": {
+    "name": "Gawain"
   },
-  "2040380000": {
-    "name": "Blessed Wedding"
+  "3040001000": {
+    "name": "Altair"
   },
-  "2040381000": {
-    "name": "Artemis"
+  "3040002000": {
+    "name": "Aletheia"
   },
-  "2040382000": {
-    "name": "Xeno Sagittarius"
+  "3040003000": {
+    "name": "Nezahualpilli"
   },
-  "2040383000": {
-    "name": "Ignis Dragon"
+  "3040004000": {
+    "name": "De La Fille"
   },
-  "2040384000": {
-    "name": "Frost Lord&#039;s Army"
+  "3040005000": {
+    "name": "Lady Grey"
   },
-  "2040385000": {
-    "name": "Zirnitra"
+  "3040006000": {
+    "name": "Yuel"
   },
-  "2040386000": {
-    "name": "Cutest Golden Statue in the Skies"
+  "3040007000": {
+    "name": "Lily"
   },
-  "2040387000": {
-    "name": "Guardian Ku-Keoloewa"
+  "3040008000": {
+    "name": "Sarunan"
   },
-  "2040388000": {
-    "name": "Sariel (Holiday)"
+  "3040009000": {
+    "name": "Cagliostro"
   },
-  "2040389000": {
-    "name": "Giyu Tomioka"
+  "3040010000": {
+    "name": "Charlotta"
   },
-  "2040390000": {
-    "name": "Xeno Corow"
+  "3040011000": {
+    "name": "Magisa"
   },
-  "2040391000": {
-    "name": "Ultra Robo Grand God Kaiser"
+  "3040012000": {
+    "name": "Metera"
   },
-  "2040392000": {
-    "name": "Tsuchinoko"
+  "3040013000": {
+    "name": "Seruel"
   },
-  "2040393000": {
-    "name": "Idle Sparkle"
+  "3040014000": {
+    "name": "De La Fille (Summer)"
   },
-  "2040394000": {
-    "name": "Automagod Triumvirate"
+  "3040015000": {
+    "name": "Io (Summer)"
   },
-  "2040395000": {
-    "name": "Xeno Cocytus"
+  "3040016000": {
+    "name": "Cerberus"
   },
-  "2040396000": {
-    "name": "Snapshot of Divinity"
+  "3040017000": {
+    "name": "Agielba"
   },
-  "2040397000": {
-    "name": "Arbiter of Lies"
+  "3040018000": {
+    "name": "Christina"
   },
-  "2040398000": {
-    "name": "Wilnas (Summon)"
+  "3040019000": {
+    "name": "Arulumaya"
   },
-  "2040399000": {
-    "name": "Xeno Diablo"
+  "3040020000": {
+    "name": "Charlotta (Halloween)"
   },
-  "2040400000": {
-    "name": "Destiny Nocturnes"
+  "3040021000": {
+    "name": "Lennah"
   },
-  "2040401000": {
-    "name": "Galleon (Summon)"
+  "3040022000": {
+    "name": "Melleau"
   },
-  "2040402000": {
-    "name": "Tiamat (Summer)"
+  "3040023000": {
+    "name": "Lancelot"
   },
-  "2040403000": {
-    "name": "Mandrake (Summer)"
+  "3040024000": {
+    "name": "Sophia"
   },
-  "2040404000": {
-    "name": "Gold Ship and Mejiro McQueen"
+  "3040025000": {
+    "name": "Siegfried"
   },
-  "2040405000": {
-    "name": "Kotaro Katsura and Elizabeth"
+  "3040026000": {
+    "name": "Rosetta (Holiday)"
   },
-  "2040406000": {
-    "name": "Ewiyar (Summon)"
+  "3040027000": {
+    "name": "Anila"
   },
-  "2040407000": {
-    "name": "Shizuka, Gian, and Suneo"
+  "3040028000": {
+    "name": "Zeta"
   },
-  "2040408000": {
-    "name": "Beelzebub"
+  "3040029000": {
+    "name": "Vaseraga"
   },
-  "2040409000": {
-    "name": "Lu Woh (Summon)"
+  "3040030000": {
+    "name": "Anre"
   },
-  "2040410000": {
-    "name": "Shantotto II"
+  "3040031000": {
+    "name": "Tweyen"
   },
-  "2040411000": {
-    "name": "Belial (Summer)"
+  "3040032000": {
+    "name": "Threo"
   },
-  "2040412000": {
-    "name": "Sleepyhead (Summer)"
+  "3040033000": {
+    "name": "Feower"
   },
-  "2040413000": {
-    "name": "Wamdus (Summon)"
+  "3040034000": {
+    "name": "Fif"
   },
-  "2040414000": {
-    "name": "Usopp, Chopper, Franky, Brook, and Jimbei"
+  "3040035000": {
+    "name": "Seox"
   },
-  "2040415000": {
-    "name": "Uta"
+  "3040036000": {
+    "name": "Seofon"
   },
-  "2040416000": {
-    "name": "Hekate (Summon)"
+  "3040037000": {
+    "name": "Eahta"
   },
-  "2040417000": {
-    "name": "Yatima"
+  "3040038000": {
+    "name": "Niyon"
   },
-  "2040418000": {
-    "name": "Fediel (Summon)"
+  "3040039000": {
+    "name": "Tien"
   },
-  "2040419000": {
-    "name": "Sanrio Characters"
+  "3040040000": {
+    "name": "Jeanne d&#039;Arc"
   },
-  "2040420000": {
-    "name": "Cerberus (Summer)"
+  "3040041000": {
+    "name": "Sara"
   },
-  "2040421000": {
-    "name": "Satoru Gojo"
+  "3040042000": {
+    "name": "Carmelina"
   },
-  "2040422000": {
-    "name": "Aoi Todo"
+  "3040043000": {
+    "name": "Vira (SSR)"
   },
-  "2040423000": {
-    "name": "Tyrannosaurus (Summer)"
+  "3040044000": {
+    "name": "Societte"
   },
-  "2040424000": {
-    "name": "Noire"
+  "3040045000": {
+    "name": "Albert"
   },
-  "2040425000": {
-    "name": "Triple Zero"
+  "3040046000": {
+    "name": "Clarisse"
   },
-  "2040426000": {
-    "name": "All Might"
+  "3040047000": {
+    "name": "Petra (SSR)"
   },
-  "2040427000": {
-    "name": "Tuna and Salmun"
+  "3040048000": {
+    "name": "Sarunan (Dark)"
+  },
+  "3040049000": {
+    "name": "Silva"
+  },
+  "3040050000": {
+    "name": "Percival"
+  },
+  "3040051000": {
+    "name": "Amira"
+  },
+  "3040052000": {
+    "name": "Ghandagoza"
+  },
+  "3040053000": {
+    "name": "Vira (Summer)"
+  },
+  "3040054000": {
+    "name": "Katalina (Grand)"
+  },
+  "3040055000": {
+    "name": "Danua (Summer)"
+  },
+  "3040056000": {
+    "name": "Zeta (Summer)"
+  },
+  "3040057000": {
+    "name": "Vania"
+  },
+  "3040058000": {
+    "name": "Arriet"
+  },
+  "3040059000": {
+    "name": "Rackam (Grand)"
+  },
+  "3040060000": {
+    "name": "Heles"
+  },
+  "3040061000": {
+    "name": "Feena"
+  },
+  "3040062000": {
+    "name": "Cagliostro (Halloween)"
+  },
+  "3040063000": {
+    "name": "Narmaya"
+  },
+  "3040064000": {
+    "name": "Yodarha (SSR)"
+  },
+  "3040065000": {
+    "name": "Io (Grand)"
+  },
+  "3040066000": {
+    "name": "Lilele"
+  },
+  "3040067000": {
+    "name": "Clarisse (Holiday)"
+  },
+  "3040068000": {
+    "name": "Rosetta (Grand)"
+  },
+  "3040069000": {
+    "name": "Eustace"
+  },
+  "3040070000": {
+    "name": "Beatrix"
+  },
+  "3040071000": {
+    "name": "Andira"
+  },
+  "3040072000": {
+    "name": "Metera (Fire)"
+  },
+  "3040073000": {
+    "name": "Ferry (SSR)"
+  },
+  "3040074000": {
+    "name": "Catherine"
+  },
+  "3040075000": {
+    "name": "Zahlhamelina"
+  },
+  "3040076000": {
+    "name": "Aoidos"
+  },
+  "3040077000": {
+    "name": "Eugen (Grand)"
+  },
+  "3040078000": {
+    "name": "Zooey (Promo)"
+  },
+  "3040079000": {
+    "name": "Hallessena"
+  },
+  "3040080000": {
+    "name": "Jeanne d&#039;Arc (Dark)"
+  },
+  "3040081000": {
+    "name": "Korwa"
+  },
+  "3040082000": {
+    "name": "Black Knight"
+  },
+  "3040083000": {
+    "name": "Aliza"
+  },
+  "3040084000": {
+    "name": "Ayer"
+  },
+  "3040085000": {
+    "name": "Nemone"
+  },
+  "3040086000": {
+    "name": "Forte"
+  },
+  "3040087000": {
+    "name": "Rosamia (SSR)"
+  },
+  "3040088000": {
+    "name": "Yngwie"
+  },
+  "3040089000": {
+    "name": "Narmaya (Summer)"
+  },
+  "3040090000": {
+    "name": "Percival (Summer)"
+  },
+  "3040091000": {
+    "name": "Heles (Summer)"
+  },
+  "3040092000": {
+    "name": "Zooey (Grand)"
+  },
+  "3040093000": {
+    "name": "Chat Noir"
+  },
+  "3040094000": {
+    "name": "Veight"
+  },
+  "3040095000": {
+    "name": "Societte (Fire)"
+  },
+  "3040096000": {
+    "name": "Juliet"
+  },
+  "3040098000": {
+    "name": "Romeo"
+  },
+  "3040099000": {
+    "name": "Eustace (Halloween)"
+  },
+  "3040100000": {
+    "name": "Izmir"
+  },
+  "3040101000": {
+    "name": "Lecia (Grand)"
+  },
+  "3040102000": {
+    "name": "Melissabelle"
+  },
+  "3040103000": {
+    "name": "Anthuria"
+  },
+  "3040104000": {
+    "name": "Arulumaya (Holiday)"
+  },
+  "3040105000": {
+    "name": "Yuisis"
+  },
+  "3040106000": {
+    "name": "Lucio"
+  },
+  "3040107000": {
+    "name": "Mahira"
+  },
+  "3040108000": {
+    "name": "Marquiares"
+  },
+  "3040109000": {
+    "name": "Razia"
+  },
+  "3040110000": {
+    "name": "Beatrix (Summer)"
+  },
+  "3040111000": {
+    "name": "Orchid (Grand)"
+  },
+  "3040112000": {
+    "name": "Zeta (Dark)"
+  },
+  "3040113000": {
+    "name": "De La Fille (Earth)"
+  },
+  "3040115000": {
+    "name": "Sturm (Grand)"
+  },
+  "3040116000": {
+    "name": "Lady Katapillar and Vira"
+  },
+  "3040117000": {
+    "name": "Vane (SSR)"
+  },
+  "3040118000": {
+    "name": "Katalina (Promo)"
+  },
+  "3040119000": {
+    "name": "Drang (Grand)"
+  },
+  "3040120000": {
+    "name": "Cagliostro (Dark)"
+  },
+  "3040121000": {
+    "name": "Clarisse (Light)"
+  },
+  "3040122000": {
+    "name": "Scathacha"
+  },
+  "3040123000": {
+    "name": "Medusa (Promo)"
+  },
+  "3040124000": {
+    "name": "Baotorda (SSR)"
+  },
+  "3040125000": {
+    "name": "Yggdrasil"
+  },
+  "3040126000": {
+    "name": "Izmir (Summer)"
+  },
+  "3040127000": {
+    "name": "Korwa (Summer)"
+  },
+  "3040128000": {
+    "name": "Siegfried (Yukata)"
+  },
+  "3040129000": {
+    "name": "Diantha (Summer)"
+  },
+  "3040130000": {
+    "name": "Grea"
+  },
+  "3040131000": {
+    "name": "Mikazuki Munechika"
+  },
+  "3040132000": {
+    "name": "Anne"
+  },
+  "3040133000": {
+    "name": "Nina Drango"
+  },
+  "3040134000": {
+    "name": "Dorothy and Claudia"
+  },
+  "3040135000": {
+    "name": "Danua (Halloween)"
+  },
+  "3040136000": {
+    "name": "Sakura Kinomoto"
+  },
+  "3040137000": {
+    "name": "Azazel"
+  },
+  "3040138000": {
+    "name": "Yuel (Water)"
+  },
+  "3040140000": {
+    "name": "Lancelot (Wind)"
+  },
+  "3040141000": {
+    "name": "Vira (Grand)"
+  },
+  "3040142000": {
+    "name": "Levi"
+  },
+  "3040143000": {
+    "name": "Mary (Holiday)"
+  },
+  "3040144000": {
+    "name": "Charioce XVII"
+  },
+  "3040145000": {
+    "name": "Olivia (Grand)"
+  },
+  "3040146000": {
+    "name": "Vaseraga (Earth)"
+  },
+  "3040147000": {
+    "name": "Vajra"
+  },
+  "3040148000": {
+    "name": "Ilsa"
+  },
+  "3040149000": {
+    "name": "Therese (SSR)"
+  },
+  "3040150000": {
+    "name": "Zooey"
+  },
+  "3040151000": {
+    "name": "Medusa (Valentine)"
+  },
+  "3040152000": {
+    "name": "Tiamat"
+  },
+  "3040153000": {
+    "name": "Sandalphon (Event)"
+  },
+  "3040154000": {
+    "name": "Jeanne d&#039;Arc (Summer)"
+  },
+  "3040155000": {
+    "name": "Robomi"
+  },
+  "3040156000": {
+    "name": "Nicholas"
+  },
+  "3040157000": {
+    "name": "Conan Edogawa"
+  },
+  "3040158000": {
+    "name": "Alexiel"
+  },
+  "3040159000": {
+    "name": "Cucouroux (SSR)"
+  },
+  "3040160000": {
+    "name": "Maria Theresa"
+  },
+  "3040161000": {
+    "name": "Fraux"
+  },
+  "3040162000": {
+    "name": "Geisenborger"
+  },
+  "3040163000": {
+    "name": "Estarriola"
+  },
+  "3040164000": {
+    "name": "Caim"
+  },
+  "3040165000": {
+    "name": "Lobelia"
+  },
+  "3040166000": {
+    "name": "Katzelia"
+  },
+  "3040167000": {
+    "name": "Alanaan"
+  },
+  "3040168000": {
+    "name": "Haaselia"
+  },
+  "3040169000": {
+    "name": "Nier"
+  },
+  "3040170000": {
+    "name": "Soriz (SSR)"
+  },
+  "3040171000": {
+    "name": "Cain (Grand)"
+  },
+  "3040172000": {
+    "name": "Lunalu (SSR)"
+  },
+  "3040173000": {
+    "name": "Joker"
+  },
+  "3040174000": {
+    "name": "Wulf and Renie"
+  },
+  "3040175000": {
+    "name": "Selfira"
+  },
+  "3040176000": {
+    "name": "Rosetta (Summer)"
+  },
+  "3040177000": {
+    "name": "Ilsa (Summer)"
+  },
+  "3040178000": {
+    "name": "Naoise (Summer)"
+  },
+  "3040179000": {
+    "name": "Grea (Summer)"
+  },
+  "3040180000": {
+    "name": "Tsubasa"
+  },
+  "3040181000": {
+    "name": "Pholia"
+  },
+  "3040182000": {
+    "name": "Freezie"
+  },
+  "3040183000": {
+    "name": "Aqours Second-Years"
+  },
+  "3040184000": {
+    "name": "Aqours First-Years"
+  },
+  "3040185000": {
+    "name": "Aqours Third-Years"
+  },
+  "3040186000": {
+    "name": "Monika"
+  },
+  "3040187000": {
+    "name": "Silva (Light)"
+  },
+  "3040188000": {
+    "name": "Cure Black and Cure White"
+  },
+  "3040189000": {
+    "name": "Lady Grey (Halloween)"
+  },
+  "3040190000": {
+    "name": "Europa"
+  },
+  "3040191000": {
+    "name": "Lancelot and Vane"
+  },
+  "3040192000": {
+    "name": "Aglovale"
+  },
+  "3040193000": {
+    "name": "Levin Sisters"
+  },
+  "3040194000": {
+    "name": "Charlotta (Light)"
+  },
+  "3040195000": {
+    "name": "Metera (Holiday)"
+  },
+  "3040196000": {
+    "name": "Shiva"
+  },
+  "3040197000": {
+    "name": "Kumbhira"
+  },
+  "3040198000": {
+    "name": "Eustace (Dark)"
+  },
+  "3040199000": {
+    "name": "Yurius"
+  },
+  "3040200000": {
+    "name": "Pecorine"
+  },
+  "3040201000": {
+    "name": "Kokkoro"
+  },
+  "3040202000": {
+    "name": "Athena"
+  },
+  "3040203000": {
+    "name": "Tanya (SSR)"
+  },
+  "3040204000": {
+    "name": "Sen (SSR)"
+  },
+  "3040205000": {
+    "name": "Dante and Freiheit"
+  },
+  "3040206000": {
+    "name": "Clarisse (Valentine)"
+  },
+  "3040207000": {
+    "name": "Melissabelle (Valentine)"
+  },
+  "3040208000": {
+    "name": "Heles (Wind)"
+  },
+  "3040209000": {
+    "name": "Ferry (Grand)"
+  },
+  "3040210000": {
+    "name": "Yuel (Summer)"
+  },
+  "3040211000": {
+    "name": "Vira (Wind)"
+  },
+  "3040212000": {
+    "name": "Grimnir"
+  },
+  "3040213000": {
+    "name": "Macula Marius"
+  },
+  "3040214000": {
+    "name": "Medusa"
+  },
+  "3040215000": {
+    "name": "Baal"
+  },
+  "3040216000": {
+    "name": "Karyl"
+  },
+  "3040217000": {
+    "name": "Ladiva (SSR)"
+  },
+  "3040218000": {
+    "name": "Morrigna"
+  },
+  "3040219000": {
+    "name": "Lelouch Lamperouge"
+  },
+  "3040220000": {
+    "name": "Suzaku Kururugi"
+  },
+  "3040221000": {
+    "name": "Kallen Kouzuki"
+  },
+  "3040222000": {
+    "name": "Kolulu"
+  },
+  "3040223000": {
+    "name": "Halluel and Malluel (Summer)"
+  },
+  "3040224000": {
+    "name": "Sandalphon (Summer)"
+  },
+  "3040225000": {
+    "name": "Cagliostro (Summer)"
+  },
+  "3040226000": {
+    "name": "Europa (Summer)"
+  },
+  "3040227000": {
+    "name": "Jessica (Yukata)"
+  },
+  "3040228000": {
+    "name": "Anthuria (Yukata)"
+  },
+  "3040229000": {
+    "name": "Μ&#039;s First-Years"
+  },
+  "3040230000": {
+    "name": "Μ&#039;s Second-Years"
+  },
+  "3040231000": {
+    "name": "Μ&#039;s Third-Years"
+  },
+  "3040232000": {
+    "name": "Alexiel (Summer)"
+  },
+  "3040233000": {
+    "name": "Stan and Aliza"
+  },
+  "3040234000": {
+    "name": "Tabina"
+  },
+  "3040235000": {
+    "name": "Colossus"
+  },
+  "3040236000": {
+    "name": "Sara (Light)"
+  },
+  "3040237000": {
+    "name": "Siegfried (Fire)"
+  },
+  "3040238000": {
+    "name": "Monika (Grand)"
+  },
+  "3040239000": {
+    "name": "Zeta and Vaseraga (Halloween)"
+  },
+  "3040240000": {
+    "name": "Hallessena (Halloween)"
+  },
+  "3040241000": {
+    "name": "Societte (Wind)"
+  },
+  "3040242000": {
+    "name": "Kou"
+  },
+  "3040243000": {
+    "name": "Vira (Promo)"
+  },
+  "3040244000": {
+    "name": "Shitori"
+  },
+  "3040245000": {
+    "name": "Jeanne d&#039;Arc (Grand)"
+  },
+  "3040246000": {
+    "name": "Meteon (Holiday)"
+  },
+  "3040247000": {
+    "name": "Magisa (Holiday)"
+  },
+  "3040248000": {
+    "name": "Gachapin"
+  },
+  "3040249000": {
+    "name": "Narmaya (Holiday)"
+  },
+  "3040250000": {
+    "name": "Seruel (Holiday)"
+  },
+  "3040251000": {
+    "name": "Helel ben Shalem"
+  },
+  "3040252000": {
+    "name": "Vikala"
+  },
+  "3040253000": {
+    "name": "Yuisis (Fire)"
+  },
+  "3040254000": {
+    "name": "Lucius (SSR)"
+  },
+  "3040255000": {
+    "name": "Noa (Grand)"
+  },
+  "3040256000": {
+    "name": "Danua (SSR)"
+  },
+  "3040257000": {
+    "name": "Jin"
+  },
+  "3040258000": {
+    "name": "Ilsa (Light)"
+  },
+  "3040259000": {
+    "name": "Yodarha (Wind)"
+  },
+  "3040260000": {
+    "name": "Scathacha (Valentine)"
+  },
+  "3040261000": {
+    "name": "Grimnir (Valentine)"
+  },
+  "3040262000": {
+    "name": "Seox (Event)"
+  },
+  "3040263000": {
+    "name": "Lecia (Water)"
+  },
+  "3040264000": {
+    "name": "Vania and Malinda"
+  },
+  "3040265000": {
+    "name": "Rei"
+  },
+  "3040266000": {
+    "name": "Teena (Summer)"
+  },
+  "3040267000": {
+    "name": "Mugen"
+  },
+  "3040268000": {
+    "name": "Sturm"
+  },
+  "3040269000": {
+    "name": "Drang"
+  },
+  "3040270000": {
+    "name": "Black Knight and Orchis"
+  },
+  "3040271000": {
+    "name": "Herja (SSR)"
+  },
+  "3040272000": {
+    "name": "Milleore and Sahli Lao"
+  },
+  "3040273000": {
+    "name": "Shura"
+  },
+  "3040274000": {
+    "name": "Reinhardtzar (Grand)"
+  },
+  "3040275000": {
+    "name": "New Generations"
+  },
+  "3040276000": {
+    "name": "Kaede Takagaki"
+  },
+  "3040277000": {
+    "name": "Illnott"
+  },
+  "3040278000": {
+    "name": "Predator (SSR)"
+  },
+  "3040279000": {
+    "name": "Percival (Light)"
+  },
+  "3040280000": {
+    "name": "Satyr"
+  },
+  "3040281000": {
+    "name": "Naoise"
+  },
+  "3040282000": {
+    "name": "Pengy (SSR)"
+  },
+  "3040283000": {
+    "name": "Kolulu (Summer)"
+  },
+  "3040284000": {
+    "name": "Abby"
+  },
+  "3040285000": {
+    "name": "Leona (Grand)"
+  },
+  "3040286000": {
+    "name": "Lucio (Summer)"
+  },
+  "3040287000": {
+    "name": "Amira (Summer)"
+  },
+  "3040288000": {
+    "name": "Anila (Summer)"
+  },
+  "3040289000": {
+    "name": "Rosamia (Yukata)"
+  },
+  "3040290000": {
+    "name": "Albert (Summer)"
+  },
+  "3040291000": {
+    "name": "Silva (Summer)"
+  },
+  "3040292000": {
+    "name": "Mimlemel (Summer)"
+  },
+  "3040293000": {
+    "name": "Juliet (Water)"
+  },
+  "3040294000": {
+    "name": "Hiro Ryugasaki"
+  },
+  "3040295000": {
+    "name": "Mimori Amamiya"
+  },
+  "3040296000": {
+    "name": "Diantha"
+  },
+  "3040297000": {
+    "name": "Golden Knight"
+  },
+  "3040298000": {
+    "name": "Gawain (Light)"
+  },
+  "3040299000": {
+    "name": "Florence"
+  },
+  "3040300000": {
+    "name": "Azazel (Halloween)"
+  },
+  "3040301000": {
+    "name": "Rosetta (Halloween)"
+  },
+  "3040302000": {
+    "name": "Mireille and Risette"
+  },
+  "3040303000": {
+    "name": "Sutera (SSR)"
+  },
+  "3040304000": {
+    "name": "Feather (SSR)"
+  },
+  "3040305000": {
+    "name": "Fiorito"
+  },
+  "3040306000": {
+    "name": "Nemone (Holiday)"
+  },
+  "3040307000": {
+    "name": "Mirin (Holiday)"
+  },
+  "3040308000": {
+    "name": "Tanjiro, Nezuko, Zenitsu, and Inosuke"
+  },
+  "3040309000": {
+    "name": "Kyojuro Rengoku"
+  },
+  "3040310000": {
+    "name": "Shinobu Kocho"
+  },
+  "3040311000": {
+    "name": "Lily (Holiday)"
+  },
+  "3040312000": {
+    "name": "Sandalphon (Earth Grand)"
+  },
+  "3040313000": {
+    "name": "Catura"
+  },
+  "3040314000": {
+    "name": "Filene"
+  },
+  "3040315000": {
+    "name": "Nicholas (Light)"
+  },
+  "3040316000": {
+    "name": "Zehek (SSR)"
+  },
+  "3040317000": {
+    "name": "Mishra (SSR)"
+  },
+  "3040318000": {
+    "name": "Nectar"
+  },
+  "3040319000": {
+    "name": "Lamretta (SSR)"
+  },
+  "3040320000": {
+    "name": "Cagliostro (Grand)"
+  },
+  "3040321000": {
+    "name": "Monika (Valentine)"
+  },
+  "3040322000": {
+    "name": "Aglovale (Valentine)"
+  },
+  "3040323000": {
+    "name": "Zeta (Water)"
+  },
+  "3040324000": {
+    "name": "Vaseraga (Fire)"
+  },
+  "3040325000": {
+    "name": "Farrah and Juri"
+  },
+  "3040326000": {
+    "name": "Cassius (Event SSR)"
+  },
+  "3040327000": {
+    "name": "Isaac"
+  },
+  "3040328000": {
+    "name": "Beatrix (Earth)"
+  },
+  "3040329000": {
+    "name": "Kumbhira (Summer)"
+  },
+  "3040330000": {
+    "name": "Andira (Summer)"
+  },
+  "3040331000": {
+    "name": "Bobobo-bo Bo-bobo"
+  },
+  "3040332000": {
+    "name": "Nezha"
+  },
+  "3040333000": {
+    "name": "Shion"
+  },
+  "3040334000": {
+    "name": "Albert (Dark)"
+  },
+  "3040335000": {
+    "name": "Narmaya (Grand)"
+  },
+  "3040336000": {
+    "name": "Troue"
+  },
+  "3040337000": {
+    "name": "Tikoh"
+  },
+  "3040338000": {
+    "name": "Sho"
+  },
+  "3040339000": {
+    "name": "Ms. Miranda"
+  },
+  "3040340000": {
+    "name": "Lennah (Earth)"
+  },
+  "3040341000": {
+    "name": "Nehan"
+  },
+  "3040342000": {
+    "name": "Yngwie (Yukata)"
+  },
+  "3040343000": {
+    "name": "Izmir (Yukata)"
+  },
+  "3040344000": {
+    "name": "Siegfried (Summer)"
+  },
+  "3040345000": {
+    "name": "Illnott (Summer)"
+  },
+  "3040346000": {
+    "name": "Meg (Summer)"
+  },
+  "3040347000": {
+    "name": "Metera (Summer)"
+  },
+  "3040348000": {
+    "name": "Poseidon"
+  },
+  "3040349000": {
+    "name": "Zahlhamelina (Yukata)"
+  },
+  "3040350000": {
+    "name": "Tabina (Summer)"
+  },
+  "3040351000": {
+    "name": "Helel ben Shalem (Summer)"
+  },
+  "3040352000": {
+    "name": "Shiva (Summer)"
+  },
+  "3040353000": {
+    "name": "Special Week, Silence Suzuka, and Tokai Teio"
+  },
+  "3040354000": {
+    "name": "Naoise (Fire)"
+  },
+  "3040355000": {
+    "name": "Grea (Light)"
+  },
+  "3040356000": {
+    "name": "Elmott (SSR)"
+  },
+  "3040357000": {
+    "name": "Lich"
+  },
+  "3040358000": {
+    "name": "Arthur"
+  },
+  "3040359000": {
+    "name": "Azusa"
+  },
+  "3040360000": {
+    "name": "Vane (Halloween)"
+  },
+  "3040361000": {
+    "name": "Cucouroux (Halloween)"
+  },
+  "3040362000": {
+    "name": "Shinsengumi"
+  },
+  "3040363000": {
+    "name": "Yorozuya"
+  },
+  "3040364000": {
+    "name": "Lunalu (Light)"
+  },
+  "3040365000": {
+    "name": "Enyo"
+  },
+  "3040366000": {
+    "name": "Benjamin"
+  },
+  "3040367000": {
+    "name": "Arulumaya (Light)"
+  },
+  "3040368000": {
+    "name": "Randall (SSR)"
+  },
+  "3040369000": {
+    "name": "Anthuria (Holiday)"
+  },
+  "3040370000": {
+    "name": "Doraemon"
+  },
+  "3040371000": {
+    "name": "Nobita"
+  },
+  "3040372000": {
+    "name": "Mahira (Holiday)"
+  },
+  "3040373000": {
+    "name": "Altair (Holiday)"
+  },
+  "3040374000": {
+    "name": "Lancelot (Grand)"
+  },
+  "3040375000": {
+    "name": "Satyr (Earth)"
+  },
+  "3040376000": {
+    "name": "Fediel"
+  },
+  "3040377000": {
+    "name": "Cidala"
+  },
+  "3040378000": {
+    "name": "Ewiyar"
+  },
+  "3040379000": {
+    "name": "Cupitan"
+  },
+  "3040380000": {
+    "name": "Yggdrasil (Wind)"
+  },
+  "3040381000": {
+    "name": "Wilnas"
+  },
+  "3040382000": {
+    "name": "Ippatsu (SSR)"
+  },
+  "3040383000": {
+    "name": "Lilele (Fire)"
+  },
+  "3040384000": {
+    "name": "Cassius (Valentine)"
+  },
+  "3040385000": {
+    "name": "Vira (Valentine)"
+  },
+  "3040386000": {
+    "name": "Ladiva (Valentine)"
+  },
+  "3040387000": {
+    "name": "Freyr"
+  },
+  "3040388000": {
+    "name": "Sylph"
+  },
+  "3040389000": {
+    "name": "Medusa (Summer)"
+  },
+  "3040390000": {
+    "name": "Yuni"
+  },
+  "3040391000": {
+    "name": "Silva (Yukata)"
+  },
+  "3040392000": {
+    "name": "Narmaya (Yukata)"
+  },
+  "3040393000": {
+    "name": "You"
+  },
+  "3040394000": {
+    "name": "Laguna (SSR)"
+  },
+  "3040396000": {
+    "name": "Skull and Balurga"
+  },
+  "3040397000": {
+    "name": "Sophia (Water)"
+  },
+  "3040398000": {
+    "name": "Iroha"
+  },
+  "3040399000": {
+    "name": "Lilisette"
+  },
+  "3040400000": {
+    "name": "Prishe"
+  },
+  "3040401000": {
+    "name": "Manamel"
+  },
+  "3040402000": {
+    "name": "Anna (SSR)"
+  },
+  "3040403000": {
+    "name": "Elea"
+  },
+  "3040404000": {
+    "name": "Jamil (SSR)"
+  },
+  "3040405000": {
+    "name": "Galleon"
+  },
+  "3040406000": {
+    "name": "Gwynne"
+  },
+  "3040407000": {
+    "name": "Vajra (Summer)"
+  },
+  "3040408000": {
+    "name": "Vikala (Summer)"
+  },
+  "3040409000": {
+    "name": "Mirin (Summer)"
+  },
+  "3040410000": {
+    "name": "Shion (Summer)"
+  },
+  "3040411000": {
+    "name": "Eustace (Summer)"
+  },
+  "3040412000": {
+    "name": "Magisa (Summer)"
+  },
+  "3040413000": {
+    "name": "Clarisse (Summer)"
+  },
+  "3040414000": {
+    "name": "Tikoh (Summer)"
+  },
+  "3040415000": {
+    "name": "Sturm (Summer)"
+  },
+  "3040416000": {
+    "name": "Luffy"
+  },
+  "3040417000": {
+    "name": "Zoro and Sanji"
+  },
+  "3040418000": {
+    "name": "Nami and Robin"
+  },
+  "3040419000": {
+    "name": "Wamdus"
+  },
+  "3040420000": {
+    "name": "Jeanne d&#039;Arc (Water Summer)"
+  },
+  "3040421000": {
+    "name": "Erika"
+  },
+  "3040422000": {
+    "name": "Anderson"
+  },
+  "3040423000": {
+    "name": "Jessica (SSR)"
+  },
+  "3040424000": {
+    "name": "Bowman"
+  },
+  "3040425000": {
+    "name": "Percival (Grand)"
+  },
+  "3040426000": {
+    "name": "Aglovale and Tor"
+  },
+  "3040427000": {
+    "name": "Lich (Halloween)"
+  },
+  "3040428000": {
+    "name": "Mugen (Halloween)"
+  },
+  "3040429000": {
+    "name": "Florence (Halloween)"
+  },
+  "3040430000": {
+    "name": "Yuel and Societte"
+  },
+  "3040431000": {
+    "name": "Alliah"
+  },
+  "3040432000": {
+    "name": "Adam"
+  },
+  "3040433000": {
+    "name": "Therese (Wind)"
+  },
+  "3040434000": {
+    "name": "Europa (Holiday)"
+  },
+  "3040435000": {
+    "name": "Fiorito (Holiday)"
+  },
+  "3040436000": {
+    "name": "Cain (Holiday)"
+  },
+  "3040437000": {
+    "name": "Catura (Holiday)"
+  },
+  "3040438000": {
+    "name": "Charlotta (Grand)"
+  },
+  "3040439000": {
+    "name": "Erin (SSR)"
+  },
+  "3040440000": {
+    "name": "Michael"
+  },
+  "3040441000": {
+    "name": "Makura"
+  },
+  "3040442000": {
+    "name": "Ultimate Friday"
+  },
+  "3040443000": {
+    "name": "Halluel and Malluel"
+  },
+  "3040444000": {
+    "name": "Amelia"
+  },
+  "3040445000": {
+    "name": "Cendrillon"
+  },
+  "3040446000": {
+    "name": "Orchid"
+  },
+  "3040447000": {
+    "name": "Sandalphon (Valentine)"
+  },
+  "3040448000": {
+    "name": "Sen (Valentine)"
+  },
+  "3040449000": {
+    "name": "Lu Woh"
+  },
+  "3040450000": {
+    "name": "Hekate"
+  },
+  "3040451000": {
+    "name": "Seofon (Event)"
+  },
+  "3040452000": {
+    "name": "Ewiyar (Grand)"
+  },
+  "3040453000": {
+    "name": "Azusa (Summer)"
+  },
+  "3040454000": {
+    "name": "Monika (Summer)"
+  },
+  "3040455000": {
+    "name": "Nezha (Yukata)"
+  },
+  "3040456000": {
+    "name": "Ilsa (Yukata)"
+  },
+  "3040457000": {
+    "name": "Cinnamoroll and Pompompurin"
+  },
+  "3040458000": {
+    "name": "Yaia (SSR)"
+  },
+  "3040459000": {
+    "name": "Jasmine (SSR)"
+  },
+  "3040460000": {
+    "name": "Caro"
+  },
+  "3040461000": {
+    "name": "Cantate"
+  },
+  "3040462000": {
+    "name": "Icarus"
+  },
+  "3040463000": {
+    "name": "Lily (Wind)"
+  },
+  "3040464000": {
+    "name": "Drusilla (SSR)"
+  },
+  "3040465000": {
+    "name": "Korwa (Water)"
+  },
+  "3040466000": {
+    "name": "Baal (Fire)"
+  },
+  "3040467000": {
+    "name": "Cosmos"
+  },
+  "3040468000": {
+    "name": "Cupitan (Summer)"
+  },
+  "3040469000": {
+    "name": "Pholia (Yukata)"
+  },
+  "3040470000": {
+    "name": "Enyo (Summer)"
+  },
+  "3040471000": {
+    "name": "Vaseraga (Summer)"
+  },
+  "3040472000": {
+    "name": "Fediel (Summer)"
+  },
+  "3040473000": {
+    "name": "Yurius (Summer)"
+  },
+  "3040474000": {
+    "name": "Aliza (Summer)"
+  },
+  "3040475000": {
+    "name": "Dorothy and Claudia (Summer)"
+  },
+  "3040476000": {
+    "name": "Yuji Itadori and Megumi Fushiguro"
+  },
+  "3040477000": {
+    "name": "Nobara Kugisaki and Maki Zen&#039;in"
+  },
+  "3040478000": {
+    "name": "Vania (Yukata)"
+  },
+  "3040479000": {
+    "name": "Anila (Yukata)"
+  },
+  "3040480000": {
+    "name": "Seruel (Summer)"
+  },
+  "3040481000": {
+    "name": "Ragazzo"
+  },
+  "3040482000": {
+    "name": "Meg and Mari"
+  },
+  "3040483000": {
+    "name": "Paris"
+  },
+  "3040484000": {
+    "name": "Catherine (Wind)"
+  },
+  "3040485000": {
+    "name": "Siegfried (Light)"
+  },
+  "3040486000": {
+    "name": "Kaguya"
+  },
+  "3040487000": {
+    "name": "Tikoh (Halloween)"
+  },
+  "3040488000": {
+    "name": "Vikala (Halloween)"
+  },
+  "3040489000": {
+    "name": "Dante (Halloween)"
+  },
+  "3040490000": {
+    "name": "Sevilbarra (SSR)"
+  },
+  "3040491000": {
+    "name": "Utsusemi"
+  },
+  "3040492000": {
+    "name": "Gabriel"
+  },
+  "3040493000": {
+    "name": "Barawa and Sarya"
+  },
+  "3040494000": {
+    "name": "Volenna (SSR)"
+  },
+  "3040495000": {
+    "name": "Yuni (Holiday)"
+  },
+  "3040496000": {
+    "name": "Illnott (Holiday)"
+  },
+  "3040497000": {
+    "name": "Helel ben Shalem (Holiday)"
+  },
+  "3040498000": {
+    "name": "Noa (Holiday)"
+  },
+  "3040499000": {
+    "name": "Zeta (Grand)"
+  },
+  "3040500000": {
+    "name": "Lowain (SSR)"
+  },
+  "3040501000": {
+    "name": "Uriel"
+  },
+  "3040502000": {
+    "name": "Payila"
+  },
+  "3040503000": {
+    "name": "Tyra"
+  },
+  "3040504000": {
+    "name": "Izuku Midoriya"
+  },
+  "3040505000": {
+    "name": "Katsuki Bakugo"
+  },
+  "3040506000": {
+    "name": "Himiko Toga"
+  },
+  "3040507000": {
+    "name": "Deliford (SSR)"
+  },
+  "3040508000": {
+    "name": "Olivia"
+  },
+  "3040509000": {
+    "name": "Juri (SSR)"
+  },
+  "3040510000": {
+    "name": "Robertina"
+  },
+  "3040511000": {
+    "name": "Nehan (Valentine)"
+  },
+  "3040512000": {
+    "name": "Cidala (Valentine)"
+  },
+  "3040513000": {
+    "name": "Richard (SSR)"
+  },
+  "3040514000": {
+    "name": "Sabrina"
+  },
+  "3040515000": {
+    "name": "Sandalphon"
+  },
+  "3040516000": {
+    "name": "Raziel (Event)"
+  },
+  "3040517000": {
+    "name": "Magus (Summer)"
+  },
+  "3040518000": {
+    "name": "Horus (Summer)"
+  },
+  "3040519000": {
+    "name": "Fenie"
+  },
+  "3040520000": {
+    "name": "De La Fille (Yukata)"
+  },
+  "3040521000": {
+    "name": "Elmott (Yukata)"
+  },
+  "3040522000": {
+    "name": "Pochacco"
+  },
+  "3040523000": {
+    "name": "Spinnah (SSR)"
+  },
+  "3040524000": {
+    "name": "Anne (Light)"
+  },
+  "3040525000": {
+    "name": "Chichiri"
+  },
+  "3040529000": {
+    "name": "Kolulu (Earth)"
+  },
+  "3040530000": {
+    "name": "Chloe (SSR)"
   }
 }
