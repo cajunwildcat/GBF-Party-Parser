@@ -27,7 +27,7 @@ jobs:
           SUMMONS_FILE="summons.json"
           CHARACTERS_FILE="characters.json"
           SUMMONS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=summons&fields=id%2C_pageName%3Dname&formatversion=2"
-          CHARACTERS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=summons&fields=id%2C_pageName%3Dname&formatversion=2"
+          CHARACTERS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=characters&fields=id%2C_pageName%3Dname&formatversion=2"
           JQ_QUERY="map({ (.id | tostring): {name: .name} }) | add"
           #summons
           curl -A "$USER_AGENT" -fsSL "$SUMMONS_URL" > "$TEMP_FILE"
