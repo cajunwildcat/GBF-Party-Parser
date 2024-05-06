@@ -29,6 +29,9 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
  - If you want to change the input/output file you can use `npx bookmarklet <source> <destination>` or edit the `build` command in `package.json`
 
 ## Update Log
+Version 2.31
+ - Fixed silent error when character slots are empty
+
 Version 2.3 (05/05/2024):
  - Added support for manadiver minos
  - Fixed issue of Support Summon using old data when switching parties and not refreshing or re-opening estimated damage panel

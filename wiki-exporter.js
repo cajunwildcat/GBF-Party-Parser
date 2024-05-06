@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 2.3;
+const V = 2.31;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -70,7 +70,7 @@ if (final.mcclass == "Manadiver") final.mino = minos[window.Game.view.deck_model
 //characters
 Object.values(window.Game.view.deck_model.attributes.deck.npc).forEach(e => {
     const char = e.master ? characters[parseInt(e.master.id)] : null;
-    final.characters.push(char? char["name"] : e.master.name);
+    final.characters.push(char? char["name"] : e.master? e.mater.name : e.master);
     final.charactersRing.push(e.param ? e.param.has_npcaugment_constant : null);
     final.charactersImg.push(e.param ? charImgMap[e.param.evolution] : null);
     final.charactersTrans.push(e.param? (parseInt(e.param.level, 10) - 100) / 10 : null);
