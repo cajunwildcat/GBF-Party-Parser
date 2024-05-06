@@ -64,7 +64,7 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.set_action).forEach
 });
 //characters
 Object.values(window.Game.view.deck_model.attributes.deck.npc).forEach(e => {
-    final.characters.push(e.master ? characters[parseInt(e.master.id, 10)]["name"] : null);
+    final.characters.push(e.master ? characters[e.master.id]["name"] : null);
     final.charactersRing.push(e.param ? e.param.has_npcaugment_constant : null);
     final.charactersImg.push(e.param ? charImgMap[e.param.evolution] : null);
     final.charactersTrans.push(e.param? (parseInt(e.param.level, 10) - 100) / 10 : null);
