@@ -1,0 +1,55 @@
+name: Update Data Daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at midnight every day
+
+jobs:
+  update_data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+      - name: Run Script to Download Data
+        run: |
+          #!/usr/bin/env bash
+          USER_AGENT="curl github.com/cajunwildcat/GBF-Party-Parser"
+          TEMP_FILE="$(mktemp)"
+          SUMMONS_FILE="summons.json"
+          CHARACTERS_FILE="characters.json"
+          SUMMONS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=summons&fields=id%2C_pageName%3Dname&formatversion=2"
+          CHARACTERS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=summons&fields=id%2C_pageName%3Dname&formatversion=2"
+          JQ_QUERY="map({ (.id | tostring): {name: .name} }) | add"
+          #summons
+          curl -A "$USER_AGENT" -fsSL "$SUMMONS_URL" > "$TEMP_FILE"
+          jq "$JQ_QUERY" "$TEMP_FILE" > "$SUMMONS_FILE"
+          #characters
+          curl -A "$USER_AGENT" -fsSL "$CHARACTERS_URL" > "$TEMP_FILE"
+          jq "$JQ_QUERY" "$TEMP_FILE" > "$CHARACTERS_FILE"
+
+      - name: Check for Changes
+        id: check_changes
+        run: |
+          git fetch
+          if [[ -n $(git status --porcelain) ]]; then
+            echo "Changes detected, proceeding with commit and push."
+            echo "::set-output name=has_changes::true"
+          else
+            echo "No changes detected, exiting without pushing."
+            echo "::set-output name=has_changes::false"
+            exit 0
+          fi
+
+      - name: Commit and Push Changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git add .
+          git commit -m "Automated data update"
+          git push origin main
