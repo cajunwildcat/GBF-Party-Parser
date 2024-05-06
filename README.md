@@ -29,6 +29,16 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
  - If you want to change the input/output file you can use `npx bookmarklet <source> <destination>` or edit the `build` command in `package.json`
 
 ## Update Log
+Version 2.3 (05/05/2024):
+ - Added support for manadiver minos
+ - Fixed issue of Support Summon using old data when switching parties and not refreshing or re-opening estimated damage panel
+ - Added failsafe for if character or summon is not found in databses
+  - The display name of the character will be used instead. Manually adding wiki specifiers like (Grand) or (Summer) might be required after the fact.
+ - Reduced the time that character and summon databases are cached to 12 hours instead of 24
+  - This is subject to change and might be removed in the future to use the default cache behavior
+ - Added assumptions for Support Summons for the Providence, Optimus, and Omega series
+  - If detailed Supprt Summon data is not available (the estimated damage panel hasn't been opened) these summons will be assumed to be max uncap and transcendence (except levi and yggy omega since M3 for those has not been released yet)
+
 Version 2.2b (no version update):
  - Added Github Action workflow for updating `summons.json` and `characters.json` daily at midnight.
 

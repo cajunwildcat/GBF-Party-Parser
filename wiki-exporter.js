@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 2.2;
+const V = 2.3;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -14,10 +14,10 @@ if (!window.location.hash.startsWith("#party/index/")) {
     return;
 }
 let characters, summons;
-await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/characters.json", { next: 86400 })
+await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/characters.json", { next: 43200 })
     .then(function(response){return response.json();})
     .then((response)=>characters=response);
-await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/summons.json", { next: 86400 })
+await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/summons.json", { next: 43200 })
     .then(function(response){return response.json();})
     .then((response)=>summons=response);
 const specialWepSeries = [
@@ -27,6 +27,8 @@ const specialWepSeries = [
     "27",  //draconic
     "40",  //draconic providence
 ];
+const suppSAssumptions = ["Lucifer", "Bahamut", "Agni", "Varuyna", "Titan", "Zephyrus", "Zeus", "Hades", "Colossus Omega", "Leviathan Omega", "Yggdrasil Omega", "Tiamat Omega", "Luminiera Omega", "Celeste Omega"];
+const minos = ["burlona", "schalk", "levi", "yggy", "baha", "luwoh", "mimic", "ouro"];
 const keyMap = { /*ultima 1*/ "Dominion": "will", "Parity": "strife", "Utopia": "vitality", "Plenum": "strength", "Ultio": "zeal", "Ars": "courage", /*ultima 2*/ "Aggressio": "auto", "Facultas": "skill", "Arcanum": "ougi", "Catena": "cb", /*ultima 3*/ "Fortis": "cap", "Sanatio": "healing", "Impetus": "seraphic", "Elatio": "cbgain", /*dopus 2*/ "α": "auto", "β": "skill", "γ": "ougi", "Δ": "cb", /*dopus 3*/ "Fruit": "apple", "Conduct": "depravity ", "Fallacy": "echo", /*draconic 2*/ "True": "def", "Vermillion": "fire", "Azure": "water", "Golden": "earth", "Emerald": "wind", "White": "light", "Black": "dark" };
 const elements = ["Fire", "Water", "Earth", "Wind", "Light", "Dark"];
 const charImgMap = {"4": null,"5":"C","6":"D"};
@@ -37,6 +39,7 @@ arcarumIndices = [];
 const final = {
     mcclass: window.Game.view.deck_model.attributes.deck.pc.job.master.name,
     mcskills: [],
+    mino: null,
 
     characters: [],
     charactersImg: [],
@@ -62,9 +65,12 @@ const final = {
 Object.values(window.Game.view.deck_model.attributes.deck.pc.set_action).forEach(e => {
     final.mcskills.push(e.name ? e.name.trim() : null)
 });
+//manadiver mino
+if (final.mcclass == "Manadiver") final.mino = minos[window.Game.view.deck_model.attributes.deck.pc.familiar_id-1];
 //characters
 Object.values(window.Game.view.deck_model.attributes.deck.npc).forEach(e => {
-    final.characters.push(e.master ? characters[e.master.id]["name"] : null);
+    const char = e.master ? characters[parseInt(e.master.id)] : null;
+    final.characters.push(char? char["name"] : e.master.name);
     final.charactersRing.push(e.param ? e.param.has_npcaugment_constant : null);
     final.charactersImg.push(e.param ? charImgMap[e.param.evolution] : null);
     final.charactersTrans.push(e.param? (parseInt(e.param.level, 10) - 100) / 10 : null);
@@ -76,7 +82,7 @@ const fillSummonData = (e,i) => {
     if (e.master && Object.keys(arcarumSums).includes(e.master.name)) {
         id = arcarumSums[e.master.name][parseInt(e.master.id[2])-3];
     }
-    final.summons.push(e.master? summons[id]["name"] : null);
+    final.summons.push(e.master? summons[id]? summons[id]["name"] : e.master.name : null);
     final.summonsTrans.push(e.param ? (parseInt(e.param.level, 10) - 200) / 10: null);
     final.summonsUncap.push(e.param ? e.param.evolution : null);
     final.summonsImg.push((function(u,t){
@@ -87,9 +93,12 @@ const fillSummonData = (e,i) => {
     })(final.summonsUncap.slice(-1), final.summonsTrans.slice(-1)));
     if (e.param && e.param.id == quick) i == 0? quick = "main" : quick = i;
 }
+//main summons
 Object.values(window.Game.view.deck_model.attributes.deck.pc.summons).forEach(fillSummonData);
+//support summon
 let suppS = window.Game.view.expectancyDamageData;
 final.summons.push(suppS ? summons[parseInt(suppS.summonId)]["name"] : null);
+if (final.summons.slice(-1) != window.Game.view.deck_model.attributes.deck.pc.damage_info.summon_name) suppS = null;
 final.summonsTrans.push(suppS ? parseInt(suppS.evolution) == 6? 5 : 0 : null);
 final.summonsUncap.push(suppS ? parseInt(suppS.evolution) : null);
 final.summonsImg.push(suppS? (function(u,t){
@@ -98,7 +107,25 @@ final.summonsImg.push(suppS? (function(u,t){
     else if (u == 6 && t < 5) return "C";
     else return "D";
 })(final.summonsUncap.slice(-1), final.summonsTrans.slice(-1)) : null);
-suppS? null : final.summons.splice(-1,1,window.Game.view.deck_model.attributes.deck.pc.damage_info.summon_name);
+//no detailed support summon data available
+if (suppS == null) {
+    final.summons.splice(-1,1,window.Game.view.deck_model.attributes.deck.pc.damage_info.summon_name);
+    suppS = final.summons.slice(-1)[0];
+    if (suppSAssumptions.includes(suppS)) {
+        //release your stupid M3 already
+        if (suppS.includes("Levi") || suppS.includes("Ygg")) {
+            final.summonsTrans.splice(-1,1,0);
+            final.summonsUncap.splice(-1,1,5);
+            final.summonsImg.splice(-1,1,"B");
+        }
+        else {
+            final.summonsTrans.splice(-1,1,5);
+            final.summonsUncap.splice(-1,1,6);
+            final.summonsImg.splice(-1,1,"D");
+        }
+    }
+}
+//sub summons
 Object.values(window.Game.view.deck_model.attributes.deck.pc.sub_summons).forEach(fillSummonData);
 //weapons
 Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach(e => {
@@ -154,7 +181,7 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach(e 
 
 const wikiTable = () => `{{TeamSpread
 |team={{Team
-|class=${final.mcclass}
+|class=${final.mcclass}${final.mino? `|mino=${final.mino}` : ""}
 ${getCharacters()}
 |skill1=${final.mcskills[0]? final.mcskills[0] : ""}
 |skill2=${final.mcskills[1]? final.mcskills[1] : ""}
