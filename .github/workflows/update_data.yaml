@@ -8,6 +8,7 @@ on:
 jobs:
   update_data:
     runs-on: ubuntu-latest
+    permissions: write-all
     
     steps:
       - name: Checkout Repository
