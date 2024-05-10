@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 2.31;
+const V = 2.4;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -23,6 +23,7 @@ await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/mai
 const specialWepSeries = [
     "3",   //opus
     "13",  //ultima
+    "17",  //superlative
     "19",  //ccw
     "27",  //draconic
     "40",  //draconic providence
@@ -159,6 +160,10 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach(e 
                 if (e.skill1) final.weaponKeys.ultima.push(keyMap[e.skill1.name.trim().split(" ").pop()]);
                 if (e.skill2) final.weaponKeys.ultima.push(keyMap[e.skill2.name.trim().split(" ").pop()]);
                 if (e.skill3) final.weaponKeys.ultima.push(keyMap[e.skill3.name.trim().split(" ").pop()]);
+            break;
+            case "17":
+            //superlative - only for element
+            final.weapons[final.weapons.length-1] += ` (${elements[e.master.attribute-1]})`;
             break;
             //ccw - last word
             case "19": 

@@ -29,7 +29,10 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
  - If you want to change the input/output file you can use `npx bookmarklet <source> <destination>` or edit the `build` command in `package.json`
 
 ## Update Log
-Version 2.31
+Version 2.4 (10/05/2024):
+  - Added element to Superlative weapon names
+
+Version 2.31:
  - Fixed silent error when character slots are empty
 
 Version 2.3 (05/05/2024):
