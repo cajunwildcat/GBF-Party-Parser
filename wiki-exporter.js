@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 2.4;
+const V = 2.5;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -167,7 +167,7 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach(e 
             break;
             //ccw - last word
             case "19": 
-            final.weapons[final.weapons.length-1] += ` (${elements[e.master.attribute-1]})`;
+                if (e.param.level == 200) final.weapons[final.weapons.length-1] += ` (${elements[e.master.attribute-1]})`;
                 if (e.skill2) final.weaponKeys.ccw = e.skill2.name.trim().split(" ").pop();
             break;
             //draconic
