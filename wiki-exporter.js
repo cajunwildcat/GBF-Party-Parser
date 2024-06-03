@@ -113,17 +113,9 @@ if (suppS == null) {
     final.summons.splice(-1,1,window.Game.view.deck_model.attributes.deck.pc.damage_info.summon_name);
     suppS = final.summons.slice(-1)[0];
     if (suppSAssumptions.includes(suppS)) {
-        //release your stupid M3 already
-        if (suppS.includes("Levi") || suppS.includes("Ygg")) {
-            final.summonsTrans.splice(-1,1,0);
-            final.summonsUncap.splice(-1,1,5);
-            final.summonsImg.splice(-1,1,"B");
-        }
-        else {
-            final.summonsTrans.splice(-1,1,5);
-            final.summonsUncap.splice(-1,1,6);
-            final.summonsImg.splice(-1,1,"D");
-        }
+        final.summonsTrans.splice(-1,1,5);
+        final.summonsUncap.splice(-1,1,6);
+        final.summonsImg.splice(-1,1,"D");
     }
 }
 //sub summons
