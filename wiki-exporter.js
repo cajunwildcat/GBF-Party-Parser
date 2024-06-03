@@ -1,13 +1,14 @@
 javascript: (async function () {
-const V = 2.51;
+const V = 2.52;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
     .then(function(response){if (v = parseFloat(response)) ;});
 if (V < v) {
-    alert("There is an update to the bookmarklet, please copy the new version.")
-    open("https://github.com/cajunwildcat/GBF-Party-Parser", "_blank");
-    return;
+    if (confirm("There is an update to the bookmarklet, please copy the new version to ensure the copied data is as accurate as possible.\nClick Cancel to ignore this update.")) {
+        open("https://github.com/cajunwildcat/GBF-Party-Parser", "_blank");
+        return;
+    }
 }
 if (!window.location.hash.startsWith("#party/index/")) {
     alert('Please go to a GBF Party screen');
