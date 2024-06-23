@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 2.52;
+const V = 2.6;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -29,7 +29,7 @@ const specialWepSeries = [
     "27",  //draconic
     "40",  //draconic providence
 ];
-const suppSAssumptions = ["Lucifer", "Bahamut", "Agni", "Varuyna", "Titan", "Zephyrus", "Zeus", "Hades", "Colossus Omega", "Leviathan Omega", "Yggdrasil Omega", "Tiamat Omega", "Luminiera Omega", "Celeste Omega"];
+const suppSAssumptions = ["Lucifer", "Bahamut", "Agni", "Varuyna", "Titan", "Zephyrus", "Zeus", "Hades", "Colossus Omega", "Leviathan Omega", "Yggdrasil Omega", "Tiamat Omega", "Luminiera Omega", "Celeste Omega", "Kaguya"];
 const minos = ["burlona", "schalk", "levi", "yggy", "baha", "luwoh", "mimic", "ouro"];
 const keyMap = { /*ultima 1*/ "Dominion": "will", "Parity": "strife", "Utopia": "vitality", "Plenum": "strength", "Ultio": "zeal", "Ars": "courage", /*ultima 2*/ "Aggressio": "auto", "Facultas": "skill", "Arcanum": "ougi", "Catena": "cb", /*ultima 3*/ "Fortis": "cap", "Sanatio": "healing", "Impetus": "seraphic", "Elatio": "cbgain", /*dopus 2*/ "α": "auto", "β": "skill", "γ": "ougi", "Δ": "cb", /*dopus 3*/ "Fruit": "apple", "Conduct": "depravity ", "Fallacy": "echo", /*draconic 2*/ "True": "def", "Vermillion": "fire", "Azure": "water", "Golden": "earth", "Emerald": "wind", "White": "light", "Black": "dark" };
 const elements = ["Fire", "Water", "Earth", "Wind", "Light", "Dark"];
@@ -100,7 +100,7 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.summons).forEach(fi
 //support summon
 let suppS = window.Game.view.expectancyDamageData;
 final.summons.push(suppS ? summons[parseInt(suppS.summonId)]["name"] : null);
-if (final.summons.slice(-1) != window.Game.view.deck_model.attributes.deck.pc.damage_info.summon_name) suppS = null;
+if (!final.summons.slice(-1).includes(window.Game.view.deck_model.attributes.deck.pc.damage_info.summon_name)) suppS = null;
 final.summonsTrans.push(suppS ? parseInt(suppS.evolution) == 6? 5 : 0 : null);
 final.summonsUncap.push(suppS ? parseInt(suppS.evolution) : null);
 final.summonsImg.push(suppS? (function(u,t){
@@ -114,9 +114,14 @@ if (suppS == null) {
     final.summons.splice(-1,1,window.Game.view.deck_model.attributes.deck.pc.damage_info.summon_name);
     suppS = final.summons.slice(-1)[0];
     if (suppSAssumptions.includes(suppS)) {
-        final.summonsTrans.splice(-1,1,5);
-        final.summonsUncap.splice(-1,1,6);
-        final.summonsImg.splice(-1,1,"D");
+        if (suppS == "Kaguya") {
+            final.summons.splice(-1,1,"Kaguya (Summon)");
+        }
+        else {
+            final.summonsTrans.splice(-1,1,5);
+            final.summonsUncap.splice(-1,1,6);
+            final.summonsImg.splice(-1,1,"D");
+        }
     }
 }
 //sub summons

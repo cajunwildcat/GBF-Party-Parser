@@ -29,6 +29,9 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
  - If you want to change the input/output file you can use `npx bookmarklet <source> <destination>` or edit the `build` command in `package.json`
 
 ## Update Log
+Version 2.6 (22/06/2024):
+ - Fixed issue with summons who have (Summon) in their wiki name not retaining it when used as support summons.
+
 Version 2.52 (03/06/2024):
  - Update alert no longer cancels the bookmarklet automatically. Instead the alert now has a cancel button which will not open the hosting repo in a new tab and copy the data as normal.
 
