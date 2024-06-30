@@ -29,6 +29,9 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
  - If you want to change the input/output file you can use `npx bookmarklet <source> <destination>` or edit the `build` command in `package.json`
 
 ## Update Log
+Version 2.61 (30/06/2024)"
+ - Fixed typo that prevented grabbing character name when character is not in databse.
+
 Version 2.6 (22/06/2024):
  - Fixed issue with summons who have (Summon) in their wiki name not retaining it when used as support summons.
 
