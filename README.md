@@ -29,6 +29,10 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
  - If you want to change the input/output file you can use `npx bookmarklet <source> <destination>` or edit the `build` command in `package.json`
 
 ## Update Log
+Version 2.7 (01/08/2024):
+ - Added support for Paladin and Shieldsworn shields
+ - Class skill names with alternate names now properly set the entire name
+
 Version 2.61 (30/06/2024):
  - Fixed typo that prevented grabbing character name when character is not in databse.
 

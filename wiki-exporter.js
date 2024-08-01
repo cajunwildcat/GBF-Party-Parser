@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 2.61;
+const V = 2.7;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -29,6 +29,14 @@ const specialWepSeries = [
     "27",  //draconic
     "40",  //draconic providence
 ];
+const shields = ["Round Shield","Buckler","Knight Shield","Scutum","Mythril Shield","Holy Shield","Tiamat Shield","Rose Crystal Shield","Spartan Shield","Malice Adarga","Archangel's Shield","Colossus Wall","Bahamut Shield","Soul of Oneness","Eutr Nogadr Ldeysh","Hero's Shield","Shield of Lamentation","Huanglong Shield","Qilin Shield","Nibelung Mauer","Obelisk"]
+const getShieldByID = (shieldId) => {
+    let shieldID = (shieldId-1).toString();
+    const shieldRarity = shieldID[0];
+    shieldID = shields[parseInt(shieldID[3]) + (shieldRarity == "2"? 0 : shieldRarity == "3"? 3 : 8)];
+    return shieldID;
+}
+const splitskillNames = {"Execration":"Execration / Five-Phase Seal", "Assault Drive" : "Assault Drive / Weapon Discharge"}
 const suppSAssumptions = ["Lucifer", "Bahamut", "Agni", "Varuyna", "Titan", "Zephyrus", "Zeus", "Hades", "Colossus Omega", "Leviathan Omega", "Yggdrasil Omega", "Tiamat Omega", "Luminiera Omega", "Celeste Omega", "Kaguya"];
 const minos = ["burlona", "schalk", "levi", "yggy", "baha", "luwoh", "mimic", "ouro"];
 const keyMap = { /*ultima 1*/ "Dominion": "will", "Parity": "strife", "Utopia": "vitality", "Plenum": "strength", "Ultio": "zeal", "Ars": "courage", /*ultima 2*/ "Aggressio": "auto", "Facultas": "skill", "Arcanum": "ougi", "Catena": "cb", /*ultima 3*/ "Fortis": "cap", "Sanatio": "healing", "Impetus": "seraphic", "Elatio": "cbgain", /*dopus 2*/ "α": "auto", "β": "skill", "γ": "ougi", "Δ": "cb", /*dopus 3*/ "Fruit": "apple", "Conduct": "depravity ", "Fallacy": "echo", /*draconic 2*/ "True": "def", "Vermillion": "fire", "Azure": "water", "Golden": "earth", "Emerald": "wind", "White": "light", "Black": "dark" };
@@ -65,10 +73,11 @@ const final = {
 };
 //mc skills
 Object.values(window.Game.view.deck_model.attributes.deck.pc.set_action).forEach(e => {
-    final.mcskills.push(e.name ? e.name.trim() : null)
+    final.mcskills.push(e.name ? splitskillNames[e.name.trim()]? splitskillNames[e.name.trim()] : e.name.trim() : null);
 });
 //manadiver mino
 if (final.mcclass == "Manadiver") final.mino = minos[window.Game.view.deck_model.attributes.deck.pc.familiar_id-1];
+if (final.mcclass == "Paladin" || final.mcclass == "Shieldsworn") final.shield = getShieldByID(window.Game.view.deck_model.attributes.deck.pc.shield_id);
 //characters
 Object.values(window.Game.view.deck_model.attributes.deck.npc).forEach(e => {
     const char = e.master ? characters[parseInt(e.master.id)] : null;
@@ -184,7 +193,7 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach(e 
 
 const wikiTable = () => `{{TeamSpread
 |team={{Team
-|class=${final.mcclass}${final.mino? `|mino=${final.mino}` : ""}
+|class=${final.mcclass}${final.mino? `|mino=${final.mino}` : ""}${final.shield? `|shield=${final.shield}` : ""}
 ${getCharacters()}
 |skill1=${final.mcskills[0]? final.mcskills[0] : ""}
 |skill2=${final.mcskills[1]? final.mcskills[1] : ""}
