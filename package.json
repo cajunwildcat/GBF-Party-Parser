@@ -5,11 +5,13 @@
   "main": "wiki-exporter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx bookmarklet wiki-exporter.js bookmarklet"
+    "build": "npx bookmarklet wiki-exporter.js bookmarklet",
+    "build2": "npx bookmarklet weapon-exporter.js weapons-bookmarklet"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bookmarklet": "^3.0.0"
+    "bookmarklet": "^3.0.0",
+    "gbf-party-parser": "file:"
   }
 }
