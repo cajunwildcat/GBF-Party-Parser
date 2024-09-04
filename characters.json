@@ -2597,6 +2597,9 @@
   "3040525000": {
     "name": "Chichiri"
   },
+  "3040527000": {
+    "name": "Shushuku"
+  },
   "3040528000": {
     "name": "Ami"
   },
@@ -2644,5 +2647,20 @@
   },
   "3040543000": {
     "name": "Hekate (Summer)"
+  },
+  "3040544000": {
+    "name": "Galleon (Summer)"
+  },
+  "3040545000": {
+    "name": "Aglovale (Yukata)"
+  },
+  "3040546000": {
+    "name": "Nier (Yukata)"
+  },
+  "3040547000": {
+    "name": "Medusa (Grand)"
+  },
+  "3040548000": {
+    "name": "Sevastien (SSR)"
   }
 }
