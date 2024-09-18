@@ -633,7 +633,7 @@
     "name": "Nicholas (Event)"
   },
   "3030142000": {
-    "name": "Novei"
+    "name": "Novei (Promo)"
   },
   "3030143000": {
     "name": "Augusta"
@@ -2662,5 +2662,11 @@
   },
   "3040548000": {
     "name": "Sevastien (SSR)"
+  },
+  "3040549000": {
+    "name": "Noire"
+  },
+  "3040550000": {
+    "name": "Novei"
   }
 }
