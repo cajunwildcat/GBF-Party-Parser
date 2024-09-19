@@ -21,6 +21,7 @@ const specialWepSeries = [
 const keyMap = { /*ultima 1*/ "Dominion": "will", "Parity": "strife", "Utopia": "vitality", "Plenum": "strength", "Ultio": "zeal", "Ars": "courage", /*ultima 2*/ "Aggressio": "auto", "Facultas": "skill", "Arcanum": "ougi", "Catena": "cb", /*ultima 3*/ "Fortis": "cap", "Sanatio": "healing", "Impetus": "seraphic", "Elatio": "cbgain", /*dopus 2*/ "α": "auto", "β": "skill", "γ": "ougi", "Δ": "cb", /*dopus 3*/ "Fruit": "apple", "Conduct": "depravity ", "Fallacy": "echo", /*draconic 2*/ "True": "def", "Vermillion": "fire", "Azure": "water", "Golden": "earth", "Emerald": "wind", "White": "light", "Black": "dark" };
 const elements = ["Fire", "Water", "Earth", "Wind", "Light", "Dark"];
 const uncaps = [40,60,80,100,150,200];
+const transcendences = [200, 210, 220, 230, 240];
 Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach(e => {
     final.weapons.push(e.master ? e.master.name : null);
     final.weaponsUncaps.push(e.param ? (function() {
