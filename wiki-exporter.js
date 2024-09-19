@@ -29,7 +29,7 @@ const specialWepSeries = [
     "27",  //draconic
     "40",  //draconic providence
 ];
-const shields = ["Round Shield","Buckler","Knight Shield","Scutum","Mythril Shield","Holy Shield","Tiamat Shield","Rose Crystal Shield","Spartan Shield","Malice Adarga","Archangel's Shield","Colossus Wall","Bahamut Shield","Soul of Oneness","Eutr Nogadr Ldeysh","Hero's Shield","Shield of Lamentation","Huanglong Shield","Qilin Shield","Nibelung Mauer","Obelisk"]
+const shields = ["Round Shield","Buckler","Knight Shield","Scutum","Mythril Shield","Holy Shield","Tiamat Shield","Rose Crystal Shield","Spartan Shield","Malice Adarga","Archangel's Shield","Colossus Wall","Bahamut Shield","Soul of Oneness","Eutr Nogadr Ldeysh","Hero's Shield","Shield of Lamentation","Huanglong Shield","Qilin Shield","Nibelung Mauer","Obelisk","Shield of the Enthroned","Lustrous Wall","Eth Ldog Ldeysh","Eth Ckalb Ldeysh","Moonhill","Shield of Tenets"];
 const getShieldByID = (shieldId) => {
     let shieldID = (shieldId-1).toString();
     const shieldRarity = shieldID[0];
@@ -38,7 +38,7 @@ const getShieldByID = (shieldId) => {
 }
 const splitskillNames = {"Execration":"Execration / Five-Phase Seal", "Assault Drive" : "Assault Drive / Weapon Discharge"}
 const suppSAssumptions = ["Lucifer", "Bahamut", "Agni", "Varuyna", "Titan", "Zephyrus", "Zeus", "Hades", "Colossus Omega", "Leviathan Omega", "Yggdrasil Omega", "Tiamat Omega", "Luminiera Omega", "Celeste Omega", "Kaguya"];
-const minos = ["burlona", "schalk", "levi", "yggy", "baha", "luwoh", "mimic", "ouro"];
+const minos = ["burlona", "schalk", "levi", "yggy", "baha", "luwoh", "mimic", "ouro", "europa", "wilnas", "agastia", "faa"];
 const keyMap = { /*ultima 1*/ "Dominion": "will", "Parity": "strife", "Utopia": "vitality", "Plenum": "strength", "Ultio": "zeal", "Ars": "courage", /*ultima 2*/ "Aggressio": "auto", "Facultas": "skill", "Arcanum": "ougi", "Catena": "cb", /*ultima 3*/ "Fortis": "cap", "Sanatio": "healing", "Impetus": "seraphic", "Elatio": "cbgain", /*dopus 2*/ "α": "auto", "β": "skill", "γ": "ougi", "Δ": "cb", /*dopus 3*/ "Fruit": "apple", "Conduct": "depravity ", "Fallacy": "echo", /*draconic 2*/ "True": "def", "Vermillion": "fire", "Azure": "water", "Golden": "earth", "Emerald": "wind", "White": "light", "Black": "dark" };
 const elements = ["Fire", "Water", "Earth", "Wind", "Light", "Dark"];
 const charImgMap = {"4": null,"5":"C","6":"D"};
