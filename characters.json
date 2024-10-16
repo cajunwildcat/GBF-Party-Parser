@@ -2597,6 +2597,9 @@
   "3040525000": {
     "name": "Chichiri"
   },
+  "3040526000": {
+    "name": "Uruki"
+  },
   "3040527000": {
     "name": "Shushuku"
   },
@@ -2674,5 +2677,14 @@
   },
   "3040552000": {
     "name": "Florence (Dark)"
+  },
+  "3040553000": {
+    "name": "Wilnas (Halloween)"
+  },
+  "3040554000": {
+    "name": "Satyr (Halloween)"
+  },
+  "3040555000": {
+    "name": "Manamel (Halloween)"
   }
 }
