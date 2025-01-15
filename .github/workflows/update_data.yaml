@@ -30,10 +30,10 @@ jobs:
           CHARACTERS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=characters&fields=id%2C_pageName%3Dname&formatversion=2"
           JQ_QUERY="map({ (.id | tostring): {name: .name} }) | add"
           #summons
-          curl -A "$USER_AGENT" -L "$SUMMONS_URL" > "$TEMP_FILE"
+          curl -A "$USER_AGENT" -SsL "$SUMMONS_URL" > "$TEMP_FILE"
           jq "$JQ_QUERY" "$TEMP_FILE" > "$SUMMONS_FILE"
           #characters
-          curl -A "$USER_AGENT" -L "$CHARACTERS_URL" > "$TEMP_FILE"
+          curl -A "$USER_AGENT" -SsL "$CHARACTERS_URL" > "$TEMP_FILE"
           jq "$JQ_QUERY" "$TEMP_FILE" > "$CHARACTERS_FILE"
 
       - name: Check for Changes
