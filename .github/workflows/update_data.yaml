@@ -22,7 +22,7 @@ jobs:
       - name: Run Script to Download Data
         run: |
           #!/usr/bin/env bash
-          USER_AGENT="curl github.com/cajunwildcat/GBF-Party-Parser"
+          USER_AGENT="github.com/cajunwildcat/GBF-Party-Parser"
           TEMP_FILE="$(mktemp)"
           SUMMONS_FILE="summons.json"
           CHARACTERS_FILE="characters.json"
@@ -31,7 +31,7 @@ jobs:
           JQ_QUERY="map({ (.id | tostring): {name: .name} }) | add"
           #summons
           curl -A "$USER_AGENT" -fsSL "$SUMMONS_URL" > "$TEMP_FILE"
-          less -FX filename "$TEMP_FILE"
+          less -FX "$TEMP_FILE"
           jq "$JQ_QUERY" "$TEMP_FILE" > "$SUMMONS_FILE"
           #characters
           curl -A "$USER_AGENT" -fsSL "$CHARACTERS_URL" > "$TEMP_FILE"
