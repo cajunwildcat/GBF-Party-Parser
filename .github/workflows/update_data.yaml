@@ -31,7 +31,7 @@ jobs:
           JQ_QUERY="map({ (.id | tostring): {name: .name} }) | add"
           #summons
           curl -A "$USER_AGENT" -fsSL "$SUMMONS_URL" > "$TEMP_FILE"
-          less -FX "$TEMP_FILE"
+          cat "$TEMP_FILE"
           jq "$JQ_QUERY" "$TEMP_FILE" > "$SUMMONS_FILE"
           #characters
           curl -A "$USER_AGENT" -fsSL "$CHARACTERS_URL" > "$TEMP_FILE"
