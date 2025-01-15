@@ -7,7 +7,7 @@ on:
 
 jobs:
   update_data:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     permissions: write-all
     
     steps:
@@ -22,7 +22,7 @@ jobs:
       - name: Run Script to Download Data
         run: |
           #!/usr/bin/env bash
-          USER_AGENT="Mozilla/5.0 (compatible; GitHubAction/1.0; +https://github.com/cajunwildcat/GBF-Party-Parser)"
+          USER_AGENT="GBFPP (compatible; GitHubAction; https://github.com/cajunwildcat/GBF-Party-Parser)"
           TEMP_FILE="$(mktemp)"
           SUMMONS_FILE="summons.json"
           CHARACTERS_FILE="characters.json"
@@ -30,8 +30,7 @@ jobs:
           CHARACTERS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=characters&fields=id%2C_pageName%3Dname&formatversion=2"
           JQ_QUERY="map({ (.id | tostring): {name: .name} }) | add"
           #summons
-          curl -v -A "$USER_AGENT" -fsSL "$SUMMONS_URL" > "$TEMP_FILE"
-          cat "$TEMP_FILE"
+          curl -A "$USER_AGENT" -fsSL "$SUMMONS_URL" > "$TEMP_FILE"
           jq "$JQ_QUERY" "$TEMP_FILE" > "$SUMMONS_FILE"
           #characters
           curl -A "$USER_AGENT" -fsSL "$CHARACTERS_URL" > "$TEMP_FILE"
