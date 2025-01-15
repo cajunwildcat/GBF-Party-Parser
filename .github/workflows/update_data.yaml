@@ -22,7 +22,7 @@ jobs:
       - name: Run Script to Download Data
         run: |
           #!/usr/bin/env bash
-          USER_AGENT="github.com/cajunwildcat/GBF-Party-Parser"
+          USER_AGENT="Mozilla/5.0 (compatible; GitHubAction/1.0; +https://github.com/cajunwildcat/GBF-Party-Parser)"
           TEMP_FILE="$(mktemp)"
           SUMMONS_FILE="summons.json"
           CHARACTERS_FILE="characters.json"
@@ -30,10 +30,10 @@ jobs:
           CHARACTERS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=characters&fields=id%2C_pageName%3Dname&formatversion=2"
           JQ_QUERY="map({ (.id | tostring): {name: .name} }) | add"
           #summons
-          curl -A "$USER_AGENT" -SsL "$SUMMONS_URL" > "$TEMP_FILE"
+          curl -v -A "$USER_AGENT" -FsSL "$SUMMONS_URL" > "$TEMP_FILE"
           jq "$JQ_QUERY" "$TEMP_FILE" > "$SUMMONS_FILE"
           #characters
-          curl -A "$USER_AGENT" -SsL "$CHARACTERS_URL" > "$TEMP_FILE"
+          curl -A "$USER_AGENT" -FsSL "$CHARACTERS_URL" > "$TEMP_FILE"
           jq "$JQ_QUERY" "$TEMP_FILE" > "$CHARACTERS_FILE"
 
       - name: Check for Changes
