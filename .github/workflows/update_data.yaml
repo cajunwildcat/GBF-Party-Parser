@@ -20,9 +20,10 @@ jobs:
           git config user.email "actions@github.com"
 
       - name: Run Script to Download Data
+        env:
+          USER_AGENT: ${{ secrets.USER_AGENT }}
         run: |
           #!/usr/bin/env bash
-          USER_AGENT="GBFPP (compatible; GitHubAction; https://github.com/cajunwildcat/GBF-Party-Parser)"
           TEMP_FILE="$(mktemp)"
           SUMMONS_FILE="summons.json"
           CHARACTERS_FILE="characters.json"
