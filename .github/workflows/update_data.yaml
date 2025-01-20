@@ -27,16 +27,25 @@ jobs:
           TEMP_FILE="$(mktemp)"
           SUMMONS_FILE="summons.json"
           CHARACTERS_FILE="characters.json"
+          WEAPONS_FILE="weapons.json"
           SUMMONS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=summons&fields=id%2C_pageName%3Dname%2Cevo_max&formatversion=2"
           CHARACTERS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=characters&fields=id%2C_pageName%3Dname%2Cmax_evo&formatversion=2"
-          SUMMON_JQ_QUERY="map({ (.id | tostring): {name, maxUncap: ."evo max"} }) | add"
-          CHARACTER_JQ_QUERY="map({ (.id | tostring): {name, maxUncap: ."max evo"} }) | add"
+          WEAPONS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=weapons&fields=id%2C_pageName%3Dname%2Cevo_max&formatversion=2"
+
           #summons
+          SUMMON_JQ_QUERY='map({ (.id | tostring): {name, maxUncap: ."evo max"} }) | add'
           curl -A "$USER_AGENT" -fsSL "$SUMMONS_URL" > "$TEMP_FILE"
           jq "$SUMMON_JQ_QUERY" "$TEMP_FILE" > "$SUMMONS_FILE"
+
           #characters
+          CHARACTER_JQ_QUERY='map({ (.id | tostring): {name, maxUncap: ."max evo"} }) | add'
           curl -A "$USER_AGENT" -fsSL "$CHARACTERS_URL" > "$TEMP_FILE"
           jq "$CHARACTER_JQ_QUERY" "$TEMP_FILE" > "$CHARACTERS_FILE"
+
+          #weapons
+          WEAPON_JQ_QUERY='map({ (.id | tostring): {name, maxUncap: ."evo max"} }) | add'
+          curl -A "$USER_AGENT" -fsSL "$WEAPONS_URL" > "$TEMP_FILE"
+          jq "$WEAPON_JQ_QUERY" "$TEMP_FILE" > "$WEAPONS_FILE"
 
       - name: Check for Changes
         id: check_changes

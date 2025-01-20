@@ -1,2747 +1,3662 @@
 {
   "3020000000": {
-    "name": "Ryan"
+    "name": "Ryan",
+    "maxUncap": 3
   },
   "3020001000": {
-    "name": "Herja"
+    "name": "Herja",
+    "maxUncap": 3
   },
   "3020002000": {
-    "name": "Eso"
+    "name": "Eso",
+    "maxUncap": 3
   },
   "3020004000": {
-    "name": "Galadar"
+    "name": "Galadar",
+    "maxUncap": 3
   },
   "3020005000": {
-    "name": "Deliford"
+    "name": "Deliford",
+    "maxUncap": 3
   },
   "3020006000": {
-    "name": "Farrah"
+    "name": "Farrah",
+    "maxUncap": 3
   },
   "3020007000": {
-    "name": "Volenna"
+    "name": "Volenna",
+    "maxUncap": 3
   },
   "3020008000": {
-    "name": "Anna"
+    "name": "Anna",
+    "maxUncap": 3
   },
   "3020009000": {
-    "name": "Hazen"
+    "name": "Hazen",
+    "maxUncap": 3
   },
   "3020010000": {
-    "name": "Will"
+    "name": "Will",
+    "maxUncap": 3
   },
   "3020011000": {
-    "name": "Petra"
+    "name": "Petra",
+    "maxUncap": 3
   },
   "3020012000": {
-    "name": "Jasmine"
+    "name": "Jasmine",
+    "maxUncap": 3
   },
   "3020013000": {
-    "name": "Walder"
+    "name": "Walder",
+    "maxUncap": 3
   },
   "3020014000": {
-    "name": "Richard"
+    "name": "Richard",
+    "maxUncap": 3
   },
   "3020015000": {
-    "name": "Tanya"
+    "name": "Tanya",
+    "maxUncap": 3
   },
   "3020016000": {
-    "name": "Mary"
+    "name": "Mary",
+    "maxUncap": 3
   },
   "3020017000": {
-    "name": "Zehek"
+    "name": "Zehek",
+    "maxUncap": 3
   },
   "3020018000": {
-    "name": "Rosamia"
+    "name": "Rosamia",
+    "maxUncap": 3
   },
   "3020019000": {
-    "name": "Stan"
+    "name": "Stan",
+    "maxUncap": 3
   },
   "3020020000": {
-    "name": "Feather"
+    "name": "Feather",
+    "maxUncap": 3
   },
   "3020021000": {
-    "name": "Anna (Summer)"
+    "name": "Anna (Summer)",
+    "maxUncap": 3
   },
   "3020022000": {
-    "name": "Walder (Summer)"
+    "name": "Walder (Summer)",
+    "maxUncap": 3
   },
   "3020023000": {
-    "name": "Mary (Summer)"
+    "name": "Mary (Summer)",
+    "maxUncap": 3
   },
   "3020024000": {
-    "name": "Daetta"
+    "name": "Daetta",
+    "maxUncap": 3
   },
   "3020025000": {
-    "name": "Elmelaura"
+    "name": "Elmelaura",
+    "maxUncap": 3
   },
   "3020026000": {
-    "name": "Leonora"
+    "name": "Leonora",
+    "maxUncap": 3
   },
   "3020027000": {
-    "name": "Garma"
+    "name": "Garma",
+    "maxUncap": 3
   },
   "3020028000": {
-    "name": "Walder (Holiday)"
+    "name": "Walder (Holiday)",
+    "maxUncap": 3
   },
   "3020029000": {
-    "name": "Suframare"
+    "name": "Suframare",
+    "maxUncap": 3
   },
   "3020030000": {
-    "name": "Yodarha"
+    "name": "Yodarha",
+    "maxUncap": 3
   },
   "3020031000": {
-    "name": "Lowain"
+    "name": "Lowain",
+    "maxUncap": 3
   },
   "3020032000": {
-    "name": "Camieux"
+    "name": "Camieux",
+    "maxUncap": 3
   },
   "3020033000": {
-    "name": "Norcel"
+    "name": "Norcel",
+    "maxUncap": 3
   },
   "3020034000": {
-    "name": "Barawa"
+    "name": "Barawa",
+    "maxUncap": 3
   },
   "3020035000": {
-    "name": "Krugne"
+    "name": "Krugne",
+    "maxUncap": 3
   },
   "3020036000": {
-    "name": "Karva"
+    "name": "Karva",
+    "maxUncap": 3
   },
   "3020037000": {
-    "name": "Vanzza"
+    "name": "Vanzza",
+    "maxUncap": 3
   },
   "3020038000": {
-    "name": "Ippatsu"
+    "name": "Ippatsu",
+    "maxUncap": 3
   },
   "3020039000": {
-    "name": "Philosophia"
+    "name": "Philosophia",
+    "maxUncap": 3
   },
   "3020040000": {
-    "name": "Joel"
+    "name": "Joel",
+    "maxUncap": 3
   },
   "3020041000": {
-    "name": "Lowain (Summer)"
+    "name": "Lowain (Summer)",
+    "maxUncap": 3
   },
   "3020043000": {
-    "name": "Karteira"
+    "name": "Karteira",
+    "maxUncap": 3
   },
   "3020044000": {
-    "name": "Dante"
+    "name": "Dante",
+    "maxUncap": 3
   },
   "3020045000": {
-    "name": "Pavidus"
+    "name": "Pavidus",
+    "maxUncap": 3
   },
   "3020046000": {
-    "name": "Viceroy"
+    "name": "Viceroy",
+    "maxUncap": 3
   },
   "3020047000": {
-    "name": "Camieux (Earth)"
+    "name": "Camieux (Earth)",
+    "maxUncap": 3
   },
   "3020048000": {
-    "name": "Bridgette"
+    "name": "Bridgette",
+    "maxUncap": 3
   },
   "3020049000": {
-    "name": "Flesselles"
+    "name": "Flesselles",
+    "maxUncap": 3
   },
   "3020050000": {
-    "name": "Lunalu"
+    "name": "Lunalu",
+    "maxUncap": 3
   },
   "3020051000": {
-    "name": "Nene"
+    "name": "Nene",
+    "maxUncap": 3
   },
   "3020052000": {
-    "name": "Lamretta (R)"
+    "name": "Lamretta (R)",
+    "maxUncap": 3
   },
   "3020053000": {
-    "name": "Alistair"
+    "name": "Alistair",
+    "maxUncap": 3
   },
   "3020054000": {
-    "name": "Vermeil"
+    "name": "Vermeil",
+    "maxUncap": 3
   },
   "3020055000": {
-    "name": "Balurga"
+    "name": "Balurga",
+    "maxUncap": 3
   },
   "3020056000": {
-    "name": "Thelonim"
+    "name": "Thelonim",
+    "maxUncap": 3
   },
   "3020057000": {
-    "name": "Rosine"
+    "name": "Rosine",
+    "maxUncap": 3
   },
   "3020058000": {
-    "name": "La Coiffe"
+    "name": "La Coiffe",
+    "maxUncap": 3
   },
   "3020059000": {
-    "name": "Chloe"
+    "name": "Chloe",
+    "maxUncap": 3
   },
   "3020060000": {
-    "name": "Ippatsu (Summer)"
+    "name": "Ippatsu (Summer)",
+    "maxUncap": 3
   },
   "3020061000": {
-    "name": "Lunalu (Summer)"
+    "name": "Lunalu (Summer)",
+    "maxUncap": 3
   },
   "3020062000": {
-    "name": "Cailana"
+    "name": "Cailana",
+    "maxUncap": 3
   },
   "3020063000": {
-    "name": "Drusilla"
+    "name": "Drusilla",
+    "maxUncap": 3
   },
   "3020064000": {
-    "name": "Cordelia"
+    "name": "Cordelia",
+    "maxUncap": 3
   },
   "3020066000": {
-    "name": "Bakura"
+    "name": "Bakura",
+    "maxUncap": 3
   },
   "3020070000": {
-    "name": "Randall"
+    "name": "Randall",
+    "maxUncap": 3
   },
   "3020071000": {
-    "name": "Spinnah"
+    "name": "Spinnah",
+    "maxUncap": 3
   },
   "3020072000": {
-    "name": "Young Cat (Event)"
+    "name": "Young Cat (Event)",
+    "maxUncap": 3
   },
   "3020073000": {
-    "name": "Vikala (Event)"
+    "name": "Vikala (Event)",
+    "maxUncap": 3
   },
   "3020074000": {
-    "name": "Catura (Event)"
+    "name": "Catura (Event)",
+    "maxUncap": 3
   },
   "3020075000": {
-    "name": "Payila (Event)"
+    "name": "Payila (Event)",
+    "maxUncap": 3
   },
   "3030000000": {
-    "name": "Naoise (Promo)"
+    "name": "Naoise (Promo)",
+    "maxUncap": 4
   },
   "3030001000": {
-    "name": "Therese (Event)"
+    "name": "Therese (Event)",
+    "maxUncap": 4
   },
   "3030002000": {
-    "name": "Mishra"
+    "name": "Mishra",
+    "maxUncap": 4
   },
   "3030003000": {
-    "name": "Alec"
+    "name": "Alec",
+    "maxUncap": 5
   },
   "3030004000": {
-    "name": "Helnar"
+    "name": "Helnar",
+    "maxUncap": 5
   },
   "3030005000": {
-    "name": "Katalina"
+    "name": "Katalina",
+    "maxUncap": 5
   },
   "3030006000": {
-    "name": "Io"
+    "name": "Io",
+    "maxUncap": 5
   },
   "3030007000": {
-    "name": "Eugen"
+    "name": "Eugen",
+    "maxUncap": 5
   },
   "3030008000": {
-    "name": "Rackam"
+    "name": "Rackam",
+    "maxUncap": 5
   },
   "3030009000": {
-    "name": "Gayne"
+    "name": "Gayne",
+    "maxUncap": 5
   },
   "3030010000": {
-    "name": "Rosetta"
+    "name": "Rosetta",
+    "maxUncap": 4
   },
   "3030011000": {
-    "name": "Abby (Promo)"
+    "name": "Abby (Promo)",
+    "maxUncap": 4
   },
   "3030012000": {
-    "name": "Ange"
+    "name": "Ange",
+    "maxUncap": 5
   },
   "3030013000": {
-    "name": "Lamretta"
+    "name": "Lamretta",
+    "maxUncap": 4
   },
   "3030014000": {
-    "name": "Ulamnuran"
+    "name": "Ulamnuran",
+    "maxUncap": 5
   },
   "3030015000": {
-    "name": "Aliza (Event)"
+    "name": "Aliza (Event)",
+    "maxUncap": 4
   },
   "3030016000": {
-    "name": "Jessica (Event)"
+    "name": "Jessica (Event)",
+    "maxUncap": 4
   },
   "3030017000": {
-    "name": "Danua"
+    "name": "Danua",
+    "maxUncap": 5
   },
   "3030018000": {
-    "name": "Sutera"
+    "name": "Sutera",
+    "maxUncap": 5
   },
   "3030019000": {
-    "name": "Vira"
+    "name": "Vira",
+    "maxUncap": 4
   },
   "3030020000": {
-    "name": "Soriz"
+    "name": "Soriz",
+    "maxUncap": 5
   },
   "3030021000": {
-    "name": "Sara (Event)"
+    "name": "Sara (Event)",
+    "maxUncap": 4
   },
   "3030022000": {
-    "name": "Jin (Event)"
+    "name": "Jin (Event)",
+    "maxUncap": 4
   },
   "3030023000": {
-    "name": "Elmott"
+    "name": "Elmott",
+    "maxUncap": 4
   },
   "3030024000": {
-    "name": "Keehar"
+    "name": "Keehar",
+    "maxUncap": 4
   },
   "3030025000": {
-    "name": "Elta"
+    "name": "Elta",
+    "maxUncap": 4
   },
   "3030026000": {
-    "name": "Selfira (Event)"
+    "name": "Selfira (Event)",
+    "maxUncap": 5
   },
   "3030027000": {
-    "name": "Ezecrain"
+    "name": "Ezecrain",
+    "maxUncap": 4
   },
   "3030028000": {
-    "name": "Sig (Event)"
+    "name": "Sig (Event)",
+    "maxUncap": 4
   },
   "3030029000": {
-    "name": "Katalina (Summer)"
+    "name": "Katalina (Summer)",
+    "maxUncap": 4
   },
   "3030030000": {
-    "name": "Jessica (Summer)"
+    "name": "Jessica (Summer)",
+    "maxUncap": 4
   },
   "3030031000": {
-    "name": "Helnar (Summer)"
+    "name": "Helnar (Summer)",
+    "maxUncap": 4
   },
   "3030032000": {
-    "name": "Ferry"
+    "name": "Ferry",
+    "maxUncap": 4
   },
   "3030033000": {
-    "name": "Lucius"
+    "name": "Lucius",
+    "maxUncap": 5
   },
   "3030034000": {
-    "name": "Teena"
+    "name": "Teena",
+    "maxUncap": 5
   },
   "3030035000": {
-    "name": "Feena (Event)"
+    "name": "Feena (Event)",
+    "maxUncap": 4
   },
   "3030036000": {
-    "name": "Arusha"
+    "name": "Arusha",
+    "maxUncap": 4
   },
   "3030037000": {
-    "name": "Farrah (SR)"
+    "name": "Farrah (SR)",
+    "maxUncap": 4
   },
   "3030038000": {
-    "name": "Juri (Event)"
+    "name": "Juri (Event)",
+    "maxUncap": 4
   },
   "3030039000": {
-    "name": "Noa"
+    "name": "Noa",
+    "maxUncap": 5
   },
   "3030040000": {
-    "name": "Uzuki Shimamura"
+    "name": "Uzuki Shimamura",
+    "maxUncap": 5
   },
   "3030041000": {
-    "name": "Rin Shibuya"
+    "name": "Rin Shibuya",
+    "maxUncap": 5
   },
   "3030042000": {
-    "name": "Ange (Halloween)"
+    "name": "Ange (Halloween)",
+    "maxUncap": 4
   },
   "3030043000": {
-    "name": "Mimlemel"
+    "name": "Mimlemel",
+    "maxUncap": 4
   },
   "3030044000": {
-    "name": "Aster (Event)"
+    "name": "Aster (Event)",
+    "maxUncap": 4
   },
   "3030045000": {
-    "name": "Mariah"
+    "name": "Mariah",
+    "maxUncap": 4
   },
   "3030046000": {
-    "name": "Carren"
+    "name": "Carren",
+    "maxUncap": 4
   },
   "3030047000": {
-    "name": "Vane (Event)"
+    "name": "Vane (Event)",
+    "maxUncap": 4
   },
   "3030048000": {
-    "name": "Rackam (Holiday)"
+    "name": "Rackam (Holiday)",
+    "maxUncap": 4
   },
   "3030049000": {
-    "name": "Rosamia (SR)"
+    "name": "Rosamia (SR)",
+    "maxUncap": 4
   },
   "3030050000": {
-    "name": "Johann (Event)"
+    "name": "Johann (Event)",
+    "maxUncap": 4
   },
   "3030051000": {
-    "name": "Mika Jougasaki"
+    "name": "Mika Jougasaki",
+    "maxUncap": 5
   },
   "3030052000": {
-    "name": "Mio Honda"
+    "name": "Mio Honda",
+    "maxUncap": 5
   },
   "3030053000": {
-    "name": "Baotorda"
+    "name": "Baotorda",
+    "maxUncap": 4
   },
   "3030054000": {
-    "name": "Rita"
+    "name": "Rita",
+    "maxUncap": 5
   },
   "3030055000": {
-    "name": "Ladiva"
+    "name": "Ladiva",
+    "maxUncap": 4
   },
   "3030056000": {
-    "name": "Volenna (Event)"
+    "name": "Volenna (Event)",
+    "maxUncap": 4
   },
   "3030057000": {
-    "name": "Claudia"
+    "name": "Claudia",
+    "maxUncap": 4
   },
   "3030058000": {
-    "name": "Dorothy"
+    "name": "Dorothy",
+    "maxUncap": 4
   },
   "3030059000": {
-    "name": "Zaja"
+    "name": "Zaja",
+    "maxUncap": 4
   },
   "3030060000": {
-    "name": "Zehek (Event)"
+    "name": "Zehek (Event)",
+    "maxUncap": 4
   },
   "3030061000": {
-    "name": "Ejaeli"
+    "name": "Ejaeli",
+    "maxUncap": 5
   },
   "3030062000": {
-    "name": "Therese"
+    "name": "Therese",
+    "maxUncap": 4
   },
   "3030063000": {
-    "name": "Sarya (Event)"
+    "name": "Sarya (Event)",
+    "maxUncap": 4
   },
   "3030064000": {
-    "name": "Milleore"
+    "name": "Milleore",
+    "maxUncap": 4
   },
   "3030065000": {
-    "name": "Amira (Promo)"
+    "name": "Amira (Promo)",
+    "maxUncap": 5
   },
   "3030066000": {
-    "name": "Hazen (SR)"
+    "name": "Hazen (SR)",
+    "maxUncap": 4
   },
   "3030067000": {
-    "name": "Syr (Event)"
+    "name": "Syr (Event)",
+    "maxUncap": 4
   },
   "3030068000": {
-    "name": "Mary (SR)"
+    "name": "Mary (SR)",
+    "maxUncap": 4
   },
   "3030069000": {
-    "name": "Mizuki Kawashima"
+    "name": "Mizuki Kawashima",
+    "maxUncap": 4
   },
   "3030070000": {
-    "name": "Miku Maekawa"
+    "name": "Miku Maekawa",
+    "maxUncap": 4
   },
   "3030071000": {
-    "name": "Anzu Futaba"
+    "name": "Anzu Futaba",
+    "maxUncap": 5
   },
   "3030072000": {
-    "name": "Lecia"
+    "name": "Lecia",
+    "maxUncap": 3
   },
   "3030073000": {
-    "name": "Pengy (Event)"
+    "name": "Pengy (Event)",
+    "maxUncap": 4
   },
   "3030074000": {
-    "name": "Ceylan (Event)"
+    "name": "Ceylan (Event)",
+    "maxUncap": 4
   },
   "3030075000": {
-    "name": "J.J."
+    "name": "J.J.",
+    "maxUncap": 4
   },
   "3030076000": {
-    "name": "Sahli Lao"
+    "name": "Sahli Lao",
+    "maxUncap": 4
   },
   "3030077000": {
-    "name": "Romeo (Event)"
+    "name": "Romeo (Event)",
+    "maxUncap": 4
   },
   "3030078000": {
-    "name": "Feather (SR)"
+    "name": "Feather (SR)",
+    "maxUncap": 5
   },
   "3030079000": {
-    "name": "Robomi (Event)"
+    "name": "Robomi (Event)",
+    "maxUncap": 4
   },
   "3030080000": {
-    "name": "Milla Maxwell"
+    "name": "Milla Maxwell",
+    "maxUncap": 4
   },
   "3030081000": {
-    "name": "Yuri Lowell"
+    "name": "Yuri Lowell",
+    "maxUncap": 4
   },
   "3030082000": {
-    "name": "Sophie"
+    "name": "Sophie",
+    "maxUncap": 4
   },
   "3030083000": {
-    "name": "Elmott (Summer)"
+    "name": "Elmott (Summer)",
+    "maxUncap": 4
   },
   "3030084000": {
-    "name": "Tanya (Summer)"
+    "name": "Tanya (Summer)",
+    "maxUncap": 4
   },
   "3030085000": {
-    "name": "Eugen (Summer)"
+    "name": "Eugen (Summer)",
+    "maxUncap": 4
   },
   "3030086000": {
-    "name": "Jin (Ronin)"
+    "name": "Jin (Ronin)",
+    "maxUncap": 4
   },
   "3030087000": {
-    "name": "Lecia (Summer)"
+    "name": "Lecia (Summer)",
+    "maxUncap": 4
   },
   "3030088000": {
-    "name": "Rika Jougasaki"
+    "name": "Rika Jougasaki",
+    "maxUncap": 5
   },
   "3030089000": {
-    "name": "Kanako Mimura"
+    "name": "Kanako Mimura",
+    "maxUncap": 4
   },
   "3030090000": {
-    "name": "Koume Shirasaka"
+    "name": "Koume Shirasaka",
+    "maxUncap": 4
   },
   "3030091000": {
-    "name": "Suframare (Summer)"
+    "name": "Suframare (Summer)",
+    "maxUncap": 4
   },
   "3030092000": {
-    "name": "Will (SR)"
+    "name": "Will (SR)",
+    "maxUncap": 5
   },
   "3030093000": {
-    "name": "Malinda (Event)"
+    "name": "Malinda (Event)",
+    "maxUncap": 4
   },
   "3030094000": {
-    "name": "Galadar (SR)"
+    "name": "Galadar (SR)",
+    "maxUncap": 4
   },
   "3030095000": {
-    "name": "Anna (SR)"
+    "name": "Anna (SR)",
+    "maxUncap": 4
   },
   "3030096000": {
-    "name": "Naoise (Event)"
+    "name": "Naoise (Event)",
+    "maxUncap": 5
   },
   "3030097000": {
-    "name": "Teru Tendo"
+    "name": "Teru Tendo",
+    "maxUncap": 4
   },
   "3030098000": {
-    "name": "Kaoru Sakuraba"
+    "name": "Kaoru Sakuraba",
+    "maxUncap": 4
   },
   "3030099000": {
-    "name": "Tsubasa Kashiwagi"
+    "name": "Tsubasa Kashiwagi",
+    "maxUncap": 4
   },
   "3030100000": {
-    "name": "Goblin Mage"
+    "name": "Goblin Mage",
+    "maxUncap": 4
   },
   "3030101000": {
-    "name": "Ferry (Halloween)"
+    "name": "Ferry (Halloween)",
+    "maxUncap": 4
   },
   "3030102000": {
-    "name": "Jasmine (SR)"
+    "name": "Jasmine (SR)",
+    "maxUncap": 4
   },
   "3030103000": {
-    "name": "Farrah (Event)"
+    "name": "Farrah (Event)",
+    "maxUncap": 4
   },
   "3030104000": {
-    "name": "Ryu"
+    "name": "Ryu",
+    "maxUncap": 4
   },
   "3030105000": {
-    "name": "Chun-Li"
+    "name": "Chun-Li",
+    "maxUncap": 4
   },
   "3030106000": {
-    "name": "Sig"
+    "name": "Sig",
+    "maxUncap": 4
   },
   "3030107000": {
-    "name": "Vane"
+    "name": "Vane",
+    "maxUncap": 4
   },
   "3030108000": {
-    "name": "Lancelot (Event)"
+    "name": "Lancelot (Event)",
+    "maxUncap": 4
   },
   "3030109000": {
-    "name": "Ladiva (Holiday)"
+    "name": "Ladiva (Holiday)",
+    "maxUncap": 4
   },
   "3030110000": {
-    "name": "Anila (Event)"
+    "name": "Anila (Event)",
+    "maxUncap": 4
   },
   "3030111000": {
-    "name": "Yaia"
+    "name": "Yaia",
+    "maxUncap": 5
   },
   "3030112000": {
-    "name": "Skull (Event)"
+    "name": "Skull (Event)",
+    "maxUncap": 4
   },
   "3030113000": {
-    "name": "Sutera (Fire)"
+    "name": "Sutera (Fire)",
+    "maxUncap": 4
   },
   "3030114000": {
-    "name": "Lina"
+    "name": "Lina",
+    "maxUncap": 4
   },
   "3030115000": {
-    "name": "Naga"
+    "name": "Naga",
+    "maxUncap": 4
   },
   "3030116000": {
-    "name": "Daetta (SR)"
+    "name": "Daetta (SR)",
+    "maxUncap": 4
   },
   "3030117000": {
-    "name": "Soriz (Event)"
+    "name": "Soriz (Event)",
+    "maxUncap": 4
   },
   "3030118000": {
-    "name": "Sevilbarra"
+    "name": "Sevilbarra",
+    "maxUncap": 4
   },
   "3030119000": {
-    "name": "Ryan (SR)"
+    "name": "Ryan (SR)",
+    "maxUncap": 4
   },
   "3030120000": {
-    "name": "Sachiko Koshimizu"
+    "name": "Sachiko Koshimizu",
+    "maxUncap": 4
   },
   "3030121000": {
-    "name": "Airi Totoki"
+    "name": "Airi Totoki",
+    "maxUncap": 4
   },
   "3030122000": {
-    "name": "Redluck"
+    "name": "Redluck",
+    "maxUncap": 4
   },
   "3030123000": {
-    "name": "Lowain (Event)"
+    "name": "Lowain (Event)",
+    "maxUncap": 5
   },
   "3030124000": {
-    "name": "Shao"
+    "name": "Shao",
+    "maxUncap": 5
   },
   "3030125000": {
-    "name": "Karin"
+    "name": "Karin",
+    "maxUncap": 4
   },
   "3030126000": {
-    "name": "Rashid"
+    "name": "Rashid",
+    "maxUncap": 4
   },
   "3030127000": {
-    "name": "Sen"
+    "name": "Sen",
+    "maxUncap": 4
   },
   "3030128000": {
-    "name": "Eso (SR)"
+    "name": "Eso (SR)",
+    "maxUncap": 4
   },
   "3030129000": {
-    "name": "Stan (Event)"
+    "name": "Stan (Event)",
+    "maxUncap": 4
   },
   "3030130000": {
-    "name": "Sakura Shinguji"
+    "name": "Sakura Shinguji",
+    "maxUncap": 4
   },
   "3030131000": {
-    "name": "Erica Fontaine"
+    "name": "Erica Fontaine",
+    "maxUncap": 4
   },
   "3030132000": {
-    "name": "Gemini Sunrise"
+    "name": "Gemini Sunrise",
+    "maxUncap": 4
   },
   "3030133000": {
-    "name": "Laguna"
+    "name": "Laguna",
+    "maxUncap": 4
   },
   "3030134000": {
-    "name": "Jamil"
+    "name": "Jamil",
+    "maxUncap": 4
   },
   "3030135000": {
-    "name": "Morphe and Phoebe (Event)"
+    "name": "Morphe and Phoebe (Event)",
+    "maxUncap": 4
   },
   "3030136000": {
-    "name": "Stahn Aileron"
+    "name": "Stahn Aileron",
+    "maxUncap": 4
   },
   "3030137000": {
-    "name": "Tear Grants"
+    "name": "Tear Grants",
+    "maxUncap": 4
   },
   "3030138000": {
-    "name": "Elize Lutus"
+    "name": "Elize Lutus",
+    "maxUncap": 4
   },
   "3030139000": {
-    "name": "Almeida"
+    "name": "Almeida",
+    "maxUncap": 4
   },
   "3030140000": {
-    "name": "Johann"
+    "name": "Johann",
+    "maxUncap": 4
   },
   "3030141000": {
-    "name": "Nicholas (Event)"
+    "name": "Nicholas (Event)",
+    "maxUncap": 4
   },
   "3030142000": {
-    "name": "Novei (Promo)"
+    "name": "Novei (Promo)",
+    "maxUncap": 4
   },
   "3030143000": {
-    "name": "Augusta (Promo)"
+    "name": "Augusta (Promo)",
+    "maxUncap": 4
   },
   "3030144000": {
-    "name": "Robertina (Promo)"
+    "name": "Robertina (Promo)",
+    "maxUncap": 4
   },
   "3030145000": {
-    "name": "Pamela (Promo)"
+    "name": "Pamela (Promo)",
+    "maxUncap": 4
   },
   "3030146000": {
-    "name": "Cecile (Promo)"
+    "name": "Cecile (Promo)",
+    "maxUncap": 4
   },
   "3030147000": {
-    "name": "Sara (Summer)"
+    "name": "Sara (Summer)",
+    "maxUncap": 4
   },
   "3030149000": {
-    "name": "J.J. (Summer)"
+    "name": "J.J. (Summer)",
+    "maxUncap": 4
   },
   "3030150000": {
-    "name": "Diantha (Promo)"
+    "name": "Diantha (Promo)",
+    "maxUncap": 4
   },
   "3030151000": {
-    "name": "Jin (Wind)"
+    "name": "Jin (Wind)",
+    "maxUncap": 4
   },
   "3030152000": {
-    "name": "Camieux (Summer)"
+    "name": "Camieux (Summer)",
+    "maxUncap": 4
   },
   "3030153000": {
-    "name": "Pengy"
+    "name": "Pengy",
+    "maxUncap": 4
   },
   "3030154000": {
-    "name": "Barawa (Event)"
+    "name": "Barawa (Event)",
+    "maxUncap": 4
   },
   "3030155000": {
-    "name": "Cucouroux"
+    "name": "Cucouroux",
+    "maxUncap": 4
   },
   "3030156000": {
-    "name": "Dante (SR)"
+    "name": "Dante (SR)",
+    "maxUncap": 4
   },
   "3030157000": {
-    "name": "Paris (Event)"
+    "name": "Paris (Event)",
+    "maxUncap": 4
   },
   "3030159000": {
-    "name": "Jessica"
+    "name": "Jessica",
+    "maxUncap": 4
   },
   "3030160000": {
-    "name": "Anastasia"
+    "name": "Anastasia",
+    "maxUncap": 4
   },
   "3030161000": {
-    "name": "Miria Akagi"
+    "name": "Miria Akagi",
+    "maxUncap": 4
   },
   "3030162000": {
-    "name": "Ranko Kanzaki"
+    "name": "Ranko Kanzaki",
+    "maxUncap": 4
   },
   "3030163000": {
-    "name": "Beatrix (Halloween)"
+    "name": "Beatrix (Halloween)",
+    "maxUncap": 4
   },
   "3030164000": {
-    "name": "Erin"
+    "name": "Erin",
+    "maxUncap": 4
   },
   "3030165000": {
-    "name": "Lily (Event)"
+    "name": "Lily (Event)",
+    "maxUncap": 4
   },
   "3030166000": {
-    "name": "Mimlemel and Stumpeye"
+    "name": "Mimlemel and Stumpeye",
+    "maxUncap": 4
   },
   "3030167000": {
-    "name": "Tanya (SR)"
+    "name": "Tanya (SR)",
+    "maxUncap": 4
   },
   "3030168000": {
-    "name": "Percival (Event)"
+    "name": "Percival (Event)",
+    "maxUncap": 4
   },
   "3030169000": {
-    "name": "Sen (Holiday)"
+    "name": "Sen (Holiday)",
+    "maxUncap": 4
   },
   "3030170000": {
-    "name": "Andira (Event)"
+    "name": "Andira (Event)",
+    "maxUncap": 4
   },
   "3030171000": {
-    "name": "Lucius (Fire)"
+    "name": "Lucius (Fire)",
+    "maxUncap": 4
   },
   "3030172000": {
-    "name": "Meteon (Event)"
+    "name": "Meteon (Event)",
+    "maxUncap": 5
   },
   "3030173000": {
-    "name": "Haohmaru"
+    "name": "Haohmaru",
+    "maxUncap": 4
   },
   "3030174000": {
-    "name": "Nakoruru"
+    "name": "Nakoruru",
+    "maxUncap": 4
   },
   "3030175000": {
-    "name": "Herja (SR)"
+    "name": "Herja (SR)",
+    "maxUncap": 4
   },
   "3030176000": {
-    "name": "Mina"
+    "name": "Mina",
+    "maxUncap": 4
   },
   "3030177000": {
-    "name": "Albert (Event)"
+    "name": "Albert (Event)",
+    "maxUncap": 4
   },
   "3030178000": {
-    "name": "Jin (Summer)"
+    "name": "Jin (Summer)",
+    "maxUncap": 4
   },
   "3030179000": {
-    "name": "Arisa"
+    "name": "Arisa",
+    "maxUncap": 4
   },
   "3030180000": {
-    "name": "Luna"
+    "name": "Luna",
+    "maxUncap": 4
   },
   "3030181000": {
-    "name": "Tyre"
+    "name": "Tyre",
+    "maxUncap": 4
   },
   "3030182000": {
-    "name": "Lyria (Event)"
+    "name": "Lyria (Event)",
+    "maxUncap": 5
   },
   "3030183000": {
-    "name": "Vermeil (SR)"
+    "name": "Vermeil (SR)",
+    "maxUncap": 4
   },
   "3030184000": {
-    "name": "Cain"
+    "name": "Cain",
+    "maxUncap": 4
   },
   "3030185000": {
-    "name": "Ludmila"
+    "name": "Ludmila",
+    "maxUncap": 4
   },
   "3030186000": {
-    "name": "Lamretta (Water)"
+    "name": "Lamretta (Water)",
+    "maxUncap": 4
   },
   "3030187000": {
-    "name": "Sutera (Event)"
+    "name": "Sutera (Event)",
+    "maxUncap": 4
   },
   "3030188000": {
-    "name": "Deliford (SR)"
+    "name": "Deliford (SR)",
+    "maxUncap": 4
   },
   "3030189000": {
-    "name": "Cagliostro (Event)"
+    "name": "Cagliostro (Event)",
+    "maxUncap": 4
   },
   "3030190000": {
-    "name": "Predator"
+    "name": "Predator",
+    "maxUncap": 4
   },
   "3030191000": {
-    "name": "Sevastien"
+    "name": "Sevastien",
+    "maxUncap": 4
   },
   "3030192000": {
-    "name": "Charlotta (Event)"
+    "name": "Charlotta (Event)",
+    "maxUncap": 4
   },
   "3030193000": {
-    "name": "Minami Nitta"
+    "name": "Minami Nitta",
+    "maxUncap": 4
   },
   "3030194000": {
-    "name": "Shiki Ichinose"
+    "name": "Shiki Ichinose",
+    "maxUncap": 4
   },
   "3030195000": {
-    "name": "Jeanne d&#039;Arc (SR)"
+    "name": "Jeanne d&#039;Arc (SR)",
+    "maxUncap": 4
   },
   "3030196000": {
-    "name": "Jamil (Dark)"
+    "name": "Jamil (Dark)",
+    "maxUncap": 4
   },
   "3030197000": {
-    "name": "Walder (Event)"
+    "name": "Walder (Event)",
+    "maxUncap": 5
   },
   "3030198000": {
-    "name": "Charlotta (Summer)"
+    "name": "Charlotta (Summer)",
+    "maxUncap": 4
   },
   "3030199000": {
-    "name": "Ayer (Summer)"
+    "name": "Ayer (Summer)",
+    "maxUncap": 4
   },
   "3030200000": {
-    "name": "Carren (Event)"
+    "name": "Carren (Event)",
+    "maxUncap": 4
   },
   "3030201000": {
-    "name": "Ghandagoza (Summer)"
+    "name": "Ghandagoza (Summer)",
+    "maxUncap": 4
   },
   "3030202000": {
-    "name": "Chloe (Summer)"
+    "name": "Chloe (Summer)",
+    "maxUncap": 4
   },
   "3030203000": {
-    "name": "Blazing Teacher Elmott"
+    "name": "Blazing Teacher Elmott",
+    "maxUncap": 4
   },
   "3030204000": {
-    "name": "Grea (Event)"
+    "name": "Grea (Event)",
+    "maxUncap": 4
   },
   "3030205000": {
-    "name": "Izuminokami Kanesada"
+    "name": "Izuminokami Kanesada",
+    "maxUncap": 4
   },
   "3030206000": {
-    "name": "Yamanbagiri Kunihiro"
+    "name": "Yamanbagiri Kunihiro",
+    "maxUncap": 4
   },
   "3030207000": {
-    "name": "Owen"
+    "name": "Owen",
+    "maxUncap": 4
   },
   "3030208000": {
-    "name": "Reinhardtzar"
+    "name": "Reinhardtzar",
+    "maxUncap": 4
   },
   "3030209000": {
-    "name": "Sarya"
+    "name": "Sarya",
+    "maxUncap": 4
   },
   "3030210000": {
-    "name": "Ezecrain (Event)"
+    "name": "Ezecrain (Event)",
+    "maxUncap": 4
   },
   "3030220000": {
-    "name": "Mimlemel and Pun-Kin (Halloween)"
+    "name": "Mimlemel and Pun-Kin (Halloween)",
+    "maxUncap": 4
   },
   "3030221000": {
-    "name": "Vania (SR)"
+    "name": "Vania (SR)",
+    "maxUncap": 4
   },
   "3030222000": {
-    "name": "Karteira (SR)"
+    "name": "Karteira (SR)",
+    "maxUncap": 4
   },
   "3030223000": {
-    "name": "Yuel (Event)"
+    "name": "Yuel (Event)",
+    "maxUncap": 4
   },
   "3030224000": {
-    "name": "Mirin"
+    "name": "Mirin",
+    "maxUncap": 5
   },
   "3030225000": {
-    "name": "Sophia (SR)"
+    "name": "Sophia (SR)",
+    "maxUncap": 4
   },
   "3030226000": {
-    "name": "Arthur (Event)"
+    "name": "Arthur (Event)",
+    "maxUncap": 4
   },
   "3030227000": {
-    "name": "Mikasa"
+    "name": "Mikasa",
+    "maxUncap": 4
   },
   "3030228000": {
-    "name": "Feena (Holiday)"
+    "name": "Feena (Holiday)",
+    "maxUncap": 4
   },
   "3030229000": {
-    "name": "Mahira (Event)"
+    "name": "Mahira (Event)",
+    "maxUncap": 4
   },
   "3030230000": {
-    "name": "Karva (SR)"
+    "name": "Karva (SR)",
+    "maxUncap": 4
   },
   "3030231000": {
-    "name": "Zeta (Event)"
+    "name": "Zeta (Event)",
+    "maxUncap": 4
   },
   "3030232000": {
-    "name": "Ippatsu (SR)"
+    "name": "Ippatsu (SR)",
+    "maxUncap": 4
   },
   "3030233000": {
-    "name": "Zooey (Event)"
+    "name": "Zooey (Event)",
+    "maxUncap": 4
   },
   "3030234000": {
-    "name": "Randall (SR)"
+    "name": "Randall (SR)",
+    "maxUncap": 4
   },
   "3030235000": {
-    "name": "Narmaya (Valentine)"
+    "name": "Narmaya (Valentine)",
+    "maxUncap": 4
   },
   "3030236000": {
-    "name": "Teena (Valentine)"
+    "name": "Teena (Valentine)",
+    "maxUncap": 4
   },
   "3030237000": {
-    "name": "Nezahualpilli (SR)"
+    "name": "Nezahualpilli (SR)",
+    "maxUncap": 4
   },
   "3030238000": {
-    "name": "Tōru Amuro"
+    "name": "Tōru Amuro",
+    "maxUncap": 4
   },
   "3030239000": {
-    "name": "Barawa (SR)"
+    "name": "Barawa (SR)",
+    "maxUncap": 4
   },
   "3030240000": {
-    "name": "Carmelina (SR)"
+    "name": "Carmelina (SR)",
+    "maxUncap": 4
   },
   "3030241000": {
-    "name": "Leona"
+    "name": "Leona",
+    "maxUncap": 4
   },
   "3030242000": {
-    "name": "Aliza (Water)"
+    "name": "Aliza (Water)",
+    "maxUncap": 4
   },
   "3030243000": {
-    "name": "Vanzza (SR)"
+    "name": "Vanzza (SR)",
+    "maxUncap": 4
   },
   "3030244000": {
-    "name": "Elta (Light)"
+    "name": "Elta (Light)",
+    "maxUncap": 4
   },
   "3030245000": {
-    "name": "Yuisis (Yukata)"
+    "name": "Yuisis (Yukata)",
+    "maxUncap": 4
   },
   "3030246000": {
-    "name": "Olivia (Event)"
+    "name": "Olivia (Event)",
+    "maxUncap": 4
   },
   "3030247000": {
-    "name": "Lilele (Summer)"
+    "name": "Lilele (Summer)",
+    "maxUncap": 4
   },
   "3030248000": {
-    "name": "Farrah (Summer)"
+    "name": "Farrah (Summer)",
+    "maxUncap": 4
   },
   "3030249000": {
-    "name": "Arulumaya (Yukata)"
+    "name": "Arulumaya (Yukata)",
+    "maxUncap": 4
   },
   "3030250000": {
-    "name": "Almeida (Summer)"
+    "name": "Almeida (Summer)",
+    "maxUncap": 4
   },
   "3030251000": {
-    "name": "Cailana (SR)"
+    "name": "Cailana (SR)",
+    "maxUncap": 4
   },
   "3030252000": {
-    "name": "The Lowain Bros"
+    "name": "The Lowain Bros",
+    "maxUncap": 4
   },
   "3030253000": {
-    "name": "Juri"
+    "name": "Juri",
+    "maxUncap": 4
   },
   "3030254000": {
-    "name": "Feather (Halloween)"
+    "name": "Feather (Halloween)",
+    "maxUncap": 4
   },
   "3030255000": {
-    "name": "Arthur and Mordred"
+    "name": "Arthur and Mordred",
+    "maxUncap": 4
   },
   "3030256000": {
-    "name": "Rosine (SR)"
+    "name": "Rosine (SR)",
+    "maxUncap": 4
   },
   "3030257000": {
-    "name": "Razia (SR)"
+    "name": "Razia (SR)",
+    "maxUncap": 4
   },
   "3030258000": {
-    "name": "Sevilbarra (Event)"
+    "name": "Sevilbarra (Event)",
+    "maxUncap": 4
   },
   "3030259000": {
-    "name": "Yaia (Holiday)"
+    "name": "Yaia (Holiday)",
+    "maxUncap": 4
   },
   "3030261000": {
-    "name": "Beatrix (SR)"
+    "name": "Beatrix (SR)",
+    "maxUncap": 4
   },
   "3030262000": {
-    "name": "Cassius (Event)"
+    "name": "Cassius (Event)",
+    "maxUncap": 4
   },
   "3030263000": {
-    "name": "Skull"
+    "name": "Skull",
+    "maxUncap": 4
   },
   "3030264000": {
-    "name": "Catherine (SR)"
+    "name": "Catherine (SR)",
+    "maxUncap": 4
   },
   "3030265000": {
-    "name": "Mirin (Light)"
+    "name": "Mirin (Light)",
+    "maxUncap": 4
   },
   "3030266000": {
-    "name": "Korwa (SR)"
+    "name": "Korwa (SR)",
+    "maxUncap": 4
   },
   "3030267000": {
-    "name": "Richard (SR)"
+    "name": "Richard (SR)",
+    "maxUncap": 4
   },
   "3030268000": {
-    "name": "Aster"
+    "name": "Aster",
+    "maxUncap": 4
   },
   "3030269000": {
-    "name": "Bridgette and Cordelia"
+    "name": "Bridgette and Cordelia",
+    "maxUncap": 4
   },
   "3030270000": {
-    "name": "Philosophia (SR)"
+    "name": "Philosophia (SR)",
+    "maxUncap": 4
   },
   "3030271000": {
-    "name": "Friday (Summer)"
+    "name": "Friday (Summer)",
+    "maxUncap": 4
   },
   "3030272000": {
-    "name": "Lancelot and Vane (Summer)"
+    "name": "Lancelot and Vane (Summer)",
+    "maxUncap": 4
   },
   "3030273000": {
-    "name": "Cassius (Yukata)"
+    "name": "Cassius (Yukata)",
+    "maxUncap": 4
   },
   "3030274000": {
-    "name": "Leona (Yukata)"
+    "name": "Leona (Yukata)",
+    "maxUncap": 4
   },
   "3030275000": {
-    "name": "La Coiffe (SR)"
+    "name": "La Coiffe (SR)",
+    "maxUncap": 4
   },
   "3030276000": {
-    "name": "Zaja (Halloween)"
+    "name": "Zaja (Halloween)",
+    "maxUncap": 4
   },
   "3030277000": {
-    "name": "You (Event)"
+    "name": "You (Event)",
+    "maxUncap": 4
   },
   "3030278000": {
-    "name": "Krugne (SR)"
+    "name": "Krugne (SR)",
+    "maxUncap": 4
   },
   "3030279000": {
-    "name": "Kumbhira (Event)"
+    "name": "Kumbhira (Event)",
+    "maxUncap": 4
   },
   "3030280000": {
-    "name": "Joy (Event)"
+    "name": "Joy (Event)",
+    "maxUncap": 4
   },
   "3030290000": {
-    "name": "Meg (Event)"
+    "name": "Meg (Event)",
+    "maxUncap": 4
   },
   "3030300000": {
-    "name": "Tyre (Yukata)"
+    "name": "Tyre (Yukata)",
+    "maxUncap": 4
   },
   "3030310000": {
-    "name": "Ferry (Summer)"
+    "name": "Ferry (Summer)",
+    "maxUncap": 4
   },
   "3030320000": {
-    "name": "Joel (SR)"
+    "name": "Joel (SR)",
+    "maxUncap": 4
   },
   "3030321000": {
-    "name": "Wulf and Renie (Halloween)"
+    "name": "Wulf and Renie (Halloween)",
+    "maxUncap": 4
   },
   "3030322000": {
-    "name": "Spinnah (Holiday)"
+    "name": "Spinnah (Holiday)",
+    "maxUncap": 4
   },
   "3040000000": {
-    "name": "Gawain"
+    "name": "Gawain",
+    "maxUncap": 5
   },
   "3040001000": {
-    "name": "Altair"
+    "name": "Altair",
+    "maxUncap": 5
   },
   "3040002000": {
-    "name": "Aletheia"
+    "name": "Aletheia",
+    "maxUncap": 5
   },
   "3040003000": {
-    "name": "Nezahualpilli"
+    "name": "Nezahualpilli",
+    "maxUncap": 5
   },
   "3040004000": {
-    "name": "De La Fille"
+    "name": "De La Fille",
+    "maxUncap": 5
   },
   "3040005000": {
-    "name": "Lady Grey"
+    "name": "Lady Grey",
+    "maxUncap": 5
   },
   "3040006000": {
-    "name": "Yuel"
+    "name": "Yuel",
+    "maxUncap": 5
   },
   "3040007000": {
-    "name": "Lily"
+    "name": "Lily",
+    "maxUncap": 5
   },
   "3040008000": {
-    "name": "Sarunan"
+    "name": "Sarunan",
+    "maxUncap": 5
   },
   "3040009000": {
-    "name": "Cagliostro"
+    "name": "Cagliostro",
+    "maxUncap": 5
   },
   "3040010000": {
-    "name": "Charlotta"
+    "name": "Charlotta",
+    "maxUncap": 5
   },
   "3040011000": {
-    "name": "Magisa"
+    "name": "Magisa",
+    "maxUncap": 5
   },
   "3040012000": {
-    "name": "Metera"
+    "name": "Metera",
+    "maxUncap": 5
   },
   "3040013000": {
-    "name": "Seruel"
+    "name": "Seruel",
+    "maxUncap": 5
   },
   "3040014000": {
-    "name": "De La Fille (Summer)"
+    "name": "De La Fille (Summer)",
+    "maxUncap": 4
   },
   "3040015000": {
-    "name": "Io (Summer)"
+    "name": "Io (Summer)",
+    "maxUncap": 4
   },
   "3040016000": {
-    "name": "Cerberus"
+    "name": "Cerberus",
+    "maxUncap": 5
   },
   "3040017000": {
-    "name": "Agielba"
+    "name": "Agielba",
+    "maxUncap": 5
   },
   "3040018000": {
-    "name": "Christina"
+    "name": "Christina",
+    "maxUncap": 5
   },
   "3040019000": {
-    "name": "Arulumaya"
+    "name": "Arulumaya",
+    "maxUncap": 5
   },
   "3040020000": {
-    "name": "Charlotta (Halloween)"
+    "name": "Charlotta (Halloween)",
+    "maxUncap": 4
   },
   "3040021000": {
-    "name": "Lennah"
+    "name": "Lennah",
+    "maxUncap": 5
   },
   "3040022000": {
-    "name": "Melleau"
+    "name": "Melleau",
+    "maxUncap": 5
   },
   "3040023000": {
-    "name": "Lancelot"
+    "name": "Lancelot",
+    "maxUncap": 5
   },
   "3040024000": {
-    "name": "Sophia"
+    "name": "Sophia",
+    "maxUncap": 4
   },
   "3040025000": {
-    "name": "Siegfried"
+    "name": "Siegfried",
+    "maxUncap": 5
   },
   "3040026000": {
-    "name": "Rosetta (Holiday)"
+    "name": "Rosetta (Holiday)",
+    "maxUncap": 4
   },
   "3040027000": {
-    "name": "Anila"
+    "name": "Anila",
+    "maxUncap": 5
   },
   "3040028000": {
-    "name": "Zeta"
+    "name": "Zeta",
+    "maxUncap": 5
   },
   "3040029000": {
-    "name": "Vaseraga"
+    "name": "Vaseraga",
+    "maxUncap": 5
   },
   "3040030000": {
-    "name": "Anre"
+    "name": "Anre",
+    "maxUncap": 6
   },
   "3040031000": {
-    "name": "Tweyen"
+    "name": "Tweyen",
+    "maxUncap": 6
   },
   "3040032000": {
-    "name": "Threo"
+    "name": "Threo",
+    "maxUncap": 6
   },
   "3040033000": {
-    "name": "Feower"
+    "name": "Feower",
+    "maxUncap": 6
   },
   "3040034000": {
-    "name": "Fif"
+    "name": "Fif",
+    "maxUncap": 6
   },
   "3040035000": {
-    "name": "Seox"
+    "name": "Seox",
+    "maxUncap": 6
   },
   "3040036000": {
-    "name": "Seofon"
+    "name": "Seofon",
+    "maxUncap": 6
   },
   "3040037000": {
-    "name": "Eahta"
+    "name": "Eahta",
+    "maxUncap": 6
   },
   "3040038000": {
-    "name": "Niyon"
+    "name": "Niyon",
+    "maxUncap": 6
   },
   "3040039000": {
-    "name": "Tien"
+    "name": "Tien",
+    "maxUncap": 6
   },
   "3040040000": {
-    "name": "Jeanne d&#039;Arc"
+    "name": "Jeanne d&#039;Arc",
+    "maxUncap": 5
   },
   "3040041000": {
-    "name": "Sara"
+    "name": "Sara",
+    "maxUncap": 5
   },
   "3040042000": {
-    "name": "Carmelina"
+    "name": "Carmelina",
+    "maxUncap": 4
   },
   "3040043000": {
-    "name": "Vira (SSR)"
+    "name": "Vira (SSR)",
+    "maxUncap": 5
   },
   "3040044000": {
-    "name": "Societte"
+    "name": "Societte",
+    "maxUncap": 5
   },
   "3040045000": {
-    "name": "Albert"
+    "name": "Albert",
+    "maxUncap": 5
   },
   "3040046000": {
-    "name": "Clarisse"
+    "name": "Clarisse",
+    "maxUncap": 5
   },
   "3040047000": {
-    "name": "Petra (SSR)"
+    "name": "Petra (SSR)",
+    "maxUncap": 5
   },
   "3040048000": {
-    "name": "Sarunan (Dark)"
+    "name": "Sarunan (Dark)",
+    "maxUncap": 4
   },
   "3040049000": {
-    "name": "Silva"
+    "name": "Silva",
+    "maxUncap": 5
   },
   "3040050000": {
-    "name": "Percival"
+    "name": "Percival",
+    "maxUncap": 5
   },
   "3040051000": {
-    "name": "Amira"
+    "name": "Amira",
+    "maxUncap": 5
   },
   "3040052000": {
-    "name": "Ghandagoza"
+    "name": "Ghandagoza",
+    "maxUncap": 5
   },
   "3040053000": {
-    "name": "Vira (Summer)"
+    "name": "Vira (Summer)",
+    "maxUncap": 4
   },
   "3040054000": {
-    "name": "Katalina (Grand)"
+    "name": "Katalina (Grand)",
+    "maxUncap": 5
   },
   "3040055000": {
-    "name": "Danua (Summer)"
+    "name": "Danua (Summer)",
+    "maxUncap": 4
   },
   "3040056000": {
-    "name": "Zeta (Summer)"
+    "name": "Zeta (Summer)",
+    "maxUncap": 4
   },
   "3040057000": {
-    "name": "Vania"
+    "name": "Vania",
+    "maxUncap": 5
   },
   "3040058000": {
-    "name": "Arriet"
+    "name": "Arriet",
+    "maxUncap": 5
   },
   "3040059000": {
-    "name": "Rackam (Grand)"
+    "name": "Rackam (Grand)",
+    "maxUncap": 5
   },
   "3040060000": {
-    "name": "Heles"
+    "name": "Heles",
+    "maxUncap": 5
   },
   "3040061000": {
-    "name": "Feena"
+    "name": "Feena",
+    "maxUncap": 4
   },
   "3040062000": {
-    "name": "Cagliostro (Halloween)"
+    "name": "Cagliostro (Halloween)",
+    "maxUncap": 4
   },
   "3040063000": {
-    "name": "Narmaya"
+    "name": "Narmaya",
+    "maxUncap": 5
   },
   "3040064000": {
-    "name": "Yodarha (SSR)"
+    "name": "Yodarha (SSR)",
+    "maxUncap": 5
   },
   "3040065000": {
-    "name": "Io (Grand)"
+    "name": "Io (Grand)",
+    "maxUncap": 5
   },
   "3040066000": {
-    "name": "Lilele"
+    "name": "Lilele",
+    "maxUncap": 4
   },
   "3040067000": {
-    "name": "Clarisse (Holiday)"
+    "name": "Clarisse (Holiday)",
+    "maxUncap": 4
   },
   "3040068000": {
-    "name": "Rosetta (Grand)"
+    "name": "Rosetta (Grand)",
+    "maxUncap": 5
   },
   "3040069000": {
-    "name": "Eustace"
+    "name": "Eustace",
+    "maxUncap": 4
   },
   "3040070000": {
-    "name": "Beatrix"
+    "name": "Beatrix",
+    "maxUncap": 4
   },
   "3040071000": {
-    "name": "Andira"
+    "name": "Andira",
+    "maxUncap": 5
   },
   "3040072000": {
-    "name": "Metera (Fire)"
+    "name": "Metera (Fire)",
+    "maxUncap": 4
   },
   "3040073000": {
-    "name": "Ferry (SSR)"
+    "name": "Ferry (SSR)",
+    "maxUncap": 5
   },
   "3040074000": {
-    "name": "Catherine"
+    "name": "Catherine",
+    "maxUncap": 4
   },
   "3040075000": {
-    "name": "Zahlhamelina"
+    "name": "Zahlhamelina",
+    "maxUncap": 4
   },
   "3040076000": {
-    "name": "Aoidos"
+    "name": "Aoidos",
+    "maxUncap": 5
   },
   "3040077000": {
-    "name": "Eugen (Grand)"
+    "name": "Eugen (Grand)",
+    "maxUncap": 5
   },
   "3040078000": {
-    "name": "Zooey (Promo)"
+    "name": "Zooey (Promo)",
+    "maxUncap": 4
   },
   "3040079000": {
-    "name": "Hallessena"
+    "name": "Hallessena",
+    "maxUncap": 5
   },
   "3040080000": {
-    "name": "Jeanne d&#039;Arc (Dark)"
+    "name": "Jeanne d&#039;Arc (Dark)",
+    "maxUncap": 4
   },
   "3040081000": {
-    "name": "Korwa"
+    "name": "Korwa",
+    "maxUncap": 4
   },
   "3040082000": {
-    "name": "Black Knight"
+    "name": "Black Knight",
+    "maxUncap": 5
   },
   "3040083000": {
-    "name": "Aliza"
+    "name": "Aliza",
+    "maxUncap": 4
   },
   "3040084000": {
-    "name": "Ayer"
+    "name": "Ayer",
+    "maxUncap": 5
   },
   "3040085000": {
-    "name": "Nemone"
+    "name": "Nemone",
+    "maxUncap": 4
   },
   "3040086000": {
-    "name": "Forte"
+    "name": "Forte",
+    "maxUncap": 4
   },
   "3040087000": {
-    "name": "Rosamia (SSR)"
+    "name": "Rosamia (SSR)",
+    "maxUncap": 4
   },
   "3040088000": {
-    "name": "Yngwie"
+    "name": "Yngwie",
+    "maxUncap": 5
   },
   "3040089000": {
-    "name": "Narmaya (Summer)"
+    "name": "Narmaya (Summer)",
+    "maxUncap": 4
   },
   "3040090000": {
-    "name": "Percival (Summer)"
+    "name": "Percival (Summer)",
+    "maxUncap": 4
   },
   "3040091000": {
-    "name": "Heles (Summer)"
+    "name": "Heles (Summer)",
+    "maxUncap": 4
   },
   "3040092000": {
-    "name": "Zooey (Grand)"
+    "name": "Zooey (Grand)",
+    "maxUncap": 4
   },
   "3040093000": {
-    "name": "Chat Noir"
+    "name": "Chat Noir",
+    "maxUncap": 5
   },
   "3040094000": {
-    "name": "Veight"
+    "name": "Veight",
+    "maxUncap": 5
   },
   "3040095000": {
-    "name": "Societte (Fire)"
+    "name": "Societte (Fire)",
+    "maxUncap": 4
   },
   "3040096000": {
-    "name": "Juliet"
+    "name": "Juliet",
+    "maxUncap": 4
   },
   "3040098000": {
-    "name": "Romeo"
+    "name": "Romeo",
+    "maxUncap": 5
   },
   "3040099000": {
-    "name": "Eustace (Halloween)"
+    "name": "Eustace (Halloween)",
+    "maxUncap": 4
   },
   "3040100000": {
-    "name": "Izmir"
+    "name": "Izmir",
+    "maxUncap": 5
   },
   "3040101000": {
-    "name": "Lecia (Grand)"
+    "name": "Lecia (Grand)",
+    "maxUncap": 4
   },
   "3040102000": {
-    "name": "Melissabelle"
+    "name": "Melissabelle",
+    "maxUncap": 5
   },
   "3040103000": {
-    "name": "Anthuria"
+    "name": "Anthuria",
+    "maxUncap": 4
   },
   "3040104000": {
-    "name": "Arulumaya (Holiday)"
+    "name": "Arulumaya (Holiday)",
+    "maxUncap": 4
   },
   "3040105000": {
-    "name": "Yuisis"
+    "name": "Yuisis",
+    "maxUncap": 5
   },
   "3040106000": {
-    "name": "Lucio"
+    "name": "Lucio",
+    "maxUncap": 5
   },
   "3040107000": {
-    "name": "Mahira"
+    "name": "Mahira",
+    "maxUncap": 5
   },
   "3040108000": {
-    "name": "Marquiares"
+    "name": "Marquiares",
+    "maxUncap": 5
   },
   "3040109000": {
-    "name": "Razia"
+    "name": "Razia",
+    "maxUncap": 5
   },
   "3040110000": {
-    "name": "Beatrix (Summer)"
+    "name": "Beatrix (Summer)",
+    "maxUncap": 4
   },
   "3040111000": {
-    "name": "Orchid (Grand)"
+    "name": "Orchid (Grand)",
+    "maxUncap": 5
   },
   "3040112000": {
-    "name": "Zeta (Dark)"
+    "name": "Zeta (Dark)",
+    "maxUncap": 4
   },
   "3040113000": {
-    "name": "De La Fille (Earth)"
+    "name": "De La Fille (Earth)",
+    "maxUncap": 4
   },
   "3040115000": {
-    "name": "Sturm (Grand)"
+    "name": "Sturm (Grand)",
+    "maxUncap": 4
   },
   "3040116000": {
-    "name": "Lady Katapillar and Vira"
+    "name": "Lady Katapillar and Vira",
+    "maxUncap": 4
   },
   "3040117000": {
-    "name": "Vane (SSR)"
+    "name": "Vane (SSR)",
+    "maxUncap": 5
   },
   "3040118000": {
-    "name": "Katalina (Promo)"
+    "name": "Katalina (Promo)",
+    "maxUncap": 4
   },
   "3040119000": {
-    "name": "Drang (Grand)"
+    "name": "Drang (Grand)",
+    "maxUncap": 4
   },
   "3040120000": {
-    "name": "Cagliostro (Dark)"
+    "name": "Cagliostro (Dark)",
+    "maxUncap": 4
   },
   "3040121000": {
-    "name": "Clarisse (Light)"
+    "name": "Clarisse (Light)",
+    "maxUncap": 4
   },
   "3040122000": {
-    "name": "Scathacha"
+    "name": "Scathacha",
+    "maxUncap": 5
   },
   "3040123000": {
-    "name": "Medusa (Promo)"
+    "name": "Medusa (Promo)",
+    "maxUncap": 4
   },
   "3040124000": {
-    "name": "Baotorda (SSR)"
+    "name": "Baotorda (SSR)",
+    "maxUncap": 4
   },
   "3040125000": {
-    "name": "Yggdrasil"
+    "name": "Yggdrasil",
+    "maxUncap": 5
   },
   "3040126000": {
-    "name": "Izmir (Summer)"
+    "name": "Izmir (Summer)",
+    "maxUncap": 4
   },
   "3040127000": {
-    "name": "Korwa (Summer)"
+    "name": "Korwa (Summer)",
+    "maxUncap": 4
   },
   "3040128000": {
-    "name": "Siegfried (Yukata)"
+    "name": "Siegfried (Yukata)",
+    "maxUncap": 4
   },
   "3040129000": {
-    "name": "Diantha (Summer)"
+    "name": "Diantha (Summer)",
+    "maxUncap": 4
   },
   "3040130000": {
-    "name": "Grea"
+    "name": "Grea",
+    "maxUncap": 4
   },
   "3040131000": {
-    "name": "Mikazuki Munechika"
+    "name": "Mikazuki Munechika",
+    "maxUncap": 4
   },
   "3040132000": {
-    "name": "Anne"
+    "name": "Anne",
+    "maxUncap": 5
   },
   "3040133000": {
-    "name": "Nina Drango"
+    "name": "Nina Drango",
+    "maxUncap": 4
   },
   "3040134000": {
-    "name": "Dorothy and Claudia"
+    "name": "Dorothy and Claudia",
+    "maxUncap": 4
   },
   "3040135000": {
-    "name": "Danua (Halloween)"
+    "name": "Danua (Halloween)",
+    "maxUncap": 4
   },
   "3040136000": {
-    "name": "Sakura Kinomoto"
+    "name": "Sakura Kinomoto",
+    "maxUncap": 5
   },
   "3040137000": {
-    "name": "Azazel"
+    "name": "Azazel",
+    "maxUncap": 4
   },
   "3040138000": {
-    "name": "Yuel (Water)"
+    "name": "Yuel (Water)",
+    "maxUncap": 4
   },
   "3040140000": {
-    "name": "Lancelot (Wind)"
+    "name": "Lancelot (Wind)",
+    "maxUncap": 4
   },
   "3040141000": {
-    "name": "Vira (Grand)"
+    "name": "Vira (Grand)",
+    "maxUncap": 5
   },
   "3040142000": {
-    "name": "Levi"
+    "name": "Levi",
+    "maxUncap": 4
   },
   "3040143000": {
-    "name": "Mary (Holiday)"
+    "name": "Mary (Holiday)",
+    "maxUncap": 4
   },
   "3040144000": {
-    "name": "Charioce XVII"
+    "name": "Charioce XVII",
+    "maxUncap": 4
   },
   "3040145000": {
-    "name": "Olivia (Grand)"
+    "name": "Olivia (Grand)",
+    "maxUncap": 4
   },
   "3040146000": {
-    "name": "Vaseraga (Earth)"
+    "name": "Vaseraga (Earth)",
+    "maxUncap": 4
   },
   "3040147000": {
-    "name": "Vajra"
+    "name": "Vajra",
+    "maxUncap": 5
   },
   "3040148000": {
-    "name": "Ilsa"
+    "name": "Ilsa",
+    "maxUncap": 4
   },
   "3040149000": {
-    "name": "Therese (SSR)"
+    "name": "Therese (SSR)",
+    "maxUncap": 4
   },
   "3040150000": {
-    "name": "Zooey"
+    "name": "Zooey",
+    "maxUncap": 5
   },
   "3040151000": {
-    "name": "Medusa (Valentine)"
+    "name": "Medusa (Valentine)",
+    "maxUncap": 4
   },
   "3040152000": {
-    "name": "Tiamat"
+    "name": "Tiamat",
+    "maxUncap": 5
   },
   "3040153000": {
-    "name": "Sandalphon (Event)"
+    "name": "Sandalphon (Event)",
+    "maxUncap": 5
   },
   "3040154000": {
-    "name": "Jeanne d&#039;Arc (Summer)"
+    "name": "Jeanne d&#039;Arc (Summer)",
+    "maxUncap": 4
   },
   "3040155000": {
-    "name": "Robomi"
+    "name": "Robomi",
+    "maxUncap": 4
   },
   "3040156000": {
-    "name": "Nicholas"
+    "name": "Nicholas",
+    "maxUncap": 4
   },
   "3040157000": {
-    "name": "Conan Edogawa"
+    "name": "Conan Edogawa",
+    "maxUncap": 4
   },
   "3040158000": {
-    "name": "Alexiel"
+    "name": "Alexiel",
+    "maxUncap": 5
   },
   "3040159000": {
-    "name": "Cucouroux (SSR)"
+    "name": "Cucouroux (SSR)",
+    "maxUncap": 4
   },
   "3040160000": {
-    "name": "Maria Theresa"
+    "name": "Maria Theresa",
+    "maxUncap": 5
   },
   "3040161000": {
-    "name": "Fraux"
+    "name": "Fraux",
+    "maxUncap": 5
   },
   "3040162000": {
-    "name": "Geisenborger"
+    "name": "Geisenborger",
+    "maxUncap": 5
   },
   "3040163000": {
-    "name": "Estarriola"
+    "name": "Estarriola",
+    "maxUncap": 5
   },
   "3040164000": {
-    "name": "Caim"
+    "name": "Caim",
+    "maxUncap": 5
   },
   "3040165000": {
-    "name": "Lobelia"
+    "name": "Lobelia",
+    "maxUncap": 5
   },
   "3040166000": {
-    "name": "Katzelia"
+    "name": "Katzelia",
+    "maxUncap": 5
   },
   "3040167000": {
-    "name": "Alanaan"
+    "name": "Alanaan",
+    "maxUncap": 5
   },
   "3040168000": {
-    "name": "Haaselia"
+    "name": "Haaselia",
+    "maxUncap": 5
   },
   "3040169000": {
-    "name": "Nier"
+    "name": "Nier",
+    "maxUncap": 5
   },
   "3040170000": {
-    "name": "Soriz (SSR)"
+    "name": "Soriz (SSR)",
+    "maxUncap": 5
   },
   "3040171000": {
-    "name": "Cain (Grand)"
+    "name": "Cain (Grand)",
+    "maxUncap": 4
   },
   "3040172000": {
-    "name": "Lunalu (SSR)"
+    "name": "Lunalu (SSR)",
+    "maxUncap": 5
   },
   "3040173000": {
-    "name": "Joker"
+    "name": "Joker",
+    "maxUncap": 5
   },
   "3040174000": {
-    "name": "Wulf and Renie"
+    "name": "Wulf and Renie",
+    "maxUncap": 4
   },
   "3040175000": {
-    "name": "Selfira"
+    "name": "Selfira",
+    "maxUncap": 4
   },
   "3040176000": {
-    "name": "Rosetta (Summer)"
+    "name": "Rosetta (Summer)",
+    "maxUncap": 4
   },
   "3040177000": {
-    "name": "Ilsa (Summer)"
+    "name": "Ilsa (Summer)",
+    "maxUncap": 4
   },
   "3040178000": {
-    "name": "Naoise (Summer)"
+    "name": "Naoise (Summer)",
+    "maxUncap": 4
   },
   "3040179000": {
-    "name": "Grea (Summer)"
+    "name": "Grea (Summer)",
+    "maxUncap": 4
   },
   "3040180000": {
-    "name": "Tsubasa"
+    "name": "Tsubasa",
+    "maxUncap": 4
   },
   "3040181000": {
-    "name": "Pholia"
+    "name": "Pholia",
+    "maxUncap": 4
   },
   "3040182000": {
-    "name": "Freezie"
+    "name": "Freezie",
+    "maxUncap": 4
   },
   "3040183000": {
-    "name": "Aqours Second-Years"
+    "name": "Aqours Second-Years",
+    "maxUncap": 5
   },
   "3040184000": {
-    "name": "Aqours First-Years"
+    "name": "Aqours First-Years",
+    "maxUncap": 4
   },
   "3040185000": {
-    "name": "Aqours Third-Years"
+    "name": "Aqours Third-Years",
+    "maxUncap": 4
   },
   "3040186000": {
-    "name": "Monika"
+    "name": "Monika",
+    "maxUncap": 4
   },
   "3040187000": {
-    "name": "Silva (Light)"
+    "name": "Silva (Light)",
+    "maxUncap": 4
   },
   "3040188000": {
-    "name": "Cure Black and Cure White"
+    "name": "Cure Black and Cure White",
+    "maxUncap": 4
   },
   "3040189000": {
-    "name": "Lady Grey (Halloween)"
+    "name": "Lady Grey (Halloween)",
+    "maxUncap": 4
   },
   "3040190000": {
-    "name": "Europa"
+    "name": "Europa",
+    "maxUncap": 5
   },
   "3040191000": {
-    "name": "Lancelot and Vane"
+    "name": "Lancelot and Vane",
+    "maxUncap": 4
   },
   "3040192000": {
-    "name": "Aglovale"
+    "name": "Aglovale",
+    "maxUncap": 4
   },
   "3040193000": {
-    "name": "Levin Sisters"
+    "name": "Levin Sisters",
+    "maxUncap": 4
   },
   "3040194000": {
-    "name": "Charlotta (Light)"
+    "name": "Charlotta (Light)",
+    "maxUncap": 4
   },
   "3040195000": {
-    "name": "Metera (Holiday)"
+    "name": "Metera (Holiday)",
+    "maxUncap": 4
   },
   "3040196000": {
-    "name": "Shiva"
+    "name": "Shiva",
+    "maxUncap": 5
   },
   "3040197000": {
-    "name": "Kumbhira"
+    "name": "Kumbhira",
+    "maxUncap": 5
   },
   "3040198000": {
-    "name": "Eustace (Dark)"
+    "name": "Eustace (Dark)",
+    "maxUncap": 5
   },
   "3040199000": {
-    "name": "Yurius"
+    "name": "Yurius",
+    "maxUncap": 5
   },
   "3040200000": {
-    "name": "Pecorine"
+    "name": "Pecorine",
+    "maxUncap": 4
   },
   "3040201000": {
-    "name": "Kokkoro"
+    "name": "Kokkoro",
+    "maxUncap": 4
   },
   "3040202000": {
-    "name": "Athena"
+    "name": "Athena",
+    "maxUncap": 5
   },
   "3040203000": {
-    "name": "Tanya (SSR)"
+    "name": "Tanya (SSR)",
+    "maxUncap": 4
   },
   "3040204000": {
-    "name": "Sen (SSR)"
+    "name": "Sen (SSR)",
+    "maxUncap": 4
   },
   "3040205000": {
-    "name": "Dante and Freiheit"
+    "name": "Dante and Freiheit",
+    "maxUncap": 4
   },
   "3040206000": {
-    "name": "Clarisse (Valentine)"
+    "name": "Clarisse (Valentine)",
+    "maxUncap": 4
   },
   "3040207000": {
-    "name": "Melissabelle (Valentine)"
+    "name": "Melissabelle (Valentine)",
+    "maxUncap": 4
   },
   "3040208000": {
-    "name": "Heles (Wind)"
+    "name": "Heles (Wind)",
+    "maxUncap": 4
   },
   "3040209000": {
-    "name": "Ferry (Grand)"
+    "name": "Ferry (Grand)",
+    "maxUncap": 4
   },
   "3040210000": {
-    "name": "Yuel (Summer)"
+    "name": "Yuel (Summer)",
+    "maxUncap": 4
   },
   "3040211000": {
-    "name": "Vira (Wind)"
+    "name": "Vira (Wind)",
+    "maxUncap": 4
   },
   "3040212000": {
-    "name": "Grimnir"
+    "name": "Grimnir",
+    "maxUncap": 5
   },
   "3040213000": {
-    "name": "Macula Marius"
+    "name": "Macula Marius",
+    "maxUncap": 4
   },
   "3040214000": {
-    "name": "Medusa"
+    "name": "Medusa",
+    "maxUncap": 4
   },
   "3040215000": {
-    "name": "Baal"
+    "name": "Baal",
+    "maxUncap": 4
   },
   "3040216000": {
-    "name": "Karyl"
+    "name": "Karyl",
+    "maxUncap": 4
   },
   "3040217000": {
-    "name": "Ladiva (SSR)"
+    "name": "Ladiva (SSR)",
+    "maxUncap": 4
   },
   "3040218000": {
-    "name": "Morrigna"
+    "name": "Morrigna",
+    "maxUncap": 4
   },
   "3040219000": {
-    "name": "Lelouch Lamperouge"
+    "name": "Lelouch Lamperouge",
+    "maxUncap": 5
   },
   "3040220000": {
-    "name": "Suzaku Kururugi"
+    "name": "Suzaku Kururugi",
+    "maxUncap": 4
   },
   "3040221000": {
-    "name": "Kallen Kouzuki"
+    "name": "Kallen Kouzuki",
+    "maxUncap": 4
   },
   "3040222000": {
-    "name": "Kolulu"
+    "name": "Kolulu",
+    "maxUncap": 4
   },
   "3040223000": {
-    "name": "Halluel and Malluel (Summer)"
+    "name": "Halluel and Malluel (Summer)",
+    "maxUncap": 4
   },
   "3040224000": {
-    "name": "Sandalphon (Summer)"
+    "name": "Sandalphon (Summer)",
+    "maxUncap": 4
   },
   "3040225000": {
-    "name": "Cagliostro (Summer)"
+    "name": "Cagliostro (Summer)",
+    "maxUncap": 4
   },
   "3040226000": {
-    "name": "Europa (Summer)"
+    "name": "Europa (Summer)",
+    "maxUncap": 4
   },
   "3040227000": {
-    "name": "Jessica (Yukata)"
+    "name": "Jessica (Yukata)",
+    "maxUncap": 4
   },
   "3040228000": {
-    "name": "Anthuria (Yukata)"
+    "name": "Anthuria (Yukata)",
+    "maxUncap": 4
   },
   "3040229000": {
-    "name": "Μ&#039;s First-Years"
+    "name": "Μ&#039;s First-Years",
+    "maxUncap": 4
   },
   "3040230000": {
-    "name": "Μ&#039;s Second-Years"
+    "name": "Μ&#039;s Second-Years",
+    "maxUncap": 4
   },
   "3040231000": {
-    "name": "Μ&#039;s Third-Years"
+    "name": "Μ&#039;s Third-Years",
+    "maxUncap": 5
   },
   "3040232000": {
-    "name": "Alexiel (Summer)"
+    "name": "Alexiel (Summer)",
+    "maxUncap": 4
   },
   "3040233000": {
-    "name": "Stan and Aliza"
+    "name": "Stan and Aliza",
+    "maxUncap": 4
   },
   "3040234000": {
-    "name": "Tabina"
+    "name": "Tabina",
+    "maxUncap": 4
   },
   "3040235000": {
-    "name": "Colossus"
+    "name": "Colossus",
+    "maxUncap": 4
   },
   "3040236000": {
-    "name": "Sara (Light)"
+    "name": "Sara (Light)",
+    "maxUncap": 4
   },
   "3040237000": {
-    "name": "Siegfried (Fire)"
+    "name": "Siegfried (Fire)",
+    "maxUncap": 4
   },
   "3040238000": {
-    "name": "Monika (Grand)"
+    "name": "Monika (Grand)",
+    "maxUncap": 4
   },
   "3040239000": {
-    "name": "Zeta and Vaseraga (Halloween)"
+    "name": "Zeta and Vaseraga (Halloween)",
+    "maxUncap": 4
   },
   "3040240000": {
-    "name": "Hallessena (Halloween)"
+    "name": "Hallessena (Halloween)",
+    "maxUncap": 4
   },
   "3040241000": {
-    "name": "Societte (Wind)"
+    "name": "Societte (Wind)",
+    "maxUncap": 4
   },
   "3040242000": {
-    "name": "Kou"
+    "name": "Kou",
+    "maxUncap": 5
   },
   "3040243000": {
-    "name": "Vira (Promo)"
+    "name": "Vira (Promo)",
+    "maxUncap": 4
   },
   "3040244000": {
-    "name": "Shitori"
+    "name": "Shitori",
+    "maxUncap": 4
   },
   "3040245000": {
-    "name": "Jeanne d&#039;Arc (Grand)"
+    "name": "Jeanne d&#039;Arc (Grand)",
+    "maxUncap": 4
   },
   "3040246000": {
-    "name": "Meteon (Holiday)"
+    "name": "Meteon (Holiday)",
+    "maxUncap": 4
   },
   "3040247000": {
-    "name": "Magisa (Holiday)"
+    "name": "Magisa (Holiday)",
+    "maxUncap": 4
   },
   "3040248000": {
-    "name": "Gachapin"
+    "name": "Gachapin",
+    "maxUncap": 4
   },
   "3040249000": {
-    "name": "Narmaya (Holiday)"
+    "name": "Narmaya (Holiday)",
+    "maxUncap": 4
   },
   "3040250000": {
-    "name": "Seruel (Holiday)"
+    "name": "Seruel (Holiday)",
+    "maxUncap": 4
   },
   "3040251000": {
-    "name": "Helel ben Shalem"
+    "name": "Helel ben Shalem",
+    "maxUncap": 4
   },
   "3040252000": {
-    "name": "Vikala"
+    "name": "Vikala",
+    "maxUncap": 5
   },
   "3040253000": {
-    "name": "Yuisis (Fire)"
+    "name": "Yuisis (Fire)",
+    "maxUncap": 4
   },
   "3040254000": {
-    "name": "Lucius (SSR)"
+    "name": "Lucius (SSR)",
+    "maxUncap": 5
   },
   "3040255000": {
-    "name": "Noa (Grand)"
+    "name": "Noa (Grand)",
+    "maxUncap": 4
   },
   "3040256000": {
-    "name": "Danua (SSR)"
+    "name": "Danua (SSR)",
+    "maxUncap": 4
   },
   "3040257000": {
-    "name": "Jin"
+    "name": "Jin",
+    "maxUncap": 4
   },
   "3040258000": {
-    "name": "Ilsa (Light)"
+    "name": "Ilsa (Light)",
+    "maxUncap": 4
   },
   "3040259000": {
-    "name": "Yodarha (Wind)"
+    "name": "Yodarha (Wind)",
+    "maxUncap": 4
   },
   "3040260000": {
-    "name": "Scathacha (Valentine)"
+    "name": "Scathacha (Valentine)",
+    "maxUncap": 4
   },
   "3040261000": {
-    "name": "Grimnir (Valentine)"
+    "name": "Grimnir (Valentine)",
+    "maxUncap": 4
   },
   "3040262000": {
-    "name": "Seox (Event)"
+    "name": "Seox (Event)",
+    "maxUncap": 4
   },
   "3040263000": {
-    "name": "Lecia (Water)"
+    "name": "Lecia (Water)",
+    "maxUncap": 4
   },
   "3040264000": {
-    "name": "Vania and Malinda"
+    "name": "Vania and Malinda",
+    "maxUncap": 4
   },
   "3040265000": {
-    "name": "Rei"
+    "name": "Rei",
+    "maxUncap": 4
   },
   "3040266000": {
-    "name": "Teena (Summer)"
+    "name": "Teena (Summer)",
+    "maxUncap": 4
   },
   "3040267000": {
-    "name": "Mugen"
+    "name": "Mugen",
+    "maxUncap": 4
   },
   "3040268000": {
-    "name": "Sturm"
+    "name": "Sturm",
+    "maxUncap": 4
   },
   "3040269000": {
-    "name": "Drang"
+    "name": "Drang",
+    "maxUncap": 4
   },
   "3040270000": {
-    "name": "Black Knight and Orchis"
+    "name": "Black Knight and Orchis",
+    "maxUncap": 4
   },
   "3040271000": {
-    "name": "Herja (SSR)"
+    "name": "Herja (SSR)",
+    "maxUncap": 4
   },
   "3040272000": {
-    "name": "Milleore and Sahli Lao"
+    "name": "Milleore and Sahli Lao",
+    "maxUncap": 4
   },
   "3040273000": {
-    "name": "Shura"
+    "name": "Shura",
+    "maxUncap": 4
   },
   "3040274000": {
-    "name": "Reinhardtzar (Grand)"
+    "name": "Reinhardtzar (Grand)",
+    "maxUncap": 4
   },
   "3040275000": {
-    "name": "New Generations"
+    "name": "New Generations",
+    "maxUncap": 4
   },
   "3040276000": {
-    "name": "Kaede Takagaki"
+    "name": "Kaede Takagaki",
+    "maxUncap": 4
   },
   "3040277000": {
-    "name": "Illnott"
+    "name": "Illnott",
+    "maxUncap": 4
   },
   "3040278000": {
-    "name": "Predator (SSR)"
+    "name": "Predator (SSR)",
+    "maxUncap": 4
   },
   "3040279000": {
-    "name": "Percival (Light)"
+    "name": "Percival (Light)",
+    "maxUncap": 4
   },
   "3040280000": {
-    "name": "Satyr"
+    "name": "Satyr",
+    "maxUncap": 4
   },
   "3040281000": {
-    "name": "Naoise"
+    "name": "Naoise",
+    "maxUncap": 4
   },
   "3040282000": {
-    "name": "Pengy (SSR)"
+    "name": "Pengy (SSR)",
+    "maxUncap": 4
   },
   "3040283000": {
-    "name": "Kolulu (Summer)"
+    "name": "Kolulu (Summer)",
+    "maxUncap": 4
   },
   "3040284000": {
-    "name": "Abby"
+    "name": "Abby",
+    "maxUncap": 4
   },
   "3040285000": {
-    "name": "Leona (Grand)"
+    "name": "Leona (Grand)",
+    "maxUncap": 4
   },
   "3040286000": {
-    "name": "Lucio (Summer)"
+    "name": "Lucio (Summer)",
+    "maxUncap": 4
   },
   "3040287000": {
-    "name": "Amira (Summer)"
+    "name": "Amira (Summer)",
+    "maxUncap": 4
   },
   "3040288000": {
-    "name": "Anila (Summer)"
+    "name": "Anila (Summer)",
+    "maxUncap": 4
   },
   "3040289000": {
-    "name": "Rosamia (Yukata)"
+    "name": "Rosamia (Yukata)",
+    "maxUncap": 4
   },
   "3040290000": {
-    "name": "Albert (Summer)"
+    "name": "Albert (Summer)",
+    "maxUncap": 4
   },
   "3040291000": {
-    "name": "Silva (Summer)"
+    "name": "Silva (Summer)",
+    "maxUncap": 4
   },
   "3040292000": {
-    "name": "Mimlemel (Summer)"
+    "name": "Mimlemel (Summer)",
+    "maxUncap": 4
   },
   "3040293000": {
-    "name": "Juliet (Water)"
+    "name": "Juliet (Water)",
+    "maxUncap": 4
   },
   "3040294000": {
-    "name": "Hiro Ryugasaki"
+    "name": "Hiro Ryugasaki",
+    "maxUncap": 4
   },
   "3040295000": {
-    "name": "Mimori Amamiya"
+    "name": "Mimori Amamiya",
+    "maxUncap": 4
   },
   "3040296000": {
-    "name": "Diantha"
+    "name": "Diantha",
+    "maxUncap": 4
   },
   "3040297000": {
-    "name": "Golden Knight"
+    "name": "Golden Knight",
+    "maxUncap": 4
   },
   "3040298000": {
-    "name": "Gawain (Light)"
+    "name": "Gawain (Light)",
+    "maxUncap": 5
   },
   "3040299000": {
-    "name": "Florence"
+    "name": "Florence",
+    "maxUncap": 4
   },
   "3040300000": {
-    "name": "Azazel (Halloween)"
+    "name": "Azazel (Halloween)",
+    "maxUncap": 4
   },
   "3040301000": {
-    "name": "Rosetta (Halloween)"
+    "name": "Rosetta (Halloween)",
+    "maxUncap": 4
   },
   "3040302000": {
-    "name": "Mireille and Risette"
+    "name": "Mireille and Risette",
+    "maxUncap": 4
   },
   "3040303000": {
-    "name": "Sutera (SSR)"
+    "name": "Sutera (SSR)",
+    "maxUncap": 4
   },
   "3040304000": {
-    "name": "Feather (SSR)"
+    "name": "Feather (SSR)",
+    "maxUncap": 4
   },
   "3040305000": {
-    "name": "Fiorito"
+    "name": "Fiorito",
+    "maxUncap": 4
   },
   "3040306000": {
-    "name": "Nemone (Holiday)"
+    "name": "Nemone (Holiday)",
+    "maxUncap": 4
   },
   "3040307000": {
-    "name": "Mirin (Holiday)"
+    "name": "Mirin (Holiday)",
+    "maxUncap": 4
   },
   "3040308000": {
-    "name": "Tanjiro, Nezuko, Zenitsu, and Inosuke"
+    "name": "Tanjiro, Nezuko, Zenitsu, and Inosuke",
+    "maxUncap": 4
   },
   "3040309000": {
-    "name": "Kyojuro Rengoku"
+    "name": "Kyojuro Rengoku",
+    "maxUncap": 4
   },
   "3040310000": {
-    "name": "Shinobu Kocho"
+    "name": "Shinobu Kocho",
+    "maxUncap": 4
   },
   "3040311000": {
-    "name": "Lily (Holiday)"
+    "name": "Lily (Holiday)",
+    "maxUncap": 4
   },
   "3040312000": {
-    "name": "Sandalphon (Earth Grand)"
+    "name": "Sandalphon (Earth Grand)",
+    "maxUncap": 4
   },
   "3040313000": {
-    "name": "Catura"
+    "name": "Catura",
+    "maxUncap": 5
   },
   "3040314000": {
-    "name": "Filene"
+    "name": "Filene",
+    "maxUncap": 4
   },
   "3040315000": {
-    "name": "Nicholas (Light)"
+    "name": "Nicholas (Light)",
+    "maxUncap": 4
   },
   "3040316000": {
-    "name": "Zehek (SSR)"
+    "name": "Zehek (SSR)",
+    "maxUncap": 4
   },
   "3040317000": {
-    "name": "Mishra (SSR)"
+    "name": "Mishra (SSR)",
+    "maxUncap": 4
   },
   "3040318000": {
-    "name": "Nectar"
+    "name": "Nectar",
+    "maxUncap": 4
   },
   "3040319000": {
-    "name": "Lamretta (SSR)"
+    "name": "Lamretta (SSR)",
+    "maxUncap": 4
   },
   "3040320000": {
-    "name": "Cagliostro (Grand)"
+    "name": "Cagliostro (Grand)",
+    "maxUncap": 4
   },
   "3040321000": {
-    "name": "Monika (Valentine)"
+    "name": "Monika (Valentine)",
+    "maxUncap": 4
   },
   "3040322000": {
-    "name": "Aglovale (Valentine)"
+    "name": "Aglovale (Valentine)",
+    "maxUncap": 4
   },
   "3040323000": {
-    "name": "Zeta (Water)"
+    "name": "Zeta (Water)",
+    "maxUncap": 4
   },
   "3040324000": {
-    "name": "Vaseraga (Fire)"
+    "name": "Vaseraga (Fire)",
+    "maxUncap": 4
   },
   "3040325000": {
-    "name": "Farrah and Juri"
+    "name": "Farrah and Juri",
+    "maxUncap": 4
   },
   "3040326000": {
-    "name": "Cassius (Event SSR)"
+    "name": "Cassius (Event SSR)",
+    "maxUncap": 4
   },
   "3040327000": {
-    "name": "Isaac"
+    "name": "Isaac",
+    "maxUncap": 4
   },
   "3040328000": {
-    "name": "Beatrix (Earth)"
+    "name": "Beatrix (Earth)",
+    "maxUncap": 4
   },
   "3040329000": {
-    "name": "Kumbhira (Summer)"
+    "name": "Kumbhira (Summer)",
+    "maxUncap": 4
   },
   "3040330000": {
-    "name": "Andira (Summer)"
+    "name": "Andira (Summer)",
+    "maxUncap": 4
   },
   "3040331000": {
-    "name": "Bobobo-bo Bo-bobo"
+    "name": "Bobobo-bo Bo-bobo",
+    "maxUncap": 4
   },
   "3040332000": {
-    "name": "Nezha"
+    "name": "Nezha",
+    "maxUncap": 4
   },
   "3040333000": {
-    "name": "Shion"
+    "name": "Shion",
+    "maxUncap": 4
   },
   "3040334000": {
-    "name": "Albert (Dark)"
+    "name": "Albert (Dark)",
+    "maxUncap": 4
   },
   "3040335000": {
-    "name": "Narmaya (Grand)"
+    "name": "Narmaya (Grand)",
+    "maxUncap": 4
   },
   "3040336000": {
-    "name": "Troue"
+    "name": "Troue",
+    "maxUncap": 4
   },
   "3040337000": {
-    "name": "Tikoh"
+    "name": "Tikoh",
+    "maxUncap": 4
   },
   "3040338000": {
-    "name": "Sho"
+    "name": "Sho",
+    "maxUncap": 4
   },
   "3040339000": {
-    "name": "Ms. Miranda"
+    "name": "Ms. Miranda",
+    "maxUncap": 4
   },
   "3040340000": {
-    "name": "Lennah (Earth)"
+    "name": "Lennah (Earth)",
+    "maxUncap": 4
   },
   "3040341000": {
-    "name": "Nehan"
+    "name": "Nehan",
+    "maxUncap": 4
   },
   "3040342000": {
-    "name": "Yngwie (Yukata)"
+    "name": "Yngwie (Yukata)",
+    "maxUncap": 4
   },
   "3040343000": {
-    "name": "Izmir (Yukata)"
+    "name": "Izmir (Yukata)",
+    "maxUncap": 4
   },
   "3040344000": {
-    "name": "Siegfried (Summer)"
+    "name": "Siegfried (Summer)",
+    "maxUncap": 4
   },
   "3040345000": {
-    "name": "Illnott (Summer)"
+    "name": "Illnott (Summer)",
+    "maxUncap": 4
   },
   "3040346000": {
-    "name": "Meg (Summer)"
+    "name": "Meg (Summer)",
+    "maxUncap": 4
   },
   "3040347000": {
-    "name": "Metera (Summer)"
+    "name": "Metera (Summer)",
+    "maxUncap": 4
   },
   "3040348000": {
-    "name": "Poseidon"
+    "name": "Poseidon",
+    "maxUncap": 4
   },
   "3040349000": {
-    "name": "Zahlhamelina (Yukata)"
+    "name": "Zahlhamelina (Yukata)",
+    "maxUncap": 4
   },
   "3040350000": {
-    "name": "Tabina (Summer)"
+    "name": "Tabina (Summer)",
+    "maxUncap": 4
   },
   "3040351000": {
-    "name": "Helel ben Shalem (Summer)"
+    "name": "Helel ben Shalem (Summer)",
+    "maxUncap": 4
   },
   "3040352000": {
-    "name": "Shiva (Summer)"
+    "name": "Shiva (Summer)",
+    "maxUncap": 4
   },
   "3040353000": {
-    "name": "Special Week, Silence Suzuka, and Tokai Teio"
+    "name": "Special Week, Silence Suzuka, and Tokai Teio",
+    "maxUncap": 4
   },
   "3040354000": {
-    "name": "Naoise (Fire)"
+    "name": "Naoise (Fire)",
+    "maxUncap": 4
   },
   "3040355000": {
-    "name": "Grea (Light)"
+    "name": "Grea (Light)",
+    "maxUncap": 4
   },
   "3040356000": {
-    "name": "Elmott (SSR)"
+    "name": "Elmott (SSR)",
+    "maxUncap": 4
   },
   "3040357000": {
-    "name": "Lich"
+    "name": "Lich",
+    "maxUncap": 4
   },
   "3040358000": {
-    "name": "Arthur"
+    "name": "Arthur",
+    "maxUncap": 4
   },
   "3040359000": {
-    "name": "Azusa"
+    "name": "Azusa",
+    "maxUncap": 4
   },
   "3040360000": {
-    "name": "Vane (Halloween)"
+    "name": "Vane (Halloween)",
+    "maxUncap": 4
   },
   "3040361000": {
-    "name": "Cucouroux (Halloween)"
+    "name": "Cucouroux (Halloween)",
+    "maxUncap": 4
   },
   "3040362000": {
-    "name": "Shinsengumi"
+    "name": "Shinsengumi",
+    "maxUncap": 4
   },
   "3040363000": {
-    "name": "Yorozuya"
+    "name": "Yorozuya",
+    "maxUncap": 4
   },
   "3040364000": {
-    "name": "Lunalu (Light)"
+    "name": "Lunalu (Light)",
+    "maxUncap": 4
   },
   "3040365000": {
-    "name": "Enyo"
+    "name": "Enyo",
+    "maxUncap": 4
   },
   "3040366000": {
-    "name": "Benjamin"
+    "name": "Benjamin",
+    "maxUncap": 4
   },
   "3040367000": {
-    "name": "Arulumaya (Light)"
+    "name": "Arulumaya (Light)",
+    "maxUncap": 4
   },
   "3040368000": {
-    "name": "Randall (SSR)"
+    "name": "Randall (SSR)",
+    "maxUncap": 4
   },
   "3040369000": {
-    "name": "Anthuria (Holiday)"
+    "name": "Anthuria (Holiday)",
+    "maxUncap": 4
   },
   "3040370000": {
-    "name": "Doraemon"
+    "name": "Doraemon",
+    "maxUncap": 4
   },
   "3040371000": {
-    "name": "Nobita"
+    "name": "Nobita",
+    "maxUncap": 4
   },
   "3040372000": {
-    "name": "Mahira (Holiday)"
+    "name": "Mahira (Holiday)",
+    "maxUncap": 4
   },
   "3040373000": {
-    "name": "Altair (Holiday)"
+    "name": "Altair (Holiday)",
+    "maxUncap": 4
   },
   "3040374000": {
-    "name": "Lancelot (Grand)"
+    "name": "Lancelot (Grand)",
+    "maxUncap": 4
   },
   "3040375000": {
-    "name": "Satyr (Earth)"
+    "name": "Satyr (Earth)",
+    "maxUncap": 4
   },
   "3040376000": {
-    "name": "Fediel"
+    "name": "Fediel",
+    "maxUncap": 4
   },
   "3040377000": {
-    "name": "Cidala"
+    "name": "Cidala",
+    "maxUncap": 5
   },
   "3040378000": {
-    "name": "Ewiyar"
+    "name": "Ewiyar",
+    "maxUncap": 4
   },
   "3040379000": {
-    "name": "Cupitan"
+    "name": "Cupitan",
+    "maxUncap": 4
   },
   "3040380000": {
-    "name": "Yggdrasil (Wind)"
+    "name": "Yggdrasil (Wind)",
+    "maxUncap": 4
   },
   "3040381000": {
-    "name": "Wilnas"
+    "name": "Wilnas",
+    "maxUncap": 4
   },
   "3040382000": {
-    "name": "Ippatsu (SSR)"
+    "name": "Ippatsu (SSR)",
+    "maxUncap": 4
   },
   "3040383000": {
-    "name": "Lilele (Fire)"
+    "name": "Lilele (Fire)",
+    "maxUncap": 4
   },
   "3040384000": {
-    "name": "Cassius (Valentine)"
+    "name": "Cassius (Valentine)",
+    "maxUncap": 4
   },
   "3040385000": {
-    "name": "Vira (Valentine)"
+    "name": "Vira (Valentine)",
+    "maxUncap": 4
   },
   "3040386000": {
-    "name": "Ladiva (Valentine)"
+    "name": "Ladiva (Valentine)",
+    "maxUncap": 4
   },
   "3040387000": {
-    "name": "Freyr"
+    "name": "Freyr",
+    "maxUncap": 4
   },
   "3040388000": {
-    "name": "Sylph"
+    "name": "Sylph",
+    "maxUncap": 4
   },
   "3040389000": {
-    "name": "Medusa (Summer)"
+    "name": "Medusa (Summer)",
+    "maxUncap": 4
   },
   "3040390000": {
-    "name": "Yuni"
+    "name": "Yuni",
+    "maxUncap": 4
   },
   "3040391000": {
-    "name": "Silva (Yukata)"
+    "name": "Silva (Yukata)",
+    "maxUncap": 4
   },
   "3040392000": {
-    "name": "Narmaya (Yukata)"
+    "name": "Narmaya (Yukata)",
+    "maxUncap": 4
   },
   "3040393000": {
-    "name": "You"
+    "name": "You",
+    "maxUncap": 4
   },
   "3040394000": {
-    "name": "Laguna (SSR)"
+    "name": "Laguna (SSR)",
+    "maxUncap": 4
   },
   "3040396000": {
-    "name": "Skull and Balurga"
+    "name": "Skull and Balurga",
+    "maxUncap": 4
   },
   "3040397000": {
-    "name": "Sophia (Water)"
+    "name": "Sophia (Water)",
+    "maxUncap": 4
   },
   "3040398000": {
-    "name": "Iroha"
+    "name": "Iroha",
+    "maxUncap": 4
   },
   "3040399000": {
-    "name": "Lilisette"
+    "name": "Lilisette",
+    "maxUncap": 4
   },
   "3040400000": {
-    "name": "Prishe"
+    "name": "Prishe",
+    "maxUncap": 4
   },
   "3040401000": {
-    "name": "Manamel"
+    "name": "Manamel",
+    "maxUncap": 4
   },
   "3040402000": {
-    "name": "Anna (SSR)"
+    "name": "Anna (SSR)",
+    "maxUncap": 4
   },
   "3040403000": {
-    "name": "Elea"
+    "name": "Elea",
+    "maxUncap": 4
   },
   "3040404000": {
-    "name": "Jamil (SSR)"
+    "name": "Jamil (SSR)",
+    "maxUncap": 4
   },
   "3040405000": {
-    "name": "Galleon"
+    "name": "Galleon",
+    "maxUncap": 4
   },
   "3040406000": {
-    "name": "Gwynne"
+    "name": "Gwynne",
+    "maxUncap": 4
   },
   "3040407000": {
-    "name": "Vajra (Summer)"
+    "name": "Vajra (Summer)",
+    "maxUncap": 4
   },
   "3040408000": {
-    "name": "Vikala (Summer)"
+    "name": "Vikala (Summer)",
+    "maxUncap": 4
   },
   "3040409000": {
-    "name": "Mirin (Summer)"
+    "name": "Mirin (Summer)",
+    "maxUncap": 4
   },
   "3040410000": {
-    "name": "Shion (Summer)"
+    "name": "Shion (Summer)",
+    "maxUncap": 4
   },
   "3040411000": {
-    "name": "Eustace (Summer)"
+    "name": "Eustace (Summer)",
+    "maxUncap": 4
   },
   "3040412000": {
-    "name": "Magisa (Summer)"
+    "name": "Magisa (Summer)",
+    "maxUncap": 4
   },
   "3040413000": {
-    "name": "Clarisse (Summer)"
+    "name": "Clarisse (Summer)",
+    "maxUncap": 4
   },
   "3040414000": {
-    "name": "Tikoh (Summer)"
+    "name": "Tikoh (Summer)",
+    "maxUncap": 4
   },
   "3040415000": {
-    "name": "Sturm (Summer)"
+    "name": "Sturm (Summer)",
+    "maxUncap": 4
   },
   "3040416000": {
-    "name": "Luffy"
+    "name": "Luffy",
+    "maxUncap": 5
   },
   "3040417000": {
-    "name": "Zoro and Sanji"
+    "name": "Zoro and Sanji",
+    "maxUncap": 4
   },
   "3040418000": {
-    "name": "Nami and Robin"
+    "name": "Nami and Robin",
+    "maxUncap": 4
   },
   "3040419000": {
-    "name": "Wamdus"
+    "name": "Wamdus",
+    "maxUncap": 4
   },
   "3040420000": {
-    "name": "Jeanne d&#039;Arc (Water Summer)"
+    "name": "Jeanne d&#039;Arc (Water Summer)",
+    "maxUncap": 4
   },
   "3040421000": {
-    "name": "Erika"
+    "name": "Erika",
+    "maxUncap": 4
   },
   "3040422000": {
-    "name": "Anderson"
+    "name": "Anderson",
+    "maxUncap": 4
   },
   "3040423000": {
-    "name": "Jessica (SSR)"
+    "name": "Jessica (SSR)",
+    "maxUncap": 4
   },
   "3040424000": {
-    "name": "Bowman"
+    "name": "Bowman",
+    "maxUncap": 4
   },
   "3040425000": {
-    "name": "Percival (Grand)"
+    "name": "Percival (Grand)",
+    "maxUncap": 4
   },
   "3040426000": {
-    "name": "Aglovale and Tor"
+    "name": "Aglovale and Tor",
+    "maxUncap": 4
   },
   "3040427000": {
-    "name": "Lich (Halloween)"
+    "name": "Lich (Halloween)",
+    "maxUncap": 4
   },
   "3040428000": {
-    "name": "Mugen (Halloween)"
+    "name": "Mugen (Halloween)",
+    "maxUncap": 4
   },
   "3040429000": {
-    "name": "Florence (Halloween)"
+    "name": "Florence (Halloween)",
+    "maxUncap": 4
   },
   "3040430000": {
-    "name": "Yuel and Societte"
+    "name": "Yuel and Societte",
+    "maxUncap": 4
   },
   "3040431000": {
-    "name": "Alliah"
+    "name": "Alliah",
+    "maxUncap": 4
   },
   "3040432000": {
-    "name": "Adam"
+    "name": "Adam",
+    "maxUncap": 4
   },
   "3040433000": {
-    "name": "Therese (Wind)"
+    "name": "Therese (Wind)",
+    "maxUncap": 4
   },
   "3040434000": {
-    "name": "Europa (Holiday)"
+    "name": "Europa (Holiday)",
+    "maxUncap": 4
   },
   "3040435000": {
-    "name": "Fiorito (Holiday)"
+    "name": "Fiorito (Holiday)",
+    "maxUncap": 4
   },
   "3040436000": {
-    "name": "Cain (Holiday)"
+    "name": "Cain (Holiday)",
+    "maxUncap": 4
   },
   "3040437000": {
-    "name": "Catura (Holiday)"
+    "name": "Catura (Holiday)",
+    "maxUncap": 4
   },
   "3040438000": {
-    "name": "Charlotta (Grand)"
+    "name": "Charlotta (Grand)",
+    "maxUncap": 4
   },
   "3040439000": {
-    "name": "Erin (SSR)"
+    "name": "Erin (SSR)",
+    "maxUncap": 4
   },
   "3040440000": {
-    "name": "Michael"
+    "name": "Michael",
+    "maxUncap": 4
   },
   "3040441000": {
-    "name": "Makura"
+    "name": "Makura",
+    "maxUncap": 4
   },
   "3040442000": {
-    "name": "Ultimate Friday"
+    "name": "Ultimate Friday",
+    "maxUncap": 4
   },
   "3040443000": {
-    "name": "Halluel and Malluel"
+    "name": "Halluel and Malluel",
+    "maxUncap": 4
   },
   "3040444000": {
-    "name": "Amelia"
+    "name": "Amelia",
+    "maxUncap": 4
   },
   "3040445000": {
-    "name": "Cendrillon"
+    "name": "Cendrillon",
+    "maxUncap": 4
   },
   "3040446000": {
-    "name": "Orchid"
+    "name": "Orchid",
+    "maxUncap": 4
   },
   "3040447000": {
-    "name": "Sandalphon (Valentine)"
+    "name": "Sandalphon (Valentine)",
+    "maxUncap": 4
   },
   "3040448000": {
-    "name": "Sen (Valentine)"
+    "name": "Sen (Valentine)",
+    "maxUncap": 4
   },
   "3040449000": {
-    "name": "Lu Woh"
+    "name": "Lu Woh",
+    "maxUncap": 4
   },
   "3040450000": {
-    "name": "Hekate"
+    "name": "Hekate",
+    "maxUncap": 4
   },
   "3040451000": {
-    "name": "Seofon (Event)"
+    "name": "Seofon (Event)",
+    "maxUncap": 4
   },
   "3040452000": {
-    "name": "Ewiyar (Grand)"
+    "name": "Ewiyar (Grand)",
+    "maxUncap": 4
   },
   "3040453000": {
-    "name": "Azusa (Summer)"
+    "name": "Azusa (Summer)",
+    "maxUncap": 4
   },
   "3040454000": {
-    "name": "Monika (Summer)"
+    "name": "Monika (Summer)",
+    "maxUncap": 4
   },
   "3040455000": {
-    "name": "Nezha (Yukata)"
+    "name": "Nezha (Yukata)",
+    "maxUncap": 4
   },
   "3040456000": {
-    "name": "Ilsa (Yukata)"
+    "name": "Ilsa (Yukata)",
+    "maxUncap": 4
   },
   "3040457000": {
-    "name": "Cinnamoroll and Pompompurin"
+    "name": "Cinnamoroll and Pompompurin",
+    "maxUncap": 4
   },
   "3040458000": {
-    "name": "Yaia (SSR)"
+    "name": "Yaia (SSR)",
+    "maxUncap": 4
   },
   "3040459000": {
-    "name": "Jasmine (SSR)"
+    "name": "Jasmine (SSR)",
+    "maxUncap": 4
   },
   "3040460000": {
-    "name": "Caro"
+    "name": "Caro",
+    "maxUncap": 4
   },
   "3040461000": {
-    "name": "Cantate"
+    "name": "Cantate",
+    "maxUncap": 4
   },
   "3040462000": {
-    "name": "Icarus"
+    "name": "Icarus",
+    "maxUncap": 4
   },
   "3040463000": {
-    "name": "Lily (Wind)"
+    "name": "Lily (Wind)",
+    "maxUncap": 4
   },
   "3040464000": {
-    "name": "Drusilla (SSR)"
+    "name": "Drusilla (SSR)",
+    "maxUncap": 4
   },
   "3040465000": {
-    "name": "Korwa (Water)"
+    "name": "Korwa (Water)",
+    "maxUncap": 4
   },
   "3040466000": {
-    "name": "Baal (Fire)"
+    "name": "Baal (Fire)",
+    "maxUncap": 4
   },
   "3040467000": {
-    "name": "Cosmos"
+    "name": "Cosmos",
+    "maxUncap": 4
   },
   "3040468000": {
-    "name": "Cupitan (Summer)"
+    "name": "Cupitan (Summer)",
+    "maxUncap": 4
   },
   "3040469000": {
-    "name": "Pholia (Yukata)"
+    "name": "Pholia (Yukata)",
+    "maxUncap": 4
   },
   "3040470000": {
-    "name": "Enyo (Summer)"
+    "name": "Enyo (Summer)",
+    "maxUncap": 4
   },
   "3040471000": {
-    "name": "Vaseraga (Summer)"
+    "name": "Vaseraga (Summer)",
+    "maxUncap": 4
   },
   "3040472000": {
-    "name": "Fediel (Summer)"
+    "name": "Fediel (Summer)",
+    "maxUncap": 4
   },
   "3040473000": {
-    "name": "Yurius (Summer)"
+    "name": "Yurius (Summer)",
+    "maxUncap": 4
   },
   "3040474000": {
-    "name": "Aliza (Summer)"
+    "name": "Aliza (Summer)",
+    "maxUncap": 4
   },
   "3040475000": {
-    "name": "Dorothy and Claudia (Summer)"
+    "name": "Dorothy and Claudia (Summer)",
+    "maxUncap": 4
   },
   "3040476000": {
-    "name": "Yuji Itadori and Megumi Fushiguro"
+    "name": "Yuji Itadori and Megumi Fushiguro",
+    "maxUncap": 4
   },
   "3040477000": {
-    "name": "Nobara Kugisaki and Maki Zen&#039;in"
+    "name": "Nobara Kugisaki and Maki Zen&#039;in",
+    "maxUncap": 4
   },
   "3040478000": {
-    "name": "Vania (Yukata)"
+    "name": "Vania (Yukata)",
+    "maxUncap": 4
   },
   "3040479000": {
-    "name": "Anila (Yukata)"
+    "name": "Anila (Yukata)",
+    "maxUncap": 4
   },
   "3040480000": {
-    "name": "Seruel (Summer)"
+    "name": "Seruel (Summer)",
+    "maxUncap": 4
   },
   "3040481000": {
-    "name": "Ragazzo"
+    "name": "Ragazzo",
+    "maxUncap": 4
   },
   "3040482000": {
-    "name": "Meg and Mari"
+    "name": "Meg and Mari",
+    "maxUncap": 4
   },
   "3040483000": {
-    "name": "Paris"
+    "name": "Paris",
+    "maxUncap": 4
   },
   "3040484000": {
-    "name": "Catherine (Wind)"
+    "name": "Catherine (Wind)",
+    "maxUncap": 4
   },
   "3040485000": {
-    "name": "Siegfried (Light)"
+    "name": "Siegfried (Light)",
+    "maxUncap": 4
   },
   "3040486000": {
-    "name": "Kaguya"
+    "name": "Kaguya",
+    "maxUncap": 4
   },
   "3040487000": {
-    "name": "Tikoh (Halloween)"
+    "name": "Tikoh (Halloween)",
+    "maxUncap": 4
   },
   "3040488000": {
-    "name": "Vikala (Halloween)"
+    "name": "Vikala (Halloween)",
+    "maxUncap": 4
   },
   "3040489000": {
-    "name": "Dante (Halloween)"
+    "name": "Dante (Halloween)",
+    "maxUncap": 4
   },
   "3040490000": {
-    "name": "Sevilbarra (SSR)"
+    "name": "Sevilbarra (SSR)",
+    "maxUncap": 4
   },
   "3040491000": {
-    "name": "Utsusemi"
+    "name": "Utsusemi",
+    "maxUncap": 4
   },
   "3040492000": {
-    "name": "Gabriel"
+    "name": "Gabriel",
+    "maxUncap": 4
   },
   "3040493000": {
-    "name": "Barawa and Sarya"
+    "name": "Barawa and Sarya",
+    "maxUncap": 4
   },
   "3040494000": {
-    "name": "Volenna (SSR)"
+    "name": "Volenna (SSR)",
+    "maxUncap": 4
   },
   "3040495000": {
-    "name": "Yuni (Holiday)"
+    "name": "Yuni (Holiday)",
+    "maxUncap": 4
   },
   "3040496000": {
-    "name": "Illnott (Holiday)"
+    "name": "Illnott (Holiday)",
+    "maxUncap": 4
   },
   "3040497000": {
-    "name": "Helel ben Shalem (Holiday)"
+    "name": "Helel ben Shalem (Holiday)",
+    "maxUncap": 4
   },
   "3040498000": {
-    "name": "Noa (Holiday)"
+    "name": "Noa (Holiday)",
+    "maxUncap": 4
   },
   "3040499000": {
-    "name": "Zeta (Grand)"
+    "name": "Zeta (Grand)",
+    "maxUncap": 4
   },
   "3040500000": {
-    "name": "Lowain (SSR)"
+    "name": "Lowain (SSR)",
+    "maxUncap": 4
   },
   "3040501000": {
-    "name": "Uriel"
+    "name": "Uriel",
+    "maxUncap": 4
   },
   "3040502000": {
-    "name": "Payila"
+    "name": "Payila",
+    "maxUncap": 4
   },
   "3040503000": {
-    "name": "Tyra"
+    "name": "Tyra",
+    "maxUncap": 4
   },
   "3040504000": {
-    "name": "Izuku Midoriya"
+    "name": "Izuku Midoriya",
+    "maxUncap": 4
   },
   "3040505000": {
-    "name": "Katsuki Bakugo"
+    "name": "Katsuki Bakugo",
+    "maxUncap": 4
   },
   "3040506000": {
-    "name": "Himiko Toga"
+    "name": "Himiko Toga",
+    "maxUncap": 4
   },
   "3040507000": {
-    "name": "Deliford (SSR)"
+    "name": "Deliford (SSR)",
+    "maxUncap": 4
   },
   "3040508000": {
-    "name": "Olivia"
+    "name": "Olivia",
+    "maxUncap": 4
   },
   "3040509000": {
-    "name": "Juri (SSR)"
+    "name": "Juri (SSR)",
+    "maxUncap": 4
   },
   "3040510000": {
-    "name": "Robertina"
+    "name": "Robertina",
+    "maxUncap": 4
   },
   "3040511000": {
-    "name": "Nehan (Valentine)"
+    "name": "Nehan (Valentine)",
+    "maxUncap": 4
   },
   "3040512000": {
-    "name": "Cidala (Valentine)"
+    "name": "Cidala (Valentine)",
+    "maxUncap": 4
   },
   "3040513000": {
-    "name": "Richard (SSR)"
+    "name": "Richard (SSR)",
+    "maxUncap": 4
   },
   "3040514000": {
-    "name": "Sabrina"
+    "name": "Sabrina",
+    "maxUncap": 4
   },
   "3040515000": {
-    "name": "Sandalphon"
+    "name": "Sandalphon",
+    "maxUncap": 4
   },
   "3040516000": {
-    "name": "Raziel (Event)"
+    "name": "Raziel (Event)",
+    "maxUncap": 4
   },
   "3040517000": {
-    "name": "Magus (Summer)"
+    "name": "Magus (Summer)",
+    "maxUncap": 4
   },
   "3040518000": {
-    "name": "Horus (Summer)"
+    "name": "Horus (Summer)",
+    "maxUncap": 4
   },
   "3040519000": {
-    "name": "Fenie"
+    "name": "Fenie",
+    "maxUncap": 4
   },
   "3040520000": {
-    "name": "De La Fille (Yukata)"
+    "name": "De La Fille (Yukata)",
+    "maxUncap": 4
   },
   "3040521000": {
-    "name": "Elmott (Yukata)"
+    "name": "Elmott (Yukata)",
+    "maxUncap": 4
   },
   "3040522000": {
-    "name": "Pochacco"
+    "name": "Pochacco",
+    "maxUncap": 4
   },
   "3040523000": {
-    "name": "Spinnah (SSR)"
+    "name": "Spinnah (SSR)",
+    "maxUncap": 4
   },
   "3040524000": {
-    "name": "Anne (Light)"
+    "name": "Anne (Light)",
+    "maxUncap": 4
   },
   "3040525000": {
-    "name": "Chichiri"
+    "name": "Chichiri",
+    "maxUncap": 4
   },
   "3040526000": {
-    "name": "Uruki"
+    "name": "Uruki",
+    "maxUncap": 4
   },
   "3040527000": {
-    "name": "Shushuku"
+    "name": "Shushuku",
+    "maxUncap": 4
   },
   "3040528000": {
-    "name": "Ami"
+    "name": "Ami",
+    "maxUncap": 4
   },
   "3040529000": {
-    "name": "Kolulu (Earth)"
+    "name": "Kolulu (Earth)",
+    "maxUncap": 4
   },
   "3040530000": {
-    "name": "Chloe (SSR)"
+    "name": "Chloe (SSR)",
+    "maxUncap": 4
   },
   "3040531000": {
-    "name": "Sui"
+    "name": "Sui",
+    "maxUncap": 4
   },
   "3040532000": {
-    "name": "Veight (Wind)"
+    "name": "Veight (Wind)",
+    "maxUncap": 4
   },
   "3040533000": {
-    "name": "Sato"
+    "name": "Sato",
+    "maxUncap": 4
   },
   "3040534000": {
-    "name": "Mirin (SSR)"
+    "name": "Mirin (SSR)",
+    "maxUncap": 4
   },
   "3040535000": {
-    "name": "Nectar (Water)"
+    "name": "Nectar (Water)",
+    "maxUncap": 4
   },
   "3040536000": {
-    "name": "Orologia"
+    "name": "Orologia",
+    "maxUncap": 4
   },
   "3040537000": {
-    "name": "Tefnut (Summer)"
+    "name": "Tefnut (Summer)",
+    "maxUncap": 4
   },
   "3040538000": {
-    "name": "Raziel (Summer)"
+    "name": "Raziel (Summer)",
+    "maxUncap": 4
   },
   "3040539000": {
-    "name": "Cucouroux (Summer)"
+    "name": "Cucouroux (Summer)",
+    "maxUncap": 4
   },
   "3040540000": {
-    "name": "Hallessena (Summer)"
+    "name": "Hallessena (Summer)",
+    "maxUncap": 4
   },
   "3040541000": {
-    "name": "Tweyen (Yukata)"
+    "name": "Tweyen (Yukata)",
+    "maxUncap": 4
   },
   "3040542000": {
-    "name": "Ragazzo (Summer)"
+    "name": "Ragazzo (Summer)",
+    "maxUncap": 4
   },
   "3040543000": {
-    "name": "Hekate (Summer)"
+    "name": "Hekate (Summer)",
+    "maxUncap": 4
   },
   "3040544000": {
-    "name": "Galleon (Summer)"
+    "name": "Galleon (Summer)",
+    "maxUncap": 4
   },
   "3040545000": {
-    "name": "Aglovale (Yukata)"
+    "name": "Aglovale (Yukata)",
+    "maxUncap": 4
   },
   "3040546000": {
-    "name": "Nier (Yukata)"
+    "name": "Nier (Yukata)",
+    "maxUncap": 4
   },
   "3040547000": {
-    "name": "Medusa (Grand)"
+    "name": "Medusa (Grand)",
+    "maxUncap": 4
   },
   "3040548000": {
-    "name": "Sevastien (SSR)"
+    "name": "Sevastien (SSR)",
+    "maxUncap": 4
   },
   "3040549000": {
-    "name": "Noire"
+    "name": "Noire",
+    "maxUncap": 4
   },
   "3040550000": {
-    "name": "Novei"
+    "name": "Novei",
+    "maxUncap": 4
   },
   "3040551000": {
-    "name": "Vane (Grand)"
+    "name": "Vane (Grand)",
+    "maxUncap": 4
   },
   "3040552000": {
-    "name": "Florence (Dark)"
+    "name": "Florence (Dark)",
+    "maxUncap": 4
   },
   "3040553000": {
-    "name": "Wilnas (Halloween)"
+    "name": "Wilnas (Halloween)",
+    "maxUncap": 4
   },
   "3040554000": {
-    "name": "Satyr (Halloween)"
+    "name": "Satyr (Halloween)",
+    "maxUncap": 4
   },
   "3040555000": {
-    "name": "Manamel (Halloween)"
+    "name": "Manamel (Halloween)",
+    "maxUncap": 4
   },
   "3040556000": {
-    "name": "Lecia (SSR)"
+    "name": "Lecia (SSR)",
+    "maxUncap": 4
   },
   "3040557000": {
-    "name": "Will (SSR)"
+    "name": "Will (SSR)",
+    "maxUncap": 4
   },
   "3040558000": {
-    "name": "Rimuru Tempest"
+    "name": "Rimuru Tempest",
+    "maxUncap": 5
   },
   "3040559000": {
-    "name": "Veldora Tempest"
+    "name": "Veldora Tempest",
+    "maxUncap": 4
   },
   "3040560000": {
-    "name": "Shion (Collab)"
+    "name": "Shion (Collab)",
+    "maxUncap": 4
   },
   "3040561000": {
-    "name": "Diablo (Collab)"
+    "name": "Diablo (Collab)",
+    "maxUncap": 4
   },
   "3040562000": {
-    "name": "Wamdus (Holiday)"
+    "name": "Wamdus (Holiday)",
+    "maxUncap": 4
   },
   "3040563000": {
-    "name": "Yggdrasil (Holiday)"
+    "name": "Yggdrasil (Holiday)",
+    "maxUncap": 4
   },
   "3040564000": {
-    "name": "Zooey (Holiday)"
+    "name": "Zooey (Holiday)",
+    "maxUncap": 4
   },
   "3040565000": {
-    "name": "Feower (Holiday)"
+    "name": "Feower (Holiday)",
+    "maxUncap": 4
   },
   "3040566000": {
-    "name": "Yatima"
+    "name": "Yatima",
+    "maxUncap": 4
   },
   "3040567000": {
-    "name": "Aletheia (Dark)"
+    "name": "Aletheia (Dark)",
+    "maxUncap": 4
   },
   "3040568000": {
-    "name": "Raphael"
+    "name": "Raphael",
+    "maxUncap": 4
   },
   "3040569000": {
-    "name": "Indala"
+    "name": "Indala",
+    "maxUncap": 4
   },
   "3040570000": {
-    "name": "Goblin Mage (SSR)"
+    "name": "Goblin Mage (SSR)",
+    "maxUncap": 4
   },
   "3040571000": {
-    "name": "Koku"
+    "name": "Koku",
+    "maxUncap": 4
   },
   "3040572000": {
-    "name": "Maleagant"
+    "name": "Maleagant",
+    "maxUncap": 4
   },
   "3040573000": {
-    "name": "Feena (Light)"
+    "name": "Feena (Light)",
+    "maxUncap": 4
   }
 }
