@@ -29,13 +29,14 @@ jobs:
           CHARACTERS_FILE="characters.json"
           SUMMONS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=summons&fields=id%2C_pageName%3Dname%2Cevo_max&formatversion=2"
           CHARACTERS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=characters&fields=id%2C_pageName%3Dname%2Cmax_evo&formatversion=2"
-          JQ_QUERY="map({ (.id | tostring): {name: .name} }) | add"
+          SUMMON_JQ_QUERY="map({ (.id | tostring): {name, maxUncap: ."evo max"} }) | add"
+          CHARACTER_JQ_QUERY="map({ (.id | tostring): {name, maxUncap: ."max evo"} }) | add"
           #summons
           curl -A "$USER_AGENT" -fsSL "$SUMMONS_URL" > "$TEMP_FILE"
-          jq "$JQ_QUERY" "$TEMP_FILE" > "$SUMMONS_FILE"
+          jq "$SUMMON_JQ_QUERY" "$TEMP_FILE" > "$SUMMONS_FILE"
           #characters
           curl -A "$USER_AGENT" -fsSL "$CHARACTERS_URL" > "$TEMP_FILE"
-          jq "$JQ_QUERY" "$TEMP_FILE" > "$CHARACTERS_FILE"
+          jq "$CHARACTER_JQ_QUERY" "$TEMP_FILE" > "$CHARACTERS_FILE"
 
       - name: Check for Changes
         id: check_changes
