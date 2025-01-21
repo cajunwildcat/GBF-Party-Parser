@@ -1,4 +1,3748 @@
 {
+  "1010000000": {
+    "name": "Spatha",
+    "maxUncap": 3
+  },
+  "1010000100": {
+    "name": "Bronze Spatha",
+    "maxUncap": 3
+  },
+  "1010000200": {
+    "name": "Steel Sword",
+    "maxUncap": 3
+  },
+  "1010000300": {
+    "name": "Iron Rapier",
+    "maxUncap": 3
+  },
+  "1010000400": {
+    "name": "Bronze Sword",
+    "maxUncap": 3
+  },
+  "1010000500": {
+    "name": "Saber",
+    "maxUncap": 3
+  },
+  "1010000600": {
+    "name": "Bronze Saber",
+    "maxUncap": 3
+  },
+  "1010000700": {
+    "name": "Bronze Rapier",
+    "maxUncap": 3
+  },
+  "1010000800": {
+    "name": "Broadsword",
+    "maxUncap": 3
+  },
+  "1010000900": {
+    "name": "Gladius",
+    "maxUncap": 3
+  },
+  "1010001000": {
+    "name": "Longsword",
+    "maxUncap": 3
+  },
+  "1010001200": {
+    "name": "Iron Sword",
+    "maxUncap": 3
+  },
+  "1010001300": {
+    "name": "Iron Spatha",
+    "maxUncap": 3
+  },
+  "1010001400": {
+    "name": "Iron Saber",
+    "maxUncap": 3
+  },
+  "1010001500": {
+    "name": "Steel Spatha",
+    "maxUncap": 3
+  },
+  "1010001600": {
+    "name": "Steel Saber",
+    "maxUncap": 3
+  },
+  "1010001700": {
+    "name": "Steel Rapier",
+    "maxUncap": 3
+  },
+  "1010100000": {
+    "name": "Dagger",
+    "maxUncap": 3
+  },
+  "1010100100": {
+    "name": "Bronze Dagger",
+    "maxUncap": 3
+  },
+  "1010100200": {
+    "name": "Steel Kukri",
+    "maxUncap": 3
+  },
+  "1010100300": {
+    "name": "Iron Knife",
+    "maxUncap": 3
+  },
+  "1010100400": {
+    "name": "Bronze Knife",
+    "maxUncap": 3
+  },
+  "1010100500": {
+    "name": "Bronze Kris",
+    "maxUncap": 3
+  },
+  "1010100600": {
+    "name": "Bronze Kukri",
+    "maxUncap": 3
+  },
+  "1010100700": {
+    "name": "Iron Dagger",
+    "maxUncap": 3
+  },
+  "1010100800": {
+    "name": "Iron Kris",
+    "maxUncap": 3
+  },
+  "1010100900": {
+    "name": "Iron Kukri",
+    "maxUncap": 3
+  },
+  "1010101000": {
+    "name": "Knife",
+    "maxUncap": 3
+  },
+  "1010101100": {
+    "name": "Steel Dagger",
+    "maxUncap": 3
+  },
+  "1010101200": {
+    "name": "Steel Knife",
+    "maxUncap": 3
+  },
+  "1010101300": {
+    "name": "Steel Kris",
+    "maxUncap": 3
+  },
+  "1010101400": {
+    "name": "Baselard",
+    "maxUncap": 3
+  },
+  "1010200000": {
+    "name": "Pike",
+    "maxUncap": 3
+  },
+  "1010200100": {
+    "name": "Corseque",
+    "maxUncap": 3
+  },
+  "1010200200": {
+    "name": "Bronze Halberd",
+    "maxUncap": 3
+  },
+  "1010200300": {
+    "name": "Steel Partisan",
+    "maxUncap": 3
+  },
+  "1010200400": {
+    "name": "Iron Spear",
+    "maxUncap": 3
+  },
+  "1010200500": {
+    "name": "Bronze Spear",
+    "maxUncap": 3
+  },
+  "1010200600": {
+    "name": "Spear",
+    "maxUncap": 3
+  },
+  "1010200700": {
+    "name": "Glaive",
+    "maxUncap": 3
+  },
+  "1010200800": {
+    "name": "Bronze Glaive",
+    "maxUncap": 3
+  },
+  "1010200900": {
+    "name": "Bronze Partisan",
+    "maxUncap": 3
+  },
+  "1010201000": {
+    "name": "Iron Glaive",
+    "maxUncap": 3
+  },
+  "1010201100": {
+    "name": "Iron Halberd",
+    "maxUncap": 3
+  },
+  "1010201200": {
+    "name": "Iron Partisan",
+    "maxUncap": 3
+  },
+  "1010201300": {
+    "name": "Steel Spear",
+    "maxUncap": 3
+  },
+  "1010201400": {
+    "name": "Steel Glaive",
+    "maxUncap": 3
+  },
+  "1010201500": {
+    "name": "Steel Halberd",
+    "maxUncap": 3
+  },
+  "1010300000": {
+    "name": "Bronze Axe",
+    "maxUncap": 3
+  },
+  "1010300100": {
+    "name": "Steel Axe",
+    "maxUncap": 3
+  },
+  "1010300200": {
+    "name": "Bronze Zaghnal",
+    "maxUncap": 3
+  },
+  "1010300300": {
+    "name": "Steel Kalinga Axe",
+    "maxUncap": 3
+  },
+  "1010300400": {
+    "name": "Iron Hammer",
+    "maxUncap": 3
+  },
+  "1010300500": {
+    "name": "Bronze Kalinga Axe",
+    "maxUncap": 3
+  },
+  "1010300600": {
+    "name": "Bronze Hammer",
+    "maxUncap": 3
+  },
+  "1010300700": {
+    "name": "Iron Axe",
+    "maxUncap": 3
+  },
+  "1010300800": {
+    "name": "Iron Zaghnal",
+    "maxUncap": 3
+  },
+  "1010300900": {
+    "name": "Iron Kalinga Axe",
+    "maxUncap": 3
+  },
+  "1010301000": {
+    "name": "Steel Zaghnal",
+    "maxUncap": 3
+  },
+  "1010301100": {
+    "name": "Steel Hammer",
+    "maxUncap": 3
+  },
+  "1010301200": {
+    "name": "Pollaxe",
+    "maxUncap": 3
+  },
+  "1010301300": {
+    "name": "War Pick",
+    "maxUncap": 3
+  },
+  "1010400000": {
+    "name": "Club",
+    "maxUncap": 3
+  },
+  "1010400100": {
+    "name": "Staff",
+    "maxUncap": 3
+  },
+  "1010400200": {
+    "name": "Oak Wand",
+    "maxUncap": 3
+  },
+  "1010400300": {
+    "name": "Iron Staff",
+    "maxUncap": 3
+  },
+  "1010400400": {
+    "name": "Maple Staff",
+    "maxUncap": 3
+  },
+  "1010400500": {
+    "name": "Bronze Rod",
+    "maxUncap": 3
+  },
+  "1010400600": {
+    "name": "Bronze Mace",
+    "maxUncap": 3
+  },
+  "1010400700": {
+    "name": "Maple Wand",
+    "maxUncap": 3
+  },
+  "1010400800": {
+    "name": "Iron Rod",
+    "maxUncap": 3
+  },
+  "1010400900": {
+    "name": "Iron Mace",
+    "maxUncap": 3
+  },
+  "1010401000": {
+    "name": "Ash Staff",
+    "maxUncap": 3
+  },
+  "1010401100": {
+    "name": "Ash Wand",
+    "maxUncap": 3
+  },
+  "1010401200": {
+    "name": "Iron Wand",
+    "maxUncap": 3
+  },
+  "1010401300": {
+    "name": "Steel Rod",
+    "maxUncap": 3
+  },
+  "1010401400": {
+    "name": "Steel Mace",
+    "maxUncap": 3
+  },
+  "1010401500": {
+    "name": "Oak Staff",
+    "maxUncap": 3
+  },
+  "1010401600": {
+    "name": "Enchanted Staff",
+    "maxUncap": 3
+  },
+  "1010401700": {
+    "name": "Yantok",
+    "maxUncap": 3
+  },
+  "1010500000": {
+    "name": "Musket",
+    "maxUncap": 3
+  },
+  "1010500100": {
+    "name": "Wallock",
+    "maxUncap": 3
+  },
+  "1010500200": {
+    "name": "Wheellock",
+    "maxUncap": 3
+  },
+  "1010500300": {
+    "name": "Little Torpedo",
+    "maxUncap": 3
+  },
+  "1010500400": {
+    "name": "Eagle Tears",
+    "maxUncap": 3
+  },
+  "1010600000": {
+    "name": "Bronze Baghnakhs",
+    "maxUncap": 3
+  },
+  "1010600100": {
+    "name": "Hora",
+    "maxUncap": 3
+  },
+  "1010600200": {
+    "name": "Caestus",
+    "maxUncap": 3
+  },
+  "1010600300": {
+    "name": "Bronze Knuckles",
+    "maxUncap": 3
+  },
+  "1010700000": {
+    "name": "Shortbow",
+    "maxUncap": 3
+  },
+  "1010700100": {
+    "name": "Self Bow",
+    "maxUncap": 3
+  },
+  "1010800000": {
+    "name": "Maple Harp",
+    "maxUncap": 3
+  },
+  "1010900000": {
+    "name": "Kunai",
+    "maxUncap": 3
+  },
+  "1010900100": {
+    "name": "Tachi",
+    "maxUncap": 3
+  },
+  "1019900000": {
+    "name": "Mirage Munition",
+    "maxUncap": 3
+  },
+  "1020000000": {
+    "name": "Claymore",
+    "maxUncap": 3
+  },
+  "1020000100": {
+    "name": "Mythril Rapier",
+    "maxUncap": 3
+  },
+  "1020000200": {
+    "name": "Anelace",
+    "maxUncap": 3
+  },
+  "1020000300": {
+    "name": "Falchion",
+    "maxUncap": 3
+  },
+  "1020000400": {
+    "name": "Thunder Rapier",
+    "maxUncap": 3
+  },
+  "1020000500": {
+    "name": "Mythril Sword",
+    "maxUncap": 3
+  },
+  "1020000600": {
+    "name": "Mythril Spatha",
+    "maxUncap": 3
+  },
+  "1020000700": {
+    "name": "Mythril Saber",
+    "maxUncap": 3
+  },
+  "1020000800": {
+    "name": "Fire Sword",
+    "maxUncap": 3
+  },
+  "1020001000": {
+    "name": "Buster Sword",
+    "maxUncap": 3
+  },
+  "1020001100": {
+    "name": "Imperial Shotel",
+    "maxUncap": 3
+  },
+  "1020001200": {
+    "name": "Earth Cutlass",
+    "maxUncap": 3
+  },
+  "1020001400": {
+    "name": "Icey Nail",
+    "maxUncap": 3
+  },
+  "1020001500": {
+    "name": "Lightbringer",
+    "maxUncap": 3
+  },
+  "1020001600": {
+    "name": "Flame Rapier",
+    "maxUncap": 3
+  },
+  "1020001700": {
+    "name": "Ice Sword",
+    "maxUncap": 3
+  },
+  "1020001800": {
+    "name": "Xiphos",
+    "maxUncap": 3
+  },
+  "1020001900": {
+    "name": "Two-Handed Sword",
+    "maxUncap": 3
+  },
+  "1020002000": {
+    "name": "Dark Sword",
+    "maxUncap": 3
+  },
+  "1020002100": {
+    "name": "Shrimp Lure",
+    "maxUncap": 3
+  },
+  "1020002200": {
+    "name": "Old Sword",
+    "maxUncap": 3
+  },
+  "1020002300": {
+    "name": "Paper Fan",
+    "maxUncap": 3
+  },
+  "1020002400": {
+    "name": "White Sword",
+    "maxUncap": 3
+  },
+  "1020002500": {
+    "name": "Prism Tear",
+    "maxUncap": 3
+  },
+  "1020002600": {
+    "name": "Practice Sword",
+    "maxUncap": 3
+  },
+  "1020002700": {
+    "name": "Vintage Flat Iron",
+    "maxUncap": 3
+  },
+  "1020002800": {
+    "name": "Heavy Metal Comb",
+    "maxUncap": 3
+  },
+  "1020002900": {
+    "name": "Blue Crest",
+    "maxUncap": 3
+  },
+  "1020099000": {
+    "name": "Angel Sword",
+    "maxUncap": 3
+  },
+  "1020100000": {
+    "name": "Mythril Knife",
+    "maxUncap": 3
+  },
+  "1020100100": {
+    "name": "Kukri",
+    "maxUncap": 3
+  },
+  "1020100200": {
+    "name": "Kris",
+    "maxUncap": 3
+  },
+  "1020100300": {
+    "name": "Mythril Kukri",
+    "maxUncap": 3
+  },
+  "1020100400": {
+    "name": "Kila",
+    "maxUncap": 3
+  },
+  "1020100500": {
+    "name": "Assassin's Dagger",
+    "maxUncap": 3
+  },
+  "1020100600": {
+    "name": "Mandau",
+    "maxUncap": 3
+  },
+  "1020100700": {
+    "name": "Main Gauche",
+    "maxUncap": 3
+  },
+  "1020100800": {
+    "name": "Mythril Dagger",
+    "maxUncap": 3
+  },
+  "1020100900": {
+    "name": "Mythril Kris",
+    "maxUncap": 3
+  },
+  "1020101000": {
+    "name": "Mailbreaker",
+    "maxUncap": 3
+  },
+  "1020101100": {
+    "name": "Water Kukri",
+    "maxUncap": 3
+  },
+  "1020101300": {
+    "name": "Leaf Dagger",
+    "maxUncap": 3
+  },
+  "1020101500": {
+    "name": "Earth Serpentine",
+    "maxUncap": 3
+  },
+  "1020101700": {
+    "name": "Holy Kris",
+    "maxUncap": 3
+  },
+  "1020101800": {
+    "name": "Emerald Dagger",
+    "maxUncap": 3
+  },
+  "1020101900": {
+    "name": "Dark Knife",
+    "maxUncap": 3
+  },
+  "1020102000": {
+    "name": "Fire Baselard",
+    "maxUncap": 3
+  },
+  "1020102100": {
+    "name": "Wooden Dagger",
+    "maxUncap": 3
+  },
+  "1020102200": {
+    "name": "Bloody Piercer",
+    "maxUncap": 3
+  },
+  "1020102300": {
+    "name": "Switchblade",
+    "maxUncap": 3
+  },
+  "1020102400": {
+    "name": "Cleaver",
+    "maxUncap": 3
+  },
+  "1020102500": {
+    "name": "Broken Bottle",
+    "maxUncap": 3
+  },
+  "1020102600": {
+    "name": "Little Scarlet",
+    "maxUncap": 3
+  },
+  "1020102700": {
+    "name": "Spin Blade",
+    "maxUncap": 3
+  },
+  "1020199000": {
+    "name": "Angel Knife",
+    "maxUncap": 3
+  },
+  "1020200100": {
+    "name": "Mythril Halberd",
+    "maxUncap": 3
+  },
+  "1020200200": {
+    "name": "Halberd",
+    "maxUncap": 3
+  },
+  "1020200300": {
+    "name": "Mezraq",
+    "maxUncap": 3
+  },
+  "1020200400": {
+    "name": "Fire Glaive",
+    "maxUncap": 3
+  },
+  "1020200500": {
+    "name": "Couse",
+    "maxUncap": 3
+  },
+  "1020200600": {
+    "name": "Mythril Glaive",
+    "maxUncap": 3
+  },
+  "1020200700": {
+    "name": "Mythril Spear",
+    "maxUncap": 3
+  },
+  "1020200800": {
+    "name": "Mythril Partisan",
+    "maxUncap": 3
+  },
+  "1020200900": {
+    "name": "Langdebeve",
+    "maxUncap": 3
+  },
+  "1020201000": {
+    "name": "Wind Talon Spear",
+    "maxUncap": 3
+  },
+  "1020201100": {
+    "name": "Shadow Spear",
+    "maxUncap": 3
+  },
+  "1020201200": {
+    "name": "Flame Halberd",
+    "maxUncap": 3
+  },
+  "1020201400": {
+    "name": "Earth Halberd",
+    "maxUncap": 3
+  },
+  "1020201500": {
+    "name": "Aquan Killer",
+    "maxUncap": 3
+  },
+  "1020201600": {
+    "name": "Night Horn",
+    "maxUncap": 3
+  },
+  "1020201700": {
+    "name": "Ghillie Fork",
+    "maxUncap": 3
+  },
+  "1020201800": {
+    "name": "Silver Pole",
+    "maxUncap": 3
+  },
+  "1020299000": {
+    "name": "Angel Spear",
+    "maxUncap": 3
+  },
+  "1020300000": {
+    "name": "Tabar",
+    "maxUncap": 3
+  },
+  "1020300100": {
+    "name": "Battle Axe",
+    "maxUncap": 3
+  },
+  "1020300200": {
+    "name": "Thunder Kalinga Axe",
+    "maxUncap": 3
+  },
+  "1020300300": {
+    "name": "Earth Zaghnal",
+    "maxUncap": 3
+  },
+  "1020300400": {
+    "name": "Mythril Axe",
+    "maxUncap": 3
+  },
+  "1020300500": {
+    "name": "Mythril Zaghnal",
+    "maxUncap": 3
+  },
+  "1020300600": {
+    "name": "Mythril Hammer",
+    "maxUncap": 3
+  },
+  "1020300700": {
+    "name": "Mythril Kalinga Axe",
+    "maxUncap": 3
+  },
+  "1020300800": {
+    "name": "Bardiche",
+    "maxUncap": 3
+  },
+  "1020301000": {
+    "name": "Crimson Axe",
+    "maxUncap": 3
+  },
+  "1020301100": {
+    "name": "Rock Hammer",
+    "maxUncap": 3
+  },
+  "1020301200": {
+    "name": "Sky Tomahawk",
+    "maxUncap": 3
+  },
+  "1020301300": {
+    "name": "Harvester",
+    "maxUncap": 3
+  },
+  "1020301400": {
+    "name": "Draph Hammer",
+    "maxUncap": 3
+  },
+  "1020301500": {
+    "name": "Soldier Axe",
+    "maxUncap": 3
+  },
+  "1020301600": {
+    "name": "Neckchopper",
+    "maxUncap": 3
+  },
+  "1020301700": {
+    "name": "Wind Axe",
+    "maxUncap": 3
+  },
+  "1020301800": {
+    "name": "Morning Star",
+    "maxUncap": 3
+  },
+  "1020301900": {
+    "name": "Iron Pliers",
+    "maxUncap": 3
+  },
+  "1020399000": {
+    "name": "Angel Axe",
+    "maxUncap": 3
+  },
+  "1020400000": {
+    "name": "Taiaha",
+    "maxUncap": 3
+  },
+  "1020400100": {
+    "name": "Shareeravadi",
+    "maxUncap": 3
+  },
+  "1020400200": {
+    "name": "Cane",
+    "maxUncap": 3
+  },
+  "1020400300": {
+    "name": "Mythril Rod",
+    "maxUncap": 3
+  },
+  "1020400400": {
+    "name": "Feather Staff",
+    "maxUncap": 3
+  },
+  "1020400500": {
+    "name": "Mythril Mace",
+    "maxUncap": 3
+  },
+  "1020400600": {
+    "name": "Feather Wand",
+    "maxUncap": 3
+  },
+  "1020400700": {
+    "name": "Earth Mace",
+    "maxUncap": 3
+  },
+  "1020400800": {
+    "name": "Water Rod",
+    "maxUncap": 3
+  },
+  "1020400900": {
+    "name": "Spiked Club",
+    "maxUncap": 3
+  },
+  "1020401000": {
+    "name": "Mace",
+    "maxUncap": 3
+  },
+  "1020401100": {
+    "name": "Water Nymph Staff",
+    "maxUncap": 3
+  },
+  "1020401200": {
+    "name": "Fire Nymph Staff",
+    "maxUncap": 3
+  },
+  "1020401300": {
+    "name": "Shadow Wand",
+    "maxUncap": 3
+  },
+  "1020401500": {
+    "name": "The Cross",
+    "maxUncap": 3
+  },
+  "1020401600": {
+    "name": "Moss Tree Staff",
+    "maxUncap": 3
+  },
+  "1020401700": {
+    "name": "Wind Rod",
+    "maxUncap": 3
+  },
+  "1020401800": {
+    "name": "Evil Wand",
+    "maxUncap": 3
+  },
+  "1020401900": {
+    "name": "Emerald Cane",
+    "maxUncap": 3
+  },
+  "1020402000": {
+    "name": "Ocean Rod",
+    "maxUncap": 3
+  },
+  "1020402100": {
+    "name": "Cursed Flame Candelabra",
+    "maxUncap": 3
+  },
+  "1020402200": {
+    "name": "Tree Wand",
+    "maxUncap": 3
+  },
+  "1020402300": {
+    "name": "Snowman Rod",
+    "maxUncap": 3
+  },
+  "1020402400": {
+    "name": "Torch",
+    "maxUncap": 3
+  },
+  "1020402500": {
+    "name": "Stone Pole",
+    "maxUncap": 3
+  },
+  "1020402600": {
+    "name": "Light Staff",
+    "maxUncap": 3
+  },
+  "1020402700": {
+    "name": "Forest Hermit Staff",
+    "maxUncap": 3
+  },
+  "1020402800": {
+    "name": "Rubia Rod",
+    "maxUncap": 3
+  },
+  "1020402900": {
+    "name": "Student Notebook",
+    "maxUncap": 3
+  },
+  "1020499000": {
+    "name": "Angel Wand",
+    "maxUncap": 3
+  },
+  "1020500100": {
+    "name": "Petronel",
+    "maxUncap": 3
+  },
+  "1020500200": {
+    "name": "Grenade",
+    "maxUncap": 3
+  },
+  "1020500300": {
+    "name": "Matchlock",
+    "maxUncap": 3
+  },
+  "1020500400": {
+    "name": "Serpentine",
+    "maxUncap": 3
+  },
+  "1020500500": {
+    "name": "Jezail",
+    "maxUncap": 3
+  },
+  "1020500600": {
+    "name": "Rainbow Scale Pistol",
+    "maxUncap": 3
+  },
+  "1020500700": {
+    "name": "Shining Barrel",
+    "maxUncap": 3
+  },
+  "1020500800": {
+    "name": "Self Defender",
+    "maxUncap": 3
+  },
+  "1020500900": {
+    "name": "Hand Pistol",
+    "maxUncap": 3
+  },
+  "1020501000": {
+    "name": "Straight Anchor",
+    "maxUncap": 3
+  },
+  "1020501100": {
+    "name": "Ranger Pistol",
+    "maxUncap": 3
+  },
+  "1020501200": {
+    "name": "Firecracker",
+    "maxUncap": 3
+  },
+  "1020501300": {
+    "name": "Sawed-Off Shotgun",
+    "maxUncap": 3
+  },
+  "1020501400": {
+    "name": "Derringer",
+    "maxUncap": 3
+  },
+  "1020501500": {
+    "name": "Flame Bolt",
+    "maxUncap": 3
+  },
+  "1020599000": {
+    "name": "Angel Gun",
+    "maxUncap": 3
+  },
+  "1020600000": {
+    "name": "Gauntlet",
+    "maxUncap": 3
+  },
+  "1020600100": {
+    "name": "Pata",
+    "maxUncap": 3
+  },
+  "1020600200": {
+    "name": "Mythril Baghnakhs",
+    "maxUncap": 3
+  },
+  "1020600300": {
+    "name": "Mythril Knuckles",
+    "maxUncap": 3
+  },
+  "1020600400": {
+    "name": "Crusher Glove",
+    "maxUncap": 3
+  },
+  "1020600500": {
+    "name": "Shining Knuckles",
+    "maxUncap": 3
+  },
+  "1020600600": {
+    "name": "Whirlwind Wraps",
+    "maxUncap": 3
+  },
+  "1020600700": {
+    "name": "Fish Tooth",
+    "maxUncap": 3
+  },
+  "1020600800": {
+    "name": "Heated Pata",
+    "maxUncap": 3
+  },
+  "1020600900": {
+    "name": "Tidal Wraps",
+    "maxUncap": 3
+  },
+  "1020601000": {
+    "name": "Fireball",
+    "maxUncap": 3
+  },
+  "1020601100": {
+    "name": "Blast Knuckles",
+    "maxUncap": 3
+  },
+  "1020601200": {
+    "name": "Rock Cutter",
+    "maxUncap": 3
+  },
+  "1020601300": {
+    "name": "Tonfa",
+    "maxUncap": 3
+  },
+  "1020601400": {
+    "name": "Chopsticks",
+    "maxUncap": 3
+  },
+  "1020601500": {
+    "name": "Light Buckler",
+    "maxUncap": 3
+  },
+  "1020601600": {
+    "name": "Oven Mitts",
+    "maxUncap": 3
+  },
+  "1020601700": {
+    "name": "Iron Guard",
+    "maxUncap": 3
+  },
+  "1020601800": {
+    "name": "Enchanted Nail",
+    "maxUncap": 3
+  },
+  "1020601900": {
+    "name": "Cold Noodles",
+    "maxUncap": 3
+  },
+  "1020602000": {
+    "name": "Boogie Plates",
+    "maxUncap": 3
+  },
+  "1020602100": {
+    "name": "Tattoo Fist",
+    "maxUncap": 3
+  },
+  "1020699000": {
+    "name": "Angel Brass Knuckles",
+    "maxUncap": 3
+  },
+  "1020700000": {
+    "name": "Mythril Bow",
+    "maxUncap": 3
+  },
+  "1020700100": {
+    "name": "War Bow",
+    "maxUncap": 3
+  },
+  "1020700200": {
+    "name": "Wrapped Bow",
+    "maxUncap": 3
+  },
+  "1020700300": {
+    "name": "Composite Bow",
+    "maxUncap": 3
+  },
+  "1020700400": {
+    "name": "Longbow",
+    "maxUncap": 3
+  },
+  "1020700500": {
+    "name": "Power Bow",
+    "maxUncap": 3
+  },
+  "1020700600": {
+    "name": "Earth Bow",
+    "maxUncap": 3
+  },
+  "1020700700": {
+    "name": "Flame Bow",
+    "maxUncap": 3
+  },
+  "1020799000": {
+    "name": "Angel Bow",
+    "maxUncap": 3
+  },
+  "1020800000": {
+    "name": "Lyre of Lamia",
+    "maxUncap": 3
+  },
+  "1020800100": {
+    "name": "Night Bell",
+    "maxUncap": 3
+  },
+  "1020800200": {
+    "name": "Night Air Bell",
+    "maxUncap": 3
+  },
+  "1020800300": {
+    "name": "Bronze Bell",
+    "maxUncap": 3
+  },
+  "1020899000": {
+    "name": "Angel Harp",
+    "maxUncap": 3
+  },
+  "1020900000": {
+    "name": "Nodachi",
+    "maxUncap": 3
+  },
+  "1020900100": {
+    "name": "Mythril Katana",
+    "maxUncap": 3
+  },
+  "1020900200": {
+    "name": "Mythril Sting",
+    "maxUncap": 3
+  },
+  "1020999000": {
+    "name": "Angel Katana",
+    "maxUncap": 3
+  },
+  "1029900000": {
+    "name": "Skill Shard",
+    "maxUncap": 3
+  },
+  "1030000000": {
+    "name": "Arondight",
+    "maxUncap": 3
+  },
+  "1030000100": {
+    "name": "Ilhoon",
+    "maxUncap": 3
+  },
+  "1030000200": {
+    "name": "Fragarach",
+    "maxUncap": 3
+  },
+  "1030000300": {
+    "name": "Tilvung",
+    "maxUncap": 3
+  },
+  "1030000400": {
+    "name": "Tiamat Blade",
+    "maxUncap": 3
+  },
+  "1030000500": {
+    "name": "Yggdrasil Crystal Blade",
+    "maxUncap": 3
+  },
+  "1030000700": {
+    "name": "Ifrit Blade",
+    "maxUncap": 3
+  },
+  "1030001000": {
+    "name": "Tizona",
+    "maxUncap": 3
+  },
+  "1030001100": {
+    "name": "Kadala",
+    "maxUncap": 3
+  },
+  "1030001200": {
+    "name": "Almace",
+    "maxUncap": 3
+  },
+  "1030001300": {
+    "name": "Tanzanite Sword",
+    "maxUncap": 3
+  },
+  "1030001400": {
+    "name": "Ram-Dao",
+    "maxUncap": 3
+  },
+  "1030001500": {
+    "name": "Twisted Dagger",
+    "maxUncap": 3
+  },
+  "1030001800": {
+    "name": "Royal Rapier",
+    "maxUncap": 3
+  },
+  "1030001900": {
+    "name": "Lyst",
+    "maxUncap": 3
+  },
+  "1030002100": {
+    "name": "Makebranche",
+    "maxUncap": 3
+  },
+  "1030002200": {
+    "name": "Nephthys Rapier",
+    "maxUncap": 3
+  },
+  "1030002300": {
+    "name": "Luminiera Sword",
+    "maxUncap": 3
+  },
+  "1030002400": {
+    "name": "Ripple Rapier",
+    "maxUncap": 3
+  },
+  "1030002600": {
+    "name": "Skirt Chaser",
+    "maxUncap": 3
+  },
+  "1030002700": {
+    "name": "Purity Blade",
+    "maxUncap": 3
+  },
+  "1030002800": {
+    "name": "Sagittarius Blade",
+    "maxUncap": 3
+  },
+  "1030002900": {
+    "name": "Rusted Sword",
+    "maxUncap": 3
+  },
+  "1030003100": {
+    "name": "Lantern Blade",
+    "maxUncap": 3
+  },
+  "1030003200": {
+    "name": "Babylon Sword",
+    "maxUncap": 3
+  },
+  "1030003300": {
+    "name": "Skofnung Replica",
+    "maxUncap": 3
+  },
+  "1030003400": {
+    "name": "Ember Blade",
+    "maxUncap": 3
+  },
+  "1030003500": {
+    "name": "Traveller's Sword",
+    "maxUncap": 3
+  },
+  "1030003600": {
+    "name": "Ruby Sword Relic",
+    "maxUncap": 3
+  },
+  "1030003700": {
+    "name": "Sapphire Sword Relic",
+    "maxUncap": 3
+  },
+  "1030003800": {
+    "name": "Jade Sword Relic",
+    "maxUncap": 3
+  },
+  "1030003900": {
+    "name": "Amber Sword Relic",
+    "maxUncap": 3
+  },
+  "1030004000": {
+    "name": "Pearl Sword Relic",
+    "maxUncap": 3
+  },
+  "1030004100": {
+    "name": "Onyx Sword Relic",
+    "maxUncap": 3
+  },
+  "1030004200": {
+    "name": "Branwen Rapier",
+    "maxUncap": 3
+  },
+  "1030004300": {
+    "name": "Magus Punishment Sword",
+    "maxUncap": 3
+  },
+  "1030004400": {
+    "name": "Sword of Bahamut",
+    "maxUncap": 3
+  },
+  "1030004500": {
+    "name": "Tanzanite Sword Mikoh",
+    "maxUncap": 3
+  },
+  "1030004600": {
+    "name": "Contrary Sword",
+    "maxUncap": 3
+  },
+  "1030004700": {
+    "name": "Electro Sword",
+    "maxUncap": 3
+  },
+  "1030004800": {
+    "name": "Pirate Sword",
+    "maxUncap": 3
+  },
+  "1030004900": {
+    "name": "Aura Whip",
+    "maxUncap": 3
+  },
+  "1030005000": {
+    "name": "Vyrn Star Sword",
+    "maxUncap": 3
+  },
+  "1030005100": {
+    "name": "White Dragon Sword",
+    "maxUncap": 3
+  },
+  "1030005200": {
+    "name": "New Year Mayudama Branch",
+    "maxUncap": 3
+  },
+  "1030005300": {
+    "name": "Spiked Baseball Bat",
+    "maxUncap": 3
+  },
+  "1030005400": {
+    "name": "Frying Pan",
+    "maxUncap": 3
+  },
+  "1030005500": {
+    "name": "Aschallon Replica",
+    "maxUncap": 3
+  },
+  "1030005600": {
+    "name": "Standard Albion Blade",
+    "maxUncap": 3
+  },
+  "1030005700": {
+    "name": "Delta Apex",
+    "maxUncap": 3
+  },
+  "1030005800": {
+    "name": "Souval Cutlass",
+    "maxUncap": 3
+  },
+  "1030005900": {
+    "name": "White Flag",
+    "maxUncap": 3
+  },
+  "1030006000": {
+    "name": "Aquablade",
+    "maxUncap": 3
+  },
+  "1030006100": {
+    "name": "Grand Edge",
+    "maxUncap": 3
+  },
+  "1030006200": {
+    "name": "Sword of Michael (SR)",
+    "maxUncap": 3
+  },
+  "1030006300": {
+    "name": "True Teardrop",
+    "maxUncap": 3
+  },
+  "1030006400": {
+    "name": "Roasting Skewer",
+    "maxUncap": 3
+  },
+  "1030006500": {
+    "name": "Bottle o' Blossoms",
+    "maxUncap": 3
+  },
+  "1030006600": {
+    "name": "Wasp-Sting Rapier",
+    "maxUncap": 3
+  },
+  "1030006700": {
+    "name": "Floaty Sword",
+    "maxUncap": 3
+  },
+  "1030006800": {
+    "name": "Mysterian Blade",
+    "maxUncap": 3
+  },
+  "1030006900": {
+    "name": "Sword of Sorcery",
+    "maxUncap": 3
+  },
+  "1030007000": {
+    "name": "Silver Fan",
+    "maxUncap": 3
+  },
+  "1030007100": {
+    "name": "Silver Shotel",
+    "maxUncap": 3
+  },
+  "1030007200": {
+    "name": "Summer Souteyrand",
+    "maxUncap": 3
+  },
+  "1030007300": {
+    "name": "Macuahuitl",
+    "maxUncap": 3
+  },
+  "1030007400": {
+    "name": "Kilij",
+    "maxUncap": 3
+  },
+  "1030007500": {
+    "name": "Balisarde",
+    "maxUncap": 3
+  },
+  "1030007600": {
+    "name": "Bending Whip",
+    "maxUncap": 3
+  },
+  "1030007700": {
+    "name": "Time-Tested Iron",
+    "maxUncap": 3
+  },
+  "1030007800": {
+    "name": "Festive Frying Pan",
+    "maxUncap": 3
+  },
+  "1030007900": {
+    "name": "Prideful Sword",
+    "maxUncap": 3
+  },
+  "1030008000": {
+    "name": "Meteoric Blade",
+    "maxUncap": 3
+  },
+  "1030008100": {
+    "name": "Bristlegrass",
+    "maxUncap": 3
+  },
+  "1030008200": {
+    "name": "Samurai Sword",
+    "maxUncap": 3
+  },
+  "1030008300": {
+    "name": "Watcher's Adze",
+    "maxUncap": 3
+  },
+  "1030008400": {
+    "name": "Jeunesse",
+    "maxUncap": 3
+  },
+  "1030008500": {
+    "name": "Proximo Replica",
+    "maxUncap": 3
+  },
+  "1030008600": {
+    "name": "Dance Flower",
+    "maxUncap": 3
+  },
+  "1030008700": {
+    "name": "Premium Sword",
+    "maxUncap": 3
+  },
+  "1030008800": {
+    "name": "Black Dragon Sword",
+    "maxUncap": 3
+  },
+  "1030008900": {
+    "name": "Lilac Comb",
+    "maxUncap": 3
+  },
+  "1030009000": {
+    "name": "Gold Wrench",
+    "maxUncap": 3
+  },
+  "1030009100": {
+    "name": "Rope Whip",
+    "maxUncap": 3
+  },
+  "1030009200": {
+    "name": "Oyster Shell",
+    "maxUncap": 3
+  },
+  "1030009300": {
+    "name": "Impassioned Rose",
+    "maxUncap": 3
+  },
+  "1030009400": {
+    "name": "Flame Lit Curl",
+    "maxUncap": 3
+  },
+  "1030009500": {
+    "name": "Little Master Key",
+    "maxUncap": 3
+  },
+  "1030009600": {
+    "name": "Kahuan Pahi Kaua",
+    "maxUncap": 3
+  },
+  "1030009700": {
+    "name": "Zombie Hunter",
+    "maxUncap": 3
+  },
+  "1030009800": {
+    "name": "Black Lion's Tail",
+    "maxUncap": 3
+  },
+  "1030009900": {
+    "name": "Death Whip",
+    "maxUncap": 3
+  },
+  "1030010000": {
+    "name": "Sword of Empowerment",
+    "maxUncap": 3
+  },
+  "1030010100": {
+    "name": "Rising Rebellion",
+    "maxUncap": 3
+  },
+  "1030010200": {
+    "name": "Lost Claymore",
+    "maxUncap": 3
+  },
+  "1030010300": {
+    "name": "Corn Slicer",
+    "maxUncap": 3
+  },
+  "1030010400": {
+    "name": "Stone Ilhoon",
+    "maxUncap": 3
+  },
+  "1030099000": {
+    "name": "Archangel Sword",
+    "maxUncap": 3
+  },
+  "1030100000": {
+    "name": "Cinquedea",
+    "maxUncap": 3
+  },
+  "1030100100": {
+    "name": "Mirage Knife",
+    "maxUncap": 3
+  },
+  "1030100200": {
+    "name": "Stiletto",
+    "maxUncap": 3
+  },
+  "1030100400": {
+    "name": "Panabas",
+    "maxUncap": 3
+  },
+  "1030100500": {
+    "name": "Storm Kris",
+    "maxUncap": 3
+  },
+  "1030100600": {
+    "name": "Colossus Breaker",
+    "maxUncap": 3
+  },
+  "1030100800": {
+    "name": "Leviathan Gaze",
+    "maxUncap": 3
+  },
+  "1030101000": {
+    "name": "Facon",
+    "maxUncap": 3
+  },
+  "1030101100": {
+    "name": "Fusetto",
+    "maxUncap": 3
+  },
+  "1030101200": {
+    "name": "Batadia",
+    "maxUncap": 3
+  },
+  "1030101300": {
+    "name": "Acinaces",
+    "maxUncap": 3
+  },
+  "1030101400": {
+    "name": "Sword Breaker",
+    "maxUncap": 3
+  },
+  "1030101800": {
+    "name": "Puppet Knife",
+    "maxUncap": 3
+  },
+  "1030101900": {
+    "name": "Tribunal Dagger",
+    "maxUncap": 3
+  },
+  "1030102000": {
+    "name": "Manawydan Dagger",
+    "maxUncap": 3
+  },
+  "1030102100": {
+    "name": "Ifrit Dagger",
+    "maxUncap": 3
+  },
+  "1030102200": {
+    "name": "Severing Blade of Midgardsormr",
+    "maxUncap": 3
+  },
+  "1030102300": {
+    "name": "Soul Edge",
+    "maxUncap": 3
+  },
+  "1030102400": {
+    "name": "Soulbond Dirk",
+    "maxUncap": 3
+  },
+  "1030102500": {
+    "name": "Rusted Dagger",
+    "maxUncap": 3
+  },
+  "1030102600": {
+    "name": "Sword of Lisblanc",
+    "maxUncap": 3
+  },
+  "1030102700": {
+    "name": "Sunset Dagger",
+    "maxUncap": 3
+  },
+  "1030102800": {
+    "name": "Ipetam Replica",
+    "maxUncap": 3
+  },
+  "1030102900": {
+    "name": "Leyding",
+    "maxUncap": 3
+  },
+  "1030103000": {
+    "name": "Faust Replica",
+    "maxUncap": 3
+  },
+  "1030103100": {
+    "name": "Ruby Dagger Relic",
+    "maxUncap": 3
+  },
+  "1030103200": {
+    "name": "Sapphire Dagger Relic",
+    "maxUncap": 3
+  },
+  "1030103300": {
+    "name": "Jade Dagger Relic",
+    "maxUncap": 3
+  },
+  "1030103400": {
+    "name": "Amber Dagger Relic",
+    "maxUncap": 3
+  },
+  "1030103500": {
+    "name": "Pearl Dagger Relic",
+    "maxUncap": 3
+  },
+  "1030103600": {
+    "name": "Onyx Dagger Relic",
+    "maxUncap": 3
+  },
+  "1030103700": {
+    "name": "Diablo Dagger",
+    "maxUncap": 3
+  },
+  "1030103800": {
+    "name": "Dagger of Bahamut",
+    "maxUncap": 3
+  },
+  "1030103900": {
+    "name": "Shade Knife",
+    "maxUncap": 3
+  },
+  "1030104000": {
+    "name": "Sashimi Knife",
+    "maxUncap": 3
+  },
+  "1030104100": {
+    "name": "Veselago Saber",
+    "maxUncap": 3
+  },
+  "1030104200": {
+    "name": "Tadpole Tail",
+    "maxUncap": 3
+  },
+  "1030104300": {
+    "name": "Holly Knife",
+    "maxUncap": 3
+  },
+  "1030104400": {
+    "name": "Misericorde Replica",
+    "maxUncap": 3
+  },
+  "1030104500": {
+    "name": "Egoism",
+    "maxUncap": 3
+  },
+  "1030104600": {
+    "name": "Sombre Knife",
+    "maxUncap": 3
+  },
+  "1030104700": {
+    "name": "Scalpel",
+    "maxUncap": 3
+  },
+  "1030104800": {
+    "name": "Oneiros Dagger",
+    "maxUncap": 3
+  },
+  "1030104900": {
+    "name": "Shrike's Beak",
+    "maxUncap": 3
+  },
+  "1030105000": {
+    "name": "Verona Kukri",
+    "maxUncap": 3
+  },
+  "1030105100": {
+    "name": "Wyrm Claw",
+    "maxUncap": 3
+  },
+  "1030105200": {
+    "name": "Windrazer",
+    "maxUncap": 3
+  },
+  "1030105300": {
+    "name": "Virtue's Kris",
+    "maxUncap": 3
+  },
+  "1030105400": {
+    "name": "Katzbalger",
+    "maxUncap": 3
+  },
+  "1030105500": {
+    "name": "Wicked Cool Stabber",
+    "maxUncap": 3
+  },
+  "1030105600": {
+    "name": "Mysterian Dagger",
+    "maxUncap": 3
+  },
+  "1030105700": {
+    "name": "Wyvern Pick",
+    "maxUncap": 3
+  },
+  "1030105800": {
+    "name": "Golden Baselard",
+    "maxUncap": 3
+  },
+  "1030105900": {
+    "name": "Emperor's Spike",
+    "maxUncap": 3
+  },
+  "1030106100": {
+    "name": "Jolie Dagger",
+    "maxUncap": 3
+  },
+  "1030106200": {
+    "name": "Mikan-Orange Blade",
+    "maxUncap": 3
+  },
+  "1030106300": {
+    "name": "Sakura-Pink Blade",
+    "maxUncap": 3
+  },
+  "1030106400": {
+    "name": "Emerald-Green Blade",
+    "maxUncap": 3
+  },
+  "1030106500": {
+    "name": "Red Blade",
+    "maxUncap": 3
+  },
+  "1030106600": {
+    "name": "Light-Blue Blade",
+    "maxUncap": 3
+  },
+  "1030106700": {
+    "name": "White Blade",
+    "maxUncap": 3
+  },
+  "1030106800": {
+    "name": "Yellow Blade",
+    "maxUncap": 3
+  },
+  "1030106900": {
+    "name": "Violet Blade",
+    "maxUncap": 3
+  },
+  "1030107000": {
+    "name": "Pink Blade",
+    "maxUncap": 3
+  },
+  "1030107100": {
+    "name": "Wrench",
+    "maxUncap": 3
+  },
+  "1030107200": {
+    "name": "Orange Light",
+    "maxUncap": 3
+  },
+  "1030107300": {
+    "name": "Light-Blue Light",
+    "maxUncap": 3
+  },
+  "1030107400": {
+    "name": "White Light",
+    "maxUncap": 3
+  },
+  "1030107500": {
+    "name": "Blue Light",
+    "maxUncap": 3
+  },
+  "1030107600": {
+    "name": "Yellow Light",
+    "maxUncap": 3
+  },
+  "1030107700": {
+    "name": "Red Light",
+    "maxUncap": 3
+  },
+  "1030107800": {
+    "name": "Violet Light",
+    "maxUncap": 3
+  },
+  "1030107900": {
+    "name": "Green Light",
+    "maxUncap": 3
+  },
+  "1030108000": {
+    "name": "Pink Light",
+    "maxUncap": 3
+  },
+  "1030108100": {
+    "name": "Wishing Dagger",
+    "maxUncap": 3
+  },
+  "1030108200": {
+    "name": "Mythril Spatula",
+    "maxUncap": 3
+  },
+  "1030108300": {
+    "name": "Samatha",
+    "maxUncap": 3
+  },
+  "1030108400": {
+    "name": "Survival Knife",
+    "maxUncap": 3
+  },
+  "1030108500": {
+    "name": "Gorgeous Spin Blade",
+    "maxUncap": 3
+  },
+  "1030108600": {
+    "name": "Paravyrnium",
+    "maxUncap": 3
+  },
+  "1030108700": {
+    "name": "Arabesque Replica",
+    "maxUncap": 3
+  },
+  "1030108800": {
+    "name": "Sauna-Goer's Cap",
+    "maxUncap": 3
+  },
+  "1030108900": {
+    "name": "Fire Starter",
+    "maxUncap": 3
+  },
+  "1030109000": {
+    "name": "Bedazzled Dagger",
+    "maxUncap": 3
+  },
+  "1030199000": {
+    "name": "Archangel Knife",
+    "maxUncap": 3
+  },
+  "1030200000": {
+    "name": "Vajranda",
+    "maxUncap": 3
+  },
+  "1030200100": {
+    "name": "Dragonfliar Cutter",
+    "maxUncap": 3
+  },
+  "1030200200": {
+    "name": "Partisan",
+    "maxUncap": 3
+  },
+  "1030200300": {
+    "name": "Shura Vhara",
+    "maxUncap": 3
+  },
+  "1030200400": {
+    "name": "Longinus",
+    "maxUncap": 3
+  },
+  "1030200500": {
+    "name": "Leviathan Spine",
+    "maxUncap": 3
+  },
+  "1030200700": {
+    "name": "Trident",
+    "maxUncap": 3
+  },
+  "1030201600": {
+    "name": "Phoenix Talon-Lance",
+    "maxUncap": 3
+  },
+  "1030201700": {
+    "name": "Narval",
+    "maxUncap": 3
+  },
+  "1030201800": {
+    "name": "Sandcastle Spear",
+    "maxUncap": 3
+  },
+  "1030201900": {
+    "name": "Cherry Blossom Lance",
+    "maxUncap": 3
+  },
+  "1030202000": {
+    "name": "Luminiera Spear",
+    "maxUncap": 3
+  },
+  "1030202100": {
+    "name": "Great Spear of Midgardsormr",
+    "maxUncap": 3
+  },
+  "1030202200": {
+    "name": "Albacore Nose",
+    "maxUncap": 3
+  },
+  "1030202300": {
+    "name": "Harpoon",
+    "maxUncap": 3
+  },
+  "1030202400": {
+    "name": "Rusted Lance",
+    "maxUncap": 3
+  },
+  "1030202500": {
+    "name": "Mysterious Needle",
+    "maxUncap": 3
+  },
+  "1030202600": {
+    "name": "Flare Glaive",
+    "maxUncap": 3
+  },
+  "1030202700": {
+    "name": "Dragonscale Lance",
+    "maxUncap": 3
+  },
+  "1030202800": {
+    "name": "Romulus Spear Replica",
+    "maxUncap": 3
+  },
+  "1030202900": {
+    "name": "Ruby Lance Relic",
+    "maxUncap": 3
+  },
+  "1030203000": {
+    "name": "Sapphire Lance Relic",
+    "maxUncap": 3
+  },
+  "1030203100": {
+    "name": "Jade Lance Relic",
+    "maxUncap": 3
+  },
+  "1030203200": {
+    "name": "Amber Lance Relic",
+    "maxUncap": 3
+  },
+  "1030203300": {
+    "name": "Pearl Lance Relic",
+    "maxUncap": 3
+  },
+  "1030203400": {
+    "name": "Onyx Lance Relic",
+    "maxUncap": 3
+  },
+  "1030203500": {
+    "name": "Golden Mop",
+    "maxUncap": 3
+  },
+  "1030203600": {
+    "name": "Magus Necro Spear",
+    "maxUncap": 3
+  },
+  "1030203700": {
+    "name": "Spear of Bahamut",
+    "maxUncap": 3
+  },
+  "1030203800": {
+    "name": "Dragoon Lance",
+    "maxUncap": 3
+  },
+  "1030203900": {
+    "name": "Electro Fork",
+    "maxUncap": 3
+  },
+  "1030204000": {
+    "name": "Spit Roast",
+    "maxUncap": 3
+  },
+  "1030204100": {
+    "name": "Squidpiercer",
+    "maxUncap": 3
+  },
+  "1030204200": {
+    "name": "Emerald Spear",
+    "maxUncap": 3
+  },
+  "1030204300": {
+    "name": "Ghost Tree",
+    "maxUncap": 3
+  },
+  "1030204400": {
+    "name": "Titanium Harpoon",
+    "maxUncap": 3
+  },
+  "1030204500": {
+    "name": "Raging Halberd",
+    "maxUncap": 3
+  },
+  "1030204600": {
+    "name": "King Crab Spear",
+    "maxUncap": 3
+  },
+  "1030204700": {
+    "name": "Blau Javelin",
+    "maxUncap": 3
+  },
+  "1030204800": {
+    "name": "Giant Fork",
+    "maxUncap": 3
+  },
+  "1030204900": {
+    "name": "Tyrant Fork",
+    "maxUncap": 3
+  },
+  "1030205000": {
+    "name": "Dreadflayer",
+    "maxUncap": 3
+  },
+  "1030205100": {
+    "name": "Bamboo Spear",
+    "maxUncap": 3
+  },
+  "1030205200": {
+    "name": "Swirly Wurst Skewer",
+    "maxUncap": 3
+  },
+  "1030205300": {
+    "name": "Souval Halberd",
+    "maxUncap": 3
+  },
+  "1030205400": {
+    "name": "Motor Beak",
+    "maxUncap": 3
+  },
+  "1030205500": {
+    "name": "Cursed Spear",
+    "maxUncap": 3
+  },
+  "1030205600": {
+    "name": "Brocken Lance",
+    "maxUncap": 3
+  },
+  "1030205700": {
+    "name": "Lance d'Espoir",
+    "maxUncap": 3
+  },
+  "1030205800": {
+    "name": "Urchin Lance",
+    "maxUncap": 3
+  },
+  "1030205900": {
+    "name": "Architect Spear",
+    "maxUncap": 3
+  },
+  "1030206000": {
+    "name": "Thrones Pole",
+    "maxUncap": 3
+  },
+  "1030206100": {
+    "name": "Treasured Talisman",
+    "maxUncap": 3
+  },
+  "1030206300": {
+    "name": "Emperor's Trident",
+    "maxUncap": 3
+  },
+  "1030206400": {
+    "name": "Serpentine Longspear",
+    "maxUncap": 3
+  },
+  "1030206500": {
+    "name": "Jolie Spear",
+    "maxUncap": 3
+  },
+  "1030206600": {
+    "name": "Macho Hunter Weapon",
+    "maxUncap": 3
+  },
+  "1030206700": {
+    "name": "Buffalo Horn",
+    "maxUncap": 3
+  },
+  "1030206800": {
+    "name": "Divine Spear",
+    "maxUncap": 3
+  },
+  "1030206900": {
+    "name": "Ancestral Trident",
+    "maxUncap": 3
+  },
+  "1030207000": {
+    "name": "Lumiel Banner",
+    "maxUncap": 3
+  },
+  "1030207100": {
+    "name": "Shark Head",
+    "maxUncap": 3
+  },
+  "1030207200": {
+    "name": "Knight's Beach Banner",
+    "maxUncap": 3
+  },
+  "1030207300": {
+    "name": "Heavy Halberd",
+    "maxUncap": 3
+  },
+  "1030207400": {
+    "name": "Vysla",
+    "maxUncap": 3
+  },
+  "1030207500": {
+    "name": "Flag of Verona",
+    "maxUncap": 3
+  },
+  "1030207600": {
+    "name": "Dalmoran Partisan",
+    "maxUncap": 3
+  },
+  "1030207700": {
+    "name": "Gray Shaft",
+    "maxUncap": 3
+  },
+  "1030207800": {
+    "name": "Alster Spear",
+    "maxUncap": 3
+  },
+  "1030207900": {
+    "name": "Chivalrous Spear",
+    "maxUncap": 3
+  },
+  "1030208000": {
+    "name": "Baguette Magique",
+    "maxUncap": 3
+  },
+  "1030208100": {
+    "name": "Pathos Cantabile",
+    "maxUncap": 3
+  },
+  "1030299000": {
+    "name": "Archangel Spear",
+    "maxUncap": 3
+  },
+  "1030300000": {
+    "name": "Akhu",
+    "maxUncap": 3
+  },
+  "1030300100": {
+    "name": "Shoka",
+    "maxUncap": 3
+  },
+  "1030300200": {
+    "name": "Bullova",
+    "maxUncap": 3
+  },
+  "1030300300": {
+    "name": "Horseman's Hammer",
+    "maxUncap": 3
+  },
+  "1030300400": {
+    "name": "Bhuj",
+    "maxUncap": 3
+  },
+  "1030300500": {
+    "name": "Jedburgh Axe",
+    "maxUncap": 3
+  },
+  "1030300600": {
+    "name": "Tiamat Amood",
+    "maxUncap": 3
+  },
+  "1030300700": {
+    "name": "Colossus Piton",
+    "maxUncap": 3
+  },
+  "1030300800": {
+    "name": "Footman's Axe",
+    "maxUncap": 3
+  },
+  "1030300900": {
+    "name": "Sun Hammer",
+    "maxUncap": 3
+  },
+  "1030301000": {
+    "name": "Manawydan Piton",
+    "maxUncap": 3
+  },
+  "1030301100": {
+    "name": "Luminiera Bhuj",
+    "maxUncap": 3
+  },
+  "1030301200": {
+    "name": "Ifrit Axe",
+    "maxUncap": 3
+  },
+  "1030301300": {
+    "name": "Celeste Zaghnal",
+    "maxUncap": 3
+  },
+  "1030301500": {
+    "name": "Sagittarius Axe",
+    "maxUncap": 3
+  },
+  "1030301700": {
+    "name": "Poseidon Piton",
+    "maxUncap": 3
+  },
+  "1030301800": {
+    "name": "Mysterious Hammer",
+    "maxUncap": 3
+  },
+  "1030301900": {
+    "name": "Avenger Replica",
+    "maxUncap": 3
+  },
+  "1030302000": {
+    "name": "Rusted Axe",
+    "maxUncap": 3
+  },
+  "1030302100": {
+    "name": "Ruby Axe Relic",
+    "maxUncap": 3
+  },
+  "1030302200": {
+    "name": "Sapphire Axe Relic",
+    "maxUncap": 3
+  },
+  "1030302300": {
+    "name": "Jade Axe Relic",
+    "maxUncap": 3
+  },
+  "1030302400": {
+    "name": "Amber Axe Relic",
+    "maxUncap": 3
+  },
+  "1030302500": {
+    "name": "Pearl Axe Relic",
+    "maxUncap": 3
+  },
+  "1030302600": {
+    "name": "Onyx Axe Relic",
+    "maxUncap": 3
+  },
+  "1030302700": {
+    "name": "Wind God Axe",
+    "maxUncap": 3
+  },
+  "1030302800": {
+    "name": "Voulge",
+    "maxUncap": 3
+  },
+  "1030302900": {
+    "name": "Axe of Bahamut",
+    "maxUncap": 3
+  },
+  "1030303000": {
+    "name": "Great Hammer",
+    "maxUncap": 3
+  },
+  "1030303100": {
+    "name": "Mochi Mallet",
+    "maxUncap": 3
+  },
+  "1030303200": {
+    "name": "Golden Woofer",
+    "maxUncap": 3
+  },
+  "1030303300": {
+    "name": "Massive Axe",
+    "maxUncap": 3
+  },
+  "1030303400": {
+    "name": "Leather Belt",
+    "maxUncap": 3
+  },
+  "1030303500": {
+    "name": "Stalwart Hammer",
+    "maxUncap": 3
+  },
+  "1030303600": {
+    "name": "Cloud Tomahawk",
+    "maxUncap": 3
+  },
+  "1030303700": {
+    "name": "Fremel Hammer",
+    "maxUncap": 3
+  },
+  "1030303800": {
+    "name": "Electro Axe",
+    "maxUncap": 3
+  },
+  "1030303900": {
+    "name": "Holy Axe",
+    "maxUncap": 3
+  },
+  "1030304000": {
+    "name": "Urchin Mace",
+    "maxUncap": 3
+  },
+  "1030304100": {
+    "name": "Architect Scythe",
+    "maxUncap": 3
+  },
+  "1030304200": {
+    "name": "Moray",
+    "maxUncap": 3
+  },
+  "1030304300": {
+    "name": "Gold-Plated Fremel",
+    "maxUncap": 3
+  },
+  "1030304400": {
+    "name": "Meteoric Axe",
+    "maxUncap": 3
+  },
+  "1030304500": {
+    "name": "Scythe of Belial (SR)",
+    "maxUncap": 3
+  },
+  "1030304600": {
+    "name": "Bravyry",
+    "maxUncap": 3
+  },
+  "1030304700": {
+    "name": "Metal Yo-Yo",
+    "maxUncap": 3
+  },
+  "1030304800": {
+    "name": "Carpet Beater",
+    "maxUncap": 3
+  },
+  "1030304900": {
+    "name": "Horrible Voulge",
+    "maxUncap": 3
+  },
+  "1030305000": {
+    "name": "Cinder Claw",
+    "maxUncap": 3
+  },
+  "1030305100": {
+    "name": "Cloudbar",
+    "maxUncap": 3
+  },
+  "1030305200": {
+    "name": "Briny Mouthful",
+    "maxUncap": 3
+  },
+  "1030305400": {
+    "name": "Golden Disc",
+    "maxUncap": 3
+  },
+  "1030305500": {
+    "name": "Weathered Hatchet",
+    "maxUncap": 3
+  },
+  "1030305600": {
+    "name": "Chains of Twisted Fate",
+    "maxUncap": 3
+  },
+  "1030305700": {
+    "name": "Scorching Fan",
+    "maxUncap": 3
+  },
+  "1030305800": {
+    "name": "Kombu Dashi",
+    "maxUncap": 3
+  },
+  "1030305900": {
+    "name": "T. Axe",
+    "maxUncap": 3
+  },
+  "1030306000": {
+    "name": "Halite Axe",
+    "maxUncap": 3
+  },
+  "1030399000": {
+    "name": "Archangel Axe",
+    "maxUncap": 3
+  },
+  "1030400000": {
+    "name": "Pilgrim's Staff",
+    "maxUncap": 3
+  },
+  "1030400100": {
+    "name": "Zhezl",
+    "maxUncap": 3
+  },
+  "1030400200": {
+    "name": "Pastoral Staff",
+    "maxUncap": 3
+  },
+  "1030400300": {
+    "name": "Jacaranda",
+    "maxUncap": 3
+  },
+  "1030400400": {
+    "name": "Yggdrasil Dewbranch",
+    "maxUncap": 3
+  },
+  "1030400600": {
+    "name": "Phoenix Tail Feathers",
+    "maxUncap": 3
+  },
+  "1030400700": {
+    "name": "Spritewood Staff",
+    "maxUncap": 3
+  },
+  "1030400800": {
+    "name": "Zhonpeli",
+    "maxUncap": 3
+  },
+  "1030400900": {
+    "name": "Staff of Reincarnation",
+    "maxUncap": 3
+  },
+  "1030401000": {
+    "name": "Nephthys Pole",
+    "maxUncap": 3
+  },
+  "1030401100": {
+    "name": "Spear of Judgement",
+    "maxUncap": 3
+  },
+  "1030401200": {
+    "name": "Yagrush",
+    "maxUncap": 3
+  },
+  "1030401300": {
+    "name": "Arson",
+    "maxUncap": 3
+  },
+  "1030401400": {
+    "name": "Holy Cane",
+    "maxUncap": 3
+  },
+  "1030401500": {
+    "name": "Celeste Cane",
+    "maxUncap": 3
+  },
+  "1030401600": {
+    "name": "Hellward Scepter",
+    "maxUncap": 3
+  },
+  "1030401700": {
+    "name": "Aerial Cane",
+    "maxUncap": 3
+  },
+  "1030401800": {
+    "name": "Skull Wand",
+    "maxUncap": 3
+  },
+  "1030401900": {
+    "name": "Nirvana Replica",
+    "maxUncap": 3
+  },
+  "1030402000": {
+    "name": "Keraunos Replica",
+    "maxUncap": 3
+  },
+  "1030402100": {
+    "name": "Wind-Rhyme Staff",
+    "maxUncap": 3
+  },
+  "1030402200": {
+    "name": "Rusted Staff",
+    "maxUncap": 3
+  },
+  "1030402300": {
+    "name": "Ruby Staff Relic",
+    "maxUncap": 3
+  },
+  "1030402400": {
+    "name": "Sapphire Staff Relic",
+    "maxUncap": 3
+  },
+  "1030402500": {
+    "name": "Jade Staff Relic",
+    "maxUncap": 3
+  },
+  "1030402600": {
+    "name": "Amber Staff Relic",
+    "maxUncap": 3
+  },
+  "1030402700": {
+    "name": "Pearl Staff Relic",
+    "maxUncap": 3
+  },
+  "1030402800": {
+    "name": "Onyx Staff Relic",
+    "maxUncap": 3
+  },
+  "1030402900": {
+    "name": "Soothing Torch",
+    "maxUncap": 3
+  },
+  "1030403000": {
+    "name": "Thunder God Staff",
+    "maxUncap": 3
+  },
+  "1030403100": {
+    "name": "Diablo Scepter",
+    "maxUncap": 3
+  },
+  "1030403200": {
+    "name": "Staff of Bahamut",
+    "maxUncap": 3
+  },
+  "1030403300": {
+    "name": "Little Witch Scepter",
+    "maxUncap": 3
+  },
+  "1030403400": {
+    "name": "Deathly Arson",
+    "maxUncap": 3
+  },
+  "1030403500": {
+    "name": "Sunshade Parasol",
+    "maxUncap": 3
+  },
+  "1030403600": {
+    "name": "Cursed Cane",
+    "maxUncap": 3
+  },
+  "1030403700": {
+    "name": "Witch's Broom",
+    "maxUncap": 3
+  },
+  "1030403800": {
+    "name": "Shadow Scepter",
+    "maxUncap": 3
+  },
+  "1030403900": {
+    "name": "Flower Crown",
+    "maxUncap": 3
+  },
+  "1030404000": {
+    "name": "Vyrnellious Staff",
+    "maxUncap": 3
+  },
+  "1030404100": {
+    "name": "Kapilavastu Replica",
+    "maxUncap": 3
+  },
+  "1030404200": {
+    "name": "Xolotl Staff",
+    "maxUncap": 3
+  },
+  "1030404300": {
+    "name": "Falcon Mace",
+    "maxUncap": 3
+  },
+  "1030404400": {
+    "name": "Sacred Codex",
+    "maxUncap": 3
+  },
+  "1030404500": {
+    "name": "Nature's Mystery",
+    "maxUncap": 3
+  },
+  "1030404600": {
+    "name": "Ice Bough Staff",
+    "maxUncap": 3
+  },
+  "1030404700": {
+    "name": "Wand of Gabriel (SR)",
+    "maxUncap": 3
+  },
+  "1030404800": {
+    "name": "Pink Magazine",
+    "maxUncap": 3
+  },
+  "1030404900": {
+    "name": "Arson Link",
+    "maxUncap": 3
+  },
+  "1030405000": {
+    "name": "Tamamo Banestaff",
+    "maxUncap": 3
+  },
+  "1030405100": {
+    "name": "Staff of the Star Seeker",
+    "maxUncap": 3
+  },
+  "1030405200": {
+    "name": "Scarlet Oath",
+    "maxUncap": 3
+  },
+  "1030405300": {
+    "name": "Tughril",
+    "maxUncap": 3
+  },
+  "1030405400": {
+    "name": "Cherubim Wand",
+    "maxUncap": 3
+  },
+  "1030405500": {
+    "name": "Loupe Rod",
+    "maxUncap": 3
+  },
+  "1030405600": {
+    "name": "Broiled Eal",
+    "maxUncap": 3
+  },
+  "1030405700": {
+    "name": "Throne's Cane",
+    "maxUncap": 3
+  },
+  "1030405800": {
+    "name": "Ancestral Staff",
+    "maxUncap": 3
+  },
+  "1030405900": {
+    "name": "Staff of Refusal",
+    "maxUncap": 3
+  },
+  "1030406000": {
+    "name": "Wishing Scepter",
+    "maxUncap": 3
+  },
+  "1030406100": {
+    "name": "Cube Staff",
+    "maxUncap": 3
+  },
+  "1030406200": {
+    "name": "Astro Wand",
+    "maxUncap": 3
+  },
+  "1030406300": {
+    "name": "The Detective of Venase",
+    "maxUncap": 3
+  },
+  "1030406400": {
+    "name": "Preghiera",
+    "maxUncap": 3
+  },
+  "1030406500": {
+    "name": "Nimuean Drachenstock",
+    "maxUncap": 3
+  },
+  "1030406600": {
+    "name": "Stand-Up Mic",
+    "maxUncap": 3
+  },
+  "1030499000": {
+    "name": "Archangel Wand",
+    "maxUncap": 3
+  },
+  "1030500000": {
+    "name": "Crosswind",
+    "maxUncap": 3
+  },
+  "1030500100": {
+    "name": "Dragon Tail",
+    "maxUncap": 3
+  },
+  "1030500200": {
+    "name": "Swallowtail",
+    "maxUncap": 3
+  },
+  "1030500300": {
+    "name": "Snaphance",
+    "maxUncap": 3
+  },
+  "1030500400": {
+    "name": "Torador",
+    "maxUncap": 3
+  },
+  "1030500500": {
+    "name": "Tiamat Bolt",
+    "maxUncap": 3
+  },
+  "1030500600": {
+    "name": "Leviathan Muzzle",
+    "maxUncap": 3
+  },
+  "1030500700": {
+    "name": "Regulon",
+    "maxUncap": 3
+  },
+  "1030500800": {
+    "name": "Wheellock Axe",
+    "maxUncap": 3
+  },
+  "1030501000": {
+    "name": "Fraud Fire",
+    "maxUncap": 3
+  },
+  "1030501100": {
+    "name": "Arquebus",
+    "maxUncap": 3
+  },
+  "1030501200": {
+    "name": "Piercing Bolt of Midgardsormr",
+    "maxUncap": 3
+  },
+  "1030501300": {
+    "name": "Custom Arquebus",
+    "maxUncap": 3
+  },
+  "1030501400": {
+    "name": "Albacore Rifle",
+    "maxUncap": 3
+  },
+  "1030501500": {
+    "name": "Celeste Rifle",
+    "maxUncap": 3
+  },
+  "1030501600": {
+    "name": "Hekatonkheir Muzzle",
+    "maxUncap": 3
+  },
+  "1030501700": {
+    "name": "Oliver Replica",
+    "maxUncap": 3
+  },
+  "1030501800": {
+    "name": "Skirnir",
+    "maxUncap": 3
+  },
+  "1030501900": {
+    "name": "Ruby Gun Relic",
+    "maxUncap": 3
+  },
+  "1030502000": {
+    "name": "Sapphire Gun Relic",
+    "maxUncap": 3
+  },
+  "1030502100": {
+    "name": "Jade Gun Relic",
+    "maxUncap": 3
+  },
+  "1030502200": {
+    "name": "Amber Gun Relic",
+    "maxUncap": 3
+  },
+  "1030502300": {
+    "name": "Pearl Gun Relic",
+    "maxUncap": 3
+  },
+  "1030502400": {
+    "name": "Onyx Gun Relic",
+    "maxUncap": 3
+  },
+  "1030502500": {
+    "name": "Rusted Gun",
+    "maxUncap": 3
+  },
+  "1030502600": {
+    "name": "Pistol of Bahamut",
+    "maxUncap": 3
+  },
+  "1030502700": {
+    "name": "Avaritia Pistol",
+    "maxUncap": 3
+  },
+  "1030502800": {
+    "name": "Mysterious Shooter",
+    "maxUncap": 3
+  },
+  "1030502900": {
+    "name": "Quarrel",
+    "maxUncap": 3
+  },
+  "1030503000": {
+    "name": "Fire Piece",
+    "maxUncap": 3
+  },
+  "1030503100": {
+    "name": "Desert Arms",
+    "maxUncap": 3
+  },
+  "1030503200": {
+    "name": "Pina Colata Pistol",
+    "maxUncap": 3
+  },
+  "1030503300": {
+    "name": "Dreyse",
+    "maxUncap": 3
+  },
+  "1030503400": {
+    "name": "White Dragon Rifle",
+    "maxUncap": 3
+  },
+  "1030503500": {
+    "name": "Candy Cane Rifle",
+    "maxUncap": 3
+  },
+  "1030503600": {
+    "name": "Odajumoki Gun",
+    "maxUncap": 3
+  },
+  "1030503700": {
+    "name": "Grass Musket",
+    "maxUncap": 3
+  },
+  "1030503800": {
+    "name": "Nebuchad Replica",
+    "maxUncap": 3
+  },
+  "1030503900": {
+    "name": "Colorful Crackerjack",
+    "maxUncap": 3
+  },
+  "1030504000": {
+    "name": "Dolphin",
+    "maxUncap": 3
+  },
+  "1030504100": {
+    "name": "Verona Rifle",
+    "maxUncap": 3
+  },
+  "1030504200": {
+    "name": "Handy Arquebus",
+    "maxUncap": 3
+  },
+  "1030504300": {
+    "name": "Revolvyrn",
+    "maxUncap": 3
+  },
+  "1030504400": {
+    "name": "Standard Albion Bolt",
+    "maxUncap": 3
+  },
+  "1030504500": {
+    "name": "Hunter's Rifle",
+    "maxUncap": 3
+  },
+  "1030504600": {
+    "name": "Albedo Blaster",
+    "maxUncap": 3
+  },
+  "1030504700": {
+    "name": "Sharom Carbine",
+    "maxUncap": 3
+  },
+  "1030504800": {
+    "name": "Winter Wonderbow",
+    "maxUncap": 3
+  },
+  "1030504900": {
+    "name": "Signal Flare",
+    "maxUncap": 3
+  },
+  "1030505000": {
+    "name": "Desperation Rifle",
+    "maxUncap": 3
+  },
+  "1030505100": {
+    "name": "Monochrome Crackerjack",
+    "maxUncap": 3
+  },
+  "1030505200": {
+    "name": "Drill Shooter",
+    "maxUncap": 3
+  },
+  "1030505300": {
+    "name": "Genius Squared",
+    "maxUncap": 3
+  },
+  "1030505400": {
+    "name": "Goldie",
+    "maxUncap": 3
+  },
+  "1030505500": {
+    "name": "Mythril Bolt",
+    "maxUncap": 3
+  },
+  "1030505600": {
+    "name": "Cork Rifle",
+    "maxUncap": 3
+  },
+  "1030505700": {
+    "name": "Cloudbolt",
+    "maxUncap": 3
+  },
+  "1030505800": {
+    "name": "Samsara",
+    "maxUncap": 3
+  },
+  "1030505900": {
+    "name": "Iron Cannon",
+    "maxUncap": 3
+  },
+  "1030506000": {
+    "name": "Machine Crossbow",
+    "maxUncap": 3
+  },
+  "1030506100": {
+    "name": "Disaster Bolt",
+    "maxUncap": 3
+  },
+  "1030599000": {
+    "name": "Archangel Gun",
+    "maxUncap": 3
+  },
+  "1030600000": {
+    "name": "Neko Punch",
+    "maxUncap": 3
+  },
+  "1030600100": {
+    "name": "Jamadhar",
+    "maxUncap": 3
+  },
+  "1030600200": {
+    "name": "Kaiser Knuckles",
+    "maxUncap": 3
+  },
+  "1030600300": {
+    "name": "Circle of Life and Death",
+    "maxUncap": 3
+  },
+  "1030600400": {
+    "name": "Jule",
+    "maxUncap": 3
+  },
+  "1030600500": {
+    "name": "Colossus Fist",
+    "maxUncap": 3
+  },
+  "1030600700": {
+    "name": "Yggdrasil Bark",
+    "maxUncap": 3
+  },
+  "1030600800": {
+    "name": "Mauler",
+    "maxUncap": 3
+  },
+  "1030600900": {
+    "name": "Limbo",
+    "maxUncap": 3
+  },
+  "1030601000": {
+    "name": "Impact Knuckles",
+    "maxUncap": 3
+  },
+  "1030601100": {
+    "name": "Chain Knuckles",
+    "maxUncap": 3
+  },
+  "1030601200": {
+    "name": "Albacore Head",
+    "maxUncap": 3
+  },
+  "1030601300": {
+    "name": "Squid Hand",
+    "maxUncap": 3
+  },
+  "1030601400": {
+    "name": "Rusted Gauntlet",
+    "maxUncap": 3
+  },
+  "1030601500": {
+    "name": "Tiger Fang",
+    "maxUncap": 3
+  },
+  "1030602000": {
+    "name": "Vulcan Gauntlet",
+    "maxUncap": 3
+  },
+  "1030602500": {
+    "name": "Hellion Gauntlet Replica",
+    "maxUncap": 3
+  },
+  "1030602600": {
+    "name": "Ruby Gauntlet Relic",
+    "maxUncap": 3
+  },
+  "1030602700": {
+    "name": "Sapphire Gauntlet Relic",
+    "maxUncap": 3
+  },
+  "1030602800": {
+    "name": "Jade Gauntlet Relic",
+    "maxUncap": 3
+  },
+  "1030602900": {
+    "name": "Amber Gauntlet Relic",
+    "maxUncap": 3
+  },
+  "1030603000": {
+    "name": "Pearl Gauntlet Relic",
+    "maxUncap": 3
+  },
+  "1030603100": {
+    "name": "Onyx Gauntlet Relic",
+    "maxUncap": 3
+  },
+  "1030603200": {
+    "name": "Thunder God Gauntlet",
+    "maxUncap": 3
+  },
+  "1030603300": {
+    "name": "Mysterious Glove",
+    "maxUncap": 3
+  },
+  "1030603400": {
+    "name": "Metal Glove",
+    "maxUncap": 3
+  },
+  "1030603500": {
+    "name": "Cup and Saucer",
+    "maxUncap": 3
+  },
+  "1030603600": {
+    "name": "Valentine Glove",
+    "maxUncap": 3
+  },
+  "1030603700": {
+    "name": "Fist of Bahamut",
+    "maxUncap": 3
+  },
+  "1030603800": {
+    "name": "Merciless Chastening",
+    "maxUncap": 3
+  },
+  "1030603900": {
+    "name": "Misanga Bracelet",
+    "maxUncap": 3
+  },
+  "1030604000": {
+    "name": "Heavy Blast Knuckles",
+    "maxUncap": 3
+  },
+  "1030604100": {
+    "name": "Emerald Claw",
+    "maxUncap": 3
+  },
+  "1030604200": {
+    "name": "Croak Head",
+    "maxUncap": 3
+  },
+  "1030604300": {
+    "name": "Holy Glove",
+    "maxUncap": 3
+  },
+  "1030604400": {
+    "name": "Xolotl Fist",
+    "maxUncap": 3
+  },
+  "1030604500": {
+    "name": "Sombre Gauntlet",
+    "maxUncap": 3
+  },
+  "1030604600": {
+    "name": "Silver Bracelet",
+    "maxUncap": 3
+  },
+  "1030604700": {
+    "name": "Crimson Talons",
+    "maxUncap": 3
+  },
+  "1030604800": {
+    "name": "Silver Rings",
+    "maxUncap": 3
+  },
+  "1030604900": {
+    "name": "Water Balloons",
+    "maxUncap": 3
+  },
+  "1030605000": {
+    "name": "White Talons",
+    "maxUncap": 3
+  },
+  "1030605100": {
+    "name": "Booster Knuckles",
+    "maxUncap": 3
+  },
+  "1030605200": {
+    "name": "Gauntlet of Uriel (SR)",
+    "maxUncap": 3
+  },
+  "1030605300": {
+    "name": "Salad Tongs",
+    "maxUncap": 3
+  },
+  "1030605400": {
+    "name": "Cruel Claw",
+    "maxUncap": 3
+  },
+  "1030605500": {
+    "name": "Tropical Punch",
+    "maxUncap": 3
+  },
+  "1030605600": {
+    "name": "Rope Knuckles",
+    "maxUncap": 3
+  },
+  "1030605700": {
+    "name": "Seaside Memory",
+    "maxUncap": 3
+  },
+  "1030605800": {
+    "name": "Vampire's Nail",
+    "maxUncap": 3
+  },
+  "1030605900": {
+    "name": "Heavy-Duty Pumpkins",
+    "maxUncap": 3
+  },
+  "1030606000": {
+    "name": "Drakewing Knuckles",
+    "maxUncap": 3
+  },
+  "1030606100": {
+    "name": "Crimson Vyrnger",
+    "maxUncap": 3
+  },
+  "1030606200": {
+    "name": "Red-Hot Noodles",
+    "maxUncap": 3
+  },
+  "1030606300": {
+    "name": "Desperation Gauntlet",
+    "maxUncap": 3
+  },
+  "1030606400": {
+    "name": "Crocskin Glove",
+    "maxUncap": 3
+  },
+  "1030606500": {
+    "name": "Sudarshana",
+    "maxUncap": 3
+  },
+  "1030606600": {
+    "name": "Fine Banana",
+    "maxUncap": 3
+  },
+  "1030606700": {
+    "name": "Mythril Tonfa",
+    "maxUncap": 3
+  },
+  "1030606800": {
+    "name": "Summer Night Peak",
+    "maxUncap": 3
+  },
+  "1030606900": {
+    "name": "Epoxy Boogie Plates",
+    "maxUncap": 3
+  },
+  "1030607000": {
+    "name": "Knuckle-Duster",
+    "maxUncap": 3
+  },
+  "1030608000": {
+    "name": "Drill Arm",
+    "maxUncap": 3
+  },
+  "1030608100": {
+    "name": "Phantom Gauntlet",
+    "maxUncap": 3
+  },
+  "1030608200": {
+    "name": "Demitasse",
+    "maxUncap": 3
+  },
+  "1030608300": {
+    "name": "Die-Cut Candy",
+    "maxUncap": 3
+  },
+  "1030608400": {
+    "name": "Cotton Candy",
+    "maxUncap": 3
+  },
+  "1030608500": {
+    "name": "Double Arm Drill",
+    "maxUncap": 3
+  },
+  "1030608600": {
+    "name": "Barnacle Knuckle",
+    "maxUncap": 3
+  },
+  "1030608700": {
+    "name": "Lifeguard Glove",
+    "maxUncap": 3
+  },
+  "1030608800": {
+    "name": "Hala Kahiki",
+    "maxUncap": 3
+  },
+  "1030608900": {
+    "name": "Handcuffs",
+    "maxUncap": 3
+  },
+  "1030609000": {
+    "name": "CtK4Life Merch Sample",
+    "maxUncap": 3
+  },
+  "1030609100": {
+    "name": "Second Serving",
+    "maxUncap": 3
+  },
+  "1030609200": {
+    "name": "Thundercloud Manju",
+    "maxUncap": 3
+  },
+  "1030609300": {
+    "name": "Forbidden Cuffs",
+    "maxUncap": 3
+  },
+  "1030609400": {
+    "name": "Dandy Fist",
+    "maxUncap": 3
+  },
+  "1030609500": {
+    "name": "Trap Knight's Helm",
+    "maxUncap": 3
+  },
+  "1030609600": {
+    "name": "Butler's Glove",
+    "maxUncap": 3
+  },
+  "1030609700": {
+    "name": "Tracker's Gauntlet",
+    "maxUncap": 3
+  },
+  "1030699000": {
+    "name": "Archangel Brass Knuckles",
+    "maxUncap": 3
+  },
+  "1030700000": {
+    "name": "Sarnga",
+    "maxUncap": 3
+  },
+  "1030700100": {
+    "name": "Aves",
+    "maxUncap": 3
+  },
+  "1030700200": {
+    "name": "Elfin Bow",
+    "maxUncap": 3
+  },
+  "1030700300": {
+    "name": "Nephthys Bow",
+    "maxUncap": 3
+  },
+  "1030700500": {
+    "name": "Shadow Bow",
+    "maxUncap": 3
+  },
+  "1030700600": {
+    "name": "Imperial Bow",
+    "maxUncap": 3
+  },
+  "1030700700": {
+    "name": "Sutera's Bow",
+    "maxUncap": 3
+  },
+  "1030700800": {
+    "name": "Bow of Judgement",
+    "maxUncap": 3
+  },
+  "1030700900": {
+    "name": "Manawydan Bow",
+    "maxUncap": 3
+  },
+  "1030701000": {
+    "name": "Obsidian Bow",
+    "maxUncap": 3
+  },
+  "1030701200": {
+    "name": "Hellward Bow",
+    "maxUncap": 3
+  },
+  "1030701300": {
+    "name": "Poseidon Bow",
+    "maxUncap": 3
+  },
+  "1030701400": {
+    "name": "Sunset Bow",
+    "maxUncap": 3
+  },
+  "1030701500": {
+    "name": "Rosenbogen Replica",
+    "maxUncap": 3
+  },
+  "1030701600": {
+    "name": "Ruby Bow Relic",
+    "maxUncap": 3
+  },
+  "1030701700": {
+    "name": "Sapphire Bow Relic",
+    "maxUncap": 3
+  },
+  "1030701800": {
+    "name": "Jade Bow Relic",
+    "maxUncap": 3
+  },
+  "1030701900": {
+    "name": "Amber Bow Relic",
+    "maxUncap": 3
+  },
+  "1030702000": {
+    "name": "Pearl Bow Relic",
+    "maxUncap": 3
+  },
+  "1030702100": {
+    "name": "Onyx Bow Relic",
+    "maxUncap": 3
+  },
+  "1030702200": {
+    "name": "Branwen Bow",
+    "maxUncap": 3
+  },
+  "1030702300": {
+    "name": "Rusted Bow",
+    "maxUncap": 3
+  },
+  "1030702400": {
+    "name": "Bow of Bahamut",
+    "maxUncap": 3
+  },
+  "1030702500": {
+    "name": "Mammon Bow",
+    "maxUncap": 3
+  },
+  "1030702600": {
+    "name": "Ice Bow",
+    "maxUncap": 3
+  },
+  "1030702800": {
+    "name": "Contrary Bow",
+    "maxUncap": 3
+  },
+  "1030702900": {
+    "name": "Pina Colata Bow",
+    "maxUncap": 3
+  },
+  "1030703000": {
+    "name": "Crafted Bow",
+    "maxUncap": 3
+  },
+  "1030703100": {
+    "name": "Vogen Crescent",
+    "maxUncap": 3
+  },
+  "1030703200": {
+    "name": "Glass Bow",
+    "maxUncap": 3
+  },
+  "1030703300": {
+    "name": "Tyrant Bow",
+    "maxUncap": 3
+  },
+  "1030703400": {
+    "name": "Oneiros Bow",
+    "maxUncap": 3
+  },
+  "1030703500": {
+    "name": "Wood Bow",
+    "maxUncap": 3
+  },
+  "1030703600": {
+    "name": "Gust-Piercer Arrow",
+    "maxUncap": 3
+  },
+  "1030703700": {
+    "name": "Ring of Raphael (SR)",
+    "maxUncap": 3
+  },
+  "1030703800": {
+    "name": "Virtue's Bow",
+    "maxUncap": 3
+  },
+  "1030703900": {
+    "name": "Hornet-Wing Bow",
+    "maxUncap": 3
+  },
+  "1030704000": {
+    "name": "Fancy-Schmancy Bow",
+    "maxUncap": 3
+  },
+  "1030704100": {
+    "name": "Slingshot",
+    "maxUncap": 3
+  },
+  "1030704200": {
+    "name": "Tamamo Bowstring",
+    "maxUncap": 3
+  },
+  "1030704400": {
+    "name": "Diabolical Bow",
+    "maxUncap": 3
+  },
+  "1030704500": {
+    "name": "Vymbul",
+    "maxUncap": 3
+  },
+  "1030704600": {
+    "name": "Col du Chat",
+    "maxUncap": 3
+  },
+  "1030704700": {
+    "name": "Bombyx Bow",
+    "maxUncap": 3
+  },
+  "1030704800": {
+    "name": "Griffith Bow",
+    "maxUncap": 3
+  },
+  "1030799000": {
+    "name": "Archangel Bow",
+    "maxUncap": 3
+  },
+  "1030800000": {
+    "name": "Songsmith's Harp",
+    "maxUncap": 3
+  },
+  "1030800100": {
+    "name": "Platinum Harp",
+    "maxUncap": 3
+  },
+  "1030800200": {
+    "name": "Athanasius",
+    "maxUncap": 3
+  },
+  "1030800300": {
+    "name": "Stravaria",
+    "maxUncap": 3
+  },
+  "1030800400": {
+    "name": "Hekatonkheir Harp",
+    "maxUncap": 3
+  },
+  "1030800500": {
+    "name": "Dracula Harp",
+    "maxUncap": 3
+  },
+  "1030800600": {
+    "name": "Babylon Harp",
+    "maxUncap": 3
+  },
+  "1030800700": {
+    "name": "Langeleik Replica",
+    "maxUncap": 3
+  },
+  "1030800800": {
+    "name": "Holy Harp",
+    "maxUncap": 3
+  },
+  "1030800900": {
+    "name": "Dragonbeard's Harp",
+    "maxUncap": 3
+  },
+  "1030801000": {
+    "name": "Wind God Harp",
+    "maxUncap": 3
+  },
+  "1030801100": {
+    "name": "Mysterious Harp",
+    "maxUncap": 3
+  },
+  "1030801200": {
+    "name": "Rusted Harp",
+    "maxUncap": 3
+  },
+  "1030801300": {
+    "name": "Ruby Harp Relic",
+    "maxUncap": 3
+  },
+  "1030801400": {
+    "name": "Sapphire Harp Relic",
+    "maxUncap": 3
+  },
+  "1030801500": {
+    "name": "Jade Harp Relic",
+    "maxUncap": 3
+  },
+  "1030801600": {
+    "name": "Amber Harp Relic",
+    "maxUncap": 3
+  },
+  "1030801700": {
+    "name": "Pearl Harp Relic",
+    "maxUncap": 3
+  },
+  "1030801800": {
+    "name": "Onyx Harp Relic",
+    "maxUncap": 3
+  },
+  "1030801900": {
+    "name": "Valentine Harp",
+    "maxUncap": 3
+  },
+  "1030802000": {
+    "name": "Harp of Bahamut",
+    "maxUncap": 3
+  },
+  "1030802100": {
+    "name": "Aquarium Harp",
+    "maxUncap": 3
+  },
+  "1030802200": {
+    "name": "Mammon Harp",
+    "maxUncap": 3
+  },
+  "1030802300": {
+    "name": "Veselago Harp",
+    "maxUncap": 3
+  },
+  "1030802400": {
+    "name": "Harpronus",
+    "maxUncap": 3
+  },
+  "1030802500": {
+    "name": "Orpheus Harp",
+    "maxUncap": 3
+  },
+  "1030802600": {
+    "name": "Electro Harp",
+    "maxUncap": 3
+  },
+  "1030802700": {
+    "name": "Ripple Harp",
+    "maxUncap": 3
+  },
+  "1030802800": {
+    "name": "Resonating Wand",
+    "maxUncap": 3
+  },
+  "1030802900": {
+    "name": "Vyrnstrument",
+    "maxUncap": 3
+  },
+  "1030803000": {
+    "name": "Ent Harp",
+    "maxUncap": 3
+  },
+  "1030803100": {
+    "name": "Swirly Wurst Songweaver",
+    "maxUncap": 3
+  },
+  "1030803200": {
+    "name": "Pink Pillow",
+    "maxUncap": 3
+  },
+  "1030803300": {
+    "name": "Sharom Harp",
+    "maxUncap": 3
+  },
+  "1030803400": {
+    "name": "Humming Bard",
+    "maxUncap": 3
+  },
+  "1030803500": {
+    "name": "Summer Beach Sphere",
+    "maxUncap": 3
+  },
+  "1030803600": {
+    "name": "Cat's Purr",
+    "maxUncap": 3
+  },
+  "1030803700": {
+    "name": "Slime Bell",
+    "maxUncap": 3
+  },
+  "1030803800": {
+    "name": "Harp of the Teachers (SR)",
+    "maxUncap": 3
+  },
+  "1030803900": {
+    "name": "Gorilla Plushie",
+    "maxUncap": 3
+  },
+  "1030804000": {
+    "name": "Stuffed Shark",
+    "maxUncap": 3
+  },
+  "1030804100": {
+    "name": "Practice Drum",
+    "maxUncap": 3
+  },
+  "1030804200": {
+    "name": "Welcome Basket",
+    "maxUncap": 3
+  },
+  "1030804300": {
+    "name": "Storyteller's Strings",
+    "maxUncap": 3
+  },
+  "1030804400": {
+    "name": "Waldharfe",
+    "maxUncap": 3
+  },
+  "1030804500": {
+    "name": "Wrathful Resentment",
+    "maxUncap": 3
+  },
+  "1030804600": {
+    "name": "Rhothion Harp",
+    "maxUncap": 3
+  },
+  "1030899000": {
+    "name": "Archangel Harp",
+    "maxUncap": 3
+  },
+  "1030900000": {
+    "name": "Kotetsu",
+    "maxUncap": 3
+  },
+  "1030900100": {
+    "name": "Fluorithium Blade",
+    "maxUncap": 3
+  },
+  "1030900200": {
+    "name": "Sauria",
+    "maxUncap": 3
+  },
+  "1030900300": {
+    "name": "Murakumo Replica",
+    "maxUncap": 3
+  },
+  "1030900400": {
+    "name": "Muramasa Replica",
+    "maxUncap": 3
+  },
+  "1030900500": {
+    "name": "Blade of Bahamut",
+    "maxUncap": 3
+  },
+  "1030900600": {
+    "name": "Rusted Katana",
+    "maxUncap": 3
+  },
+  "1030900700": {
+    "name": "Ruby Katana Relic",
+    "maxUncap": 3
+  },
+  "1030900800": {
+    "name": "Sapphire Katana Relic",
+    "maxUncap": 3
+  },
+  "1030900900": {
+    "name": "Jade Katana Relic",
+    "maxUncap": 3
+  },
+  "1030901000": {
+    "name": "Amber Katana Relic",
+    "maxUncap": 3
+  },
+  "1030901100": {
+    "name": "Pearl Katana Relic",
+    "maxUncap": 3
+  },
+  "1030901200": {
+    "name": "Onyx Katana Relic",
+    "maxUncap": 3
+  },
+  "1030901300": {
+    "name": "Avaritia Blade",
+    "maxUncap": 3
+  },
+  "1030901400": {
+    "name": "Mysterious Cutter",
+    "maxUncap": 3
+  },
+  "1030901500": {
+    "name": "Wooden Sword",
+    "maxUncap": 3
+  },
+  "1030901600": {
+    "name": "The Piercer",
+    "maxUncap": 3
+  },
+  "1030901700": {
+    "name": "King Crab Katana",
+    "maxUncap": 3
+  },
+  "1030901800": {
+    "name": "Zanbato",
+    "maxUncap": 3
+  },
+  "1030901900": {
+    "name": "Ent Ripper",
+    "maxUncap": 3
+  },
+  "1030902000": {
+    "name": "Wandering Blade",
+    "maxUncap": 3
+  },
+  "1030902100": {
+    "name": "Cursed Ripper",
+    "maxUncap": 3
+  },
+  "1030902200": {
+    "name": "Tyrian Tiger Blade",
+    "maxUncap": 3
+  },
+  "1030902300": {
+    "name": "Albedo Blade",
+    "maxUncap": 3
+  },
+  "1030902400": {
+    "name": "Honebami Toushirou (Weapon)",
+    "maxUncap": 4
+  },
+  "1030902500": {
+    "name": "Mutsunokami Yoshiyuki (Weapon)",
+    "maxUncap": 4
+  },
+  "1030902600": {
+    "name": "Izuminokami Kanesada (Weapon)",
+    "maxUncap": 4
+  },
+  "1030902700": {
+    "name": "Yamanbagiri Kunihiro (Weapon)",
+    "maxUncap": 4
+  },
+  "1030902800": {
+    "name": "Unsigned Blade",
+    "maxUncap": 3
+  },
+  "1030902900": {
+    "name": "Confection Cutter",
+    "maxUncap": 3
+  },
+  "1030903000": {
+    "name": "Golden Sickle",
+    "maxUncap": 3
+  },
+  "1030903100": {
+    "name": "Delicious Banana",
+    "maxUncap": 3
+  },
+  "1030903200": {
+    "name": "Sekien",
+    "maxUncap": 3
+  },
+  "1030903300": {
+    "name": "Vyxaba",
+    "maxUncap": 3
+  },
+  "1030903400": {
+    "name": "Liuyedao",
+    "maxUncap": 3
+  },
+  "1030903500": {
+    "name": "Cinder Fang",
+    "maxUncap": 3
+  },
+  "1030903600": {
+    "name": "Donare Knochen",
+    "maxUncap": 3
+  },
+  "1030903700": {
+    "name": "Dum Edabl",
+    "maxUncap": 3
+  },
+  "1030903800": {
+    "name": "Umbral Blade",
+    "maxUncap": 3
+  },
+  "1030999000": {
+    "name": "Archangel Katana",
+    "maxUncap": 3
+  },
+  "1039900000": {
+    "name": "Skill Jewel",
+    "maxUncap": 3
+  },
   "1040000000": {
     "name": "Dainsleif",
     "maxUncap": 4
