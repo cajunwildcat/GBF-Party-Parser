@@ -28,9 +28,9 @@ jobs:
           SUMMONS_FILE="summons.json"
           CHARACTERS_FILE="characters.json"
           WEAPONS_FILE="weapons.json"
-          SUMMONS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=summons&fields=id%2C_pageName%3Dname%2Cevo_max&formatversion=2"
-          CHARACTERS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=characters&fields=id%2C_pageName%3Dname%2Cmax_evo&formatversion=2"
-          WEAPONS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=weapons&fields=id%2C_pageName%3Dname%2Cevo_max&where=rarity%3D'SSR'&formatversion=2"
+          SUMMONS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=summons&fields=id%2C_pageName%3Dname%2Cevo_max%2Crarity&formatversion=2"
+          CHARACTERS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=characters&fields=id%2C_pageName%3Dname%2Cmax_evo%2Crarity&formatversion=2"
+          WEAPONS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=weapons&fields=id%2C_pageName%3Dname%2Cevo_max%2Crarity%2Cseries&formatversion=2"
 
           #summons
           SUMMON_JQ_QUERY="map({ (.id | tostring): {name: (.name | gsub(\"&#039;\"; \"'\")), maxUncap: .\"evo max\"} }) | add"
