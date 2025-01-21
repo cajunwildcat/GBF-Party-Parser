@@ -33,17 +33,17 @@ jobs:
           WEAPONS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=weapons&fields=id%2C_pageName%3Dname%2Cevo_max%2Crarity%2Cseries&formatversion=2"
 
           #summons
-          SUMMON_JQ_QUERY="map({ (.id | tostring): {name: (.name | gsub(\"&#039;\"; \"'\")), maxUncap: .\"evo max\", .rarity} }) | add"
+          SUMMON_JQ_QUERY="map({ (.id | tostring): {name: (.name | gsub(\"&#039;\"; \"'\")), maxUncap: .\"evo max\", rarity} }) | add"
           curl -A "$USER_AGENT" -fsSL "$SUMMONS_URL" > "$TEMP_FILE"
           jq "$SUMMON_JQ_QUERY" "$TEMP_FILE" > "$SUMMONS_FILE"
 
           #characters
-          CHARACTER_JQ_QUERY="map({ (.id | tostring): {name: (.name | gsub(\"&#039;\"; \"'\")), maxUncap: .\"max evo\", .rarity} }) | add"
+          CHARACTER_JQ_QUERY="map({ (.id | tostring): {name: (.name | gsub(\"&#039;\"; \"'\")), maxUncap: .\"max evo\", rarity} }) | add"
           curl -A "$USER_AGENT" -fsSL "$CHARACTERS_URL" > "$TEMP_FILE"
           jq "$CHARACTER_JQ_QUERY" "$TEMP_FILE" > "$CHARACTERS_FILE"
 
           #weapons
-          WEAPON_JQ_QUERY="map({ (.id | tostring): {name: (.name | gsub(\"&#039;\"; \"'\")), maxUncap: .\"evo max\", .rarity, .series} }) | add"
+          WEAPON_JQ_QUERY="map({ (.id | tostring): {name: (.name | gsub(\"&#039;\"; \"'\")), maxUncap: .\"evo max\", rarity, series} }) | add"
           curl -A "$USER_AGENT" -fsSL "$WEAPONS_URL" > "$TEMP_FILE"
           jq "$WEAPON_JQ_QUERY" "$TEMP_FILE" > "$WEAPONS_FILE"
 
