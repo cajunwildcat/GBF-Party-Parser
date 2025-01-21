@@ -2,4576 +2,5491 @@
   "3020000000": {
     "name": "Ryan",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Fire"
   },
   "3020001000": {
     "name": "Herja",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Earth"
   },
   "3020002000": {
     "name": "Eso",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Wind"
   },
   "3020004000": {
     "name": "Galadar",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Earth"
   },
   "3020005000": {
     "name": "Deliford",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Water"
   },
   "3020006000": {
     "name": "Farrah",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Earth"
   },
   "3020007000": {
     "name": "Volenna",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Earth"
   },
   "3020008000": {
     "name": "Anna",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Fire"
   },
   "3020009000": {
     "name": "Hazen",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Wind"
   },
   "3020010000": {
     "name": "Will",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Dark"
   },
   "3020011000": {
     "name": "Petra",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Wind"
   },
   "3020012000": {
     "name": "Jasmine",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Earth"
   },
   "3020013000": {
     "name": "Walder",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Earth"
   },
   "3020014000": {
     "name": "Richard",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Water"
   },
   "3020015000": {
     "name": "Tanya",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Dark"
   },
   "3020016000": {
     "name": "Mary",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Fire"
   },
   "3020017000": {
     "name": "Zehek",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Dark"
   },
   "3020018000": {
     "name": "Rosamia",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Light"
   },
   "3020019000": {
     "name": "Stan",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Wind"
   },
   "3020020000": {
     "name": "Feather",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Light"
   },
   "3020021000": {
     "name": "Anna (Summer)",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Fire"
   },
   "3020022000": {
     "name": "Walder (Summer)",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Earth"
   },
   "3020023000": {
     "name": "Mary (Summer)",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Fire"
   },
   "3020024000": {
     "name": "Daetta",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Light"
   },
   "3020025000": {
     "name": "Elmelaura",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Fire"
   },
   "3020026000": {
     "name": "Leonora",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Wind"
   },
   "3020027000": {
     "name": "Garma",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Earth"
   },
   "3020028000": {
     "name": "Walder (Holiday)",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Earth"
   },
   "3020029000": {
     "name": "Suframare",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Water"
   },
   "3020030000": {
     "name": "Yodarha",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Water"
   },
   "3020031000": {
     "name": "Lowain",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Dark"
   },
   "3020032000": {
     "name": "Camieux",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Fire"
   },
   "3020033000": {
     "name": "Norcel",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Earth"
   },
   "3020034000": {
     "name": "Barawa",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Fire"
   },
   "3020035000": {
     "name": "Krugne",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Wind"
   },
   "3020036000": {
     "name": "Karva",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Fire"
   },
   "3020037000": {
     "name": "Vanzza",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Earth"
   },
   "3020038000": {
     "name": "Ippatsu",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Fire"
   },
   "3020039000": {
     "name": "Philosophia",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Light"
   },
   "3020040000": {
     "name": "Joel",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Water"
   },
   "3020041000": {
     "name": "Lowain (Summer)",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Dark"
   },
   "3020043000": {
     "name": "Karteira",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Wind"
   },
   "3020044000": {
     "name": "Dante",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Fire"
   },
   "3020045000": {
     "name": "Pavidus",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Wind"
   },
   "3020046000": {
     "name": "Viceroy",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Fire"
   },
   "3020047000": {
     "name": "Camieux (Earth)",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Earth"
   },
   "3020048000": {
     "name": "Bridgette",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Water"
   },
   "3020049000": {
     "name": "Flesselles",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Fire"
   },
   "3020050000": {
     "name": "Lunalu",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Dark"
   },
   "3020051000": {
     "name": "Nene",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Earth"
   },
   "3020052000": {
     "name": "Lamretta (R)",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Fire"
   },
   "3020053000": {
     "name": "Alistair",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Water"
   },
   "3020054000": {
     "name": "Vermeil",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Light"
   },
   "3020055000": {
     "name": "Balurga",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Earth"
   },
   "3020056000": {
     "name": "Thelonim",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Wind"
   },
   "3020057000": {
     "name": "Rosine",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Fire"
   },
   "3020058000": {
     "name": "La Coiffe",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Earth"
   },
   "3020059000": {
     "name": "Chloe",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Wind"
   },
   "3020060000": {
     "name": "Ippatsu (Summer)",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Fire"
   },
   "3020061000": {
     "name": "Lunalu (Summer)",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Dark"
   },
   "3020062000": {
     "name": "Cailana",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Water"
   },
   "3020063000": {
     "name": "Drusilla",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Fire"
   },
   "3020064000": {
     "name": "Cordelia",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Light"
   },
   "3020066000": {
     "name": "Bakura",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Dark"
   },
   "3020070000": {
     "name": "Randall",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Water"
   },
   "3020071000": {
     "name": "Spinnah",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Wind"
   },
   "3020072000": {
     "name": "Young Cat (Event)",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Any"
   },
   "3020073000": {
     "name": "Vikala (Event)",
     "maxUncap": 3,
-    "rarity": "r"
+    "rarity": "r",
+    "element": "dark"
   },
   "3020074000": {
     "name": "Catura (Event)",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Earth"
   },
   "3020075000": {
     "name": "Payila (Event)",
     "maxUncap": 3,
-    "rarity": "R"
+    "rarity": "R",
+    "element": "Water"
   },
   "3030000000": {
     "name": "Naoise (Promo)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030001000": {
     "name": "Therese (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030002000": {
     "name": "Mishra",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030003000": {
     "name": "Alec",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030004000": {
     "name": "Helnar",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030005000": {
     "name": "Katalina",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030006000": {
     "name": "Io",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030007000": {
     "name": "Eugen",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030008000": {
     "name": "Rackam",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030009000": {
     "name": "Gayne",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030010000": {
     "name": "Rosetta",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030011000": {
     "name": "Abby (Promo)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030012000": {
     "name": "Ange",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030013000": {
     "name": "Lamretta",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030014000": {
     "name": "Ulamnuran",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030015000": {
     "name": "Aliza (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030016000": {
     "name": "Jessica (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030017000": {
     "name": "Danua",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030018000": {
     "name": "Sutera",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030019000": {
     "name": "Vira",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030020000": {
     "name": "Soriz",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030021000": {
     "name": "Sara (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030022000": {
     "name": "Jin (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030023000": {
     "name": "Elmott",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030024000": {
     "name": "Keehar",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030025000": {
     "name": "Elta",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030026000": {
     "name": "Selfira (Event)",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030027000": {
     "name": "Ezecrain",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030028000": {
     "name": "Sig (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030029000": {
     "name": "Katalina (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030030000": {
     "name": "Jessica (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030031000": {
     "name": "Helnar (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030032000": {
     "name": "Ferry",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030033000": {
     "name": "Lucius",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030034000": {
     "name": "Teena",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030035000": {
     "name": "Feena (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030036000": {
     "name": "Arusha",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030037000": {
     "name": "Farrah (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030038000": {
     "name": "Juri (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030039000": {
     "name": "Noa",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030040000": {
     "name": "Uzuki Shimamura",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030041000": {
     "name": "Rin Shibuya",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030042000": {
     "name": "Ange (Halloween)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030043000": {
     "name": "Mimlemel",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030044000": {
     "name": "Aster (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030045000": {
     "name": "Mariah",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030046000": {
     "name": "Carren",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030047000": {
     "name": "Vane (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030048000": {
     "name": "Rackam (Holiday)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030049000": {
     "name": "Rosamia (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030050000": {
     "name": "Johann (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030051000": {
     "name": "Mika Jougasaki",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030052000": {
     "name": "Mio Honda",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030053000": {
     "name": "Baotorda",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030054000": {
     "name": "Rita",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030055000": {
     "name": "Ladiva",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030056000": {
     "name": "Volenna (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030057000": {
     "name": "Claudia",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030058000": {
     "name": "Dorothy",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030059000": {
     "name": "Zaja",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030060000": {
     "name": "Zehek (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030061000": {
     "name": "Ejaeli",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030062000": {
     "name": "Therese",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030063000": {
     "name": "Sarya (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030064000": {
     "name": "Milleore",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030065000": {
     "name": "Amira (Promo)",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030066000": {
     "name": "Hazen (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030067000": {
     "name": "Syr (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030068000": {
     "name": "Mary (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030069000": {
     "name": "Mizuki Kawashima",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030070000": {
     "name": "Miku Maekawa",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030071000": {
     "name": "Anzu Futaba",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030072000": {
     "name": "Lecia",
     "maxUncap": 3,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030073000": {
     "name": "Pengy (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030074000": {
     "name": "Ceylan (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030075000": {
     "name": "J.J.",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030076000": {
     "name": "Sahli Lao",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030077000": {
     "name": "Romeo (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030078000": {
     "name": "Feather (SR)",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030079000": {
     "name": "Robomi (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030080000": {
     "name": "Milla Maxwell",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030081000": {
     "name": "Yuri Lowell",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030082000": {
     "name": "Sophie",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030083000": {
     "name": "Elmott (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030084000": {
     "name": "Tanya (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030085000": {
     "name": "Eugen (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030086000": {
     "name": "Jin (Ronin)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030087000": {
     "name": "Lecia (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030088000": {
     "name": "Rika Jougasaki",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030089000": {
     "name": "Kanako Mimura",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030090000": {
     "name": "Koume Shirasaka",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030091000": {
     "name": "Suframare (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030092000": {
     "name": "Will (SR)",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030093000": {
     "name": "Malinda (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Any"
   },
   "3030094000": {
     "name": "Galadar (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030095000": {
     "name": "Anna (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030096000": {
     "name": "Naoise (Event)",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030097000": {
     "name": "Teru Tendo",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030098000": {
     "name": "Kaoru Sakuraba",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030099000": {
     "name": "Tsubasa Kashiwagi",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030100000": {
     "name": "Goblin Mage",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030101000": {
     "name": "Ferry (Halloween)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030102000": {
     "name": "Jasmine (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030103000": {
     "name": "Farrah (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030104000": {
     "name": "Ryu",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030105000": {
     "name": "Chun-Li",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030106000": {
     "name": "Sig",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030107000": {
     "name": "Vane",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030108000": {
     "name": "Lancelot (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030109000": {
     "name": "Ladiva (Holiday)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030110000": {
     "name": "Anila (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030111000": {
     "name": "Yaia",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030112000": {
     "name": "Skull (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030113000": {
     "name": "Sutera (Fire)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030114000": {
     "name": "Lina",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030115000": {
     "name": "Naga",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030116000": {
     "name": "Daetta (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030117000": {
     "name": "Soriz (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030118000": {
     "name": "Sevilbarra",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030119000": {
     "name": "Ryan (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030120000": {
     "name": "Sachiko Koshimizu",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030121000": {
     "name": "Airi Totoki",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030122000": {
     "name": "Redluck",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030123000": {
     "name": "Lowain (Event)",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030124000": {
     "name": "Shao",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030125000": {
     "name": "Karin",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030126000": {
     "name": "Rashid",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030127000": {
     "name": "Sen",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030128000": {
     "name": "Eso (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030129000": {
     "name": "Stan (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030130000": {
     "name": "Sakura Shinguji",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030131000": {
     "name": "Erica Fontaine",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030132000": {
     "name": "Gemini Sunrise",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030133000": {
     "name": "Laguna",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030134000": {
     "name": "Jamil",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030135000": {
     "name": "Morphe and Phoebe (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030136000": {
     "name": "Stahn Aileron",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030137000": {
     "name": "Tear Grants",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030138000": {
     "name": "Elize Lutus",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030139000": {
     "name": "Almeida",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030140000": {
     "name": "Johann",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030141000": {
     "name": "Nicholas (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030142000": {
     "name": "Novei (Promo)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030143000": {
     "name": "Augusta (Promo)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030144000": {
     "name": "Robertina (Promo)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030145000": {
     "name": "Pamela (Promo)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030146000": {
     "name": "Cecile (Promo)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030147000": {
     "name": "Sara (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030149000": {
     "name": "J.J. (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030150000": {
     "name": "Diantha (Promo)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030151000": {
     "name": "Jin (Wind)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030152000": {
     "name": "Camieux (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030153000": {
     "name": "Pengy",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030154000": {
     "name": "Barawa (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030155000": {
     "name": "Cucouroux",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030156000": {
     "name": "Dante (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030157000": {
     "name": "Paris (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030159000": {
     "name": "Jessica",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030160000": {
     "name": "Anastasia",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030161000": {
     "name": "Miria Akagi",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030162000": {
     "name": "Ranko Kanzaki",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030163000": {
     "name": "Beatrix (Halloween)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030164000": {
     "name": "Erin",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030165000": {
     "name": "Lily (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030166000": {
     "name": "Mimlemel and Stumpeye",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030167000": {
     "name": "Tanya (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030168000": {
     "name": "Percival (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030169000": {
     "name": "Sen (Holiday)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030170000": {
     "name": "Andira (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030171000": {
     "name": "Lucius (Fire)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030172000": {
     "name": "Meteon (Event)",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030173000": {
     "name": "Haohmaru",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030174000": {
     "name": "Nakoruru",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030175000": {
     "name": "Herja (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030176000": {
     "name": "Mina",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030177000": {
     "name": "Albert (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030178000": {
     "name": "Jin (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030179000": {
     "name": "Arisa",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030180000": {
     "name": "Luna",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030181000": {
     "name": "Tyre",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030182000": {
     "name": "Lyria (Event)",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Any"
   },
   "3030183000": {
     "name": "Vermeil (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030184000": {
     "name": "Cain",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030185000": {
     "name": "Ludmila",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030186000": {
     "name": "Lamretta (Water)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030187000": {
     "name": "Sutera (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030188000": {
     "name": "Deliford (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030189000": {
     "name": "Cagliostro (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030190000": {
     "name": "Predator",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030191000": {
     "name": "Sevastien",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030192000": {
     "name": "Charlotta (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030193000": {
     "name": "Minami Nitta",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030194000": {
     "name": "Shiki Ichinose",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030195000": {
     "name": "Jeanne d'Arc (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030196000": {
     "name": "Jamil (Dark)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030197000": {
     "name": "Walder (Event)",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030198000": {
     "name": "Charlotta (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030199000": {
     "name": "Ayer (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030200000": {
     "name": "Carren (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030201000": {
     "name": "Ghandagoza (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030202000": {
     "name": "Chloe (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030203000": {
     "name": "Blazing Teacher Elmott",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030204000": {
     "name": "Grea (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030205000": {
     "name": "Izuminokami Kanesada",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030206000": {
     "name": "Yamanbagiri Kunihiro",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030207000": {
     "name": "Owen",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030208000": {
     "name": "Reinhardtzar",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030209000": {
     "name": "Sarya",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030210000": {
     "name": "Ezecrain (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030220000": {
     "name": "Mimlemel and Pun-Kin (Halloween)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030221000": {
     "name": "Vania (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030222000": {
     "name": "Karteira (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030223000": {
     "name": "Yuel (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030224000": {
     "name": "Mirin",
     "maxUncap": 5,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030225000": {
     "name": "Sophia (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030226000": {
     "name": "Arthur (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030227000": {
     "name": "Mikasa",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030228000": {
     "name": "Feena (Holiday)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030229000": {
     "name": "Mahira (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030230000": {
     "name": "Karva (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030231000": {
     "name": "Zeta (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030232000": {
     "name": "Ippatsu (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030233000": {
     "name": "Zooey (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030234000": {
     "name": "Randall (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030235000": {
     "name": "Narmaya (Valentine)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030236000": {
     "name": "Teena (Valentine)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030237000": {
     "name": "Nezahualpilli (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030238000": {
     "name": "Tōru Amuro",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030239000": {
     "name": "Barawa (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030240000": {
     "name": "Carmelina (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030241000": {
     "name": "Leona",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030242000": {
     "name": "Aliza (Water)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "water"
   },
   "3030243000": {
     "name": "Vanzza (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030244000": {
     "name": "Elta (Light)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030245000": {
     "name": "Yuisis (Yukata)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030246000": {
     "name": "Olivia (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030247000": {
     "name": "Lilele (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030248000": {
     "name": "Farrah (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030249000": {
     "name": "Arulumaya (Yukata)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030250000": {
     "name": "Almeida (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030251000": {
     "name": "Cailana (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030252000": {
     "name": "The Lowain Bros",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030253000": {
     "name": "Juri",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030254000": {
     "name": "Feather (Halloween)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030255000": {
     "name": "Arthur and Mordred",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030256000": {
     "name": "Rosine (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030257000": {
     "name": "Razia (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030258000": {
     "name": "Sevilbarra (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030259000": {
     "name": "Yaia (Holiday)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030261000": {
     "name": "Beatrix (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030262000": {
     "name": "Cassius (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030263000": {
     "name": "Skull",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030264000": {
     "name": "Catherine (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030265000": {
     "name": "Mirin (Light)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030266000": {
     "name": "Korwa (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030267000": {
     "name": "Richard (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030268000": {
     "name": "Aster",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030269000": {
     "name": "Bridgette and Cordelia",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030270000": {
     "name": "Philosophia (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030271000": {
     "name": "Friday (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030272000": {
     "name": "Lancelot and Vane (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030273000": {
     "name": "Cassius (Yukata)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030274000": {
     "name": "Leona (Yukata)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030275000": {
     "name": "La Coiffe (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030276000": {
     "name": "Zaja (Halloween)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Earth"
   },
   "3030277000": {
     "name": "You (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030278000": {
     "name": "Krugne (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030279000": {
     "name": "Kumbhira (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030280000": {
     "name": "Joy (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3030290000": {
     "name": "Meg (Event)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030300000": {
     "name": "Tyre (Yukata)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Light"
   },
   "3030310000": {
     "name": "Ferry (Summer)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Fire"
   },
   "3030320000": {
     "name": "Joel (SR)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Water"
   },
   "3030321000": {
     "name": "Wulf and Renie (Halloween)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Dark"
   },
   "3030322000": {
     "name": "Spinnah (Holiday)",
     "maxUncap": 4,
-    "rarity": "SR"
+    "rarity": "SR",
+    "element": "Wind"
   },
   "3040000000": {
     "name": "Gawain",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040001000": {
     "name": "Altair",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040002000": {
     "name": "Aletheia",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040003000": {
     "name": "Nezahualpilli",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040004000": {
     "name": "De La Fille",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040005000": {
     "name": "Lady Grey",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040006000": {
     "name": "Yuel",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040007000": {
     "name": "Lily",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040008000": {
     "name": "Sarunan",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040009000": {
     "name": "Cagliostro",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040010000": {
     "name": "Charlotta",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040011000": {
     "name": "Magisa",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040012000": {
     "name": "Metera",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040013000": {
     "name": "Seruel",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040014000": {
     "name": "De La Fille (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040015000": {
     "name": "Io (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040016000": {
     "name": "Cerberus",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040017000": {
     "name": "Agielba",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040018000": {
     "name": "Christina",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040019000": {
     "name": "Arulumaya",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040020000": {
     "name": "Charlotta (Halloween)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040021000": {
     "name": "Lennah",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040022000": {
     "name": "Melleau",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040023000": {
     "name": "Lancelot",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040024000": {
     "name": "Sophia",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040025000": {
     "name": "Siegfried",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040026000": {
     "name": "Rosetta (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040027000": {
     "name": "Anila",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040028000": {
     "name": "Zeta",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040029000": {
     "name": "Vaseraga",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040030000": {
     "name": "Anre",
     "maxUncap": 6,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040031000": {
     "name": "Tweyen",
     "maxUncap": 6,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040032000": {
     "name": "Threo",
     "maxUncap": 6,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040033000": {
     "name": "Feower",
     "maxUncap": 6,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040034000": {
     "name": "Fif",
     "maxUncap": 6,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040035000": {
     "name": "Seox",
     "maxUncap": 6,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040036000": {
     "name": "Seofon",
     "maxUncap": 6,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040037000": {
     "name": "Eahta",
     "maxUncap": 6,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040038000": {
     "name": "Niyon",
     "maxUncap": 6,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040039000": {
     "name": "Tien",
     "maxUncap": 6,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040040000": {
     "name": "Jeanne d'Arc",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040041000": {
     "name": "Sara",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040042000": {
     "name": "Carmelina",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040043000": {
     "name": "Vira (SSR)",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040044000": {
     "name": "Societte",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040045000": {
     "name": "Albert",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040046000": {
     "name": "Clarisse",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040047000": {
     "name": "Petra (SSR)",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040048000": {
     "name": "Sarunan (Dark)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040049000": {
     "name": "Silva",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040050000": {
     "name": "Percival",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040051000": {
     "name": "Amira",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040052000": {
     "name": "Ghandagoza",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040053000": {
     "name": "Vira (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040054000": {
     "name": "Katalina (Grand)",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040055000": {
     "name": "Danua (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040056000": {
     "name": "Zeta (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040057000": {
     "name": "Vania",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040058000": {
     "name": "Arriet",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040059000": {
     "name": "Rackam (Grand)",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040060000": {
     "name": "Heles",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040061000": {
     "name": "Feena",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040062000": {
     "name": "Cagliostro (Halloween)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040063000": {
     "name": "Narmaya",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040064000": {
     "name": "Yodarha (SSR)",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040065000": {
     "name": "Io (Grand)",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040066000": {
     "name": "Lilele",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040067000": {
     "name": "Clarisse (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040068000": {
     "name": "Rosetta (Grand)",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040069000": {
     "name": "Eustace",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040070000": {
     "name": "Beatrix",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040071000": {
     "name": "Andira",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040072000": {
     "name": "Metera (Fire)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040073000": {
     "name": "Ferry (SSR)",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040074000": {
     "name": "Catherine",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040075000": {
     "name": "Zahlhamelina",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040076000": {
     "name": "Aoidos",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040077000": {
     "name": "Eugen (Grand)",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040078000": {
     "name": "Zooey (Promo)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040079000": {
     "name": "Hallessena",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040080000": {
     "name": "Jeanne d'Arc (Dark)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040081000": {
     "name": "Korwa",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040082000": {
     "name": "Black Knight",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040083000": {
     "name": "Aliza",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040084000": {
     "name": "Ayer",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040085000": {
     "name": "Nemone",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040086000": {
     "name": "Forte",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040087000": {
     "name": "Rosamia (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040088000": {
     "name": "Yngwie",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040089000": {
     "name": "Narmaya (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040090000": {
     "name": "Percival (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040091000": {
     "name": "Heles (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040092000": {
     "name": "Zooey (Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040093000": {
     "name": "Chat Noir",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040094000": {
     "name": "Veight",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040095000": {
     "name": "Societte (Fire)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040096000": {
     "name": "Juliet",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040098000": {
     "name": "Romeo",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040099000": {
     "name": "Eustace (Halloween)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040100000": {
     "name": "Izmir",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040101000": {
     "name": "Lecia (Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040102000": {
     "name": "Melissabelle",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040103000": {
     "name": "Anthuria",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040104000": {
     "name": "Arulumaya (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040105000": {
     "name": "Yuisis",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040106000": {
     "name": "Lucio",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040107000": {
     "name": "Mahira",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040108000": {
     "name": "Marquiares",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040109000": {
     "name": "Razia",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040110000": {
     "name": "Beatrix (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040111000": {
     "name": "Orchid (Grand)",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040112000": {
     "name": "Zeta (Dark)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040113000": {
     "name": "De La Fille (Earth)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040115000": {
     "name": "Sturm (Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040116000": {
     "name": "Lady Katapillar and Vira",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040117000": {
     "name": "Vane (SSR)",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040118000": {
     "name": "Katalina (Promo)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040119000": {
     "name": "Drang (Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040120000": {
     "name": "Cagliostro (Dark)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040121000": {
     "name": "Clarisse (Light)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040122000": {
     "name": "Scathacha",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040123000": {
     "name": "Medusa (Promo)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040124000": {
     "name": "Baotorda (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040125000": {
     "name": "Yggdrasil",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040126000": {
     "name": "Izmir (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040127000": {
     "name": "Korwa (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040128000": {
     "name": "Siegfried (Yukata)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040129000": {
     "name": "Diantha (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040130000": {
     "name": "Grea",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040131000": {
     "name": "Mikazuki Munechika",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040132000": {
     "name": "Anne",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040133000": {
     "name": "Nina Drango",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040134000": {
     "name": "Dorothy and Claudia",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040135000": {
     "name": "Danua (Halloween)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040136000": {
     "name": "Sakura Kinomoto",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040137000": {
     "name": "Azazel",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040138000": {
     "name": "Yuel (Water)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040140000": {
     "name": "Lancelot (Wind)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040141000": {
     "name": "Vira (Grand)",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040142000": {
     "name": "Levi",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040143000": {
     "name": "Mary (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040144000": {
     "name": "Charioce XVII",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040145000": {
     "name": "Olivia (Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040146000": {
     "name": "Vaseraga (Earth)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040147000": {
     "name": "Vajra",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040148000": {
     "name": "Ilsa",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040149000": {
     "name": "Therese (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040150000": {
     "name": "Zooey",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040151000": {
     "name": "Medusa (Valentine)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040152000": {
     "name": "Tiamat",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040153000": {
     "name": "Sandalphon (Event)",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040154000": {
     "name": "Jeanne d'Arc (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040155000": {
     "name": "Robomi",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040156000": {
     "name": "Nicholas",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040157000": {
     "name": "Conan Edogawa",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040158000": {
     "name": "Alexiel",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040159000": {
     "name": "Cucouroux (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040160000": {
     "name": "Maria Theresa",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040161000": {
     "name": "Fraux",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040162000": {
     "name": "Geisenborger",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040163000": {
     "name": "Estarriola",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040164000": {
     "name": "Caim",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040165000": {
     "name": "Lobelia",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040166000": {
     "name": "Katzelia",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040167000": {
     "name": "Alanaan",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040168000": {
     "name": "Haaselia",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040169000": {
     "name": "Nier",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040170000": {
     "name": "Soriz (SSR)",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040171000": {
     "name": "Cain (Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040172000": {
     "name": "Lunalu (SSR)",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040173000": {
     "name": "Joker",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040174000": {
     "name": "Wulf and Renie",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040175000": {
     "name": "Selfira",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040176000": {
     "name": "Rosetta (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040177000": {
     "name": "Ilsa (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040178000": {
     "name": "Naoise (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040179000": {
     "name": "Grea (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040180000": {
     "name": "Tsubasa",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040181000": {
     "name": "Pholia",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040182000": {
     "name": "Freezie",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040183000": {
     "name": "Aqours Second-Years",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040184000": {
     "name": "Aqours First-Years",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040185000": {
     "name": "Aqours Third-Years",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040186000": {
     "name": "Monika",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040187000": {
     "name": "Silva (Light)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040188000": {
     "name": "Cure Black and Cure White",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040189000": {
     "name": "Lady Grey (Halloween)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040190000": {
     "name": "Europa",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040191000": {
     "name": "Lancelot and Vane",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040192000": {
     "name": "Aglovale",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040193000": {
     "name": "Levin Sisters",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040194000": {
     "name": "Charlotta (Light)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040195000": {
     "name": "Metera (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040196000": {
     "name": "Shiva",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040197000": {
     "name": "Kumbhira",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040198000": {
     "name": "Eustace (Dark)",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040199000": {
     "name": "Yurius",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040200000": {
     "name": "Pecorine",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040201000": {
     "name": "Kokkoro",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040202000": {
     "name": "Athena",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040203000": {
     "name": "Tanya (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040204000": {
     "name": "Sen (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040205000": {
     "name": "Dante and Freiheit",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040206000": {
     "name": "Clarisse (Valentine)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040207000": {
     "name": "Melissabelle (Valentine)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040208000": {
     "name": "Heles (Wind)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040209000": {
     "name": "Ferry (Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040210000": {
     "name": "Yuel (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040211000": {
     "name": "Vira (Wind)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040212000": {
     "name": "Grimnir",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040213000": {
     "name": "Macula Marius",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040214000": {
     "name": "Medusa",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040215000": {
     "name": "Baal",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040216000": {
     "name": "Karyl",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040217000": {
     "name": "Ladiva (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040218000": {
     "name": "Morrigna",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040219000": {
     "name": "Lelouch Lamperouge",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040220000": {
     "name": "Suzaku Kururugi",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040221000": {
     "name": "Kallen Kouzuki",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040222000": {
     "name": "Kolulu",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040223000": {
     "name": "Halluel and Malluel (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040224000": {
     "name": "Sandalphon (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040225000": {
     "name": "Cagliostro (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040226000": {
     "name": "Europa (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040227000": {
     "name": "Jessica (Yukata)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040228000": {
     "name": "Anthuria (Yukata)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040229000": {
     "name": "Μ's First-Years",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040230000": {
     "name": "Μ's Second-Years",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040231000": {
     "name": "Μ's Third-Years",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040232000": {
     "name": "Alexiel (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040233000": {
     "name": "Stan and Aliza",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040234000": {
     "name": "Tabina",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040235000": {
     "name": "Colossus",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040236000": {
     "name": "Sara (Light)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040237000": {
     "name": "Siegfried (Fire)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040238000": {
     "name": "Monika (Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040239000": {
     "name": "Zeta and Vaseraga (Halloween)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040240000": {
     "name": "Hallessena (Halloween)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040241000": {
     "name": "Societte (Wind)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040242000": {
     "name": "Kou",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040243000": {
     "name": "Vira (Promo)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040244000": {
     "name": "Shitori",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040245000": {
     "name": "Jeanne d'Arc (Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040246000": {
     "name": "Meteon (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040247000": {
     "name": "Magisa (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040248000": {
     "name": "Gachapin",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040249000": {
     "name": "Narmaya (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040250000": {
     "name": "Seruel (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040251000": {
     "name": "Helel ben Shalem",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040252000": {
     "name": "Vikala",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040253000": {
     "name": "Yuisis (Fire)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040254000": {
     "name": "Lucius (SSR)",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040255000": {
     "name": "Noa (Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040256000": {
     "name": "Danua (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040257000": {
     "name": "Jin",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040258000": {
     "name": "Ilsa (Light)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040259000": {
     "name": "Yodarha (Wind)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040260000": {
     "name": "Scathacha (Valentine)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040261000": {
     "name": "Grimnir (Valentine)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040262000": {
     "name": "Seox (Event)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040263000": {
     "name": "Lecia (Water)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040264000": {
     "name": "Vania and Malinda",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040265000": {
     "name": "Rei",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040266000": {
     "name": "Teena (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040267000": {
     "name": "Mugen",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040268000": {
     "name": "Sturm",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040269000": {
     "name": "Drang",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040270000": {
     "name": "Black Knight and Orchis",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040271000": {
     "name": "Herja (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040272000": {
     "name": "Milleore and Sahli Lao",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040273000": {
     "name": "Shura",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040274000": {
     "name": "Reinhardtzar (Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040275000": {
     "name": "New Generations",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040276000": {
     "name": "Kaede Takagaki",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040277000": {
     "name": "Illnott",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040278000": {
     "name": "Predator (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040279000": {
     "name": "Percival (Light)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040280000": {
     "name": "Satyr",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040281000": {
     "name": "Naoise",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040282000": {
     "name": "Pengy (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040283000": {
     "name": "Kolulu (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040284000": {
     "name": "Abby",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040285000": {
     "name": "Leona (Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040286000": {
     "name": "Lucio (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040287000": {
     "name": "Amira (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040288000": {
     "name": "Anila (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040289000": {
     "name": "Rosamia (Yukata)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040290000": {
     "name": "Albert (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040291000": {
     "name": "Silva (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040292000": {
     "name": "Mimlemel (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040293000": {
     "name": "Juliet (Water)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040294000": {
     "name": "Hiro Ryugasaki",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040295000": {
     "name": "Mimori Amamiya",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040296000": {
     "name": "Diantha",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040297000": {
     "name": "Golden Knight",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040298000": {
     "name": "Gawain (Light)",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040299000": {
     "name": "Florence",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040300000": {
     "name": "Azazel (Halloween)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040301000": {
     "name": "Rosetta (Halloween)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040302000": {
     "name": "Mireille and Risette",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040303000": {
     "name": "Sutera (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040304000": {
     "name": "Feather (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040305000": {
     "name": "Fiorito",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040306000": {
     "name": "Nemone (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040307000": {
     "name": "Mirin (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040308000": {
     "name": "Tanjiro, Nezuko, Zenitsu, and Inosuke",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040309000": {
     "name": "Kyojuro Rengoku",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040310000": {
     "name": "Shinobu Kocho",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040311000": {
     "name": "Lily (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040312000": {
     "name": "Sandalphon (Earth Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040313000": {
     "name": "Catura",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040314000": {
     "name": "Filene",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040315000": {
     "name": "Nicholas (Light)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040316000": {
     "name": "Zehek (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040317000": {
     "name": "Mishra (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040318000": {
     "name": "Nectar",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040319000": {
     "name": "Lamretta (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040320000": {
     "name": "Cagliostro (Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040321000": {
     "name": "Monika (Valentine)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040322000": {
     "name": "Aglovale (Valentine)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040323000": {
     "name": "Zeta (Water)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040324000": {
     "name": "Vaseraga (Fire)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040325000": {
     "name": "Farrah and Juri",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040326000": {
     "name": "Cassius (Event SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040327000": {
     "name": "Isaac",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040328000": {
     "name": "Beatrix (Earth)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040329000": {
     "name": "Kumbhira (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040330000": {
     "name": "Andira (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040331000": {
     "name": "Bobobo-bo Bo-bobo",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040332000": {
     "name": "Nezha",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040333000": {
     "name": "Shion",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040334000": {
     "name": "Albert (Dark)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040335000": {
     "name": "Narmaya (Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040336000": {
     "name": "Troue",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040337000": {
     "name": "Tikoh",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040338000": {
     "name": "Sho",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040339000": {
     "name": "Ms. Miranda",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040340000": {
     "name": "Lennah (Earth)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040341000": {
     "name": "Nehan",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040342000": {
     "name": "Yngwie (Yukata)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040343000": {
     "name": "Izmir (Yukata)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040344000": {
     "name": "Siegfried (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040345000": {
     "name": "Illnott (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040346000": {
     "name": "Meg (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040347000": {
     "name": "Metera (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040348000": {
     "name": "Poseidon",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040349000": {
     "name": "Zahlhamelina (Yukata)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040350000": {
     "name": "Tabina (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040351000": {
     "name": "Helel ben Shalem (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040352000": {
     "name": "Shiva (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040353000": {
     "name": "Special Week, Silence Suzuka, and Tokai Teio",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040354000": {
     "name": "Naoise (Fire)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040355000": {
     "name": "Grea (Light)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040356000": {
     "name": "Elmott (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040357000": {
     "name": "Lich",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040358000": {
     "name": "Arthur",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040359000": {
     "name": "Azusa",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040360000": {
     "name": "Vane (Halloween)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040361000": {
     "name": "Cucouroux (Halloween)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040362000": {
     "name": "Shinsengumi",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040363000": {
     "name": "Yorozuya",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040364000": {
     "name": "Lunalu (Light)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040365000": {
     "name": "Enyo",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040366000": {
     "name": "Benjamin",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040367000": {
     "name": "Arulumaya (Light)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040368000": {
     "name": "Randall (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040369000": {
     "name": "Anthuria (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040370000": {
     "name": "Doraemon",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040371000": {
     "name": "Nobita",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040372000": {
     "name": "Mahira (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040373000": {
     "name": "Altair (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040374000": {
     "name": "Lancelot (Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040375000": {
     "name": "Satyr (Earth)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040376000": {
     "name": "Fediel",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040377000": {
     "name": "Cidala",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040378000": {
     "name": "Ewiyar",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040379000": {
     "name": "Cupitan",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040380000": {
     "name": "Yggdrasil (Wind)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040381000": {
     "name": "Wilnas",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040382000": {
     "name": "Ippatsu (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040383000": {
     "name": "Lilele (Fire)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040384000": {
     "name": "Cassius (Valentine)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040385000": {
     "name": "Vira (Valentine)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040386000": {
     "name": "Ladiva (Valentine)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040387000": {
     "name": "Freyr",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040388000": {
     "name": "Sylph",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040389000": {
     "name": "Medusa (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040390000": {
     "name": "Yuni",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040391000": {
     "name": "Silva (Yukata)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040392000": {
     "name": "Narmaya (Yukata)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040393000": {
     "name": "You",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040394000": {
     "name": "Laguna (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040396000": {
     "name": "Skull and Balurga",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040397000": {
     "name": "Sophia (Water)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040398000": {
     "name": "Iroha",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040399000": {
     "name": "Lilisette",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040400000": {
     "name": "Prishe",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040401000": {
     "name": "Manamel",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040402000": {
     "name": "Anna (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040403000": {
     "name": "Elea",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040404000": {
     "name": "Jamil (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040405000": {
     "name": "Galleon",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040406000": {
     "name": "Gwynne",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040407000": {
     "name": "Vajra (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040408000": {
     "name": "Vikala (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040409000": {
     "name": "Mirin (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040410000": {
     "name": "Shion (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040411000": {
     "name": "Eustace (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040412000": {
     "name": "Magisa (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040413000": {
     "name": "Clarisse (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040414000": {
     "name": "Tikoh (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040415000": {
     "name": "Sturm (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040416000": {
     "name": "Luffy",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040417000": {
     "name": "Zoro and Sanji",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040418000": {
     "name": "Nami and Robin",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040419000": {
     "name": "Wamdus",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040420000": {
     "name": "Jeanne d'Arc (Water Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040421000": {
     "name": "Erika",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040422000": {
     "name": "Anderson",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040423000": {
     "name": "Jessica (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040424000": {
     "name": "Bowman",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040425000": {
     "name": "Percival (Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040426000": {
     "name": "Aglovale and Tor",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040427000": {
     "name": "Lich (Halloween)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040428000": {
     "name": "Mugen (Halloween)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040429000": {
     "name": "Florence (Halloween)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040430000": {
     "name": "Yuel and Societte",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040431000": {
     "name": "Alliah",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040432000": {
     "name": "Adam",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040433000": {
     "name": "Therese (Wind)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040434000": {
     "name": "Europa (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040435000": {
     "name": "Fiorito (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040436000": {
     "name": "Cain (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040437000": {
     "name": "Catura (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040438000": {
     "name": "Charlotta (Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040439000": {
     "name": "Erin (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040440000": {
     "name": "Michael",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040441000": {
     "name": "Makura",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040442000": {
     "name": "Ultimate Friday",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040443000": {
     "name": "Halluel and Malluel",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040444000": {
     "name": "Amelia",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040445000": {
     "name": "Cendrillon",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040446000": {
     "name": "Orchid",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040447000": {
     "name": "Sandalphon (Valentine)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040448000": {
     "name": "Sen (Valentine)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040449000": {
     "name": "Lu Woh",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040450000": {
     "name": "Hekate",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040451000": {
     "name": "Seofon (Event)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040452000": {
     "name": "Ewiyar (Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040453000": {
     "name": "Azusa (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040454000": {
     "name": "Monika (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040455000": {
     "name": "Nezha (Yukata)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040456000": {
     "name": "Ilsa (Yukata)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040457000": {
     "name": "Cinnamoroll and Pompompurin",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040458000": {
     "name": "Yaia (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040459000": {
     "name": "Jasmine (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040460000": {
     "name": "Caro",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040461000": {
     "name": "Cantate",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040462000": {
     "name": "Icarus",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040463000": {
     "name": "Lily (Wind)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040464000": {
     "name": "Drusilla (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040465000": {
     "name": "Korwa (Water)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040466000": {
     "name": "Baal (Fire)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040467000": {
     "name": "Cosmos",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040468000": {
     "name": "Cupitan (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040469000": {
     "name": "Pholia (Yukata)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040470000": {
     "name": "Enyo (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040471000": {
     "name": "Vaseraga (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040472000": {
     "name": "Fediel (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040473000": {
     "name": "Yurius (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040474000": {
     "name": "Aliza (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040475000": {
     "name": "Dorothy and Claudia (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040476000": {
     "name": "Yuji Itadori and Megumi Fushiguro",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040477000": {
     "name": "Nobara Kugisaki and Maki Zen'in",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040478000": {
     "name": "Vania (Yukata)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040479000": {
     "name": "Anila (Yukata)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040480000": {
     "name": "Seruel (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040481000": {
     "name": "Ragazzo",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040482000": {
     "name": "Meg and Mari",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040483000": {
     "name": "Paris",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040484000": {
     "name": "Catherine (Wind)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040485000": {
     "name": "Siegfried (Light)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040486000": {
     "name": "Kaguya",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040487000": {
     "name": "Tikoh (Halloween)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040488000": {
     "name": "Vikala (Halloween)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040489000": {
     "name": "Dante (Halloween)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040490000": {
     "name": "Sevilbarra (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040491000": {
     "name": "Utsusemi",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040492000": {
     "name": "Gabriel",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040493000": {
     "name": "Barawa and Sarya",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040494000": {
     "name": "Volenna (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040495000": {
     "name": "Yuni (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040496000": {
     "name": "Illnott (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040497000": {
     "name": "Helel ben Shalem (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040498000": {
     "name": "Noa (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040499000": {
     "name": "Zeta (Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040500000": {
     "name": "Lowain (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040501000": {
     "name": "Uriel",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040502000": {
     "name": "Payila",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040503000": {
     "name": "Tyra",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040504000": {
     "name": "Izuku Midoriya",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040505000": {
     "name": "Katsuki Bakugo",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040506000": {
     "name": "Himiko Toga",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040507000": {
     "name": "Deliford (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040508000": {
     "name": "Olivia",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040509000": {
     "name": "Juri (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040510000": {
     "name": "Robertina",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040511000": {
     "name": "Nehan (Valentine)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040512000": {
     "name": "Cidala (Valentine)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040513000": {
     "name": "Richard (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040514000": {
     "name": "Sabrina",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040515000": {
     "name": "Sandalphon",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040516000": {
     "name": "Raziel (Event)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040517000": {
     "name": "Magus (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040518000": {
     "name": "Horus (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040519000": {
     "name": "Fenie",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040520000": {
     "name": "De La Fille (Yukata)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040521000": {
     "name": "Elmott (Yukata)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040522000": {
     "name": "Pochacco",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040523000": {
     "name": "Spinnah (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040524000": {
     "name": "Anne (Light)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040525000": {
     "name": "Chichiri",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040526000": {
     "name": "Uruki",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040527000": {
     "name": "Shushuku",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040528000": {
     "name": "Ami",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040529000": {
     "name": "Kolulu (Earth)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040530000": {
     "name": "Chloe (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040531000": {
     "name": "Sui",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040532000": {
     "name": "Veight (Wind)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040533000": {
     "name": "Sato",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040534000": {
     "name": "Mirin (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040535000": {
     "name": "Nectar (Water)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040536000": {
     "name": "Orologia",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040537000": {
     "name": "Tefnut (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040538000": {
     "name": "Raziel (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040539000": {
     "name": "Cucouroux (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040540000": {
     "name": "Hallessena (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040541000": {
     "name": "Tweyen (Yukata)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040542000": {
     "name": "Ragazzo (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040543000": {
     "name": "Hekate (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040544000": {
     "name": "Galleon (Summer)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040545000": {
     "name": "Aglovale (Yukata)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040546000": {
     "name": "Nier (Yukata)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040547000": {
     "name": "Medusa (Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040548000": {
     "name": "Sevastien (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040549000": {
     "name": "Noire",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040550000": {
     "name": "Novei",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040551000": {
     "name": "Vane (Grand)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040552000": {
     "name": "Florence (Dark)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040553000": {
     "name": "Wilnas (Halloween)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040554000": {
     "name": "Satyr (Halloween)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040555000": {
     "name": "Manamel (Halloween)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040556000": {
     "name": "Lecia (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040557000": {
     "name": "Will (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040558000": {
     "name": "Rimuru Tempest",
     "maxUncap": 5,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040559000": {
     "name": "Veldora Tempest",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040560000": {
     "name": "Shion (Collab)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040561000": {
     "name": "Diablo (Collab)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040562000": {
     "name": "Wamdus (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040563000": {
     "name": "Yggdrasil (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040564000": {
     "name": "Zooey (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040565000": {
     "name": "Feower (Holiday)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Fire"
   },
   "3040566000": {
     "name": "Yatima",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Water"
   },
   "3040567000": {
     "name": "Aletheia (Dark)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040568000": {
     "name": "Raphael",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Wind"
   },
   "3040569000": {
     "name": "Indala",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040570000": {
     "name": "Goblin Mage (SSR)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   },
   "3040571000": {
     "name": "Koku",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Dark"
   },
   "3040572000": {
     "name": "Maleagant",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Earth"
   },
   "3040573000": {
     "name": "Feena (Light)",
     "maxUncap": 4,
-    "rarity": "SSR"
+    "rarity": "SSR",
+    "element": "Light"
   }
 }
