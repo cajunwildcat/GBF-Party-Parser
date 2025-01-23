@@ -15301,6 +15301,13 @@
     "series": null,
     "element": "earth"
   },
+  "1040517100": {
+    "name": "Twinpain-Wolf Gun",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": "celestial",
+    "element": "fire"
+  },
   "1040518000": {
     "name": "Sweet Surprise",
     "maxUncap": 3,
