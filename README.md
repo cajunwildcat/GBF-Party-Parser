@@ -29,6 +29,9 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
  - If you want to change the input/output file you can use `npx bookmarklet <source> <destination>` or edit the `build` command in `package.json`
 
 ## Update Log
+Version 2.9 (28/01/2024)
+ - Fixed Varuna support summon not being assumed to be transcended
+
 Version 2.8 (19/09/2024)
  - Added new manaturas and shields
 

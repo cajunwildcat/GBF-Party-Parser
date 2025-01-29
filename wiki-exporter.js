@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 2.8;
+const V = 2.9;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -37,7 +37,7 @@ const getShieldByID = (shieldId) => {
     return shieldID;
 }
 const splitskillNames = {"Execration":"Execration / Five-Phase Seal", "Assault Drive" : "Assault Drive / Weapon Discharge"}
-const suppSAssumptions = ["Lucifer", "Bahamut", "Agni", "Varuyna", "Titan", "Zephyrus", "Zeus", "Hades", "Colossus Omega", "Leviathan Omega", "Yggdrasil Omega", "Tiamat Omega", "Luminiera Omega", "Celeste Omega", "Kaguya"];
+const suppSAssumptions = ["Lucifer", "Bahamut", "Agni", "Varuna", "Titan", "Zephyrus", "Zeus", "Hades", "Colossus Omega", "Leviathan Omega", "Yggdrasil Omega", "Tiamat Omega", "Luminiera Omega", "Celeste Omega", "Kaguya"];
 const minos = ["burlona", "schalk", "levi", "yggy", "baha", "luwoh", "mimic", "ouro", "europa", "wilnas", "agastia", "faa"];
 const keyMap = { /*ultima 1*/ "Dominion": "will", "Parity": "strife", "Utopia": "vitality", "Plenum": "strength", "Ultio": "zeal", "Ars": "courage", /*ultima 2*/ "Aggressio": "auto", "Facultas": "skill", "Arcanum": "ougi", "Catena": "cb", /*ultima 3*/ "Fortis": "cap", "Sanatio": "healing", "Impetus": "seraphic", "Elatio": "cbgain", /*dopus 2*/ "α": "auto", "β": "skill", "γ": "ougi", "Δ": "cb", /*dopus 3*/ "Fruit": "apple", "Conduct": "depravity ", "Fallacy": "echo", /*draconic 2*/ "True": "def", "Vermillion": "fire", "Azure": "water", "Golden": "earth", "Emerald": "wind", "White": "light", "Black": "dark" };
 const elements = ["Fire", "Water", "Earth", "Wind", "Light", "Dark"];
