@@ -6257,6 +6257,13 @@
     "series": null,
     "element": "dark"
   },
+  "1030804700": {
+    "name": "Opening Shamisen",
+    "maxUncap": 3,
+    "rarity": "SR",
+    "series": null,
+    "element": "fire"
+  },
   "1030899000": {
     "name": "Archangel Harp",
     "maxUncap": 3,
@@ -16623,6 +16630,13 @@
     "rarity": "SSR",
     "series": null,
     "element": "earth"
+  },
+  "1040619900": {
+    "name": "Protean Folding Fan",
+    "maxUncap": 3,
+    "rarity": "SSR",
+    "series": null,
+    "element": "fire"
   },
   "1040700000": {
     "name": "Eurytos Bow",
