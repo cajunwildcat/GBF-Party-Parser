@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 2.9;
+const V = 2.91;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -36,6 +36,7 @@ const getShieldByID = (shieldId) => {
     shieldID = shields[parseInt(shieldID[3]) + (shieldRarity == "2"? 0 : shieldRarity == "3"? 3 : 8)];
     return shieldID;
 }
+const auxilaryWeaponClasses = ["Gladiator", "Chrysaor", "Iatromantis", "Street King", "Viking"];
 const splitskillNames = {"Execration":"Execration / Five-Phase Seal", "Assault Drive" : "Assault Drive / Weapon Discharge"}
 const suppSAssumptions = ["Lucifer", "Bahamut", "Agni", "Varuna", "Titan", "Zephyrus", "Zeus", "Hades", "Colossus Omega", "Leviathan Omega", "Yggdrasil Omega", "Tiamat Omega", "Luminiera Omega", "Celeste Omega", "Kaguya"];
 const minos = ["burlona", "schalk", "levi", "yggy", "baha", "luwoh", "mimic", "ouro", "europa", "wilnas", "agastia", "faa"];
@@ -136,7 +137,7 @@ if (suppS == null) {
 //sub summons
 Object.values(window.Game.view.deck_model.attributes.deck.pc.sub_summons).forEach(fillSummonData);
 //weapons
-Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach(e => {
+Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach((e,i) => {
     final.weapons.push(e.master ? e.master.name : null);
     final.weaponsUncaps.push(e.param ? (function() {
         let uncap = 0;
@@ -163,7 +164,7 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach(e 
             break;
             //ultima - last word
             case "13":
-                final.weapons[final.weapons.length-1] += ` (${elements[e.master.attribute-1]})`;
+                if (i == 0 || (i == 1 && auxilaryWeaponClasses.includes(final.mcclass))) final.weapons[final.weapons.length-1] += ` (${elements[e.master.attribute-1]})`;
                 if (e.skill1) final.weaponKeys.ultima.push(keyMap[e.skill1.name.trim().split(" ").pop()]);
                 if (e.skill2) final.weaponKeys.ultima.push(keyMap[e.skill2.name.trim().split(" ").pop()]);
                 if (e.skill3) final.weaponKeys.ultima.push(keyMap[e.skill3.name.trim().split(" ").pop()]);
