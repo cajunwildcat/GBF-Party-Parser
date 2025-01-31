@@ -28,9 +28,11 @@ jobs:
           SUMMONS_FILE="summons.json"
           CHARACTERS_FILE="characters.json"
           WEAPONS_FILE="weapons.json"
+          ABILITIES_FILE="abilities.json"
           SUMMONS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=summons&fields=id%2C_pageName%3Dname%2Cevo_max%2Crarity%2Celement&formatversion=2"
           CHARACTERS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=characters&fields=id%2C_pageName%3Dname%2Cmax_evo%2Crarity%2Celement&formatversion=2"
           WEAPONS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=weapons&fields=id%2C_pageName%3Dname%2Cevo_max%2Crarity%2Cseries%2Celement&formatversion=2"
+          ABILITIES_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=class_skill&fields=icon%2Cname%2C&formatversion=2"
 
           #summons
           SUMMON_JQ_QUERY="map({ (.id | tostring): {name: (.name | gsub(\"&#039;\"; \"'\")), maxUncap: .\"evo max\", rarity, element} }) | add"
@@ -46,6 +48,11 @@ jobs:
           WEAPON_JQ_QUERY="map({ (.id | tostring): {name: (.name | gsub(\"&#039;\"; \"'\")), maxUncap: .\"evo max\", rarity, series, element} }) | add"
           curl -A "$USER_AGENT" -fsSL "$WEAPONS_URL" > "$TEMP_FILE"
           jq "$WEAPON_JQ_QUERY" "$TEMP_FILE" > "$WEAPONS_FILE"
+
+          #abilities
+          ABILITIES_JQ_QUERY="map({ (.name | gsub(\"&#039;\"; \"'\")): {icon, name} }) | add"
+          curl -A "$USER_AGENT" -fsSL "$ABILITIES_URL" > "$TEMP_FILE"
+          jq "$ABILITIES_JQ_QUERY" "$TEMP_FILE" > "$ABILITIES_FILE"
 
       - name: Check for Changes
         id: check_changes
