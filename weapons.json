@@ -8357,6 +8357,13 @@
     "series": null,
     "element": "dark"
   },
+  "1040028200": {
+    "name": "O Iros Meta Chilion Prosopon",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": "collab",
+    "element": "earth"
+  },
   "1040100000": {
     "name": "Azoth",
     "maxUncap": 3,
@@ -9756,6 +9763,13 @@
     "rarity": "SSR",
     "series": null,
     "element": "fire"
+  },
+  "1040121200": {
+    "name": "Sica Shishikushiro",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": "collab",
+    "element": "wind"
   },
   "1040200000": {
     "name": "Cletine",

@@ -5488,5 +5488,17 @@
     "maxUncap": 4,
     "rarity": "SSR",
     "element": "Light"
+  },
+  "3040576000": {
+    "name": "Setsuna Sakurazaki",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Wind"
+  },
+  "3040577000": {
+    "name": "Jack Rakan",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Earth"
   }
 }
