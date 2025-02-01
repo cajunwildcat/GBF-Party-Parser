@@ -31,7 +31,7 @@ jobs:
           ABILITIES_FILE="abilities.json"
           SUMMONS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=summons&fields=id%2C_pageName%3Dname%2Cevo_max%2Crarity%2Celement&formatversion=2"
           CHARACTERS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=characters&fields=id%2C_pageName%3Dname%2Cmax_evo%2Crarity%2Celement&formatversion=2"
-          WEAPONS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=weapons&fields=id%2C_pageName%3Dname%2Cevo_max%2Crarity%2Cseries%2Celement&formatversion=2"
+          WEAPONS_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=weapons&fields=id%2C_pageName%3Dname%2Cevo_max%2Crarity%2Cseries%2Celement%2Cs1_icon%2Cs2_icon%2Cs3_icon&formatversion=2"
           ABILITIES_URL="https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=class_skill&fields=icon%2Cname%2C&formatversion=2"
 
           #summons
@@ -45,7 +45,7 @@ jobs:
           jq "$CHARACTER_JQ_QUERY" "$TEMP_FILE" > "$CHARACTERS_FILE"
 
           #weapons
-          WEAPON_JQ_QUERY="map({ (.id | tostring): {name: (.name | gsub(\"&#039;\"; \"'\")), maxUncap: .\"evo max\", rarity, series, element} }) | add"
+          WEAPON_JQ_QUERY="map({ (.id | tostring): {name: (.name | gsub(\"&#039;\"; \"'\")), maxUncap: .\"evo max\", rarity, series, element, \"s1 icon\", \"s2 icon\", \"s3 icon\"} }) | add"
           curl -A "$USER_AGENT" -fsSL "$WEAPONS_URL" > "$TEMP_FILE"
           jq "$WEAPON_JQ_QUERY" "$TEMP_FILE" > "$WEAPONS_FILE"
 
