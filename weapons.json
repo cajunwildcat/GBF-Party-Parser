@@ -11949,6 +11949,13 @@
     "s2 icon": "ws_skill_deadly_3_1.png",
     "s3 icon": "ws_skill_job_weapon.png"
   },
+  "1040028200": {
+    "name": "O Iros Meta Chilion Prosopon",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": "collab",
+    "element": "earth"
+  },
   "1040100000": {
     "name": "Azoth",
     "maxUncap": 3,
@@ -13958,6 +13965,13 @@
     "s1 icon": "ws_skill_atk_4_1.png",
     "s2 icon": "ws_skill_ta_4_2.png",
     "s3 icon": "ws_skill_job_weapon.png"
+  },
+  "1040121200": {
+    "name": "Sica Shishikushiro",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": "collab",
+    "element": "wind"
   },
   "1040200000": {
     "name": "Cletine",
