@@ -2392,5 +2392,11 @@
     "maxUncap": 4,
     "rarity": "SSR",
     "element": "dark"
+  },
+  "2040434000": {
+    "name": "Asuna Kagurazaka",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "light"
   }
 }

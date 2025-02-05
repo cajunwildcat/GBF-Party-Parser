@@ -5489,6 +5489,12 @@
     "rarity": "SSR",
     "element": "Light"
   },
+  "3040574000": {
+    "name": "Negi Springfield",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Wind"
+  },
   "3040576000": {
     "name": "Setsuna Sakurazaki",
     "maxUncap": 4,

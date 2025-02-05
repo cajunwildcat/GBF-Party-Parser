@@ -11949,6 +11949,16 @@
     "s2 icon": "ws_skill_deadly_3_1.png",
     "s3 icon": "ws_skill_job_weapon.png"
   },
+  "1040028300": {
+    "name": "Ensis Exorcizans",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": null,
+    "element": "light",
+    "s1 icon": "ws_skill_atk_a_5_3.png",
+    "s2 icon": "ws_skill_job_weapon.png",
+    "s3 icon": null
+  },
   "1040100000": {
     "name": "Azoth",
     "maxUncap": 3,
@@ -20166,6 +20176,16 @@
     "series": null,
     "element": "light",
     "s1 icon": "ws_skill_sp_atk_5_3.png",
+    "s2 icon": "ws_skill_job_weapon.png",
+    "s3 icon": null
+  },
+  "1040424000": {
+    "name": "Negi's Staff",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": null,
+    "element": "wind",
+    "s1 icon": "ws_skill_atk_a_4_3.png",
     "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": null
   },
