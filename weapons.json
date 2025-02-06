@@ -11585,7 +11585,7 @@
     "rarity": "SSR",
     "series": "militis",
     "element": "light",
-    "s1 icon": "ws_skill_god_m_5_3.png",
+    "s1 icon": "ws_skill_job_weapon.png",
     "s2 icon": "ws_skill_hp_m_5_1.png",
     "s3 icon": null
   },
@@ -13006,7 +13006,7 @@
     "series": "malice",
     "element": "wind",
     "s1 icon": "ws_skill_sp_limit_4.png",
-    "s2 icon": "ws_skill_sp_limit_4.png",
+    "s2 icon": "ws_skill_backwater_4_3.png",
     "s3 icon": null
   },
   "1040111100": {
@@ -13146,7 +13146,7 @@
     "series": "malice",
     "element": "water",
     "s1 icon": "ws_skill_musou_2_2.png",
-    "s2 icon": "ws_skill_musou_2_2.png",
+    "s2 icon": "ws_skill_sp_limit_2.png",
     "s3 icon": null
   },
   "1040112400": {
@@ -16396,7 +16396,7 @@
     "series": "menace",
     "element": "wind",
     "s1 icon": "ws_skill_whole_4_2.png",
-    "s2 icon": "ws_skill_whole_4_2.png",
+    "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": null
   },
   "1040305700": {
@@ -17276,8 +17276,8 @@
     "series": "malice",
     "element": "light",
     "s1 icon": "ws_skill_tec_5_1.png",
-    "s2 icon": "ws_skill_tec_5_1.png",
-    "s3 icon": null
+    "s2 icon": "Ws_skill_sp_limit_5.png",
+    "s3 icon": "ws_skill_job_weapon.png"
   },
   "1040314100": {
     "name": "Ka Pua U'i",
@@ -18536,7 +18536,7 @@
     "series": "menace",
     "element": "fire",
     "s1 icon": "ws_skill_heal_limit_1_2.png",
-    "s2 icon": "ws_skill_heal_limit_1_2.png",
+    "s2 icon": "ws_skill_train_1_2.png",
     "s3 icon": null
   },
   "1040408200": {
@@ -19236,7 +19236,7 @@
     "series": "malice",
     "element": "dark",
     "s1 icon": "ws_skill_guard_6_2.png",
-    "s2 icon": "ws_skill_guard_6_2.png",
+    "s2 icon": "ws_skill_god_6_2.png",
     "s3 icon": null
   },
   "1040414700": {
@@ -23356,7 +23356,7 @@
     "series": "menace",
     "element": "earth",
     "s1 icon": "ws_skill_guard_3_3.png",
-    "s2 icon": "ws_skill_guard_3_3.png",
+    "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": null
   },
   "1040615100": {
@@ -24916,7 +24916,7 @@
     "series": "malice",
     "element": "water",
     "s1 icon": "Ws_skill_secret_2_3.png",
-    "s2 icon": "Ws_skill_secret_2_3.png",
+    "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": null
   },
   "1040711100": {
@@ -24926,7 +24926,7 @@
     "series": "menace",
     "element": "dark",
     "s1 icon": "ws_skill_atk_6_1.png",
-    "s2 icon": "ws_skill_atk_6_1.png",
+    "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": null
   },
   "1040711200": {
@@ -27466,7 +27466,7 @@
     "series": "menace",
     "element": "earth",
     "s1 icon": "ws_skill_tec_3_3.png",
-    "s2 icon": "ws_skill_tec_3_3.png",
+    "s2 icon": "ws_skill_atk_3_1.png",
     "s3 icon": null
   },
   "1040905600": {
