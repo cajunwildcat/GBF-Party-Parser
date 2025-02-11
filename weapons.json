@@ -17139,6 +17139,16 @@
     "s2 icon": "ws_skill_counter_4_1.png",
     "s3 icon": "ws_skill_job_weapon.png"
   },
+  "1040313200": {
+    "name": "Garnet Broadaxe",
+    "maxUncap": 5,
+    "rarity": "SSR",
+    "series": "beast",
+    "element": "fire",
+    "s1 icon": "ws_skill_atk_m_1_3.png",
+    "s2 icon": "ws_skill_job_weapon.png",
+    "s3 icon": null
+  },
   "1040313300": {
     "name": "Dalmoran Battle Axe",
     "maxUncap": 3,
@@ -19899,6 +19909,16 @@
     "s2 icon": "ws_skill_deadly_6_1.png",
     "s3 icon": null
   },
+  "1040422000": {
+    "name": "Flowering Twilight",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": null,
+    "element": "wind",
+    "s1 icon": "ws_skill_heal_limit_4_2.png",
+    "s2 icon": "ws_skill_whole_4_2.png",
+    "s3 icon": "ws_skill_hp_4_2.png"
+  },
   "1040422100": {
     "name": "First Fright of the Mischief",
     "maxUncap": 4,
@@ -21758,6 +21778,16 @@
     "s1 icon": "ws_skill_sp_atk_6_3.png",
     "s2 icon": "ws_skill_nirrti_6.png",
     "s3 icon": null
+  },
+  "1040516500": {
+    "name": "Festering of Mournful Obsequies",
+    "maxUncap": 5,
+    "rarity": "SSR",
+    "series": "draconicprovenance",
+    "element": "dark",
+    "s1 icon": "ws_skill_job_weapon.png",
+    "s2 icon": "ws_skill_blank.png",
+    "s3 icon": "ws_skill_blank.png"
   },
   "1040516600": {
     "name": "Logic Breaker",
