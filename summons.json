@@ -1979,6 +1979,12 @@
     "rarity": "SSR",
     "element": "water"
   },
+  "2040364000": {
+    "name": "Golden Piña",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "light"
+  },
   "2040365000": {
     "name": "Goregrinders",
     "maxUncap": 3,
@@ -1990,6 +1996,12 @@
     "maxUncap": 3,
     "rarity": "SSR",
     "element": "wind"
+  },
+  "2040367000": {
+    "name": "Xeno Ifrit",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "fire"
   },
   "2040368000": {
     "name": "Mammoth",

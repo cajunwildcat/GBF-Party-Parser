@@ -15829,6 +15829,16 @@
     "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": null
   },
+  "1040219700": {
+    "name": "Fourth Fork of the Fluffle",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": null,
+    "element": "earth",
+    "s1 icon": "ws_skill_whole_3_2.png",
+    "s2 icon": "ws_skill_job_weapon.png",
+    "s3 icon": "ws_skill_ranbu_3_1.png"
+  },
   "1040300000": {
     "name": "Ukonvasara",
     "maxUncap": 4,
@@ -17728,6 +17738,16 @@
     "s1 icon": "ws_skill_job_weapon.png",
     "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": "ws_skill_job_weapon.png"
+  },
+  "1040319200": {
+    "name": "Clapotis Douleur",
+    "maxUncap": 3,
+    "rarity": "SSR",
+    "series": null,
+    "element": "dark",
+    "s1 icon": "ws_skill_tyrant_6.png",
+    "s2 icon": "ws_skill_tec_6_2.png",
+    "s3 icon": null
   },
   "1040400200": {
     "name": "Kerykeion",

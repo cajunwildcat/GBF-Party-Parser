@@ -5512,5 +5512,17 @@
     "maxUncap": 4,
     "rarity": "SSR",
     "element": "Earth"
+  },
+  "3040578000": {
+    "name": "Lobelia (Valentine)",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Dark"
+  },
+  "3040579000": {
+    "name": "Makura (Valentine)",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Earth"
   }
 }
