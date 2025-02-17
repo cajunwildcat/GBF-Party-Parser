@@ -2949,6 +2949,16 @@
     "s2 icon": null,
     "s3 icon": null
   },
+  "1030002700": {
+    "name": "Purity Blade",
+    "maxUncap": 3,
+    "rarity": "SR",
+    "series": null,
+    "element": "dark",
+    "s1 icon": "ws_skill_atk_6_2.png",
+    "s2 icon": null,
+    "s3 icon": null
+  },
   "1030002800": {
     "name": "Sagittarius Blade",
     "maxUncap": 3,
