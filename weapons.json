@@ -2939,16 +2939,6 @@
     "s2 icon": null,
     "s3 icon": null
   },
-  "1030002400": {
-    "name": "Ripple Rapier",
-    "maxUncap": 3,
-    "rarity": "SR",
-    "series": null,
-    "element": "water",
-    "s1 icon": "ws_skill_hp_2_2.png",
-    "s2 icon": null,
-    "s3 icon": null
-  },
   "1030002600": {
     "name": "Skirt Chaser",
     "maxUncap": 3,
@@ -8349,16 +8339,6 @@
     "s2 icon": null,
     "s3 icon": null
   },
-  "1030703700": {
-    "name": "Ring of Raphael (SR)",
-    "maxUncap": 3,
-    "rarity": "SR",
-    "series": "seraphic",
-    "element": "wind",
-    "s1 icon": "ws_skill_seraphic_4.png",
-    "s2 icon": null,
-    "s3 icon": null
-  },
   "1030703800": {
     "name": "Virtue's Bow",
     "maxUncap": 3,
@@ -11585,7 +11565,7 @@
     "rarity": "SSR",
     "series": "militis",
     "element": "light",
-    "s1 icon": "ws_skill_god_m_5_3.png",
+    "s1 icon": "ws_skill_job_weapon.png",
     "s2 icon": "ws_skill_hp_m_5_1.png",
     "s3 icon": null
   },
@@ -11919,16 +11899,6 @@
     "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": null
   },
-  "1040027800": {
-    "name": "Goriki-maru Revised",
-    "maxUncap": 4,
-    "rarity": "SSR",
-    "series": "collab",
-    "element": "dark",
-    "s1 icon": "ws_skill_atk_6_3.png",
-    "s2 icon": "ws_skill_sp_atk_6_3.png",
-    "s3 icon": "ws_skill_sp_limit_6.png"
-  },
   "1040028100": {
     "name": "Serpentius",
     "maxUncap": 4,
@@ -11949,12 +11919,15 @@
     "s2 icon": "ws_skill_deadly_3_1.png",
     "s3 icon": "ws_skill_job_weapon.png"
   },
-  "1040028200": {
-    "name": "O Iros Meta Chilion Prosopon",
+  "1040028300": {
+    "name": "Ensis Exorcizans",
     "maxUncap": 4,
     "rarity": "SSR",
     "series": "collab",
-    "element": "earth"
+    "element": "light",
+    "s1 icon": "ws_skill_atk_a_5_3.png",
+    "s2 icon": "ws_skill_job_weapon.png",
+    "s3 icon": null
   },
   "1040100000": {
     "name": "Azoth",
@@ -13003,7 +12976,7 @@
     "series": "malice",
     "element": "wind",
     "s1 icon": "ws_skill_sp_limit_4.png",
-    "s2 icon": "ws_skill_sp_limit_4.png",
+    "s2 icon": "ws_skill_backwater_4_3.png",
     "s3 icon": null
   },
   "1040111100": {
@@ -13143,7 +13116,7 @@
     "series": "malice",
     "element": "water",
     "s1 icon": "ws_skill_musou_2_2.png",
-    "s2 icon": "ws_skill_musou_2_2.png",
+    "s2 icon": "ws_skill_sp_limit_2.png",
     "s3 icon": null
   },
   "1040112400": {
@@ -13965,13 +13938,6 @@
     "s1 icon": "ws_skill_atk_4_1.png",
     "s2 icon": "ws_skill_ta_4_2.png",
     "s3 icon": "ws_skill_job_weapon.png"
-  },
-  "1040121200": {
-    "name": "Sica Shishikushiro",
-    "maxUncap": 4,
-    "rarity": "SSR",
-    "series": "collab",
-    "element": "wind"
   },
   "1040200000": {
     "name": "Cletine",
@@ -15873,6 +15839,16 @@
     "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": null
   },
+  "1040219700": {
+    "name": "Fourth Fork of the Fluffle",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": null,
+    "element": "earth",
+    "s1 icon": "ws_skill_whole_3_2.png",
+    "s2 icon": "ws_skill_job_weapon.png",
+    "s3 icon": "ws_skill_ranbu_3_1.png"
+  },
   "1040300000": {
     "name": "Ukonvasara",
     "maxUncap": 4,
@@ -16400,7 +16376,7 @@
     "series": "menace",
     "element": "wind",
     "s1 icon": "ws_skill_whole_4_2.png",
-    "s2 icon": "ws_skill_whole_4_2.png",
+    "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": null
   },
   "1040305700": {
@@ -17123,16 +17099,6 @@
     "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": null
   },
-  "1040312500": {
-    "name": "Tall-Tale Teller (Dark)",
-    "maxUncap": 5,
-    "rarity": "SSR",
-    "series": "ccw",
-    "element": "dark",
-    "s1 icon": "ws_skill_job_weapon.png",
-    "s2 icon": "ws_skill_job_weapon.png",
-    "s3 icon": null
-  },
   "1040312600": {
     "name": "Teiwaz",
     "maxUncap": 3,
@@ -17280,8 +17246,8 @@
     "series": "malice",
     "element": "light",
     "s1 icon": "ws_skill_tec_5_1.png",
-    "s2 icon": "ws_skill_tec_5_1.png",
-    "s3 icon": null
+    "s2 icon": "Ws_skill_sp_limit_5.png",
+    "s3 icon": "ws_skill_job_weapon.png"
   },
   "1040314100": {
     "name": "Ka Pua U'i",
@@ -17753,16 +17719,6 @@
     "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": "ws_skill_job_weapon.png"
   },
-  "1040318800": {
-    "name": "Norden Labrys (Wind)",
-    "maxUncap": 5,
-    "rarity": "SSR",
-    "series": "ccw",
-    "element": "wind",
-    "s1 icon": "ws_skill_job_weapon.png",
-    "s2 icon": "ws_skill_job_weapon.png",
-    "s3 icon": "ws_skill_job_weapon.png"
-  },
   "1040318900": {
     "name": "Norden Labrys (Light)",
     "maxUncap": 5,
@@ -17792,6 +17748,16 @@
     "s1 icon": "ws_skill_job_weapon.png",
     "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": "ws_skill_job_weapon.png"
+  },
+  "1040319200": {
+    "name": "Clapotis Douleur",
+    "maxUncap": 3,
+    "rarity": "SSR",
+    "series": null,
+    "element": "dark",
+    "s1 icon": "ws_skill_tyrant_6.png",
+    "s2 icon": "ws_skill_tec_6_2.png",
+    "s3 icon": null
   },
   "1040400200": {
     "name": "Kerykeion",
@@ -18540,7 +18506,7 @@
     "series": "menace",
     "element": "fire",
     "s1 icon": "ws_skill_heal_limit_1_2.png",
-    "s2 icon": "ws_skill_heal_limit_1_2.png",
+    "s2 icon": "ws_skill_train_1_2.png",
     "s3 icon": null
   },
   "1040408200": {
@@ -19240,7 +19206,7 @@
     "series": "malice",
     "element": "dark",
     "s1 icon": "ws_skill_guard_6_2.png",
-    "s2 icon": "ws_skill_guard_6_2.png",
+    "s2 icon": "ws_skill_god_6_2.png",
     "s3 icon": null
   },
   "1040414700": {
@@ -19671,16 +19637,6 @@
     "element": "light",
     "s1 icon": "ws_skill_atk_a_5_3.png",
     "s2 icon": "ws_skill_job_weapon.png",
-    "s3 icon": null
-  },
-  "1040418900": {
-    "name": "Charming Broom",
-    "maxUncap": 4,
-    "rarity": "SSR",
-    "series": null,
-    "element": "fire",
-    "s1 icon": "ws_skill_atk_1_3.png",
-    "s2 icon": "ws_skill_hp_1_1.png",
     "s3 icon": null
   },
   "1040419000": {
@@ -20180,6 +20136,16 @@
     "series": null,
     "element": "light",
     "s1 icon": "ws_skill_sp_atk_5_3.png",
+    "s2 icon": "ws_skill_job_weapon.png",
+    "s3 icon": null
+  },
+  "1040424000": {
+    "name": "Negi's Staff",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": "collab",
+    "element": "wind",
+    "s1 icon": "ws_skill_atk_a_4_3.png",
     "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": null
   },
@@ -23350,7 +23316,7 @@
     "series": "menace",
     "element": "earth",
     "s1 icon": "ws_skill_guard_3_3.png",
-    "s2 icon": "ws_skill_guard_3_3.png",
+    "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": null
   },
   "1040615100": {
@@ -23881,16 +23847,6 @@
     "element": "water",
     "s1 icon": "ws_skill_hp_m_2_2.png",
     "s2 icon": null,
-    "s3 icon": null
-  },
-  "1040700800": {
-    "name": "Diablo Bow",
-    "maxUncap": 4,
-    "rarity": "SSR",
-    "series": null,
-    "element": "dark",
-    "s1 icon": "ws_skill_hp_6_3.png",
-    "s2 icon": "ws_skill_atk_6_1.png",
     "s3 icon": null
   },
   "1040700900": {
@@ -24793,16 +24749,6 @@
     "s2 icon": "ws_skill_atk_4_1.png",
     "s3 icon": "ws_skill_job_weapon.png"
   },
-  "1040710000": {
-    "name": "Sherwood Bow (Fire)",
-    "maxUncap": 5,
-    "rarity": "SSR",
-    "series": "ccw",
-    "element": "fire",
-    "s1 icon": "ws_skill_job_weapon.png",
-    "s2 icon": "ws_skill_job_weapon.png",
-    "s3 icon": null
-  },
   "1040710000_note": {
     "name": "Sherwood Bow",
     "maxUncap": 5,
@@ -24910,7 +24856,7 @@
     "series": "malice",
     "element": "water",
     "s1 icon": "Ws_skill_secret_2_3.png",
-    "s2 icon": "Ws_skill_secret_2_3.png",
+    "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": null
   },
   "1040711100": {
@@ -24920,17 +24866,7 @@
     "series": "menace",
     "element": "dark",
     "s1 icon": "ws_skill_atk_6_1.png",
-    "s2 icon": "ws_skill_atk_6_1.png",
-    "s3 icon": null
-  },
-  "1040711200": {
-    "name": "Aetherial Marine",
-    "maxUncap": 3,
-    "rarity": "SSR",
-    "series": null,
-    "element": "earth",
-    "s1 icon": "ws_skill_whole_3_2.png",
-    "s2 icon": "ws_skill_deadly_3_1.png",
+    "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": null
   },
   "1040711300": {
@@ -27460,7 +27396,7 @@
     "series": "menace",
     "element": "earth",
     "s1 icon": "ws_skill_tec_3_3.png",
-    "s2 icon": "ws_skill_tec_3_3.png",
+    "s2 icon": "ws_skill_atk_3_1.png",
     "s3 icon": null
   },
   "1040905600": {
@@ -28502,16 +28438,6 @@
     "s1 icon": "ws_skill_job_weapon.png",
     "s2 icon": "ws_skill_blank.png",
     "s3 icon": "ws_skill_blank.png"
-  },
-  "1040915700": {
-    "name": "Hollow Purity",
-    "maxUncap": 3,
-    "rarity": "SSR",
-    "series": null,
-    "element": "dark",
-    "s1 icon": "ws_skill_atk_a_6_3.png",
-    "s2 icon": "ws_skill_job_weapon.png",
-    "s3 icon": null
   },
   "1040915800": {
     "name": "Sou-ou Momijimaru",

@@ -2683,7 +2683,7 @@
   },
   "3040103000": {
     "name": "Anthuria",
-    "maxUncap": 4,
+    "maxUncap": 5,
     "rarity": "SSR",
     "element": "Fire"
   },
@@ -5489,6 +5489,18 @@
     "rarity": "SSR",
     "element": "Light"
   },
+  "3040574000": {
+    "name": "Negi Springfield",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Wind"
+  },
+  "3040575000": {
+    "name": "Evangeline A.K. McDowell",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Dark"
+  },
   "3040576000": {
     "name": "Setsuna Sakurazaki",
     "maxUncap": 4,
@@ -5497,6 +5509,18 @@
   },
   "3040577000": {
     "name": "Jack Rakan",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Earth"
+  },
+  "3040578000": {
+    "name": "Lobelia (Valentine)",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Dark"
+  },
+  "3040579000": {
+    "name": "Makura (Valentine)",
     "maxUncap": 4,
     "rarity": "SSR",
     "element": "Earth"
