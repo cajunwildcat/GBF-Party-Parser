@@ -8788,6 +8788,17 @@
     "s3 icon": null,
     "type": "melee"
   },
+  "1030609800": {
+    "name": "Klesha-Cleansing Dharmachakra",
+    "maxUncap": 3,
+    "rarity": "SR",
+    "series": null,
+    "element": "light",
+    "s1 icon": "ws_skill_atk_a_5_2.png",
+    "s2 icon": null,
+    "s3 icon": null,
+    "type": "melee"
+  },
   "1030699000": {
     "name": "Archangel Brass Knuckles",
     "maxUncap": 3,
@@ -22160,6 +22171,17 @@
     "series": "collab",
     "element": "wind",
     "s1 icon": "ws_skill_atk_a_4_3.png",
+    "s2 icon": "ws_skill_job_weapon.png",
+    "s3 icon": null,
+    "type": "staff"
+  },
+  "1040424100": {
+    "name": "Bane of Avidya",
+    "maxUncap": 3,
+    "rarity": "SSR",
+    "series": null,
+    "element": "light",
+    "s1 icon": "ws_skill_atk_a_5_3.png",
     "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": null,
     "type": "staff"
