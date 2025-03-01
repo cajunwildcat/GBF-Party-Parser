@@ -22186,6 +22186,17 @@
     "s3 icon": null,
     "type": "staff"
   },
+  "1040424200": {
+    "name": "Nightgaze Gate",
+    "maxUncap": 3,
+    "rarity": "SSR",
+    "series": null,
+    "element": "dark",
+    "s1 icon": "ws_skill_deadly_6_3.png",
+    "s2 icon": "ws_skill_guard_6_1.png",
+    "s3 icon": null,
+    "type": "staff"
+  },
   "1040500000": {
     "name": "Gastraphetes",
     "maxUncap": 4,
@@ -31435,6 +31446,17 @@
     "s1 icon": "ws_skill_atk_6_3.png",
     "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": null,
+    "type": "katana"
+  },
+  "1040917100": {
+    "name": "Sennen Goji",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": "grand",
+    "element": "fire",
+    "s1 icon": "ws_skill_job_weapon.png",
+    "s2 icon": "ws_skill_penetrate_defense_1_3.png",
+    "s3 icon": "ws_skill_job_weapon.png",
     "type": "katana"
   }
 }
