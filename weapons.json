@@ -3233,6 +3233,17 @@
     "s3 icon": null,
     "type": "sabre"
   },
+  "1030002400": {
+    "name": "Ripple Rapier",
+    "maxUncap": 3,
+    "rarity": "SR",
+    "series": null,
+    "element": "water",
+    "s1 icon": "ws_skill_hp_2_2.png",
+    "s2 icon": null,
+    "s3 icon": null,
+    "type": "sabre"
+  },
   "1030002600": {
     "name": "Skirt Chaser",
     "maxUncap": 3,
@@ -9184,6 +9195,17 @@
     "s3 icon": null,
     "type": "bow"
   },
+  "1030703700": {
+    "name": "Ring of Raphael (SR)",
+    "maxUncap": 3,
+    "rarity": "SR",
+    "series": "seraphic",
+    "element": "wind",
+    "s1 icon": "ws_skill_seraphic_4.png",
+    "s2 icon": null,
+    "s3 icon": null,
+    "type": "bow"
+  },
   "1030703800": {
     "name": "Virtue's Bow",
     "maxUncap": 3,
@@ -12915,13 +12937,13 @@
   },
   "1040026000": {
     "name": "Fleuret de Diamant",
-    "maxUncap": 3,
+    "maxUncap": 4,
     "rarity": "SSR",
     "series": null,
     "element": "dark",
     "s1 icon": "ws_skill_hp_6_2.png",
     "s2 icon": "ws_skill_guard_6_2.png",
-    "s3 icon": null,
+    "s3 icon": "ws_skill_whole_6_2.png",
     "type": "sabre"
   },
   "1040026100": {
@@ -13098,6 +13120,17 @@
     "s1 icon": "ws_skill_atk_a_6_3.png",
     "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": null,
+    "type": "sabre"
+  },
+  "1040027800": {
+    "name": "Goriki-maru Revised",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": "collab",
+    "element": "dark",
+    "s1 icon": "ws_skill_atk_6_3.png",
+    "s2 icon": "ws_skill_sp_atk_6_3.png",
+    "s3 icon": "ws_skill_sp_limit_6.png",
     "type": "sabre"
   },
   "1040028100": {
@@ -15093,13 +15126,13 @@
   },
   "1040119100": {
     "name": "Guardian of Radlith",
-    "maxUncap": 3,
+    "maxUncap": 4,
     "rarity": "SSR",
     "series": null,
     "element": "earth",
     "s1 icon": "ws_skill_atk_3_3.png",
     "s2 icon": "ws_skill_atk_3.png",
-    "s3 icon": null,
+    "s3 icon": "ws_skill_job_weapon.png",
     "type": "dagger"
   },
   "1040119200": {
@@ -15148,13 +15181,13 @@
   },
   "1040119600": {
     "name": "Firefly's Light",
-    "maxUncap": 3,
+    "maxUncap": 4,
     "rarity": "SSR",
     "series": null,
     "element": "light",
     "s1 icon": "ws_skill_sp_atk_5_2.png",
     "s2 icon": "ws_skill_job_weapon.png",
-    "s3 icon": null,
+    "s3 icon": "ws_skill_hp_heal_limit_5_1.png",
     "type": "dagger"
   },
   "1040119700": {
@@ -18820,6 +18853,17 @@
     "s3 icon": null,
     "type": "axe"
   },
+  "1040312500": {
+    "name": "Tall-Tale Teller (Dark)",
+    "maxUncap": 5,
+    "rarity": "SSR",
+    "series": "ccw",
+    "element": "dark",
+    "s1 icon": "ws_skill_job_weapon.png",
+    "s2 icon": "ws_skill_job_weapon.png",
+    "s3 icon": null,
+    "type": "axe"
+  },
   "1040312600": {
     "name": "Teiwaz",
     "maxUncap": 3,
@@ -19497,6 +19541,17 @@
     "rarity": "SSR",
     "series": "ccw",
     "element": "earth",
+    "s1 icon": "ws_skill_job_weapon.png",
+    "s2 icon": "ws_skill_job_weapon.png",
+    "s3 icon": "ws_skill_job_weapon.png",
+    "type": "axe"
+  },
+  "1040318800": {
+    "name": "Norden Labrys (Wind)",
+    "maxUncap": 5,
+    "rarity": "SSR",
+    "series": "ccw",
+    "element": "wind",
     "s1 icon": "ws_skill_job_weapon.png",
     "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": "ws_skill_job_weapon.png",
@@ -21614,6 +21669,17 @@
     "s3 icon": null,
     "type": "staff"
   },
+  "1040418900": {
+    "name": "Charming Broom",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": null,
+    "element": "fire",
+    "s1 icon": "ws_skill_atk_1_3.png",
+    "s2 icon": "ws_skill_hp_1_1.png",
+    "s3 icon": null,
+    "type": "staff"
+  },
   "1040419000": {
     "name": "Impossible Diagram",
     "maxUncap": 4,
@@ -22100,13 +22166,13 @@
   },
   "1040423400": {
     "name": "Dardur",
-    "maxUncap": 3,
+    "maxUncap": 4,
     "rarity": "SSR",
     "series": null,
     "element": "water",
     "s1 icon": "ws_skill_secret_2_3.png",
     "s2 icon": "ws_skill_hp_2_1.png",
-    "s3 icon": null,
+    "s3 icon": "ws_skill_atk_2_1.png",
     "type": "staff"
   },
   "1040423500": {
@@ -24102,13 +24168,13 @@
   },
   "1040518000": {
     "name": "Sweet Surprise",
-    "maxUncap": 3,
+    "maxUncap": 4,
     "rarity": "SSR",
     "series": null,
     "element": "earth",
     "s1 icon": "ws_skill_guard_3_3.png",
     "s2 icon": "ws_skill_hp_3_2.png",
-    "s3 icon": null,
+    "s3 icon": "ws_skill_job_weapon.png",
     "type": "gun"
   },
   "1040600000": {
@@ -25884,13 +25950,13 @@
   },
   "1040617200": {
     "name": "Nostalgic Coffee Jelly",
-    "maxUncap": 3,
+    "maxUncap": 4,
     "rarity": "SSR",
     "series": null,
     "element": "wind",
     "s1 icon": "ws_skill_whole_4_2.png",
     "s2 icon": "ws_skill_moment_4_1.png",
-    "s3 icon": null,
+    "s3 icon": "ws_skill_job_weapon.png",
     "type": "melee"
   },
   "1040617300": {
@@ -26060,13 +26126,13 @@
   },
   "1040618900": {
     "name": "Subekuri Gauntlet",
-    "maxUncap": 3,
+    "maxUncap": 4,
     "rarity": "SSR",
     "series": null,
     "element": "fire",
     "s1 icon": "ws_skill_moment_1.png",
     "s2 icon": "ws_skill_counter_1_2.png",
-    "s3 icon": null,
+    "s3 icon": "ws_skill_jinkai_1_1.png",
     "type": "melee"
   },
   "1040619000": {
@@ -26264,6 +26330,17 @@
     "element": "water",
     "s1 icon": "ws_skill_hp_m_2_2.png",
     "s2 icon": null,
+    "s3 icon": null,
+    "type": "bow"
+  },
+  "1040700800": {
+    "name": "Diablo Bow",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": null,
+    "element": "dark",
+    "s1 icon": "ws_skill_hp_6_3.png",
+    "s2 icon": "ws_skill_atk_6_1.png",
     "s3 icon": null,
     "type": "bow"
   },
@@ -27257,6 +27334,17 @@
     "s3 icon": "ws_skill_job_weapon.png",
     "type": "bow"
   },
+  "1040710000": {
+    "name": "Sherwood Bow (Fire)",
+    "maxUncap": 5,
+    "rarity": "SSR",
+    "series": "ccw",
+    "element": "fire",
+    "s1 icon": "ws_skill_job_weapon.png",
+    "s2 icon": "ws_skill_job_weapon.png",
+    "s3 icon": null,
+    "type": "bow"
+  },
   "1040710000_note": {
     "name": "Sherwood Bow",
     "maxUncap": 5,
@@ -27386,6 +27474,17 @@
     "element": "dark",
     "s1 icon": "ws_skill_atk_6_1.png",
     "s2 icon": "ws_skill_job_weapon.png",
+    "s3 icon": null,
+    "type": "bow"
+  },
+  "1040711200": {
+    "name": "Aetherial Marine",
+    "maxUncap": 3,
+    "rarity": "SSR",
+    "series": null,
+    "element": "earth",
+    "s1 icon": "ws_skill_whole_3_2.png",
+    "s2 icon": "ws_skill_deadly_3_1.png",
     "s3 icon": null,
     "type": "bow"
   },
@@ -27655,13 +27754,13 @@
   },
   "1040713700": {
     "name": "Shimmering Bloom",
-    "maxUncap": 3,
+    "maxUncap": 4,
     "rarity": "SSR",
     "series": null,
     "element": "fire",
     "s1 icon": "ws_skill_deadly_1_2.png",
     "s2 icon": "ws_skill_job_weapon.png",
-    "s3 icon": null,
+    "s3 icon": "ws_skill_hp_1_2.png",
     "type": "bow"
   },
   "1040713800": {
@@ -29547,24 +29646,24 @@
   },
   "1040816800": {
     "name": "Lunatum Psalterium",
-    "maxUncap": 3,
+    "maxUncap": 4,
     "rarity": "SSR",
     "series": null,
     "element": "dark",
     "s1 icon": "ws_skill_hp_6_3.png",
     "s2 icon": "ws_skill_heal_limit_6_1.png",
-    "s3 icon": null,
+    "s3 icon": "ws_skill_job_weapon.png",
     "type": "harp"
   },
   "1040816900": {
     "name": "Wilnas-o'-Lantern",
-    "maxUncap": 3,
+    "maxUncap": 4,
     "rarity": "SSR",
     "series": null,
     "element": "light",
     "s1 icon": "ws_skill_atk_5_2.png",
     "s2 icon": "ws_skill_grace_5_2.png",
-    "s3 icon": null,
+    "s3 icon": "ws_skill_job_weapon.png",
     "type": "harp"
   },
   "1040817000": {
@@ -31316,6 +31415,17 @@
     "s3 icon": "ws_skill_blank.png",
     "type": "katana"
   },
+  "1040915700": {
+    "name": "Hollow Purity",
+    "maxUncap": 3,
+    "rarity": "SSR",
+    "series": null,
+    "element": "dark",
+    "s1 icon": "ws_skill_atk_a_6_3.png",
+    "s2 icon": "ws_skill_job_weapon.png",
+    "s3 icon": null,
+    "type": "katana"
+  },
   "1040915800": {
     "name": "Sou-ou Momijimaru",
     "maxUncap": 3,
@@ -31373,13 +31483,13 @@
   },
   "1040916400": {
     "name": "Shunran Shin'uchi",
-    "maxUncap": 3,
+    "maxUncap": 4,
     "rarity": "SSR",
     "series": null,
     "element": "wind",
     "s1 icon": "ws_skill_sp_atk_4_2.png",
     "s2 icon": "ws_skill_tec_4_2.png",
-    "s3 icon": null,
+    "s3 icon": "ws_skill_job_weapon.png",
     "type": "katana"
   },
   "1040916500": {
@@ -31395,13 +31505,13 @@
   },
   "1040916600": {
     "name": "Honekui",
-    "maxUncap": 3,
+    "maxUncap": 4,
     "rarity": "SSR",
     "series": null,
     "element": "water",
     "s1 icon": "ws_skill_tec_2_2.png",
     "s2 icon": "ws_skill_hp_2_2.png",
-    "s3 icon": null,
+    "s3 icon": "ws_skill_whole_2_2.png",
     "type": "katana"
   },
   "1040916700": {
