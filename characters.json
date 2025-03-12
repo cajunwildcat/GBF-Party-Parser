@@ -5536,5 +5536,11 @@
     "maxUncap": 4,
     "rarity": "SSR",
     "element": "Dark"
+  },
+  "3040588000": {
+    "name": "Joy (Event SSR)",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Wind"
   }
 }
