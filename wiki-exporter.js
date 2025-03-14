@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 2.91;
+const V = 2.92;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -33,7 +33,7 @@ const shields = ["Round Shield","Buckler","Knight Shield","Scutum","Mythril Shie
 const getShieldByID = (shieldId) => {
     let shieldID = (shieldId-1).toString();
     const shieldRarity = shieldID[0];
-    shieldID = shields[parseInt(shieldID[3]) + (shieldRarity == "2"? 0 : shieldRarity == "3"? 3 : 8)];
+    shieldID = shields[parseInt(shieldID.substring(1)) + (shieldRarity == "2"? 0 : shieldRarity == "3"? 3 : 8)];
     return shieldID;
 }
 const auxilaryWeaponClasses = ["Gladiator", "Chrysaor", "Iatromantis", "Street King", "Viking"];
