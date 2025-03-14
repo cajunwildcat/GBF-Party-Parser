@@ -319,6 +319,18 @@
     "icon": "Ability m 2425_4.png",
     "name": "Spirit Suppression"
   },
+  "Combat Shield": {
+    "icon": "Ability m 2562_3.png",
+    "name": "Combat Shield"
+  },
+  "Defiance": {
+    "icon": "Ability m 2563_3.png",
+    "name": "Defiance"
+  },
+  "Shield Hurl": {
+    "icon": "Ability m 2564_1.png",
+    "name": "Shield Hurl"
+  },
   "Evasive Maneuvers": {
     "icon": "Ability m 313_1.png",
     "name": "Evasive Maneuvers"
@@ -1214,6 +1226,22 @@
   "Transcendent Blue": {
     "icon": "Ability_m_2516_3.png",
     "name": "Transcendent Blue"
+  },
+  "Sei Colpi": {
+    "icon": "Ability_m_2550_4.png",
+    "name": "Sei Colpi"
+  },
+  "Blood Oath": {
+    "icon": "Ability_m_2551_3.png",
+    "name": "Blood Oath"
+  },
+  "Bespoke Tailoring": {
+    "icon": "Ability_m_2552_3.png",
+    "name": "Bespoke Tailoring"
+  },
+  "Parabellum Rain": {
+    "icon": "Ability_m_2553_1.png",
+    "name": "Parabellum Rain"
   },
   "Spirit of Training": {
     "icon": "Ability_m_49_3.png",

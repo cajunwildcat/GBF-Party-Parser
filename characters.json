@@ -5524,5 +5524,23 @@
     "maxUncap": 4,
     "rarity": "SSR",
     "element": "Earth"
+  },
+  "3040580000": {
+    "name": "Yuel (Grand)",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Fire"
+  },
+  "3040581000": {
+    "name": "Tsukuyomi",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Dark"
+  },
+  "3040588000": {
+    "name": "Joy (Event SSR)",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Wind"
   }
 }

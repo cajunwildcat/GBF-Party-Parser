@@ -1572,7 +1572,7 @@
     "element": "wind"
   },
   "2040263000": {
-    "name": "Tsukuyomi",
+    "name": "Tsukuyomi (Summon)",
     "maxUncap": 3,
     "rarity": "SSR",
     "element": "dark"
@@ -1963,7 +1963,7 @@
   },
   "2040361000": {
     "name": "Red Hare",
-    "maxUncap": 3,
+    "maxUncap": 4,
     "rarity": "SSR",
     "element": "fire"
   },
@@ -1975,7 +1975,7 @@
   },
   "2040363000": {
     "name": "Charybdis",
-    "maxUncap": 3,
+    "maxUncap": 4,
     "rarity": "SSR",
     "element": "water"
   },
@@ -1993,7 +1993,7 @@
   },
   "2040366000": {
     "name": "Owlcat",
-    "maxUncap": 3,
+    "maxUncap": 4,
     "rarity": "SSR",
     "element": "wind"
   },
@@ -2005,7 +2005,7 @@
   },
   "2040368000": {
     "name": "Mammoth",
-    "maxUncap": 3,
+    "maxUncap": 4,
     "rarity": "SSR",
     "element": "earth"
   },
@@ -2077,7 +2077,7 @@
   },
   "2040381000": {
     "name": "Artemis",
-    "maxUncap": 3,
+    "maxUncap": 4,
     "rarity": "SSR",
     "element": "light"
   },
@@ -2101,7 +2101,7 @@
   },
   "2040385000": {
     "name": "Zirnitra",
-    "maxUncap": 3,
+    "maxUncap": 4,
     "rarity": "SSR",
     "element": "dark"
   },
