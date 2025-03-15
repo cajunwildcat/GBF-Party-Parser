@@ -50,7 +50,7 @@ jobs:
           jq "$WEAPON_JQ_QUERY" "$TEMP_FILE" > "$WEAPONS_FILE"
 
           #abilities
-          ABILITIES_JQ_QUERY="map({ (.name | gsub(\"&#039;\"; \"'\")): {icon, name} }) | add"
+          ABILITIES_JQ_QUERY="map({ (.name | gsub(\"&#039;\"; \"'\")): {icon, name: (.name | gsub(\"&#039;\"; \"'\"))} }) | add"
           curl -A "$USER_AGENT" -fsSL "$ABILITIES_URL" > "$TEMP_FILE"
           jq "$ABILITIES_JQ_QUERY" "$TEMP_FILE" > "$ABILITIES_FILE"
 
