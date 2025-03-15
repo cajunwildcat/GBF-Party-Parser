@@ -12585,13 +12585,13 @@
   },
   "1040022600": {
     "name": "Sword of Pallas Militis",
-    "maxUncap": 3,
+    "maxUncap": 4,
     "rarity": "SSR",
     "series": "militis",
     "element": "fire",
     "s1 icon": "ws_skill_job_weapon.png",
     "s2 icon": "ws_skill_job_weapon.png",
-    "s3 icon": null,
+    "s3 icon": "ws_skill_job_weapon.png",
     "type": "sabre"
   },
   "1040022700": {
@@ -17150,13 +17150,13 @@
   },
   "1040216800": {
     "name": "Erichthonius Militis",
-    "maxUncap": 3,
+    "maxUncap": 4,
     "rarity": "SSR",
     "series": "militis",
     "element": "fire",
     "s1 icon": "ws_skill_job_weapon.png",
     "s2 icon": "ws_skill_job_weapon.png",
-    "s3 icon": null,
+    "s3 icon": "ws_skill_job_weapon.png",
     "type": "spear"
   },
   "1040216900": {
