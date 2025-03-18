@@ -24166,6 +24166,17 @@
     "s3 icon": "ws_skill_job_weapon.png",
     "type": "gun"
   },
+  "1040517200": {
+    "name": "Tenth Crow of the Clutch",
+    "maxUncap": 3,
+    "rarity": "SSR",
+    "series": null,
+    "element": "wind",
+    "s1 icon": "ws_skill_hp_4_3.png",
+    "s2 icon": "ws_skill_job_weapon.png",
+    "s3 icon": null,
+    "type": "gun"
+  },
   "1040518000": {
     "name": "Sweet Surprise",
     "maxUncap": 4,
@@ -29677,6 +29688,17 @@
     "s3 icon": null,
     "type": "harp"
   },
+  "1040817100": {
+    "name": "Lu Woh Float",
+    "maxUncap": 3,
+    "rarity": "SSR",
+    "series": null,
+    "element": "earth",
+    "s1 icon": "ws_skill_atk_3_2.png",
+    "s2 icon": "ws_skill_grace_3_2.png",
+    "s3 icon": null,
+    "type": "harp"
+  },
   "1040900000": {
     "name": "Asura",
     "maxUncap": 4,
@@ -31566,6 +31588,17 @@
     "element": "fire",
     "s1 icon": "ws_skill_job_weapon.png",
     "s2 icon": "ws_skill_penetrate_defense_1_3.png",
+    "s3 icon": "ws_skill_job_weapon.png",
+    "type": "katana"
+  },
+  "1040917200": {
+    "name": "Canifortis",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": "grand",
+    "element": "light",
+    "s1 icon": "ws_skill_job_weapon.png",
+    "s2 icon": "ws_skill_penetrate_defense_5_3.png",
     "s3 icon": "ws_skill_job_weapon.png",
     "type": "katana"
   }

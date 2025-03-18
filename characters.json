@@ -5537,6 +5537,24 @@
     "rarity": "SSR",
     "element": "Dark"
   },
+  "3040582000": {
+    "name": "Basara",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Light"
+  },
+  "3040583000": {
+    "name": "Lu Woh (Summer)",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Earth"
+  },
+  "3040584000": {
+    "name": "Mahira (Summer)",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Wind"
+  },
   "3040588000": {
     "name": "Joy (Event SSR)",
     "maxUncap": 4,
