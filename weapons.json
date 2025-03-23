@@ -22263,6 +22263,17 @@
     "s3 icon": null,
     "type": "staff"
   },
+  "1040424300": {
+    "name": "Exo Heliocentrum",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": "exo",
+    "element": "light",
+    "s1 icon": "ws_skill_atk_a_5_4.png",
+    "s2 icon": "ws_skill_job_weapon.png",
+    "s3 icon": null,
+    "type": "staff"
+  },
   "1040500000": {
     "name": "Gastraphetes",
     "maxUncap": 4,
