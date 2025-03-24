@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 2.92;
+const V = 3.0;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -14,13 +14,16 @@ if (!window.location.hash.startsWith("#party/index/")) {
     alert('Please go to a GBF Party screen');
     return;
 }
-let characters, summons;
-await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/characters.json", { next: 43200 })
+let characters, summons, weapons;
+await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/characters-min.json", { next: 43200 })
     .then(function(response){return response.json();})
     .then((response)=>characters=response);
-await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/summons.json", { next: 43200 })
+await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/summons-min.json", { next: 43200 })
     .then(function(response){return response.json();})
     .then((response)=>summons=response);
+await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/weapons-min.json", { next: 43200 })
+    .then(function(response){return response.json();})
+    .then((response)=>weapons=response);
 const specialWepSeries = [
     "3",   //opus
     "13",  //ultima
@@ -38,8 +41,8 @@ const getShieldByID = (shieldId) => {
 }
 const auxilaryWeaponClasses = ["Gladiator", "Chrysaor", "Iatromantis", "Street King", "Viking"];
 const splitskillNames = {"Execration":"Execration / Five-Phase Seal", "Assault Drive" : "Assault Drive / Weapon Discharge"}
-const suppSAssumptions = ["Lucifer", "Bahamut", "Agni", "Varuna", "Titan", "Zephyrus", "Zeus", "Hades", "Colossus Omega", "Leviathan Omega", "Yggdrasil Omega", "Tiamat Omega", "Luminiera Omega", "Celeste Omega", "Kaguya"];
-const minos = ["burlona", "schalk", "levi", "yggy", "baha", "luwoh", "mimic", "ouro", "europa", "wilnas", "agastia", "faa"];
+const suppSAssumptions = ["Lucifer", "Bahamut", "Agni", "Varuna", "Titan", "Zephyrus", "Zeus", "Hades", "Colossus Omega", "Leviathan Omega", "Yggdrasil Omega", "Tiamat Omega", "Luminiera Omega", "Celeste Omega"];
+const minos = ["burlona", "schalk", "levi", "yggy", "baha", "luwoh", "mimic", "ouro", "europa", "wilnas", "agastia", "faa", "chachazero"];
 const keyMap = { /*ultima 1*/ "Dominion": "will", "Parity": "strife", "Utopia": "vitality", "Plenum": "strength", "Ultio": "zeal", "Ars": "courage", /*ultima 2*/ "Aggressio": "auto", "Facultas": "skill", "Arcanum": "ougi", "Catena": "cb", /*ultima 3*/ "Fortis": "cap", "Sanatio": "healing", "Impetus": "seraphic", "Elatio": "cbgain", /*dopus 2*/ "α": "auto", "β": "skill", "γ": "ougi", "Δ": "cb", /*dopus 3*/ "Fruit": "apple", "Conduct": "depravity ", "Fallacy": "echo", /*draconic 2*/ "True": "def", "Vermillion": "fire", "Azure": "water", "Golden": "earth", "Emerald": "wind", "White": "light", "Black": "dark" };
 const elements = ["Fire", "Water", "Earth", "Wind", "Light", "Dark"];
 const charImgMap = {"4": null,"5":"C","6":"D"};
@@ -60,12 +63,14 @@ const final = {
     summons: [],
     summonsImg: [],
     summonsUncap: [],
+    summonsMaxUncap: [],
     summonsTrans: [],
 
     weapons: [],
-    weaponsUncaps: [],
-    weaponAwakens: [],
-    weaponKeys: {
+    weaponsUncap: [],
+    weaponsMaxUncap: [],
+    weaponsAwaken: [],
+    weaponsKeys: {
         opus: [],
         ccw: null,
         draconic: [],
@@ -82,7 +87,7 @@ if (final.mcclass == "Paladin" || final.mcclass == "Shieldsworn") final.shield =
 //characters
 Object.values(window.Game.view.deck_model.attributes.deck.npc).forEach(e => {
     const char = e.master ? characters[parseInt(e.master.id)] : null;
-    final.characters.push(char? char["name"] : e.master? e.master.name : e.master);
+    final.characters.push(char? char["pageName"] : e.master.name);
     final.charactersRing.push(e.param ? e.param.has_npcaugment_constant : null);
     final.charactersImg.push(e.param ? charImgMap[e.param.evolution] : null);
     final.charactersTrans.push(e.param? (parseInt(e.param.level, 10) - 100) / 10 : null);
@@ -94,8 +99,10 @@ const fillSummonData = (e,i) => {
     if (e.master && Object.keys(arcarumSums).includes(e.master.name)) {
         id = arcarumSums[e.master.name][parseInt(e.master.id[2])-3];
     }
-    final.summons.push(e.master? summons[id]? summons[id]["name"] : e.master.name : null);
-    final.summonsTrans.push(e.param ? (parseInt(e.param.level, 10) - 200) / 10: null);
+    final.summons.push(e.master? summons[id]? summons[id]["pageName"] : e.master.name : null);
+    let trans = e.param ? (parseInt(e.param.level, 10) - 200) / 10: null;
+    final.summonsTrans.push(trans);
+    final.summonsMaxUncap.push(summons[id].maxUncap);
     final.summonsUncap.push(e.param ? e.param.evolution : null);
     final.summonsImg.push((function(u,t){
         if (u <= 4 || Object.keys(arcarumSums).includes(e.master.name)) return "A";
@@ -109,7 +116,7 @@ const fillSummonData = (e,i) => {
 Object.values(window.Game.view.deck_model.attributes.deck.pc.summons).forEach(fillSummonData);
 //support summon
 let suppS = window.Game.view.expectancyDamageData;
-final.summons.push(suppS ? summons[parseInt(suppS.summonId)]["name"] : null);
+final.summons.push(suppS ? suppS.summonId? summons[parseInt(suppS.summonId)]["pageName"] : null : null);
 if (!final.summons.slice(-1).includes(window.Game.view.deck_model.attributes.deck.pc.damage_info.summon_name)) suppS = null;
 final.summonsTrans.push(suppS ? parseInt(suppS.evolution) == 6? 5 : 0 : null);
 final.summonsUncap.push(suppS ? parseInt(suppS.evolution) : null);
@@ -121,17 +128,13 @@ final.summonsImg.push(suppS? (function(u,t){
 })(final.summonsUncap.slice(-1), final.summonsTrans.slice(-1)) : null);
 //no detailed support summon data available
 if (suppS == null) {
-    final.summons.splice(-1,1,window.Game.view.deck_model.attributes.deck.pc.damage_info.summon_name);
+    let summon = Object.values(summons).find(s=>s.name==window.Game.view.deck_model.attributes.deck.pc.damage_info.summon_name);
+    final.summons.splice(-1,1,summon? summon.pageName : "");
     suppS = final.summons.slice(-1)[0];
     if (suppSAssumptions.includes(suppS)) {
-        if (suppS == "Kaguya") {
-            final.summons.splice(-1,1,"Kaguya (Summon)");
-        }
-        else {
-            final.summonsTrans.splice(-1,1,5);
-            final.summonsUncap.splice(-1,1,6);
-            final.summonsImg.splice(-1,1,"D");
-        }
+        final.summonsTrans.splice(-1,1,5);
+        final.summonsUncap.splice(-1,1,6);
+        final.summonsImg.splice(-1,1,"D");
     }
 }
 //sub summons
@@ -139,7 +142,8 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.sub_summons).forEac
 //weapons
 Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach((e,i) => {
     final.weapons.push(e.master ? e.master.name : null);
-    final.weaponsUncaps.push(e.param ? (function() {
+    final.weaponsUncap.push(e.param ? (function() {
+        //TODO: change to compare uncap vs maxUncap
         let uncap = 0;
         const lvl = e.param.level;
         uncaps.forEach(u => lvl>u? uncap++ : null);
@@ -150,24 +154,25 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach((e
         }
         return uncap;
     })() : 0);
-    final.weaponAwakens.push(e.param? e.param.arousal["form_name"]: null);
-    if (e.master && specialWepSeries.includes(e.master["series_id"])) {
+    final.weaponsMaxUncap.push(e.master? weapons[parseInt(e.master.id)].maxUncap : null);
+    final.weaponsAwaken.push(e.param? e.param.arousal["form_name"]: null);
+    if (e.master && specialWepSeries.includes(e.master["series_id"]) && (e.master["is_group"] && e.master["is_group"] != "29")) {
         switch (e.master["series_id"]) {
             //opus - s2 first word, s3 last word unless II or III, then word before
             case "3":
-                if (e.skill2) final.weaponKeys.opus.push(keyMap[e.skill2.name.trim().split(" ")[0]]);
+                if (e.skill2) final.weaponsKeys.opus.push(keyMap[e.skill2.name.trim().split(" ")[0]]);
                 if (e.skill3) {
                     let fullName = e.skill3.name.trim().split(" ");
                     let skill = (fullName[fullName.length-1] == "II" || fullName[fullName.length-1] == "III")? fullName[fullName.length-2] : fullName.pop();
-                    final.weaponKeys.opus.push(keyMap[skill]? keyMap[skill] : skill);
+                    final.weaponsKeys.opus.push(keyMap[skill]? keyMap[skill] : skill);
                 }
             break;
             //ultima - last word
             case "13":
                 if (i == 0 || (i == 1 && auxilaryWeaponClasses.includes(final.mcclass))) final.weapons[final.weapons.length-1] += ` (${elements[e.master.attribute-1]})`;
-                if (e.skill1) final.weaponKeys.ultima.push(keyMap[e.skill1.name.trim().split(" ").pop()]);
-                if (e.skill2) final.weaponKeys.ultima.push(keyMap[e.skill2.name.trim().split(" ").pop()]);
-                if (e.skill3) final.weaponKeys.ultima.push(keyMap[e.skill3.name.trim().split(" ").pop()]);
+                if (e.skill1) final.weaponsKeys.ultima.push(keyMap[e.skill1.name.trim().split(" ").pop()]);
+                if (e.skill2) final.weaponsKeys.ultima.push(keyMap[e.skill2.name.trim().split(" ").pop()]);
+                if (e.skill3) final.weaponsKeys.ultima.push(keyMap[e.skill3.name.trim().split(" ").pop()]);
             break;
             case "17":
             //superlative - only for element
@@ -176,7 +181,7 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach((e
             //ccw - last word
             case "19": 
                 if (e.param.level == 200) final.weapons[final.weapons.length-1] += ` (${elements[e.master.attribute-1]})`;
-                if (e.skill2) final.weaponKeys.ccw = e.skill2.name.trim().split(" ").pop();
+                if (e.skill2) final.weaponsKeys.ccw = e.skill2.name.trim().split(" ").pop();
             break;
             //draconic
             case "27":
@@ -184,9 +189,9 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach((e
                 if (e.skill2) {
                     let fullName = e.skill2.name.trim().split(" ");
                     let skill = (fullName[fullName.length-1] === "Barrier")? keyMap[fullName[0]] : fullName.pop();
-                    final.weaponKeys.draconic.push(skill);
+                    final.weaponsKeys.draconic.push(skill);
                 }
-                if (e.skill3) e.skill3.name.trim().split(" ").pop() === "III"? final.weaponKeys.draconic.push("magna") : final.weaponKeys.draconic.push("primal");
+                if (e.skill3) e.skill3.name.trim().split(" ").pop() === "III"? final.weaponsKeys.draconic.push("magna") : final.weaponsKeys.draconic.push("primal");
             break;
         }
     }
@@ -204,10 +209,10 @@ ${getCharacters()}
 }}
 |weapons={{WeaponGridSkills
 ${getWeapons()}
-${`${final.weaponKeys.opus.length>0? `|opus=${final.weaponKeys.opus.join(",")}` : ""}
-${final.weaponKeys.ultima.length>0? `|ultima=${final.weaponKeys.ultima.join(",")}` : ""}
-${final.weaponKeys.draconic.length>0? `|draconic=${final.weaponKeys.draconic.join(",")}` : ""}
-${final.weaponKeys.ccw? `|ccw=${final.weaponKeys.ccw}` : ""}`.split("\n").filter(s=>s.length>0).join("\n")}
+${`${final.weaponsKeys.opus.length>0? `|opus=${final.weaponsKeys.opus.join(",")}` : ""}
+${final.weaponsKeys.ultima.length>0? `|ultima=${final.weaponsKeys.ultima.join(",")}` : ""}
+${final.weaponsKeys.draconic.length>0? `|draconic=${final.weaponsKeys.draconic.join(",")}` : ""}
+${final.weaponsKeys.ccw? `|ccw=${final.weaponsKeys.ccw}` : ""}`.split("\n").filter(s=>s.length>0).join("\n")}
 }}
 |summons={{SummonGrid
 |main=${getSummon(0)}
@@ -232,13 +237,17 @@ const getWeapons = () => {
 };
 const getWeapon = (index) => {
     if (final.weapons[index] == null) return "";
-    let wep = `|wp${index}=${final.weapons[index]}|u${index}=${final.weaponsUncaps[index]}${final.weaponAwakens[index]? `|awk${index}=${final.weaponAwakens[index]}` : ""}`
+    let uncap = ((final.weaponsMaxUncap[index] != 6 && final.weaponsUncap[index] == final.weaponsMaxUncap[index]) || (final.weaponsMaxUncap[index] == 6 && final.weaponsUncap[index] == "t5"))? "" :
+        `|u${index}=${final.weaponsUncap[index]}`;
+    let wep = `|wp${index}=${final.weapons[index]}${uncap}${final.weaponsAwaken[index]? `|awk${index}=${final.weaponsAwaken[index]}` : ""}`
     if (index == 0) wep = wep.replace("wp0", "mh").replace("u0", "umh").replace("awk0", "awkmh");
     return wep;
 };
 const getSummon = (index) => {
     if (final.summons[index] == null) return "";
-    let sum = `${final.summons[index]}|u${index}=${final.summonsTrans[index] <= 0? `${final.summonsUncap[index]}` : `trans${final.summonsTrans[index]}`}`;
+    let uncap = ((final.summonsMaxUncap[index] != 6 && final.summonsUncap[index] == final.summonsMaxUncap[index]) || (final.summonsMaxUncap[index] == 6 && final.summonsTrans[index] == 5))? "" :
+        `|u${index}=${final.summonsTrans[index] <= 0? `${final.summonsUncap[index]}` : `trans${final.summonsTrans[index]}`}`
+    let sum = `${final.summons[index]}${uncap}`;
     if (index == 0) sum = sum.replace("u0", "umain").replace("art0", "artmain");
     if (index == 6) sum = sum.replace("u6", "usub1").replace("art6", "artsub1");
     if (index == 7) sum = sum.replace("u7", "usub2").replace("art7", "artsub2");
@@ -249,14 +258,6 @@ const getSummon = (index) => {
 (function (text) {
     var textarea = document.createElement("textarea");
     textarea.textContent = text;
-    textarea.style.position = "fixed";
-    textarea.style.width = '2em';
-    textarea.style.height = '2em';
-    textarea.style.padding = 0;
-    textarea.style.border = 'none';
-    textarea.style.outline = 'none';
-    textarea.style.boxShadow = 'none';
-    textarea.style.background = 'transparent';
     document.body.appendChild(textarea);
     textarea.focus();
     textarea.select();

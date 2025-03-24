@@ -29,6 +29,11 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
  - If you want to change the input/output file you can use `npx bookmarklet <source> <destination>` or edit the `build` command in `package.json`
 
 ## Update Log
+Version 3.0 (23/03/2025)
+ - Uncap level is now only exported when not max for the respective weapon/summon
+ - Support Summon name should be correct more often when full details are not grabbed
+ - Row 5 CCWs no longer export a pointless `|ccw` value
+
 Version 2.92 (13/03/2025)
  - Fixed shield parsing issue
 
