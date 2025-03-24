@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 3.0;
+const V = 3.01;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -87,7 +87,7 @@ if (final.mcclass == "Paladin" || final.mcclass == "Shieldsworn") final.shield =
 //characters
 Object.values(window.Game.view.deck_model.attributes.deck.npc).forEach(e => {
     const char = e.master ? characters[parseInt(e.master.id)] : null;
-    final.characters.push(char? char["pageName"] : e.master.name);
+    final.characters.push(char? char["pageName"] : e.master? e.master.name : null);
     final.charactersRing.push(e.param ? e.param.has_npcaugment_constant : null);
     final.charactersImg.push(e.param ? charImgMap[e.param.evolution] : null);
     final.charactersTrans.push(e.param? (parseInt(e.param.level, 10) - 100) / 10 : null);
