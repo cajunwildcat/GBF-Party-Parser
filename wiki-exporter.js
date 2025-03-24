@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 3.01;
+const V = 3.02;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -102,7 +102,7 @@ const fillSummonData = (e,i) => {
     final.summons.push(e.master? summons[id]? summons[id]["pageName"] : e.master.name : null);
     let trans = e.param ? (parseInt(e.param.level, 10) - 200) / 10: null;
     final.summonsTrans.push(trans);
-    final.summonsMaxUncap.push(summons[id].maxUncap);
+    final.summonsMaxUncap.push(e.param? summons[id].maxUncap : null);
     final.summonsUncap.push(e.param ? e.param.evolution : null);
     final.summonsImg.push((function(u,t){
         if (u <= 4 || Object.keys(arcarumSums).includes(e.master.name)) return "A";
