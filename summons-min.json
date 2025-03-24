@@ -1,0 +1,1602 @@
+{
+  "2010001000": {
+    "pageName": "Wind Rabbit",
+    "name": "Wind Rabbit"
+  },
+  "2010002000": {
+    "pageName": "Air Devil",
+    "name": "Air Devil"
+  },
+  "2010003000": {
+    "pageName": "Killer Bee",
+    "name": "Killer Bee"
+  },
+  "2010004000": {
+    "pageName": "Goblin",
+    "name": "Goblin"
+  },
+  "2010005000": {
+    "pageName": "Scalewing",
+    "name": "Scalewing"
+  },
+  "2010006000": {
+    "pageName": "Pincer",
+    "name": "Pincer"
+  },
+  "2010010000": {
+    "pageName": "Skewerfish",
+    "name": "Skewerfish"
+  },
+  "2010011000": {
+    "pageName": "Timber Wolf",
+    "name": "Timber Wolf"
+  },
+  "2010012000": {
+    "pageName": "Mirage Maker",
+    "name": "Mirage Maker"
+  },
+  "2020002000": {
+    "pageName": "Alpha Wolf",
+    "name": "Alpha Wolf"
+  },
+  "2020003000": {
+    "pageName": "Storm Rabbit",
+    "name": "Storm Rabbit"
+  },
+  "2020004000": {
+    "pageName": "Hornbird",
+    "name": "Hornbird"
+  },
+  "2020005000": {
+    "pageName": "Magma Golem",
+    "name": "Magma Golem"
+  },
+  "2020006000": {
+    "pageName": "Spearsting",
+    "name": "Spearsting"
+  },
+  "2020007000": {
+    "pageName": "Lavavian",
+    "name": "Lavavian"
+  },
+  "2020008000": {
+    "pageName": "Wind Elemental",
+    "name": "Wind Elemental"
+  },
+  "2020009000": {
+    "pageName": "Skeleton",
+    "name": "Skeleton"
+  },
+  "2020010000": {
+    "pageName": "Dragonflair",
+    "name": "Dragonflair"
+  },
+  "2020011000": {
+    "pageName": "Crusher",
+    "name": "Crusher"
+  },
+  "2020012000": {
+    "pageName": "Minotaur",
+    "name": "Minotaur"
+  },
+  "2020013000": {
+    "pageName": "Mandrake",
+    "name": "Mandrake"
+  },
+  "2020014000": {
+    "pageName": "Sleepyhead",
+    "name": "Sleepyhead"
+  },
+  "2020015000": {
+    "pageName": "Angelie",
+    "name": "Angelie"
+  },
+  "2020016000": {
+    "pageName": "Jawfish",
+    "name": "Jawfish"
+  },
+  "2020017000": {
+    "pageName": "Swordshark",
+    "name": "Swordshark"
+  },
+  "2020018000": {
+    "pageName": "Fire Elemental",
+    "name": "Fire Elemental"
+  },
+  "2020019000": {
+    "pageName": "Water Elemental",
+    "name": "Water Elemental"
+  },
+  "2020020000": {
+    "pageName": "Earth Elemental",
+    "name": "Earth Elemental"
+  },
+  "2020021000": {
+    "pageName": "Angel Queen",
+    "name": "Angel Queen"
+  },
+  "2020022000": {
+    "pageName": "Cave Bat",
+    "name": "Cave Bat"
+  },
+  "2020023000": {
+    "pageName": "Rivacuda",
+    "name": "Rivacuda"
+  },
+  "2020024000": {
+    "pageName": "Lumacie Griffin",
+    "name": "Lumacie Griffin"
+  },
+  "2020025000": {
+    "pageName": "Venom Lancer",
+    "name": "Venom Lancer"
+  },
+  "2020026000": {
+    "pageName": "Rodfly",
+    "name": "Rodfly"
+  },
+  "2020027000": {
+    "pageName": "Walking Torch",
+    "name": "Walking Torch"
+  },
+  "2020028000": {
+    "pageName": "Slime",
+    "name": "Slime"
+  },
+  "2020029000": {
+    "pageName": "Imp",
+    "name": "Imp"
+  },
+  "2020030000": {
+    "pageName": "Bonethorn",
+    "name": "Bonethorn"
+  },
+  "2020031000": {
+    "pageName": "Twilight Devil",
+    "name": "Twilight Devil"
+  },
+  "2020032000": {
+    "pageName": "Purgatorian",
+    "name": "Purgatorian"
+  },
+  "2020033000": {
+    "pageName": "Belle",
+    "name": "Belle"
+  },
+  "2020034000": {
+    "pageName": "Ghost Light",
+    "name": "Ghost Light"
+  },
+  "2020035000": {
+    "pageName": "Crawler",
+    "name": "Crawler"
+  },
+  "2030000000": {
+    "pageName": "Tiamat (Summon)",
+    "name": "Tiamat"
+  },
+  "2030001000": {
+    "pageName": "Colossus (Summon)",
+    "name": "Colossus"
+  },
+  "2030002000": {
+    "pageName": "Proto Bahamut",
+    "name": "Proto Bahamut"
+  },
+  "2030003000": {
+    "pageName": "Griffin",
+    "name": "Griffin"
+  },
+  "2030005000": {
+    "pageName": "Golem",
+    "name": "Golem"
+  },
+  "2030006000": {
+    "pageName": "Hydra",
+    "name": "Hydra"
+  },
+  "2030007000": {
+    "pageName": "Wyvern",
+    "name": "Wyvern"
+  },
+  "2030008000": {
+    "pageName": "Myconid",
+    "name": "Myconid"
+  },
+  "2030009000": {
+    "pageName": "Hellhound",
+    "name": "Hellhound"
+  },
+  "2030010000": {
+    "pageName": "Doomworm",
+    "name": "Doomworm"
+  },
+  "2030011000": {
+    "pageName": "Leviathan",
+    "name": "Leviathan"
+  },
+  "2030012000": {
+    "pageName": "Basilisk",
+    "name": "Basilisk"
+  },
+  "2030013000": {
+    "pageName": "Machina Soldier MK II",
+    "name": "Machina Soldier MK II"
+  },
+  "2030015000": {
+    "pageName": "Yggdrasil (Summon)",
+    "name": "Yggdrasil"
+  },
+  "2030016000": {
+    "pageName": "Peridot Carbuncle",
+    "name": "Peridot Carbuncle"
+  },
+  "2030017000": {
+    "pageName": "Archangel Queen",
+    "name": "Archangel Queen"
+  },
+  "2030018000": {
+    "pageName": "Hitodama",
+    "name": "Hitodama"
+  },
+  "2030019000": {
+    "pageName": "Wilinus Icewyrm",
+    "name": "Wilinus Icewyrm"
+  },
+  "2030020000": {
+    "pageName": "Elmenhilde Windsprite",
+    "name": "Elmenhilde Windsprite"
+  },
+  "2030021000": {
+    "pageName": "Aquamarine Carbuncle",
+    "name": "Aquamarine Carbuncle"
+  },
+  "2030022000": {
+    "pageName": "Vrazarek Firewyrm",
+    "name": "Vrazarek Firewyrm"
+  },
+  "2030023000": {
+    "pageName": "Stone Golem",
+    "name": "Stone Golem"
+  },
+  "2030024000": {
+    "pageName": "Zircon Carbuncle",
+    "name": "Zircon Carbuncle"
+  },
+  "2030025000": {
+    "pageName": "Ruination Gargoyle",
+    "name": "Ruination Gargoyle"
+  },
+  "2030026000": {
+    "pageName": "White Rabbit",
+    "name": "White Rabbit"
+  },
+  "2030028000": {
+    "pageName": "Pixie",
+    "name": "Pixie"
+  },
+  "2030029000": {
+    "pageName": "Anneliefe",
+    "name": "Anneliefe"
+  },
+  "2030031000": {
+    "pageName": "Garnet Carbuncle",
+    "name": "Garnet Carbuncle"
+  },
+  "2030032000": {
+    "pageName": "Luminiera",
+    "name": "Luminiera"
+  },
+  "2030033000": {
+    "pageName": "Elusious Windwyrm",
+    "name": "Elusious Windwyrm"
+  },
+  "2030034000": {
+    "pageName": "Angelie Cascade",
+    "name": "Angelie Cascade"
+  },
+  "2030039000": {
+    "pageName": "Onyx Carbuncle",
+    "name": "Onyx Carbuncle"
+  },
+  "2030040000": {
+    "pageName": "Nopal",
+    "name": "Nopal"
+  },
+  "2030041000": {
+    "pageName": "Celeste",
+    "name": "Celeste"
+  },
+  "2030042000": {
+    "pageName": "Opal Carbuncle",
+    "name": "Opal Carbuncle"
+  },
+  "2030051000": {
+    "pageName": "Belle Sylphid",
+    "name": "Belle Sylphid"
+  },
+  "2030062000": {
+    "pageName": "Tiamat Alter",
+    "name": "Tiamat Alter"
+  },
+  "2030063000": {
+    "pageName": "Colossus Alter",
+    "name": "Colossus Alter"
+  },
+  "2030064000": {
+    "pageName": "Leviathan Alter",
+    "name": "Leviathan Alter"
+  },
+  "2030065000": {
+    "pageName": "Yggdrasil Alter",
+    "name": "Yggdrasil Alter"
+  },
+  "2030066000": {
+    "pageName": "Luminiera Alter",
+    "name": "Luminiera Alter"
+  },
+  "2030067000": {
+    "pageName": "Celeste Alter",
+    "name": "Celeste Alter"
+  },
+  "2030068000": {
+    "pageName": "Diantha (Summon)",
+    "name": "Diantha"
+  },
+  "2030069000": {
+    "pageName": "Linaria",
+    "name": "Linaria"
+  },
+  "2030070000": {
+    "pageName": "Harie",
+    "name": "Harie"
+  },
+  "2030071000": {
+    "pageName": "Canna",
+    "name": "Canna"
+  },
+  "2030072000": {
+    "pageName": "Diola",
+    "name": "Diola"
+  },
+  "2030073000": {
+    "pageName": "Ruby Carbuncle",
+    "name": "Ruby Carbuncle"
+  },
+  "2030074000": {
+    "pageName": "Sapphire Carbuncle",
+    "name": "Sapphire Carbuncle"
+  },
+  "2030075000": {
+    "pageName": "Amber Carbuncle",
+    "name": "Amber Carbuncle"
+  },
+  "2030076000": {
+    "pageName": "Jade Carbuncle",
+    "name": "Jade Carbuncle"
+  },
+  "2030077000": {
+    "pageName": "Moonlight Carbuncle",
+    "name": "Moonlight Carbuncle"
+  },
+  "2030078000": {
+    "pageName": "Obsidian Carbuncle",
+    "name": "Obsidian Carbuncle"
+  },
+  "2030079000": {
+    "pageName": "Black Rabbit",
+    "name": "Black Rabbit"
+  },
+  "2030080000": {
+    "pageName": "Clay Golem",
+    "name": "Clay Golem"
+  },
+  "2030081000": {
+    "pageName": "Justice (SR)",
+    "name": "Justice"
+  },
+  "2030085000": {
+    "pageName": "The Hanged Man (SR)",
+    "name": "The Hanged Man"
+  },
+  "2030089000": {
+    "pageName": "Death (SR)",
+    "name": "Death"
+  },
+  "2030093000": {
+    "pageName": "Temperance (SR)",
+    "name": "Temperance"
+  },
+  "2030097000": {
+    "pageName": "The Devil (SR)",
+    "name": "The Devil"
+  },
+  "2030101000": {
+    "pageName": "The Tower (SR)",
+    "name": "The Tower"
+  },
+  "2030105000": {
+    "pageName": "The Star (SR)",
+    "name": "The Star"
+  },
+  "2030109000": {
+    "pageName": "The Moon (SR)",
+    "name": "The Moon"
+  },
+  "2030113000": {
+    "pageName": "The Sun (SR)",
+    "name": "The Sun"
+  },
+  "2030117000": {
+    "pageName": "Judgement (SR)",
+    "name": "Judgement"
+  },
+  "2040001000": {
+    "pageName": "Satan",
+    "name": "Satan"
+  },
+  "2040002000": {
+    "pageName": "Macula Marius (Summon)",
+    "name": "Macula Marius"
+  },
+  "2040003000": {
+    "pageName": "Bahamut",
+    "name": "Bahamut"
+  },
+  "2040004000": {
+    "pageName": "Vortex Dragon",
+    "name": "Vortex Dragon"
+  },
+  "2040005000": {
+    "pageName": "Dark Angel Olivia",
+    "name": "Dark Angel Olivia"
+  },
+  "2040006000": {
+    "pageName": "Anat",
+    "name": "Anat"
+  },
+  "2040007000": {
+    "pageName": "Grani",
+    "name": "Grani"
+  },
+  "2040008000": {
+    "pageName": "Phoenix",
+    "name": "Phoenix"
+  },
+  "2040009000": {
+    "pageName": "Quetzalcoatl",
+    "name": "Quetzalcoatl"
+  },
+  "2040010000": {
+    "pageName": "Cocytus",
+    "name": "Cocytus"
+  },
+  "2040011000": {
+    "pageName": "Nephthys",
+    "name": "Nephthys"
+  },
+  "2040012000": {
+    "pageName": "Lich (Summon)",
+    "name": "Lich"
+  },
+  "2040013000": {
+    "pageName": "Baal (Summon)",
+    "name": "Baal"
+  },
+  "2040014000": {
+    "pageName": "Vohu Manah",
+    "name": "Vohu Manah"
+  },
+  "2040015000": {
+    "pageName": "Manawydan",
+    "name": "Manawydan"
+  },
+  "2040016000": {
+    "pageName": "Ifrit",
+    "name": "Ifrit"
+  },
+  "2040017000": {
+    "pageName": "Siren",
+    "name": "Siren"
+  },
+  "2040018000": {
+    "pageName": "Midgardsormr",
+    "name": "Midgardsormr"
+  },
+  "2040019000": {
+    "pageName": "Behemoth",
+    "name": "Behemoth"
+  },
+  "2040020000": {
+    "pageName": "Tiamat Omega",
+    "name": "Tiamat Omega"
+  },
+  "2040021000": {
+    "pageName": "Athena (Summon)",
+    "name": "Athena"
+  },
+  "2040022000": {
+    "pageName": "Grendel",
+    "name": "Grendel"
+  },
+  "2040023000": {
+    "pageName": "Apollo",
+    "name": "Apollo"
+  },
+  "2040024000": {
+    "pageName": "Albacore",
+    "name": "Albacore"
+  },
+  "2040025000": {
+    "pageName": "Cait Sith",
+    "name": "Cait Sith"
+  },
+  "2040026000": {
+    "pageName": "Gugalanna",
+    "name": "Gugalanna"
+  },
+  "2040027000": {
+    "pageName": "Yggdrasil Omega",
+    "name": "Yggdrasil Omega"
+  },
+  "2040028000": {
+    "pageName": "Leviathan Omega",
+    "name": "Leviathan Omega"
+  },
+  "2040029000": {
+    "pageName": "Odin",
+    "name": "Odin"
+  },
+  "2040030000": {
+    "pageName": "Hekatonkheir",
+    "name": "Hekatonkheir"
+  },
+  "2040031000": {
+    "pageName": "Sagittarius",
+    "name": "Sagittarius"
+  },
+  "2040032000": {
+    "pageName": "Cerberus (Summon)",
+    "name": "Cerberus"
+  },
+  "2040033000": {
+    "pageName": "Oceanus",
+    "name": "Oceanus"
+  },
+  "2040034000": {
+    "pageName": "Colossus Omega",
+    "name": "Colossus Omega"
+  },
+  "2040035000": {
+    "pageName": "Allosaurus",
+    "name": "Allosaurus"
+  },
+  "2040036000": {
+    "pageName": "Cybele",
+    "name": "Cybele"
+  },
+  "2040037000": {
+    "pageName": "Poseidon (Summon)",
+    "name": "Poseidon"
+  },
+  "2040038000": {
+    "pageName": "Brunnhilde",
+    "name": "Brunnhilde"
+  },
+  "2040039000": {
+    "pageName": "Mithra",
+    "name": "Mithra"
+  },
+  "2040041000": {
+    "pageName": "Jack-o'-Lantern",
+    "name": "Jack-o&amp;#39;-Lantern"
+  },
+  "2040042000": {
+    "pageName": "Nezha (Summon)",
+    "name": "Nezha"
+  },
+  "2040043000": {
+    "pageName": "Marduk",
+    "name": "Marduk"
+  },
+  "2040044000": {
+    "pageName": "Corow",
+    "name": "Corow"
+  },
+  "2040045000": {
+    "pageName": "Audumbla",
+    "name": "Audumbla"
+  },
+  "2040046000": {
+    "pageName": "Celeste Omega",
+    "name": "Celeste Omega"
+  },
+  "2040047000": {
+    "pageName": "Luminiera Omega",
+    "name": "Luminiera Omega"
+  },
+  "2040048000": {
+    "pageName": "Sylph (Summon)",
+    "name": "Sylph"
+  },
+  "2040049000": {
+    "pageName": "Fenrir",
+    "name": "Fenrir"
+  },
+  "2040050000": {
+    "pageName": "Mahisha",
+    "name": "Mahisha"
+  },
+  "2040053000": {
+    "pageName": "Satyr (Summon)",
+    "name": "Satyr"
+  },
+  "2040055000": {
+    "pageName": "Wind God and Thunder God",
+    "name": "Wind God and Thunder God"
+  },
+  "2040056000": {
+    "pageName": "Lucifer",
+    "name": "Lucifer"
+  },
+  "2040057000": {
+    "pageName": "Ranko Kanzaki (Summon)",
+    "name": "[Skybound] Ranko Kanzaki"
+  },
+  "2040058000": {
+    "pageName": "Kirari Moroboshi",
+    "name": "Kirari Moroboshi"
+  },
+  "2040059000": {
+    "pageName": "Medusa (Summon)",
+    "name": "Medusa"
+  },
+  "2040060000": {
+    "pageName": "Branwen",
+    "name": "Branwen"
+  },
+  "2040062000": {
+    "pageName": "Diablo",
+    "name": "Diablo"
+  },
+  "2040063000": {
+    "pageName": "Twin Elements",
+    "name": "Twin Elements"
+  },
+  "2040064000": {
+    "pageName": "Magus (Summon)",
+    "name": "Magus"
+  },
+  "2040065000": {
+    "pageName": "Grand Order",
+    "name": "Grand Order"
+  },
+  "2040067000": {
+    "pageName": "Mammon",
+    "name": "Mammon"
+  },
+  "2040069000": {
+    "pageName": "Neptune",
+    "name": "Neptune"
+  },
+  "2040071000": {
+    "pageName": "Garuda",
+    "name": "Garuda"
+  },
+  "2040072000": {
+    "pageName": "Avaritia",
+    "name": "Avaritia"
+  },
+  "2040073000": {
+    "pageName": "Kirari",
+    "name": "[Skybound] Kirari"
+  },
+  "2040076000": {
+    "pageName": "Oxymoron",
+    "name": "Oxymoron"
+  },
+  "2040080000": {
+    "pageName": "Zeus",
+    "name": "Zeus"
+  },
+  "2040081000": {
+    "pageName": "Robomi Rocket",
+    "name": "Robomi Rocket"
+  },
+  "2040084000": {
+    "pageName": "Titan",
+    "name": "Titan"
+  },
+  "2040085000": {
+    "pageName": "Ebisu",
+    "name": "Ebisu"
+  },
+  "2040086000": {
+    "pageName": "Inchoate World",
+    "name": "Inchoate World"
+  },
+  "2040090000": {
+    "pageName": "Hades",
+    "name": "Hades"
+  },
+  "2040091000": {
+    "pageName": "Veselago",
+    "name": "Veselago"
+  },
+  "2040094000": {
+    "pageName": "Agni",
+    "name": "Agni"
+  },
+  "2040095000": {
+    "pageName": "Deirdre",
+    "name": "Deirdre"
+  },
+  "2040096000": {
+    "pageName": "Pierre",
+    "name": "Pierre"
+  },
+  "2040097000": {
+    "pageName": "Harvest Myconid",
+    "name": "Harvest Myconid"
+  },
+  "2040098000": {
+    "pageName": "Zephyrus",
+    "name": "Zephyrus"
+  },
+  "2040099000": {
+    "pageName": "Fafnir",
+    "name": "Fafnir"
+  },
+  "2040100000": {
+    "pageName": "Varuna",
+    "name": "Varuna"
+  },
+  "2040105000": {
+    "pageName": "Rose Queen",
+    "name": "Rose Queen"
+  },
+  "2040109000": {
+    "pageName": "Illuyanka",
+    "name": "Illuyanka"
+  },
+  "2040113000": {
+    "pageName": "Odajumoki Gang",
+    "name": "Odajumoki Gang"
+  },
+  "2040114000": {
+    "pageName": "Kaguya (Summon)",
+    "name": "Kaguya"
+  },
+  "2040115000": {
+    "pageName": "Joya",
+    "name": "Joya"
+  },
+  "2040122000": {
+    "pageName": "Morrigna (Summon)",
+    "name": "Morrigna"
+  },
+  "2040123000": {
+    "pageName": "King Krustacea",
+    "name": "King Krustacea"
+  },
+  "2040124000": {
+    "pageName": "Ti Icniuhtli Xolotl",
+    "name": "Ti Icniuhtli Xolotl"
+  },
+  "2040125000": {
+    "pageName": "Prometheus",
+    "name": "Prometheus"
+  },
+  "2040129000": {
+    "pageName": "Lady Katapillar",
+    "name": "Lady Katapillar"
+  },
+  "2040130000": {
+    "pageName": "Gilgamesh",
+    "name": "Gilgamesh"
+  },
+  "2040131000": {
+    "pageName": "Bahamut Unchained",
+    "name": "Bahamut Unchained"
+  },
+  "2040133000": {
+    "pageName": "Druj",
+    "name": "Druj"
+  },
+  "2040134000": {
+    "pageName": "Anubis",
+    "name": "Anubis"
+  },
+  "2040141000": {
+    "pageName": "Queen Bee",
+    "name": "Queen Bee"
+  },
+  "2040142000": {
+    "pageName": "Ikelos",
+    "name": "Ikelos"
+  },
+  "2040144000": {
+    "pageName": "Hector",
+    "name": "Hector"
+  },
+  "2040157000": {
+    "pageName": "Huanglong",
+    "name": "Huanglong"
+  },
+  "2040158000": {
+    "pageName": "Qilin",
+    "name": "Qilin"
+  },
+  "2040159000": {
+    "pageName": "Super Robo Gigantes",
+    "name": "Super Robo Gigantes"
+  },
+  "2040160000": {
+    "pageName": "Ca Ong",
+    "name": "Ca Ong"
+  },
+  "2040167000": {
+    "pageName": "Bonito",
+    "name": "Bonito"
+  },
+  "2040168000": {
+    "pageName": "Custos Citrullus",
+    "name": "Custos Citrullus"
+  },
+  "2040170000": {
+    "pageName": "Milia",
+    "name": "Milia"
+  },
+  "2040171000": {
+    "pageName": "Sethlans",
+    "name": "Sethlans"
+  },
+  "2040172000": {
+    "pageName": "Treant",
+    "name": "Treant"
+  },
+  "2040173000": {
+    "pageName": "Tezcatlipoca",
+    "name": "Tezcatlipoca"
+  },
+  "2040175000": {
+    "pageName": "Verona Heart",
+    "name": "Verona Heart"
+  },
+  "2040177000": {
+    "pageName": "Setekh",
+    "name": "Setekh"
+  },
+  "2040178000": {
+    "pageName": "Grueler",
+    "name": "Grueler"
+  },
+  "2040180000": {
+    "pageName": "Typhon",
+    "name": "Typhon"
+  },
+  "2040181000": {
+    "pageName": "Dragon Knights",
+    "name": "Dragon Knights"
+  },
+  "2040184000": {
+    "pageName": "Blue Orbit",
+    "name": "Blue Orbit"
+  },
+  "2040185000": {
+    "pageName": "Shiva (Summon)",
+    "name": "Shiva"
+  },
+  "2040188000": {
+    "pageName": "Thor",
+    "name": "Thor"
+  },
+  "2040189000": {
+    "pageName": "Levin Sisters (Summon)",
+    "name": "Levin Sisters"
+  },
+  "2040192000": {
+    "pageName": "Bellringer Angel",
+    "name": "Bellringer Angel"
+  },
+  "2040195000": {
+    "pageName": "Sandalphon (Summon)",
+    "name": "Sandalphon"
+  },
+  "2040198000": {
+    "pageName": "Dark Flame Scion",
+    "name": "Dark Flame Scion"
+  },
+  "2040199000": {
+    "pageName": "Seraphim Cradle",
+    "name": "Seraphim Cradle"
+  },
+  "2040202000": {
+    "pageName": "Raphael (Summon)",
+    "name": "Raphael"
+  },
+  "2040203000": {
+    "pageName": "Uriel (Summon)",
+    "name": "Uriel"
+  },
+  "2040205000": {
+    "pageName": "Godsworn Alexiel",
+    "name": "Godsworn Alexiel"
+  },
+  "2040207000": {
+    "pageName": "H.P.A.",
+    "name": "H.P.A."
+  },
+  "2040211000": {
+    "pageName": "Super Cute Genius Alchemist",
+    "name": "Super Cute Genius Alchemist"
+  },
+  "2040212000": {
+    "pageName": "Nacht",
+    "name": "Nacht"
+  },
+  "2040214000": {
+    "pageName": "Lumiel Gourmet",
+    "name": "Lumiel Gourmet"
+  },
+  "2040216000": {
+    "pageName": "Aphrodite",
+    "name": "Aphrodite"
+  },
+  "2040219000": {
+    "pageName": "Forest Ranger",
+    "name": "Forest Ranger"
+  },
+  "2040221000": {
+    "pageName": "Garula, Shining Hawk",
+    "name": "Garula, Shining Hawk"
+  },
+  "2040224000": {
+    "pageName": "Urkin",
+    "name": "Urkin"
+  },
+  "2040225000": {
+    "pageName": "Europa (Summon)",
+    "name": "Europa"
+  },
+  "2040228000": {
+    "pageName": "Lonesome Dragoness (Summon)",
+    "name": "Lonesome Dragoness"
+  },
+  "2040229000": {
+    "pageName": "Zaoshen",
+    "name": "Zaoshen"
+  },
+  "2040232000": {
+    "pageName": "Sharom",
+    "name": "Sharom"
+  },
+  "2040233000": {
+    "pageName": "Ankusha",
+    "name": "Ankusha"
+  },
+  "2040234000": {
+    "pageName": "Kero-chan",
+    "name": "Kero-chan"
+  },
+  "2040236000": {
+    "pageName": "Justice (SSR)",
+    "name": "Justice"
+  },
+  "2040237000": {
+    "pageName": "The Hanged Man (SSR)",
+    "name": "The Hanged Man"
+  },
+  "2040238000": {
+    "pageName": "Death (SSR)",
+    "name": "Death"
+  },
+  "2040239000": {
+    "pageName": "Temperance (SSR)",
+    "name": "Temperance"
+  },
+  "2040240000": {
+    "pageName": "The Devil (SSR)",
+    "name": "The Devil"
+  },
+  "2040241000": {
+    "pageName": "The Tower (SSR)",
+    "name": "The Tower"
+  },
+  "2040242000": {
+    "pageName": "The Star (SSR)",
+    "name": "The Star"
+  },
+  "2040243000": {
+    "pageName": "The Moon (SSR)",
+    "name": "The Moon"
+  },
+  "2040244000": {
+    "pageName": "The Sun (SSR)",
+    "name": "The Sun"
+  },
+  "2040245000": {
+    "pageName": "Judgement (SSR)",
+    "name": "Judgement"
+  },
+  "2040248000": {
+    "pageName": "Sapphire Dance: Gentiana",
+    "name": "Sapphire Dance: Gentiana"
+  },
+  "2040249000": {
+    "pageName": "Snow White",
+    "name": "Snow White"
+  },
+  "2040252000": {
+    "pageName": "Knight of Knights",
+    "name": "Knight of Knights"
+  },
+  "2040253000": {
+    "pageName": "Adramelech",
+    "name": "Adramelech"
+  },
+  "2040255000": {
+    "pageName": "Eren",
+    "name": "Eren"
+  },
+  "2040259000": {
+    "pageName": "Crimson Spear, Ebony Scythe",
+    "name": "Crimson Spear, Ebony Scythe"
+  },
+  "2040261000": {
+    "pageName": "Grimnir (Summon)",
+    "name": "Grimnir"
+  },
+  "2040263000": {
+    "pageName": "Tsukuyomi (Summon)",
+    "name": "Tsukuyomi"
+  },
+  "2040269000": {
+    "pageName": "Demi Agni",
+    "name": "Demi Agni"
+  },
+  "2040270000": {
+    "pageName": "Demi Varuna",
+    "name": "Demi Varuna"
+  },
+  "2040271000": {
+    "pageName": "Demi Titan",
+    "name": "Demi Titan"
+  },
+  "2040272000": {
+    "pageName": "Demi Zephyrus",
+    "name": "Demi Zephyrus"
+  },
+  "2040273000": {
+    "pageName": "Demi Zeus",
+    "name": "Demi Zeus"
+  },
+  "2040274000": {
+    "pageName": "Demi Hades",
+    "name": "Demi Hades"
+  },
+  "2040275000": {
+    "pageName": "Halluel and Malluel (Summon)",
+    "name": "Halluel and Malluel"
+  },
+  "2040279000": {
+    "pageName": "Gigante Blazer",
+    "name": "Gigante Blazer"
+  },
+  "2040281000": {
+    "pageName": "Freyr (Summon)",
+    "name": "Freyr"
+  },
+  "2040282000": {
+    "pageName": "Unrivaled Fighter",
+    "name": "Unrivaled Fighter"
+  },
+  "2040285000": {
+    "pageName": "Gorilla",
+    "name": "Gorilla"
+  },
+  "2040286000": {
+    "pageName": "Lunalu (Summon)",
+    "name": "Lunalu"
+  },
+  "2040288000": {
+    "pageName": "Morgana Car",
+    "name": "Morgana Car"
+  },
+  "2040290000": {
+    "pageName": "Nobiyo",
+    "name": "Nobiyo"
+  },
+  "2040291000": {
+    "pageName": "Narita",
+    "name": "Narita"
+  },
+  "2040292000": {
+    "pageName": "Electric Eal",
+    "name": "Electric Eal"
+  },
+  "2040293000": {
+    "pageName": "Macula Marius (Summer)",
+    "name": "Macula Marius"
+  },
+  "2040294000": {
+    "pageName": "JEHUTY",
+    "name": "JEHUTY"
+  },
+  "2040295000": {
+    "pageName": "Gearcycle",
+    "name": "Gearcycle"
+  },
+  "2040296000": {
+    "pageName": "Hamsa",
+    "name": "Hamsa"
+  },
+  "2040297000": {
+    "pageName": "Anat, for Love and War",
+    "name": "Anat, for Love and War"
+  },
+  "2040298000": {
+    "pageName": "H.D. Mining Excavator",
+    "name": "H.D. Mining Excavator"
+  },
+  "2040299000": {
+    "pageName": "Mepple and Mipple",
+    "name": "Mepple and Mipple"
+  },
+  "2040300000": {
+    "pageName": "Vane's Cooking",
+    "name": "Vane&amp;#39;s Cooking"
+  },
+  "2040301000": {
+    "pageName": "Krelkulkil",
+    "name": "Krelkulkil"
+  },
+  "2040302000": {
+    "pageName": "Poseidon, the Tide Father",
+    "name": "Poseidon, the Tide Father"
+  },
+  "2040303000": {
+    "pageName": "Princess Knight",
+    "name": "Princess Knight"
+  },
+  "2040304000": {
+    "pageName": "Sylph, Flutterspirit of Purity",
+    "name": "Sylph, Flutterspirit of Purity"
+  },
+  "2040305000": {
+    "pageName": "Cerberus, Hellhound Trifecta",
+    "name": "Cerberus, Hellhound Trifecta"
+  },
+  "2040306000": {
+    "pageName": "Michael (Summon)",
+    "name": "Michael"
+  },
+  "2040309000": {
+    "pageName": "Flamek Pact",
+    "name": "Flamek Pact"
+  },
+  "2040310000": {
+    "pageName": "Magus, Triad of Wisdom",
+    "name": "Magus, Triad of Wisdom"
+  },
+  "2040311000": {
+    "pageName": "Gabriel (Summon)",
+    "name": "Gabriel"
+  },
+  "2040312000": {
+    "pageName": "Cat Parade",
+    "name": "Cat Parade"
+  },
+  "2040323000": {
+    "pageName": "Marduk, Battlefield Reaper",
+    "name": "Marduk, Battlefield Reaper"
+  },
+  "2040324000": {
+    "pageName": "Dragon's Rage",
+    "name": "Dragon&amp;#39;s Rage"
+  },
+  "2040325000": {
+    "pageName": "Delinquent Spirit",
+    "name": "Delinquent Spirit"
+  },
+  "2040326000": {
+    "pageName": "Demonbream",
+    "name": "Demonbream"
+  },
+  "2040327000": {
+    "pageName": "Sariel (Summon)",
+    "name": "Sariel"
+  },
+  "2040328000": {
+    "pageName": "Gorgon Sisters",
+    "name": "Gorgon Sisters"
+  },
+  "2040329000": {
+    "pageName": "From Ladiva with Love",
+    "name": "From Ladiva with Love"
+  },
+  "2040330000": {
+    "pageName": "Metatron (Summon)",
+    "name": "Metatron"
+  },
+  "2040331000": {
+    "pageName": "C.C.",
+    "name": "C.C."
+  },
+  "2040332000": {
+    "pageName": "Rainy Day",
+    "name": "Rainy Day"
+  },
+  "2040333000": {
+    "pageName": "Yggdrasil (Summer)",
+    "name": "Yggdrasil (Summer)"
+  },
+  "2040334000": {
+    "pageName": "God Albacore",
+    "name": "God Albacore"
+  },
+  "2040335000": {
+    "pageName": "Satyr (Summer)",
+    "name": "Satyr"
+  },
+  "2040336000": {
+    "pageName": "Rose Queen (Summer)",
+    "name": "Rose Queen"
+  },
+  "2040337000": {
+    "pageName": "Dancing Man",
+    "name": "Dancing Man"
+  },
+  "2040338000": {
+    "pageName": "Surtr",
+    "name": "Surtr"
+  },
+  "2040339000": {
+    "pageName": "Team Chickadee",
+    "name": "Team Chickadee"
+  },
+  "2040340000": {
+    "pageName": "Princess Long Ji",
+    "name": "Princess Long Ji"
+  },
+  "2040341000": {
+    "pageName": "Sapphire Dance: Habotan",
+    "name": "Sapphire Dance: Habotan"
+  },
+  "2040342000": {
+    "pageName": "Dogu",
+    "name": "Dogu"
+  },
+  "2040343000": {
+    "pageName": "Sky Carriage SS Pew Pew",
+    "name": "Sky Carriage SS Pew Pew"
+  },
+  "2040344000": {
+    "pageName": "Elil",
+    "name": "Elil"
+  },
+  "2040345000": {
+    "pageName": "Mukku",
+    "name": "Mukku"
+  },
+  "2040347000": {
+    "pageName": "Belial",
+    "name": "Belial"
+  },
+  "2040348000": {
+    "pageName": "Proto-Joya",
+    "name": "Proto-Joya"
+  },
+  "2040349000": {
+    "pageName": "Swinger of the Ebony Scythe",
+    "name": "Swinger of the Ebony Scythe"
+  },
+  "2040350000": {
+    "pageName": "Heimdallr",
+    "name": "Heimdallr"
+  },
+  "2040351000": {
+    "pageName": "The Eternal Defenders",
+    "name": "The Eternal Defenders"
+  },
+  "2040352000": {
+    "pageName": "Nyarlathotep",
+    "name": "Nyarlathotep"
+  },
+  "2040360000": {
+    "pageName": "Dynamic Merc Duo",
+    "name": "Dynamic Merc Duo"
+  },
+  "2040361000": {
+    "pageName": "Red Hare",
+    "name": "Red Hare"
+  },
+  "2040362000": {
+    "pageName": "Silver Salvation",
+    "name": "Silver Salvation"
+  },
+  "2040363000": {
+    "pageName": "Charybdis",
+    "name": "Charybdis"
+  },
+  "2040364000": {
+    "pageName": "Golden Piña",
+    "name": "Golden Piña"
+  },
+  "2040365000": {
+    "pageName": "Goregrinders",
+    "name": "Goregrinders"
+  },
+  "2040366000": {
+    "pageName": "Owlcat",
+    "name": "Owlcat"
+  },
+  "2040367000": {
+    "pageName": "Xeno Ifrit",
+    "name": "Xeno Ifrit"
+  },
+  "2040368000": {
+    "pageName": "Mammoth",
+    "name": "Mammoth"
+  },
+  "2040369000": {
+    "pageName": "Athena (Summer)",
+    "name": "Athena"
+  },
+  "2040370000": {
+    "pageName": "Xeno Vohu Manah",
+    "name": "Xeno Vohu Manah"
+  },
+  "2040371000": {
+    "pageName": "Deepflight Oyster",
+    "name": "Deepflight Oyster"
+  },
+  "2040373000": {
+    "pageName": "Colossal Hermit",
+    "name": "Colossal Hermit"
+  },
+  "2040374000": {
+    "pageName": "Freyr (Yukata)",
+    "name": "Freyr"
+  },
+  "2040375000": {
+    "pageName": "Kaguya (Summer)",
+    "name": "Kaguya"
+  },
+  "2040376000": {
+    "pageName": "Zhuque",
+    "name": "Zhuque"
+  },
+  "2040377000": {
+    "pageName": "Xuanwu",
+    "name": "Xuanwu"
+  },
+  "2040378000": {
+    "pageName": "Baihu",
+    "name": "Baihu"
+  },
+  "2040379000": {
+    "pageName": "Qinglong",
+    "name": "Qinglong"
+  },
+  "2040380000": {
+    "pageName": "Blessed Wedding",
+    "name": "Blessed Wedding"
+  },
+  "2040381000": {
+    "pageName": "Artemis",
+    "name": "Artemis"
+  },
+  "2040382000": {
+    "pageName": "Xeno Sagittarius",
+    "name": "Xeno Sagittarius"
+  },
+  "2040383000": {
+    "pageName": "Ignis Dragon",
+    "name": "Ignis Dragon"
+  },
+  "2040384000": {
+    "pageName": "Frost Lord's Army",
+    "name": "Frost Lord's Army"
+  },
+  "2040385000": {
+    "pageName": "Zirnitra",
+    "name": "Zirnitra"
+  },
+  "2040386000": {
+    "pageName": "Cutest Golden Statue in the Skies",
+    "name": "Cutest Golden Statue in the Skies"
+  },
+  "2040387000": {
+    "pageName": "Guardian Ku-Keoloewa",
+    "name": "Guardian Ku-Keoloewa"
+  },
+  "2040388000": {
+    "pageName": "Sariel (Holiday)",
+    "name": "Sariel"
+  },
+  "2040389000": {
+    "pageName": "Giyu Tomioka",
+    "name": "Giyu Tomioka"
+  },
+  "2040390000": {
+    "pageName": "Xeno Corow",
+    "name": "Xeno Corow"
+  },
+  "2040391000": {
+    "pageName": "Ultra Robo Grand God Kaiser",
+    "name": "Ultra Robo Grand God Kaiser"
+  },
+  "2040392000": {
+    "pageName": "Tsuchinoko",
+    "name": "Tsuchinoko"
+  },
+  "2040393000": {
+    "pageName": "Idle Sparkle",
+    "name": "Idle Sparkle"
+  },
+  "2040394000": {
+    "pageName": "Automagod Triumvirate",
+    "name": "Automagod Triumvirate"
+  },
+  "2040395000": {
+    "pageName": "Xeno Cocytus",
+    "name": "Xeno Cocytus"
+  },
+  "2040396000": {
+    "pageName": "Snapshot of Divinity",
+    "name": "Snapshot of Divinity"
+  },
+  "2040397000": {
+    "pageName": "Arbiter of Lies",
+    "name": "Arbiter of Lies"
+  },
+  "2040398000": {
+    "pageName": "Wilnas (Summon)",
+    "name": "Wilnas"
+  },
+  "2040399000": {
+    "pageName": "Xeno Diablo",
+    "name": "Xeno Diablo"
+  },
+  "2040400000": {
+    "pageName": "Destiny Nocturnes",
+    "name": "Destiny Nocturnes"
+  },
+  "2040401000": {
+    "pageName": "Galleon (Summon)",
+    "name": "Galleon"
+  },
+  "2040402000": {
+    "pageName": "Tiamat (Summer)",
+    "name": "Tiamat"
+  },
+  "2040403000": {
+    "pageName": "Mandrake (Summer)",
+    "name": "Mandrake"
+  },
+  "2040404000": {
+    "pageName": "Gold Ship and Mejiro McQueen",
+    "name": "Gold Ship and Mejiro McQueen"
+  },
+  "2040405000": {
+    "pageName": "Kotaro Katsura and Elizabeth",
+    "name": "Kotaro Katsura and Elizabeth"
+  },
+  "2040406000": {
+    "pageName": "Ewiyar (Summon)",
+    "name": "Ewiyar"
+  },
+  "2040407000": {
+    "pageName": "Shizuka, Gian, and Suneo",
+    "name": "Shizuka, Gian, and Suneo"
+  },
+  "2040408000": {
+    "pageName": "Beelzebub",
+    "name": "Beelzebub"
+  },
+  "2040409000": {
+    "pageName": "Lu Woh (Summon)",
+    "name": "Lu Woh"
+  },
+  "2040410000": {
+    "pageName": "Shantotto II",
+    "name": "Shantotto II"
+  },
+  "2040411000": {
+    "pageName": "Belial (Summer)",
+    "name": "Belial"
+  },
+  "2040412000": {
+    "pageName": "Sleepyhead (Summer)",
+    "name": "Sleepyhead"
+  },
+  "2040413000": {
+    "pageName": "Wamdus (Summon)",
+    "name": "Wamdus"
+  },
+  "2040414000": {
+    "pageName": "Usopp, Chopper, Franky, Brook, and Jimbei",
+    "name": "Usopp, Chopper, Franky, Brook, and Jimbei"
+  },
+  "2040415000": {
+    "pageName": "Uta",
+    "name": "Uta"
+  },
+  "2040416000": {
+    "pageName": "Hekate (Summon)",
+    "name": "Hekate"
+  },
+  "2040417000": {
+    "pageName": "Yatima (Summon)",
+    "name": "Yatima"
+  },
+  "2040418000": {
+    "pageName": "Fediel (Summon)",
+    "name": "Fediel"
+  },
+  "2040419000": {
+    "pageName": "Sanrio Characters",
+    "name": "Sanrio Characters"
+  },
+  "2040420000": {
+    "pageName": "Cerberus (Summer)",
+    "name": "Cerberus"
+  },
+  "2040421000": {
+    "pageName": "Satoru Gojo",
+    "name": "Satoru Gojo"
+  },
+  "2040422000": {
+    "pageName": "Aoi Todo",
+    "name": "Aoi Todo"
+  },
+  "2040423000": {
+    "pageName": "Tyrannosaurus (Summer)",
+    "name": "Tyrannosaurus"
+  },
+  "2040424000": {
+    "pageName": "Noire (Summon)",
+    "name": "Noire"
+  },
+  "2040425000": {
+    "pageName": "Triple Zero",
+    "name": "Triple Zero"
+  },
+  "2040426000": {
+    "pageName": "All Might",
+    "name": "All Might"
+  },
+  "2040427000": {
+    "pageName": "Tuna and Salmun",
+    "name": "Tuna and Salmun"
+  },
+  "2040428000": {
+    "pageName": "Mars (Summer)",
+    "name": "Mars"
+  },
+  "2040429000": {
+    "pageName": "Beelzebub (Summer)",
+    "name": "Beelzebub"
+  },
+  "2040430000": {
+    "pageName": "Wedges of the Sky",
+    "name": "Wedges of the Sky"
+  },
+  "2040431000": {
+    "pageName": "Milim Nava",
+    "name": "Milim Nava"
+  },
+  "2040432000": {
+    "pageName": "God Rabbit Gigamax",
+    "name": "God Rabbit Gigamax"
+  },
+  "2040433000": {
+    "pageName": "Orologia (Summon)",
+    "name": "Orologia"
+  },
+  "2040434000": {
+    "pageName": "Asuna Kagurazaka",
+    "name": "Asuna Kagurazaka"
+  }
+}
