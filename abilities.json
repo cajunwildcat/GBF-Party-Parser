@@ -95,10 +95,6 @@
     "icon": "Ability Dance of Zeal.png",
     "name": "Dance of Zeal"
   },
-  "Dappled Sunlight": {
-    "icon": "Ability Dappled Sunlight.png",
-    "name": "Dappled Sunlight"
-  },
   "Decimate": {
     "icon": "Ability Decimate.png",
     "name": "Decimate"
@@ -166,14 +162,6 @@
   "Judicious Shot": {
     "icon": "Ability Judicious Shot.png",
     "name": "Judicious Shot"
-  },
-  "Laughing Logger": {
-    "icon": "Ability Laughing Logger.png",
-    "name": "Laughing Logger"
-  },
-  "Leaf Burning": {
-    "icon": "Ability Leaf Burning.png",
-    "name": "Leaf Burning"
   },
   "Lightning Strike": {
     "icon": "Ability Lightning Strike.png",
@@ -287,14 +275,6 @@
     "icon": "Ability m 2146_3.png",
     "name": "Crest Discharge"
   },
-  "Birdsong of Balmy Breeze": {
-    "icon": "Ability m 2147_3.png",
-    "name": "Birdsong of Balmy Breeze"
-  },
-  "Log Lop": {
-    "icon": "Ability m 2148_1.png",
-    "name": "Log Lop"
-  },
   "Thousand Arrows": {
     "icon": "Ability m 2149_1.png",
     "name": "Thousand Arrows"
@@ -338,10 +318,6 @@
   "Einherjar": {
     "icon": "Ability m 49 3.png",
     "name": "Einherjar"
-  },
-  "Verdant Melody": {
-    "icon": "Ability m 637_3.png",
-    "name": "Verdant Melody"
   },
   "Amber Edge": {
     "icon": "Ability m 774_1.png",
@@ -931,33 +907,9 @@
     "icon": "Ability_m_1817_2.png",
     "name": "Vita Brevis"
   },
-  "Amyntiko Fos": {
-    "icon": "Ability_m_1818_3.png",
-    "name": "Amyntiko Fos"
-  },
-  "Pneuma": {
-    "icon": "Ability_m_1819_3.png",
-    "name": "Pneuma"
-  },
-  "Megali Fotia": {
-    "icon": "Ability_m_1820_1.png",
-    "name": "Megali Fotia"
-  },
   "Aether Siphon": {
     "icon": "Ability_m_1921_1.png",
     "name": "Aether Siphon"
-  },
-  "Wild Magica": {
-    "icon": "Ability_m_1922_1.png",
-    "name": "Wild Magica"
-  },
-  "Secret Triad": {
-    "icon": "Ability_m_1923_3.png",
-    "name": "Secret Triad"
-  },
-  "Overtrance": {
-    "icon": "Ability_m_1924_3.png",
-    "name": "Overtrance"
   },
   "Take the Head": {
     "icon": "Ability_m_1964_1.png",
@@ -1178,18 +1130,6 @@
   "Sealing Talisman": {
     "icon": "Ability_m_2285_3.png",
     "name": "Sealing Talisman"
-  },
-  "Shikigami: Mizuchi": {
-    "icon": "Ability_m_2286_1.png",
-    "name": "Shikigami: Mizuchi"
-  },
-  "Celestial Genesis": {
-    "icon": "Ability_m_2287_3.png",
-    "name": "Celestial Genesis"
-  },
-  "Execration / Five-Phase Seal": {
-    "icon": "Ability_m_2288_4.png,Ability_m_2289_4.png",
-    "name": "Execration / Five-Phase Seal"
   },
   "Shield of Valor": {
     "icon": "Ability_m_2349_3.png",
