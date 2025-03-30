@@ -17570,7 +17570,7 @@
   },
   "3040087000": {
     "pageName": "Rosamia (SSR)",
-    "maxUncap": 4,
+    "maxUncap": 5,
     "rarity": "SSR",
     "element": "Light",
     "series": null,
@@ -17582,7 +17582,7 @@
     "obtain": [
       "classic2"
     ],
-    "flbDate": null,
+    "flbDate": "2025-03-29",
     "expeditionType": null,
     "type": "Balanced",
     "customType": null,

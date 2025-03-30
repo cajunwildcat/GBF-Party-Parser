@@ -95,6 +95,10 @@
     "icon": "Ability Dance of Zeal.png",
     "name": "Dance of Zeal"
   },
+  "Dappled Sunlight": {
+    "icon": "Ability Dappled Sunlight.png",
+    "name": "Dappled Sunlight"
+  },
   "Decimate": {
     "icon": "Ability Decimate.png",
     "name": "Decimate"
@@ -162,6 +166,14 @@
   "Judicious Shot": {
     "icon": "Ability Judicious Shot.png",
     "name": "Judicious Shot"
+  },
+  "Laughing Logger": {
+    "icon": "Ability Laughing Logger.png",
+    "name": "Laughing Logger"
+  },
+  "Leaf Burning": {
+    "icon": "Ability Leaf Burning.png",
+    "name": "Leaf Burning"
   },
   "Lightning Strike": {
     "icon": "Ability Lightning Strike.png",
@@ -275,6 +287,14 @@
     "icon": "Ability m 2146_3.png",
     "name": "Crest Discharge"
   },
+  "Birdsong of Balmy Breeze": {
+    "icon": "Ability m 2147_3.png",
+    "name": "Birdsong of Balmy Breeze"
+  },
+  "Log Lop": {
+    "icon": "Ability m 2148_1.png",
+    "name": "Log Lop"
+  },
   "Thousand Arrows": {
     "icon": "Ability m 2149_1.png",
     "name": "Thousand Arrows"
@@ -318,6 +338,10 @@
   "Einherjar": {
     "icon": "Ability m 49 3.png",
     "name": "Einherjar"
+  },
+  "Verdant Melody": {
+    "icon": "Ability m 637_3.png",
+    "name": "Verdant Melody"
   },
   "Amber Edge": {
     "icon": "Ability m 774_1.png",
@@ -922,6 +946,18 @@
   "Aether Siphon": {
     "icon": "Ability_m_1921_1.png",
     "name": "Aether Siphon"
+  },
+  "Wild Magica": {
+    "icon": "Ability_m_1922_1.png",
+    "name": "Wild Magica"
+  },
+  "Secret Triad": {
+    "icon": "Ability_m_1923_3.png",
+    "name": "Secret Triad"
+  },
+  "Overtrance": {
+    "icon": "Ability_m_1924_3.png",
+    "name": "Overtrance"
   },
   "Take the Head": {
     "icon": "Ability_m_1964_1.png",
