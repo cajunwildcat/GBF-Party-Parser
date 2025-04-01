@@ -1582,33 +1582,6 @@
       "Gun"
     ]
   },
-  "null": {
-    "pageName": "Walder (Grand)",
-    "maxUncap": 4,
-    "rarity": "SSR",
-    "element": "earth",
-    "series": "grand",
-    "styleName": null,
-    "styleId": null,
-    "jpname": null,
-    "releaseDate": "2025-04-01",
-    "gender": "m",
-    "obtain": [
-      ""
-    ],
-    "flbDate": null,
-    "expeditionType": "naturalist",
-    "type": "special",
-    "customType": null,
-    "race": [
-      "human"
-    ],
-    "recruitWeapon": null,
-    "weapon": [
-      "dagger",
-      " gun"
-    ]
-  },
   "3030179000": {
     "pageName": "Arisa",
     "maxUncap": 4,
