@@ -35615,6 +35615,20 @@
     "awakeningType1": null,
     "awakeningType2": null
   },
+  "1040714000": {
+    "pageName": "First Fling of the Mischief",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": null,
+    "element": "light",
+    "s1 icon": "ws_skill_whole_5_2.png",
+    "s2 icon": "ws_skill_hp_5_1.png",
+    "s3 icon": "ws_skill_job_weapon.png",
+    "type": "bow",
+    "awakening": null,
+    "awakeningType1": null,
+    "awakeningType2": null
+  },
   "1040800000": {
     "pageName": "Luminiera Harp Omega",
     "maxUncap": 5,
@@ -40553,6 +40567,34 @@
     "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": "ws_skill_job_weapon.png",
     "type": "katana",
+    "awakening": null,
+    "awakeningType1": null,
+    "awakeningType2": null
+  },
+  "1040917900": {
+    "pageName": "Prismatic Trientalis",
+    "maxUncap": 3,
+    "rarity": "SSR",
+    "series": null,
+    "element": "dark",
+    "s1 icon": "ws_skill_ta_6_2.png",
+    "s2 icon": "ws_skill_job_weapon.png",
+    "s3 icon": null,
+    "type": "katana",
+    "awakening": null,
+    "awakeningType1": null,
+    "awakeningType2": null
+  },
+  "200250401cw1": {
+    "pageName": "Marisa's Broom",
+    "maxUncap": 5,
+    "rarity": "SSR",
+    "series": null,
+    "element": "light",
+    "s1 icon": "Ws_skill_train_m_5_3.png",
+    "s2 icon": "Ws_skill_atk_m_5_1.png",
+    "s3 icon": null,
+    "type": "staff",
     "awakening": null,
     "awakeningType1": null,
     "awakeningType2": null
