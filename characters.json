@@ -21594,33 +21594,6 @@
       "Sabre"
     ]
   },
-  "null": {
-    "pageName": "User:Hainiryun/Excavallion",
-    "maxUncap": 4,
-    "rarity": "SSR",
-    "element": "earth",
-    "series": null,
-    "styleName": null,
-    "styleId": null,
-    "jpname": null,
-    "releaseDate": "2025-04-01",
-    "gender": "o",
-    "obtain": [
-      "premium,normal"
-    ],
-    "flbDate": null,
-    "expeditionType": null,
-    "type": "defense",
-    "customType": null,
-    "race": [
-      "primal"
-    ],
-    "recruitWeapon": "Titanic Sunderer",
-    "weapon": [
-      "gun",
-      " melee"
-    ]
-  },
   "3040491000": {
     "pageName": "Utsusemi",
     "maxUncap": 4,
