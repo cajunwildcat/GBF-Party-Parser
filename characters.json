@@ -2741,32 +2741,6 @@
       "Spear"
     ]
   },
-  "770777077": {
-    "pageName": "Brinus",
-    "maxUncap": 4,
-    "rarity": "SSR",
-    "element": "Fire",
-    "series": "collab",
-    "styleName": null,
-    "styleId": null,
-    "jpname": null,
-    "releaseDate": "2025-04-01",
-    "gender": "f",
-    "obtain": [
-      ""
-    ],
-    "flbDate": null,
-    "expeditionType": null,
-    "type": "Heal",
-    "customType": null,
-    "race": [
-      "Other"
-    ],
-    "recruitWeapon": null,
-    "weapon": [
-      "Gun"
-    ]
-  },
   "3040009000": {
     "pageName": "Cagliostro",
     "maxUncap": 5,
@@ -3920,32 +3894,6 @@
     "recruitWeapon": null,
     "weapon": [
       "Axe"
-    ]
-  },
-  "101012020": {
-    "pageName": "Chiikawa",
-    "maxUncap": 4,
-    "rarity": "SSR",
-    "element": "Wind",
-    "series": "tie-in",
-    "styleName": null,
-    "styleId": null,
-    "jpname": "ちいかわ",
-    "releaseDate": "2025-04-01",
-    "gender": "o",
-    "obtain": [
-      "collab"
-    ],
-    "flbDate": null,
-    "expeditionType": null,
-    "type": "Balanced",
-    "customType": null,
-    "race": [
-      "Other"
-    ],
-    "recruitWeapon": null,
-    "weapon": [
-      "Spear"
     ]
   },
   "3020059000": {
@@ -7877,32 +7825,6 @@
       "Melee"
     ]
   },
-  "500122020": {
-    "pageName": "Hachiware",
-    "maxUncap": 4,
-    "rarity": "SSR",
-    "element": "Dark",
-    "series": "tie-in",
-    "styleName": null,
-    "styleId": null,
-    "jpname": "ハチワレ",
-    "releaseDate": "2025-04-01",
-    "gender": "o",
-    "obtain": [
-      "collab"
-    ],
-    "flbDate": null,
-    "expeditionType": null,
-    "type": "Special",
-    "customType": null,
-    "race": [
-      "Other"
-    ],
-    "recruitWeapon": null,
-    "weapon": [
-      "Staff"
-    ]
-  },
   "3040079000": {
     "pageName": "Hallessena",
     "maxUncap": 5,
@@ -9788,32 +9710,6 @@
     "recruitWeapon": null,
     "weapon": [
       "Katana"
-    ]
-  },
-  "4400022000": {
-    "pageName": "Jiyuna",
-    "maxUncap": 4,
-    "rarity": "SSR",
-    "element": "Wind",
-    "series": "collab",
-    "styleName": null,
-    "styleId": null,
-    "jpname": null,
-    "releaseDate": "2025-04-01",
-    "gender": "m",
-    "obtain": [
-      ""
-    ],
-    "flbDate": null,
-    "expeditionType": "Bloodhound",
-    "type": "Attack",
-    "customType": null,
-    "race": [
-      "Human"
-    ],
-    "recruitWeapon": null,
-    "weapon": [
-      "Melee"
     ]
   },
   "3020040000": {
@@ -13264,32 +13160,6 @@
     "recruitWeapon": "Flare Glaive",
     "weapon": [
       "Spear"
-    ]
-  },
-  "2002504010001": {
-    "pageName": "Marisa Kirisame (Fire)",
-    "maxUncap": 4,
-    "rarity": "SSR",
-    "element": "fire",
-    "series": "collab;fantasy",
-    "styleName": null,
-    "styleId": null,
-    "jpname": "霧雨　魔理沙",
-    "releaseDate": "2025-04-01",
-    "gender": "f",
-    "obtain": [
-      "collab"
-    ],
-    "flbDate": null,
-    "expeditionType": null,
-    "type": "attack",
-    "customType": null,
-    "race": [
-      "human"
-    ],
-    "recruitWeapon": null,
-    "weapon": [
-      "staff"
     ]
   },
   "3040108000": {
@@ -21724,30 +21594,31 @@
       "Sabre"
     ]
   },
-  "122012020": {
-    "pageName": "Usagi",
+  "null": {
+    "pageName": "User:Hainiryun/Excavallion",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "Light",
-    "series": "tie-in",
+    "element": "earth",
+    "series": null,
     "styleName": null,
     "styleId": null,
-    "jpname": "うさぎ",
+    "jpname": null,
     "releaseDate": "2025-04-01",
     "gender": "o",
     "obtain": [
-      "collab"
+      "premium,normal"
     ],
     "flbDate": null,
     "expeditionType": null,
-    "type": "Attack",
+    "type": "defense",
     "customType": null,
     "race": [
-      "Other"
+      "primal"
     ],
-    "recruitWeapon": null,
+    "recruitWeapon": "Titanic Sunderer",
     "weapon": [
-      "Melee"
+      "gun",
+      " melee"
     ]
   },
   "3040491000": {

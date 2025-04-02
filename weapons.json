@@ -40584,19 +40584,5 @@
     "awakening": null,
     "awakeningType1": null,
     "awakeningType2": null
-  },
-  "200250401cw1": {
-    "pageName": "Marisa's Broom",
-    "maxUncap": 5,
-    "rarity": "SSR",
-    "series": null,
-    "element": "light",
-    "s1 icon": "Ws_skill_train_m_5_3.png",
-    "s2 icon": "Ws_skill_atk_m_5_1.png",
-    "s3 icon": null,
-    "type": "staff",
-    "awakening": null,
-    "awakeningType1": null,
-    "awakeningType2": null
   }
 }
