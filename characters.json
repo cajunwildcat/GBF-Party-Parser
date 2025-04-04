@@ -18728,7 +18728,7 @@
     "maxUncap": 4,
     "rarity": "SSR",
     "element": "Dark",
-    "series": "yukata,eternals",
+    "series": "eternals,yukata",
     "styleName": null,
     "styleId": null,
     "jpname": "シエテ",
@@ -22381,7 +22381,7 @@
       "premium,swimsuit"
     ],
     "flbDate": null,
-    "expeditionType": "???",
+    "expeditionType": "bloodhound",
     "type": "Balanced",
     "customType": null,
     "race": [
