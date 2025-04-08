@@ -17570,7 +17570,7 @@
   },
   "3040087000": {
     "pageName": "Rosamia (SSR)",
-    "maxUncap": 4,
+    "maxUncap": 5,
     "rarity": "SSR",
     "element": "Light",
     "series": null,
@@ -17582,7 +17582,7 @@
     "obtain": [
       "classic2"
     ],
-    "flbDate": null,
+    "flbDate": "2025-03-29",
     "expeditionType": null,
     "type": "Balanced",
     "customType": null,
@@ -18721,6 +18721,33 @@
     "recruitWeapon": null,
     "weapon": [
       "Sabre"
+    ]
+  },
+  "3040586000": {
+    "pageName": "Seofon (Yukata)",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Dark",
+    "series": "eternals,yukata",
+    "styleName": null,
+    "styleId": null,
+    "jpname": "シエテ",
+    "releaseDate": "2025-03-31",
+    "gender": "m",
+    "obtain": [
+      "premium,swimsuit"
+    ],
+    "flbDate": null,
+    "expeditionType": "???",
+    "type": "Attack",
+    "customType": null,
+    "race": [
+      "Human"
+    ],
+    "recruitWeapon": "Prismatic Trientalis",
+    "weapon": [
+      "Sabre",
+      "Katana"
     ]
   },
   "3040035000": {
@@ -22334,6 +22361,33 @@
       "Human"
     ],
     "recruitWeapon": "First Tail of the Mischief",
+    "weapon": [
+      "Axe",
+      "Melee"
+    ]
+  },
+  "3040585000": {
+    "pageName": "Vikala (Yukata)",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Light",
+    "series": "12generals,yukata",
+    "styleName": null,
+    "styleId": null,
+    "jpname": "ビカラ",
+    "releaseDate": "2025-03-31",
+    "gender": "f",
+    "obtain": [
+      "premium,swimsuit"
+    ],
+    "flbDate": null,
+    "expeditionType": "bloodhound",
+    "type": "Balanced",
+    "customType": null,
+    "race": [
+      "Human"
+    ],
+    "recruitWeapon": "First Fling of the Mischief",
     "weapon": [
       "Axe",
       "Melee"
