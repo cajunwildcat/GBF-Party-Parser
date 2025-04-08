@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 3.04;
+const V = 3.1;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -90,7 +90,7 @@ Object.values(window.Game.view.deck_model.attributes.deck.npc).forEach(e => {
     final.characters.push(char? char["pageName"] : e.master? e.master.name : null);
     final.charactersRing.push(e.param ? e.param.has_npcaugment_constant : null);
     final.charactersImg.push(e.param ? charImgMap[e.param.evolution] : null);
-    final.charactersTrans.push(e.param? (parseInt(e.param.level, 10) - 100) / 10 : null);
+    final.charactersTrans.push(e.param? e.param.phase : null);
 });
 //summons
 let quick = window.Game.view.deck_model.attributes.deck.pc.quick_user_summon_id;

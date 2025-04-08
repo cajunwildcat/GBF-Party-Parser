@@ -29,6 +29,9 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
  - If you want to change the input/output file you can use `npx bookmarklet <source> <destination>` or edit the `build` command in `package.json`
 
 ## Update Log
+Version 3.1 (08/04/2025)
+ - Fixed Eternals transcendence being based on level instead of phase param
+
 Version 3.04 (07/04/2025)
  - Fixed Row 5 CCWs no having element added to their name
 
