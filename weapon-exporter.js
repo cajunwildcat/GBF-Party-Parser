@@ -44,7 +44,7 @@ javascript: (async function () {
         })() : 0);
         final.weaponsMaxUncap.push(e.master ? weapons[parseInt(e.master.id)].maxUncap : null);
         final.weaponsAwaken.push(e.param ? e.param.arousal["form_name"] : null);
-        if (e.master && specialWepSeries.includes(e.master["series_id"]) && (e.master["is_group"] && e.master["is_group"] != "29")) {
+        if (e.master && specialWepSeries.includes(e.master["series_id"])) {
             switch (e.master["series_id"]) {
                 //opus - s2 first word, s3 last word unless II or III, then word before
                 case "3":
@@ -69,7 +69,7 @@ javascript: (async function () {
                 //ccw - last word
                 case "19":
                     if (e.param.level == 200) final.weapons[final.weapons.length - 1] += ` (${elements[e.master.attribute - 1]})`;
-                    if (e.skill2) final.weaponsKeys.ccw = e.skill2.name.trim().split(" ").pop();
+                    if (e.skill2 && (e.master["is_group"] && e.master["is_group"] != "29")) final.weaponsKeys.ccw = e.skill2.name.trim().split(" ").pop();
                     break;
                 //draconic
                 case "27":
