@@ -4475,7 +4475,7 @@
   },
   "3040379000": {
     "pageName": "Cupitan",
-    "maxUncap": 4,
+    "maxUncap": 5,
     "rarity": "SSR",
     "element": "Water",
     "series": null,
@@ -4487,7 +4487,7 @@
     "obtain": [
       "premium,normal"
     ],
-    "flbDate": null,
+    "flbDate": "2025-04-14",
     "expeditionType": null,
     "type": "Attack",
     "customType": null,
