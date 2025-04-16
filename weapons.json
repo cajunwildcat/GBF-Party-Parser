@@ -19683,6 +19683,20 @@
     "awakeningType1": null,
     "awakeningType2": null
   },
+  "1040121900": {
+    "pageName": "Felinovus",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": null,
+    "element": "water",
+    "s1 icon": "ws_skill_ta_2_3.png",
+    "s2 icon": "ws_skill_tec_2_2.png",
+    "s3 icon": "ws_skill_atk_2_1.png",
+    "type": "dagger",
+    "awakening": null,
+    "awakeningType1": null,
+    "awakeningType2": null
+  },
   "1040200000": {
     "pageName": "Cletine",
     "maxUncap": 3,
@@ -22352,6 +22366,20 @@
     "s1 icon": "ws_skill_whole_3_2.png",
     "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": "ws_skill_ranbu_3_1.png",
+    "type": "spear",
+    "awakening": null,
+    "awakeningType1": null,
+    "awakeningType2": null
+  },
+  "1040219800": {
+    "pageName": "Lourde et Courte",
+    "maxUncap": 3,
+    "rarity": "SSR",
+    "series": null,
+    "element": "light",
+    "s1 icon": "ws_skill_tyrant_5.png",
+    "s2 icon": "ws_skill_backwater_5_1.png",
+    "s3 icon": null,
     "type": "spear",
     "awakening": null,
     "awakeningType1": null,

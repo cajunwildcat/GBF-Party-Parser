@@ -3870,6 +3870,32 @@
       "Dagger"
     ]
   },
+  "3040590000": {
+    "pageName": "Cherine",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Light",
+    "series": null,
+    "styleName": null,
+    "styleId": null,
+    "jpname": "シェリーネ",
+    "releaseDate": "2025-04-15",
+    "gender": "f",
+    "obtain": [
+      "premium,normal"
+    ],
+    "flbDate": null,
+    "expeditionType": "???",
+    "type": "Attack",
+    "customType": null,
+    "race": [
+      "Erune"
+    ],
+    "recruitWeapon": "Lourde et Courte",
+    "weapon": [
+      "Spear"
+    ]
+  },
   "3040525000": {
     "pageName": "Chichiri",
     "maxUncap": 4,
@@ -15935,8 +15961,8 @@
     ],
     "recruitWeapon": "Parazonium",
     "weapon": [
-      "Melee",
-      "Dagger"
+      "Dagger",
+      "Melee"
     ]
   },
   "3040536000": {
@@ -19327,6 +19353,32 @@
     "recruitWeapon": "Destiny Knuckles",
     "weapon": [
       "Melee"
+    ]
+  },
+  "3040589000": {
+    "pageName": "Shukra",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Water",
+    "series": null,
+    "styleName": null,
+    "styleId": null,
+    "jpname": "シュクラ",
+    "releaseDate": "2025-04-15",
+    "gender": "f",
+    "obtain": [
+      "premium,normal"
+    ],
+    "flbDate": null,
+    "expeditionType": "???",
+    "type": "Balanced",
+    "customType": null,
+    "race": [
+      "Erune"
+    ],
+    "recruitWeapon": "Felinovus",
+    "weapon": [
+      "Dagger"
     ]
   },
   "3040273000": {
