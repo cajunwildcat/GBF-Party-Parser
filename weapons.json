@@ -35657,6 +35657,20 @@
     "awakeningType1": null,
     "awakeningType2": null
   },
+  "1040714100": {
+    "pageName": "Vital Arc",
+    "maxUncap": 5,
+    "rarity": "SSR",
+    "series": "beast",
+    "element": "light",
+    "s1 icon": "ws_skill_atk_m_5_3.png",
+    "s2 icon": "ws_skill_job_weapon.png",
+    "s3 icon": null,
+    "type": "bow",
+    "awakening": null,
+    "awakeningType1": null,
+    "awakeningType2": null
+  },
   "1040800000": {
     "pageName": "Luminiera Harp Omega",
     "maxUncap": 5,
