@@ -9211,6 +9211,20 @@
     "awakeningType1": null,
     "awakeningType2": null
   },
+  "1030406700": {
+    "pageName": "Vocazione",
+    "maxUncap": 3,
+    "rarity": "SR",
+    "series": null,
+    "element": "fire",
+    "s1 icon": "ws_skill_atk_a_1_2.png",
+    "s2 icon": null,
+    "s3 icon": null,
+    "type": "staff",
+    "awakening": null,
+    "awakeningType1": null,
+    "awakeningType2": null
+  },
   "1030499000": {
     "pageName": "Archangel Wand",
     "maxUncap": 3,
@@ -25081,6 +25095,20 @@
     "element": "dark",
     "s1 icon": "ws_skill_tyrant_6.png",
     "s2 icon": "ws_skill_tec_6_2.png",
+    "s3 icon": null,
+    "type": "axe",
+    "awakening": null,
+    "awakeningType1": null,
+    "awakeningType2": null
+  },
+  "1040319300": {
+    "pageName": "Thorned Axe of Roses and Blood",
+    "maxUncap": 3,
+    "rarity": "SSR",
+    "series": null,
+    "element": "fire",
+    "s1 icon": "ws_skill_atk_a_1_3.png",
+    "s2 icon": "ws_skill_job_weapon.png",
     "s3 icon": null,
     "type": "axe",
     "awakening": null,
