@@ -16785,6 +16785,20 @@
     "awakeningType1": null,
     "awakeningType2": null
   },
+  "1040028400": {
+    "pageName": "Gold Beak",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": null,
+    "element": "fire",
+    "s1 icon": "ws_skill_whole_1_2.png",
+    "s2 icon": "ws_skill_tec_1_2.png",
+    "s3 icon": "ws_skill_ranbu_1_1.png",
+    "type": "sabre",
+    "awakening": null,
+    "awakeningType1": null,
+    "awakeningType2": null
+  },
   "1040100000": {
     "pageName": "Azoth",
     "maxUncap": 3,
@@ -22393,6 +22407,20 @@
     "element": "light",
     "s1 icon": "ws_skill_tyrant_5.png",
     "s2 icon": "ws_skill_backwater_5_1.png",
+    "s3 icon": null,
+    "type": "spear",
+    "awakening": null,
+    "awakeningType1": null,
+    "awakeningType2": null
+  },
+  "1040219900": {
+    "pageName": "Blazing Corseque",
+    "maxUncap": 3,
+    "rarity": "SSR",
+    "series": null,
+    "element": "light",
+    "s1 icon": "ws_skill_ranbu_5_2.png",
+    "s2 icon": "ws_skill_tec_5_1.png",
     "s3 icon": null,
     "type": "spear",
     "awakening": null,

@@ -11530,6 +11530,33 @@
       "Spear"
     ]
   },
+  "3040591000": {
+    "pageName": "Lavirita",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Fire",
+    "series": null,
+    "styleName": null,
+    "styleId": null,
+    "jpname": "ラヴィリタ",
+    "releaseDate": "2025-04-30",
+    "gender": "m",
+    "obtain": [
+      "premium,normal"
+    ],
+    "flbDate": null,
+    "expeditionType": "???",
+    "type": "Balanced",
+    "customType": null,
+    "race": [
+      "Harvin"
+    ],
+    "recruitWeapon": "Gold Beak",
+    "weapon": [
+      "Sabre",
+      "Gun"
+    ]
+  },
   "3030072000": {
     "pageName": "Lecia",
     "maxUncap": 3,
@@ -13212,6 +13239,33 @@
     "recruitWeapon": "Gridarvor",
     "weapon": [
       "Staff"
+    ]
+  },
+  "3040592000": {
+    "pageName": "Mars",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Light",
+    "series": null,
+    "styleName": null,
+    "styleId": null,
+    "jpname": "マーズ",
+    "releaseDate": "2025-04-30",
+    "gender": "f",
+    "obtain": [
+      "premium,normal"
+    ],
+    "flbDate": null,
+    "expeditionType": "???",
+    "type": "Attack",
+    "customType": null,
+    "race": [
+      "Primal"
+    ],
+    "recruitWeapon": "Blazing Corseque",
+    "weapon": [
+      "Spear",
+      "Axe"
     ]
   },
   "3020016000": {
