@@ -3870,6 +3870,32 @@
       "Dagger"
     ]
   },
+  "3040590000": {
+    "pageName": "Cherine",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Light",
+    "series": null,
+    "styleName": null,
+    "styleId": null,
+    "jpname": "シェリーネ",
+    "releaseDate": "2025-04-15",
+    "gender": "f",
+    "obtain": [
+      "premium,normal"
+    ],
+    "flbDate": null,
+    "expeditionType": "???",
+    "type": "Attack",
+    "customType": null,
+    "race": [
+      "Erune"
+    ],
+    "recruitWeapon": "Lourde et Courte",
+    "weapon": [
+      "Spear"
+    ]
+  },
   "3040525000": {
     "pageName": "Chichiri",
     "maxUncap": 4,
@@ -4475,7 +4501,7 @@
   },
   "3040379000": {
     "pageName": "Cupitan",
-    "maxUncap": 4,
+    "maxUncap": 5,
     "rarity": "SSR",
     "element": "Water",
     "series": null,
@@ -4487,7 +4513,7 @@
     "obtain": [
       "premium,normal"
     ],
-    "flbDate": null,
+    "flbDate": "2025-04-14",
     "expeditionType": null,
     "type": "Attack",
     "customType": null,
@@ -11504,6 +11530,33 @@
       "Spear"
     ]
   },
+  "3040591000": {
+    "pageName": "Lavirita",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Fire",
+    "series": null,
+    "styleName": null,
+    "styleId": null,
+    "jpname": "ラヴィリタ",
+    "releaseDate": "2025-04-30",
+    "gender": "m",
+    "obtain": [
+      "premium,normal"
+    ],
+    "flbDate": null,
+    "expeditionType": null,
+    "type": "Balanced",
+    "customType": null,
+    "race": [
+      "Harvin"
+    ],
+    "recruitWeapon": "Gold Beak",
+    "weapon": [
+      "Sabre",
+      "Gun"
+    ]
+  },
   "3030072000": {
     "pageName": "Lecia",
     "maxUncap": 3,
@@ -13186,6 +13239,33 @@
     "recruitWeapon": "Gridarvor",
     "weapon": [
       "Staff"
+    ]
+  },
+  "3040592000": {
+    "pageName": "Mars",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Light",
+    "series": null,
+    "styleName": null,
+    "styleId": null,
+    "jpname": "マーズ",
+    "releaseDate": "2025-04-30",
+    "gender": "f",
+    "obtain": [
+      "premium,normal"
+    ],
+    "flbDate": null,
+    "expeditionType": "Bloodhound",
+    "type": "Attack",
+    "customType": null,
+    "race": [
+      "Primal"
+    ],
+    "recruitWeapon": "Blazing Corseque",
+    "weapon": [
+      "Spear",
+      "Axe"
     ]
   },
   "3020016000": {
@@ -15935,8 +16015,8 @@
     ],
     "recruitWeapon": "Parazonium",
     "weapon": [
-      "Melee",
-      "Dagger"
+      "Dagger",
+      "Melee"
     ]
   },
   "3040536000": {
@@ -16542,6 +16622,33 @@
     "weapon": [
       "Staff",
       "Melee"
+    ]
+  },
+  "3040587000": {
+    "pageName": "Pijiu",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Light",
+    "series": null,
+    "styleName": null,
+    "styleId": null,
+    "jpname": "ピィジウ",
+    "releaseDate": "2025-04-21",
+    "gender": "o",
+    "obtain": [
+      "rotb"
+    ],
+    "flbDate": null,
+    "expeditionType": null,
+    "type": "Heal",
+    "customType": null,
+    "race": [
+      "Other"
+    ],
+    "recruitWeapon": null,
+    "weapon": [
+      "Katana",
+      "Spear"
     ]
   },
   "3040522000": {
@@ -19327,6 +19434,32 @@
     "recruitWeapon": "Destiny Knuckles",
     "weapon": [
       "Melee"
+    ]
+  },
+  "3040589000": {
+    "pageName": "Shukra",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Water",
+    "series": null,
+    "styleName": null,
+    "styleId": null,
+    "jpname": "シュクラ",
+    "releaseDate": "2025-04-15",
+    "gender": "f",
+    "obtain": [
+      "premium,normal"
+    ],
+    "flbDate": null,
+    "expeditionType": null,
+    "type": "Balanced",
+    "customType": null,
+    "race": [
+      "Erune"
+    ],
+    "recruitWeapon": "Felinovus",
+    "weapon": [
+      "Dagger"
     ]
   },
   "3040273000": {

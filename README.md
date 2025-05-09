@@ -5,7 +5,9 @@ Bookmarklet that generates a gbf.wiki formatted TeamSpread of the currently open
 ## Installation
 
 - Copy [this](https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/bookmarklet) code and paste it into the URL bar of a new bookmark in the browser you use to play GBF.
-- Go to a party team and press click the bookmark
+<br><img src="./images/tutorial-1.png" width="200"/><img src="./images/tutorial-2.png" width="200"/><br>
+  - <b>Make sure to clear the url field before pasting!<b>
+- Go to a party team and click the bookmark
 - Click the okay button in the pop-up to have the team copied to your clipboard for easy pasting access.
 
 ## Why use this bookmarklet
