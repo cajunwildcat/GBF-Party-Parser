@@ -17,13 +17,21 @@ const urls = {
 };
 
 const files = {
-    summons: "summons.json",
-    minSummons: "summons-min.json",
-    characters: "characters.json",
-    minCharacters: "characters-min.json",
-    weapons: "weapons.json",
-    minWeapons: "weapons-min.json",
-    abilities: "abilities.json"
+    summons: [
+        { query: "summons", file: "summons.json" },
+        { query: "minSummons", file: "summons-min.json" }
+    ],
+    characters: [
+        { query: "characters", file: "characters.json" },
+        { query: "minCharacters", file: "characters-min.json" }
+    ],
+    weapons: [
+        { query: "weapons", file: "weapons.json" },
+        { query: "minWeapons", file: "weapons-min.json" }
+    ],
+    abilities: [
+        { query: "abilities", file: "abilities.json" }
+    ]
 };
 
 const jqQueries = {
@@ -62,7 +70,7 @@ const jqQueries = {
             customType: item.customType,
             race: item.race,
             recruitWeapon: item.recruitWeapon ? item.recruitWeapon.replace(/&#039;/g, "'") : null,
-            weapon: item.weapon
+            weapon: (() => {console.log(item.pageName,item.weapon); return item.weapon})()
         }
     })).reduce((acc, curr) => Object.assign(acc, curr), {}),
     minCharacters: data => data.map(item => ({
@@ -99,23 +107,24 @@ const jqQueries = {
     })).reduce((acc, curr) => Object.assign(acc, curr), {})
 };
 
-function fetchData(url) {
-    return new Promise((resolve, reject) => {
-        https.get(url, { headers: { 'User-Agent': USER_AGENT } }, res => {
-            let data = '';
-            res.on('data', chunk => data += chunk);
-            res.on('end', () => resolve(JSON.parse(data)));
-        }).on('error', reject);
-    });
+async function fetchData(url) {
+    let data = [];
+    await fetch(url, {USER_AGENT: USER_AGENT})
+    .then(response => response.json())
+    .then(response => data = response)
+    .catch(error => console.log(error));
+    return data;
 }
 
 async function processData() {
     for (const [key, url] of Object.entries(urls)) {
-        console.log(`Fetching data for ${key}...`);
-        const data = await fetchData(url);
-        const query = jqQueries[key](data);
-        fs.writeFileSync(files[key], JSON.stringify(query, null, 2));
-        console.log(`Saved ${key} data to ${files[key]}`);
+        console.log(`Fetching ${key}...`);
+        let data = await fetchData(url);
+        files[key].forEach(f => {
+            let query = jqQueries[f.query](data);
+            fs.writeFileSync(f.file, JSON.stringify(query, null, 2));
+            console.log(`Saved ${f.file}.`);
+        })
     }
 }
 
