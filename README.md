@@ -31,6 +31,9 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
  - If you want to change the input/output file you can use `npx bookmarklet <source> <destination>` or edit the `build` command in `package.json`
 
 ## Update Log
+Version 3.11 (09/05/2025)
+ - 5* Dark Opus no longer add uncap to export
+
 Version 3.1 (08/04/2025)
  - Fixed Eternals transcendence being based on level instead of phase param
 
