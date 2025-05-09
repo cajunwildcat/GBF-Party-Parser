@@ -3514,7 +3514,7 @@
     ],
     "recruitWeapon": null,
     "weapon": [
-      "staff"
+      "Staff"
     ]
   },
   "3030070000": {
@@ -6265,7 +6265,7 @@
     ],
     "recruitWeapon": null,
     "weapon": [
-      "staff"
+      "Staff"
     ]
   },
   "3030181000": {
@@ -6591,7 +6591,7 @@
     ],
     "recruitWeapon": null,
     "weapon": [
-      "spear"
+      "Spear"
     ]
   },
   "3030194000": {
@@ -8304,8 +8304,8 @@
     ],
     "recruitWeapon": "Premium Sword",
     "weapon": [
-      "melee",
-      "gun"
+      "Melee",
+      "Gun"
     ]
   },
   "3030272000": {
@@ -14322,8 +14322,8 @@
     ],
     "recruitWeapon": "Ain Soph",
     "weapon": [
-      "sabre",
-      "katana"
+      "Sabre",
+      "Katana"
     ]
   },
   "3040225000": {

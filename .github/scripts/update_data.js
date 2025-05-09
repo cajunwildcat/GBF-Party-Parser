@@ -70,7 +70,7 @@ const jqQueries = {
             customType: item.customType,
             race: item.race,
             recruitWeapon: item.recruitWeapon ? item.recruitWeapon.replace(/&#039;/g, "'") : null,
-            weapon: (() => {console.log(item.pageName,item.weapon); return item.weapon})()
+            weapon: item.weapon
         }
     })).reduce((acc, curr) => Object.assign(acc, curr), {}),
     minCharacters: data => data.map(item => ({
