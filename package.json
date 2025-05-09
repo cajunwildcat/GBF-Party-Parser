@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "bookmarklet": "^3.0.0",
+    "dotenv": "^16.5.0",
     "gbf-party-parser": "file:"
   }
 }
