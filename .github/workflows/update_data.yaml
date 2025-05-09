@@ -25,7 +25,7 @@ jobs:
       - name: Run Script to Download Data
         env:
           USER_AGENT: ${{ secrets.USER_AGENT }}
-        run: node updateData.js
+        run: node .github/workflows/updateData.js
 
       - name: Check for Changes
         id: check_changes
