@@ -23661,5 +23661,56 @@
       "Spear",
       "Axe"
     ]
+  },
+  "3040593000": {
+    "pageName": "Cagliostro and Clarisse",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Wind",
+    "series": null,
+    "styleName": null,
+    "styleId": null,
+    "jpname": "可憐なる師弟 カリオストロ＆クラリス",
+    "releaseDate": "2025-05-15",
+    "gender": "f",
+    "obtain": [
+      "premium,normal"
+    ],
+    "flbDate": null,
+    "expeditionType": "???",
+    "type": "Special",
+    "race": [
+      "Human"
+    ],
+    "recruitWeapon": "Ouroboric Mobius",
+    "weapon": [
+      "Staff"
+    ]
+  },
+  "3040594000": {
+    "pageName": "Kou (Light)",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Light",
+    "series": null,
+    "styleName": null,
+    "styleId": null,
+    "jpname": "小林裕介",
+    "releaseDate": "2025-05-15",
+    "gender": "m",
+    "obtain": [
+      "premium,normal"
+    ],
+    "flbDate": null,
+    "expeditionType": "???",
+    "type": "Balanced",
+    "race": [
+      "Erune"
+    ],
+    "recruitWeapon": "Plumshade Parasol",
+    "weapon": [
+      "Katana",
+      "Harp"
+    ]
   }
 }

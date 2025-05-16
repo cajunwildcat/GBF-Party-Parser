@@ -24625,6 +24625,20 @@
     "awakeningType1": null,
     "awakeningType2": null
   },
+  "1040319400": {
+    "pageName": "Plumshade Parasol",
+    "maxUncap": 3,
+    "rarity": "SSR",
+    "series": null,
+    "element": "light",
+    "s1 icon": "ws_skill_hp_5_2.png",
+    "s2 icon": "ws_skill_guard_5_2.png",
+    "s3 icon": null,
+    "type": "axe",
+    "awakening": null,
+    "awakeningType1": null,
+    "awakeningType2": null
+  },
   "1040400200": {
     "pageName": "Kerykeion",
     "maxUncap": 4,
@@ -34741,6 +34755,20 @@
     "element": "light",
     "s1 icon": "ws_skill_atk_m_5_3.png",
     "s2 icon": "ws_skill_job_weapon.png",
+    "s3 icon": null,
+    "type": "bow",
+    "awakening": null,
+    "awakeningType1": null,
+    "awakeningType2": null
+  },
+  "1040714200": {
+    "pageName": "Ouroboric Mobius",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": null,
+    "element": "wind",
+    "s1 icon": "ws_skill_god_4_3.png",
+    "s2 icon": "ws_skill_hp_4_1.png",
     "s3 icon": null,
     "type": "bow",
     "awakening": null,
