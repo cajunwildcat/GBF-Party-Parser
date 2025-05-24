@@ -12,7 +12,7 @@ const USER_AGENT = process.env.USER_AGENT;
 const urls = {
     summons: "https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=summons&fields=id%2C_pageName%3DpageName%2Cname%2Cevo_max%3DmaxUncap%2Crarity%2Celement&formatversion=2",
     characters: "https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=characters&fields=_pageName%3DpageName%2Cid%2Cseries%2Cstyle_name%3DstyleName%2Cstyle_id%3DstyleId%2Cjpname%2Cname%2Crelease_date%3DreleaseDate%2Cgender%2Cobtain%2C5star_date%3DflbDate%2Cmax_evo%3DmaxUncap%2Cexpedition_type%3DexpeditionType%2Crarity%2Celement%2Ctype%2Ccustomtype%2Crace%2Cjoin_weapon%3DrecruitWeapon%2Cweapon&formatversion=2",
-    weapons: "https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=weapons&fields=id%2C_pageName%3DpageName%2Cevo_max%3DmaxUncap%2Crarity%2Cseries%2Celement%2Cs1_icon%2Cs2_icon%2Cs3_icon%2Ctype%2Cawakening%2Cawakening_type1%3DawakeningType1%2Cawakening_type2%3DawakeningType2&formatversion=2",
+    weapons: "https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=weapons&fields=id%2C_pageName%3DpageName%2Cevo_max%3DmaxUncap%2Crarity%2Cseries%2Celement%2Cs1_icon%2Cs2_icon%2Cs3_icon%2Ctype%2Cawakening%2Cawakening_type1%3DawakeningType1%2Cawakening_type2%3DawakeningType2%2Cs1_name%3Ds1Name%2Cs2_name%3Ds2Name%2Cs3_name%3Ds3Name&formatversion=2",
     abilities: "https://gbf.wiki/index.php?title=Special:CargoExport&format=json&limit=5000&tables=class_skill&fields=icon%2Cname%2C&formatversion=2"
 };
 
@@ -85,6 +85,9 @@ const jqQueries = {
             rarity: item.rarity,
             series: item.series,
             element: item.element,
+            s1Name: item.s1Name? item.s1Name.replace(/&#039;/g, "'") : null,
+            s2Name: item.s2Name? item.s2Name.replace(/&#039;/g, "'") : null,
+            s3Name: item.s3Name? item.s3Name.replace(/&#039;/g, "'") : null,
             "s1 icon": item["s1 icon"],
             "s2 icon": item["s2 icon"],
             "s3 icon": item["s3 icon"],
