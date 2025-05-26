@@ -9754,7 +9754,7 @@
   },
   "3040042000": {
     "pageName": "Carmelina",
-    "maxUncap": 4,
+    "maxUncap": 5,
     "rarity": "SSR",
     "element": "Wind",
     "series": null,
@@ -9766,7 +9766,7 @@
     "obtain": [
       "classic"
     ],
-    "flbDate": null,
+    "flbDate": "2025-05-26",
     "expeditionType": null,
     "type": "Special",
     "race": [
