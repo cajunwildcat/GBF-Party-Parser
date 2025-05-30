@@ -1243,6 +1243,22 @@
     "icon": "Ability_m_2553_1.png",
     "name": "Parabellum Rain"
   },
+  "Empezar a Tocar": {
+    "icon": "Ability_m_2621_3.png",
+    "name": "Empezar a Tocar"
+  },
+  "Pizzicato": {
+    "icon": "Ability_m_2622_1.png",
+    "name": "Pizzicato"
+  },
+  "Despierta, Mi Bien": {
+    "icon": "Ability_m_2623_2.png",
+    "name": "Despierta, Mi Bien"
+  },
+  "Ultimate Ensemble": {
+    "icon": "Ability_m_2624_3.png",
+    "name": "Ultimate Ensemble"
+  },
   "Spirit of Training": {
     "icon": "Ability_m_49_3.png",
     "name": "Spirit of Training"
@@ -1450,6 +1466,14 @@
   "Resonating Blade": {
     "icon": "Ability_SwordResonance.png",
     "name": "Resonating Blade"
+  },
+  "Ensemble of Heroes": {
+    "icon": "Ability_s_17_1.jpg",
+    "name": "Ensemble of Heroes"
+  },
+  "Ensemble of Warriors": {
+    "icon": "Ability_s_17_2.jpg",
+    "name": "Ensemble of Warriors"
   },
   "Bounty Hunter": {
     "icon": "Ability_Treasure.png",
