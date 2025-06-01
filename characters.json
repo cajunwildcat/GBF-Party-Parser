@@ -23677,7 +23677,7 @@
       "premium,normal"
     ],
     "flbDate": null,
-    "expeditionType": "???",
+    "expeditionType": "scholar",
     "type": "Special",
     "race": [
       "Human"
@@ -23711,6 +23711,58 @@
     "weapon": [
       "Katana",
       "Harp"
+    ]
+  },
+  "3040595000": {
+    "pageName": "Siegfried (Grand)",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Earth",
+    "series": "grand",
+    "styleName": null,
+    "styleId": null,
+    "jpname": "ジークフリート",
+    "releaseDate": "2025-05-31",
+    "gender": "m",
+    "obtain": [
+      "premium,grand,gala"
+    ],
+    "flbDate": null,
+    "expeditionType": null,
+    "type": "Special",
+    "race": [
+      "Human"
+    ],
+    "recruitWeapon": "Heldenhymne",
+    "weapon": [
+      "Sabre",
+      "Katana"
+    ]
+  },
+  "3040596000": {
+    "pageName": "Skuld",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Wind",
+    "series": null,
+    "styleName": null,
+    "styleId": null,
+    "jpname": "スクルド",
+    "releaseDate": "2025-05-31",
+    "gender": "f",
+    "obtain": [
+      "premium,normal"
+    ],
+    "flbDate": null,
+    "expeditionType": "???",
+    "type": "Attack",
+    "race": [
+      "Other"
+    ],
+    "recruitWeapon": "Bow of Auslese",
+    "weapon": [
+      "Bow",
+      "Sabre"
     ]
   }
 }
