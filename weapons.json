@@ -42295,6 +42295,23 @@
     "awakeningType1": null,
     "awakeningType2": null
   },
+  "1040714400": {
+    "pageName": "Exo Krodha",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "series": "exo",
+    "element": "fire",
+    "s1Name": "Dreadflame's Supremacy",
+    "s2Name": "Searing Enlightener's Jurisdiction",
+    "s3Name": null,
+    "s1 icon": "ws_skill_atk_a_1_4.png",
+    "s2 icon": "ws_skill_job_weapon.png",
+    "s3 icon": null,
+    "type": "bow",
+    "awakening": "exo",
+    "awakeningType1": null,
+    "awakeningType2": null
+  },
   "1040800000": {
     "pageName": "Luminiera Harp Omega",
     "maxUncap": 5,
