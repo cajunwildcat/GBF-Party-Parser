@@ -10584,7 +10584,7 @@
   },
   "3040075000": {
     "pageName": "Zahlhamelina",
-    "maxUncap": 4,
+    "maxUncap": 5,
     "rarity": "SSR",
     "element": "Fire",
     "series": null,
@@ -10596,7 +10596,7 @@
     "obtain": [
       "classic"
     ],
-    "flbDate": null,
+    "flbDate": "2025-06-12",
     "expeditionType": null,
     "type": "Special",
     "race": [
