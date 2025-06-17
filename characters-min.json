@@ -1662,7 +1662,7 @@
     "pageName": "Vira (Wind)"
   },
   "3040212000": {
-    "pageName": "Grimnir"
+    "pageName": "Grimnir (Grand)"
   },
   "3040213000": {
     "pageName": "Macula Marius"
@@ -2812,5 +2812,11 @@
   },
   "3040596000": {
     "pageName": "Skuld"
+  },
+  "3040597000": {
+    "pageName": "Hauhet"
+  },
+  "3040598000": {
+    "pageName": "Grimnir"
   }
 }

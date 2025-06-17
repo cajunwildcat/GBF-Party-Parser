@@ -13994,7 +13994,7 @@
     ]
   },
   "3040212000": {
-    "pageName": "Grimnir",
+    "pageName": "Grimnir (Grand)",
     "maxUncap": 5,
     "rarity": "SSR",
     "element": "Wind",
@@ -23763,6 +23763,57 @@
     "weapon": [
       "Bow",
       "Sabre"
+    ]
+  },
+  "3040597000": {
+    "pageName": "Hauhet",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Fire",
+    "series": null,
+    "styleName": null,
+    "styleId": null,
+    "jpname": "ハウヘト",
+    "releaseDate": "2025-06-16",
+    "gender": "f",
+    "obtain": [
+      "premium,normal"
+    ],
+    "flbDate": null,
+    "expeditionType": "???",
+    "type": "Special",
+    "race": [
+      "Other"
+    ],
+    "recruitWeapon": "Siwar Al-Laahabi",
+    "weapon": [
+      "Staff"
+    ]
+  },
+  "3040598000": {
+    "pageName": "Grimnir",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Dark",
+    "series": null,
+    "styleName": null,
+    "styleId": null,
+    "jpname": "グリームニル",
+    "releaseDate": "2025-06-16",
+    "gender": "m",
+    "obtain": [
+      "premium,normal"
+    ],
+    "flbDate": null,
+    "expeditionType": "???",
+    "type": "Defense",
+    "race": [
+      "Primal"
+    ],
+    "recruitWeapon": "Thundergale of the Crimson",
+    "weapon": [
+      "Spear",
+      "Staff"
     ]
   }
 }
