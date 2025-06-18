@@ -13994,7 +13994,7 @@
     ]
   },
   "3040212000": {
-    "pageName": "Grimnir (Grand)",
+    "pageName": "Grimnir",
     "maxUncap": 5,
     "rarity": "SSR",
     "element": "Wind",
@@ -23791,7 +23791,7 @@
     ]
   },
   "3040598000": {
-    "pageName": "Grimnir",
+    "pageName": "Grimnir (Dark)",
     "maxUncap": 4,
     "rarity": "SSR",
     "element": "Dark",
@@ -23805,7 +23805,7 @@
       "premium,normal"
     ],
     "flbDate": null,
-    "expeditionType": "???",
+    "expeditionType": null,
     "type": "Defense",
     "race": [
       "Primal"
