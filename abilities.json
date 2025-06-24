@@ -1,1518 +1,1139 @@
 {
-  "Absorption": {
-    "icon": "Ability Absorption.png",
-    "name": "Absorption"
+  "Acrobatic Volley": {
+    "ix": "ex1"
   },
   "Actuation": {
-    "icon": "Ability Actuation.png",
-    "name": "Actuation"
-  },
-  "Adrenaline Rush": {
-    "icon": "Ability Adrenaline Rush.png",
-    "name": "Adrenaline Rush"
-  },
-  "Aether Bane": {
-    "icon": "Ability AetherBane.png",
-    "name": "Aether Bane"
-  },
-  "Crack Shot II": {
-    "icon": "Ability Assassin.png",
-    "name": "Crack Shot II"
-  },
-  "Quiet Strategy": {
-    "icon": "Ability Aurora.png",
-    "name": "Quiet Strategy"
-  },
-  "Aurum Flow": {
-    "icon": "Ability Aurum Flow.png",
-    "name": "Aurum Flow"
-  },
-  "Barbed Wire": {
-    "icon": "Ability Barbed Wire.png",
-    "name": "Barbed Wire"
-  },
-  "Battering Ram": {
-    "icon": "Ability Battering Ram.png",
-    "name": "Battering Ram"
-  },
-  "Black Cat's Path": {
-    "icon": "Ability Black Cat&#039;s Path.png",
-    "name": "Black Cat's Path"
-  },
-  "Blade Swap": {
-    "icon": "Ability Blade Swap.png",
-    "name": "Blade Swap"
-  },
-  "Blade Swap II": {
-    "icon": "Ability Blade Swap.png",
-    "name": "Blade Swap II"
-  },
-  "Steady Aim": {
-    "icon": "Ability Blind.png",
-    "name": "Steady Aim"
-  },
-  "Blitzburst": {
-    "icon": "Ability Blitzburst.png",
-    "name": "Blitzburst"
-  },
-  "Call of the Abyss": {
-    "icon": "Ability Call of the Abyss.png",
-    "name": "Call of the Abyss"
-  },
-  "Cat's Meow": {
-    "icon": "Ability Cat&#039;s Meow.png",
-    "name": "Cat's Meow"
-  },
-  "Al Doble": {
-    "icon": "Ability Choke.png",
-    "name": "Al Doble"
-  },
-  "Resonate Rhythm": {
-    "icon": "Ability Clucky Doodle-doo.png",
-    "name": "Resonate Rhythm"
-  },
-  "Colmillos": {
-    "icon": "Ability Colmillos.png",
-    "name": "Colmillos"
-  },
-  "Conceal": {
-    "icon": "Ability Conceal.png",
-    "name": "Conceal"
-  },
-  "Concludere": {
-    "icon": "Ability Concludere.png",
-    "name": "Concludere"
-  },
-  "Contrablade": {
-    "icon": "Ability Counter.png",
-    "name": "Contrablade"
-  },
-  "Crestfallen Flower": {
-    "icon": "Ability Crestfallen Flower.png",
-    "name": "Crestfallen Flower"
-  },
-  "Dance of Zeal": {
-    "icon": "Ability Dance of Zeal.png",
-    "name": "Dance of Zeal"
-  },
-  "Dappled Sunlight": {
-    "icon": "Ability Dappled Sunlight.png",
-    "name": "Dappled Sunlight"
-  },
-  "Decimate": {
-    "icon": "Ability Decimate.png",
-    "name": "Decimate"
-  },
-  "Devotion": {
-    "icon": "Ability Devotion.png",
-    "name": "Devotion"
-  },
-  "Diptych": {
-    "icon": "Ability Diptych.png",
-    "name": "Diptych"
-  },
-  "Dragon Break": {
-    "icon": "Ability Dragon Break.png",
-    "name": "Dragon Break"
-  },
-  "Dragphract": {
-    "icon": "Ability Dragphract.png",
-    "name": "Dragphract"
-  },
-  "Dual Arts": {
-    "icon": "Ability Dual Arts.png",
-    "name": "Dual Arts"
-  },
-  "Espada": {
-    "icon": "Ability Espada.png",
-    "name": "Espada"
-  },
-  "Execute": {
-    "icon": "Ability Execute.png",
-    "name": "Execute"
-  },
-  "Glory Arts": {
-    "icon": "Ability Glory Arts.png",
-    "name": "Glory Arts"
-  },
-  "Guerrilla Tactics": {
-    "icon": "Ability Guerrilla Tactics.png",
-    "name": "Guerrilla Tactics"
-  },
-  "Just the Cure": {
-    "icon": "Ability HealAll.png",
-    "name": "Just the Cure"
-  },
-  "High Command": {
-    "icon": "Ability High Command.png",
-    "name": "High Command"
-  },
-  "Finishing Touch": {
-    "icon": "Ability Hissatsu.png",
-    "name": "Finishing Touch"
-  },
-  "Home-Made Bomb": {
-    "icon": "Ability Home-Made Bomb.png",
-    "name": "Home-Made Bomb"
-  },
-  "Horseman's Duty": {
-    "icon": "Ability Horseman&#039;s Duty.png",
-    "name": "Horseman's Duty"
-  },
-  "Jet To Jet": {
-    "icon": "Ability Jet To Jet.png",
-    "name": "Jet To Jet"
-  },
-  "Judicious Shot": {
-    "icon": "Ability Judicious Shot.png",
-    "name": "Judicious Shot"
-  },
-  "Laughing Logger": {
-    "icon": "Ability Laughing Logger.png",
-    "name": "Laughing Logger"
-  },
-  "Leaf Burning": {
-    "icon": "Ability Leaf Burning.png",
-    "name": "Leaf Burning"
-  },
-  "Lightning Strike": {
-    "icon": "Ability Lightning Strike.png",
-    "name": "Lightning Strike"
-  },
-  "Extend Break": {
-    "icon": "Ability Lock.png",
-    "name": "Extend Break"
-  },
-  "Rebellion Shot": {
-    "icon": "Ability m 1204_1.png",
-    "name": "Rebellion Shot"
-  },
-  "Bait Step": {
-    "icon": "Ability m 1412 3.png ‎",
-    "name": "Bait Step"
-  },
-  "Bounce Chasse": {
-    "icon": "Ability m 1413 3.png ‎",
-    "name": "Bounce Chasse"
-  },
-  "Non-Sequence": {
-    "icon": "Ability m 1414 1.png ‎",
-    "name": "Non-Sequence"
-  },
-  "Shall We Dance": {
-    "icon": "Ability m 1415 5.png ‎",
-    "name": "Shall We Dance"
-  },
-  "Ferocious Roar": {
-    "icon": "Ability m 1977 3.png",
-    "name": "Ferocious Roar"
-  },
-  "Beast Fang": {
-    "icon": "Ability m 1978 1.png",
-    "name": "Beast Fang"
-  },
-  "Bloodzerker": {
-    "icon": "Ability m 1979 3.png",
-    "name": "Bloodzerker"
-  },
-  "Nyagrodha": {
-    "icon": "Ability m 1980 1.png",
-    "name": "Nyagrodha"
-  },
-  "Crowning Fluidity": {
-    "icon": "Ability m 1981 3.png",
-    "name": "Crowning Fluidity"
-  },
-  "Showstopper": {
-    "icon": "Ability m 1982 3.png",
-    "name": "Showstopper"
-  },
-  "Nocked Exorcism": {
-    "icon": "Ability m 1983_1.png",
-    "name": "Nocked Exorcism"
-  },
-  "Oculus Felis": {
-    "icon": "Ability m 1986 3.png",
-    "name": "Oculus Felis"
-  },
-  "Matatabby": {
-    "icon": "Ability m 1987 3.png",
-    "name": "Matatabby"
-  },
-  "Scratching Post": {
-    "icon": "Ability m 1988 3.png",
-    "name": "Scratching Post"
-  },
-  "Multiplying Magic": {
-    "icon": "Ability m 2017 3.png",
-    "name": "Multiplying Magic"
-  },
-  "Circle of Coalescence": {
-    "icon": "Ability m 2018 3.png",
-    "name": "Circle of Coalescence"
-  },
-  "Quadruple Hex": {
-    "icon": "Ability m 2019 1.png",
-    "name": "Quadruple Hex"
-  },
-  "Deuce Xiphos": {
-    "icon": "Ability m 2131_3.png",
-    "name": "Deuce Xiphos"
-  },
-  "Astrapste": {
-    "icon": "Ability m 2132_1.png",
-    "name": "Astrapste"
-  },
-  "Primary Care": {
-    "icon": "Ability m 2141_3.png",
-    "name": "Primary Care"
-  },
-  "Outperform": {
-    "icon": "Ability m 2142_3.png",
-    "name": "Outperform"
-  },
-  "High Immunity": {
-    "icon": "Ability m 2143_3.png",
-    "name": "High Immunity"
-  },
-  "Demonic Flare": {
-    "icon": "Ability m 2144_1.png",
-    "name": "Demonic Flare"
-  },
-  "Arcane Field": {
-    "icon": "Ability m 2145_3.png",
-    "name": "Arcane Field"
-  },
-  "Crest Discharge": {
-    "icon": "Ability m 2146_3.png",
-    "name": "Crest Discharge"
-  },
-  "Birdsong of Balmy Breeze": {
-    "icon": "Ability m 2147_3.png",
-    "name": "Birdsong of Balmy Breeze"
-  },
-  "Log Lop": {
-    "icon": "Ability m 2148_1.png",
-    "name": "Log Lop"
-  },
-  "Thousand Arrows": {
-    "icon": "Ability m 2149_1.png",
-    "name": "Thousand Arrows"
-  },
-  "Rapid Nocking": {
-    "icon": "Ability m 2150_3.png",
-    "name": "Rapid Nocking"
-  },
-  "Combat Spirit Infusion": {
-    "icon": "Ability m 2374_3.png",
-    "name": "Combat Spirit Infusion"
-  },
-  "Sky Splitter": {
-    "icon": "Ability m 2423_1.png",
-    "name": "Sky Splitter"
-  },
-  "Salt of Cleansing Spirits": {
-    "icon": "Ability m 2424_2.png",
-    "name": "Salt of Cleansing Spirits"
-  },
-  "Spirit Suppression": {
-    "icon": "Ability m 2425_4.png",
-    "name": "Spirit Suppression"
-  },
-  "Combat Shield": {
-    "icon": "Ability m 2562_3.png",
-    "name": "Combat Shield"
-  },
-  "Defiance": {
-    "icon": "Ability m 2563_3.png",
-    "name": "Defiance"
-  },
-  "Shield Hurl": {
-    "icon": "Ability m 2564_1.png",
-    "name": "Shield Hurl"
-  },
-  "Evasive Maneuvers": {
-    "icon": "Ability m 313_1.png",
-    "name": "Evasive Maneuvers"
-  },
-  "Einherjar": {
-    "icon": "Ability m 49 3.png",
-    "name": "Einherjar"
-  },
-  "Verdant Melody": {
-    "icon": "Ability m 637_3.png",
-    "name": "Verdant Melody"
-  },
-  "Amber Edge": {
-    "icon": "Ability m 774_1.png",
-    "name": "Amber Edge"
-  },
-  "Maddening Vitality": {
-    "icon": "Ability Maddening Vitality.png",
-    "name": "Maddening Vitality"
-  },
-  "Mana Burst": {
-    "icon": "Ability Mana Burst.png",
-    "name": "Mana Burst"
-  },
-  "Self Reflection": {
-    "icon": "Ability Meditation.png",
-    "name": "Self Reflection"
-  },
-  "Mic Hype": {
-    "icon": "Ability Mic Hype.png",
-    "name": "Mic Hype"
-  },
-  "Moonshadow": {
-    "icon": "Ability Moonshadow.png",
-    "name": "Moonshadow"
-  },
-  "A Little Pick-Me-Up": {
-    "icon": "Ability Morale.png",
-    "name": "A Little Pick-Me-Up"
-  },
-  "Mosh Pit": {
-    "icon": "Ability Mosh Pit.png",
-    "name": "Mosh Pit"
-  },
-  "Omnipotent Eye": {
-    "icon": "Ability MysticEye.png",
-    "name": "Omnipotent Eye"
-  },
-  "No More Doubt": {
-    "icon": "Ability No More Doubt.png",
-    "name": "No More Doubt"
-  },
-  "Nutrients": {
-    "icon": "Ability Nutrients.png",
-    "name": "Nutrients"
-  },
-  "One with the Blade": {
-    "icon": "Ability One with the Blade.png",
-    "name": "One with the Blade"
-  },
-  "Open Fire": {
-    "icon": "Ability Open Fire.png",
-    "name": "Open Fire"
-  },
-  "Oratorio": {
-    "icon": "Ability Oratorio.png",
-    "name": "Oratorio"
-  },
-  "Pas Seul": {
-    "icon": "Ability Pas Seul.png",
-    "name": "Pas Seul"
-  },
-  "Potion Refinement": {
-    "icon": "Ability Potion Refinement.png",
-    "name": "Potion Refinement"
-  },
-  "Alchemize Green Potion": {
-    "icon": "Ability Potion.png",
-    "name": "Alchemize Green Potion"
-  },
-  "Recursive Nightmare": {
-    "icon": "Ability Recursive Nightmare.png",
-    "name": "Recursive Nightmare"
-  },
-  "Rending Flash": {
-    "icon": "Ability Rending Flash.png",
-    "name": "Rending Flash"
-  },
-  "Resounding Chant": {
-    "icon": "Ability Resounding Chant.png",
-    "name": "Resounding Chant"
-  },
-  "Rising Force": {
-    "icon": "Ability Rising Force.png",
-    "name": "Rising Force"
-  },
-  "Runeweaving": {
-    "icon": "Ability Runeweaving.png",
-    "name": "Runeweaving"
-  },
-  "Sweeping Arrow": {
-    "icon": "Ability s 9 1.jpg",
-    "name": "Sweeping Arrow"
-  },
-  "Deepshot Arrow": {
-    "icon": "Ability s 9 2.jpg",
-    "name": "Deepshot Arrow"
-  },
-  "Affliction Arrow": {
-    "icon": "Ability s 9 3.jpg",
-    "name": "Affliction Arrow"
-  },
-  "Force Snatch": {
-    "icon": "Ability Snatch.png",
-    "name": "Force Snatch"
-  },
-  "Paws of Power": {
-    "icon": "Ability Special Bomb.png",
-    "name": "Paws of Power"
-  },
-  "Spell Boost": {
-    "icon": "Ability Spell Boost.png",
-    "name": "Spell Boost"
-  },
-  "Spring's Gate": {
-    "icon": "Ability Spring&#039;s Gate.png",
-    "name": "Spring's Gate"
-  },
-  "Springwater Robe": {
-    "icon": "Ability Springwater Robe.png",
-    "name": "Springwater Robe"
-  },
-  "Fury Capsule": {
-    "icon": "Ability Steroid.png",
-    "name": "Fury Capsule"
-  },
-  "Ring Ruler": {
-    "icon": "Ability Steroid.png",
-    "name": "Ring Ruler"
-  },
-  "Swan Song": {
-    "icon": "Ability Swan Song.png",
-    "name": "Swan Song"
-  },
-  "Change": {
-    "icon": "Ability Switch.png",
-    "name": "Change"
-  },
-  "Tactical Relocation": {
-    "icon": "Ability Switch.png",
-    "name": "Tactical Relocation"
-  },
-  "Tag Team": {
-    "icon": "Ability Tag Team.png",
-    "name": "Tag Team"
-  },
-  "Third Eye": {
-    "icon": "Ability Third eye.png",
-    "name": "Third Eye"
-  },
-  "Three-Round Burst": {
-    "icon": "Ability Three-Round Burst.png",
-    "name": "Three-Round Burst"
-  },
-  "Time On Target": {
-    "icon": "Ability Time On Target.png",
-    "name": "Time On Target"
-  },
-  "Bounty Hunter III": {
-    "icon": "Ability Treasure.png",
-    "name": "Bounty Hunter III"
-  },
-  "Lethal Aim": {
-    "icon": "Ability Triple.png",
-    "name": "Lethal Aim"
-  },
-  "Twilight Zone": {
-    "icon": "Ability Twilight Zone.png",
-    "name": "Twilight Zone"
-  },
-  "Twin Coil": {
-    "icon": "Ability Twin Coil.png",
-    "name": "Twin Coil"
-  },
-  "Ulfhedinn": {
-    "icon": "Ability Ulfhedinn.png",
-    "name": "Ulfhedinn"
-  },
-  "Unleash the Fury": {
-    "icon": "Ability Unleash the Fury.png",
-    "name": "Unleash the Fury"
-  },
-  "Voice Unveiled": {
-    "icon": "Ability Voice Unveiled.png",
-    "name": "Voice Unveiled"
-  },
-  "Woodcutter's Song": {
-    "icon": "Ability Woodcutter&#039;s Song.png",
-    "name": "Woodcutter's Song"
-  },
-  "Elemental Focus": {
-    "icon": "Ability_Ability.png",
-    "name": "Elemental Focus"
-  },
-  "Elemental Focus II": {
-    "icon": "Ability_Ability.png",
-    "name": "Elemental Focus II"
-  },
-  "Armor Break": {
-    "icon": "Ability_ArmorBreak.png",
-    "name": "Armor Break"
-  },
-  "Armor Break II": {
-    "icon": "Ability_ArmorBreak.png",
-    "name": "Armor Break II"
-  },
-  "Dirge for the Dead": {
-    "icon": "Ability_ArmorBreak_4.png",
-    "name": "Dirge for the Dead"
-  },
-  "Randgrith": {
-    "icon": "Ability_ArmorBreak_4.png",
-    "name": "Randgrith"
-  },
-  "Rain of Arrows": {
-    "icon": "Ability_Arrow.png",
-    "name": "Rain of Arrows"
-  },
-  "Rain of Arrows II": {
-    "icon": "Ability_Arrow.png",
-    "name": "Rain of Arrows II"
-  },
-  "Rain of Arrows III": {
-    "icon": "Ability_Arrow.png",
-    "name": "Rain of Arrows III"
-  },
-  "Crack Shot": {
-    "icon": "Ability_Assassin.png",
-    "name": "Crack Shot"
-  },
-  "Crack Shot III": {
-    "icon": "Ability_Assassin.png",
-    "name": "Crack Shot III"
-  },
-  "Guardian": {
-    "icon": "Ability_Attract.png",
-    "name": "Guardian"
-  },
-  "Grace": {
-    "icon": "Ability_Aura.png",
-    "name": "Grace"
-  },
-  "White Wall": {
-    "icon": "Ability_Barrier.png",
-    "name": "White Wall"
-  },
-  "Blind": {
-    "icon": "Ability_Blind.png",
-    "name": "Blind"
-  },
-  "Full Arsenal": {
-    "icon": "Ability_Burst.png",
-    "name": "Full Arsenal"
-  },
-  "Full Arsenal II": {
-    "icon": "Ability_Burst.png",
-    "name": "Full Arsenal II"
-  },
-  "Full Arsenal III": {
-    "icon": "Ability_Burst.png",
-    "name": "Full Arsenal III"
-  },
-  "Chaos": {
-    "icon": "Ability_Chaos.png",
-    "name": "Chaos"
-  },
-  "Chaser": {
-    "icon": "Ability_Choke.png",
-    "name": "Chaser"
-  },
-  "Choke": {
-    "icon": "Ability_Choke.png",
-    "name": "Choke"
-  },
-  "Classical Lead": {
-    "icon": "Ability_ClassicalLead.png",
-    "name": "Classical Lead"
-  },
-  "Peace of Mind": {
-    "icon": "Ability_Clear.png",
-    "name": "Peace of Mind"
-  },
-  "Clarity": {
-    "icon": "Ability_ClearAll.png",
-    "name": "Clarity"
-  },
-  "Haze": {
-    "icon": "Ability_Cloudy.png",
-    "name": "Haze"
-  },
-  "Splitting Spirit": {
-    "icon": "Ability_Convert.png",
-    "name": "Splitting Spirit"
-  },
-  "Counter": {
-    "icon": "Ability_Counter.png",
-    "name": "Counter"
-  },
-  "Counter II": {
-    "icon": "Ability_Counter.png",
-    "name": "Counter II"
-  },
-  "Eagle Reversal": {
-    "icon": "Ability_Counter.png",
-    "name": "Eagle Reversal"
-  },
-  "Knifehand Strike": {
-    "icon": "Ability_Counter.png",
-    "name": "Knifehand Strike"
-  },
-  "Substitute": {
-    "icon": "Ability_Cover.png",
-    "name": "Substitute"
-  },
-  "Power Raise": {
-    "icon": "Ability_Critical.png",
-    "name": "Power Raise"
-  },
-  "Dark Haze": {
-    "icon": "Ability_DarkHaze.png",
-    "name": "Dark Haze"
-  },
-  "Testudo": {
-    "icon": "Ability_Defend.png",
-    "name": "Testudo"
-  },
-  "Dispel": {
-    "icon": "Ability_Dispel.png",
-    "name": "Dispel"
-  },
-  "Dispel Deluge": {
-    "icon": "Ability_Dispel.png",
-    "name": "Dispel Deluge"
-  },
-  "Overdrive Surge": {
-    "icon": "Ability_Drive.png",
-    "name": "Overdrive Surge"
-  },
-  "Overdrive Surge II": {
-    "icon": "Ability_Drive.png",
-    "name": "Overdrive Surge II"
-  },
-  "Overdrive Surge III": {
-    "icon": "Ability_Drive.png",
-    "name": "Overdrive Surge III"
-  },
-  "Tricky Moves": {
-    "icon": "Ability_Duration.png",
-    "name": "Tricky Moves"
-  },
-  "Aether Blast": {
-    "icon": "Ability_Elemental.png",
-    "name": "Aether Blast"
-  },
-  "Aether Blast II": {
-    "icon": "Ability_Elemental.png",
-    "name": "Aether Blast II"
-  },
-  "Aether Blast III": {
-    "icon": "Ability_Elemental.png",
-    "name": "Aether Blast III"
-  },
-  "Into Thin Air": {
-    "icon": "Ability_Evasion.png",
-    "name": "Into Thin Air"
-  },
-  "Quick Step": {
-    "icon": "Ability_Evasion.png",
-    "name": "Quick Step"
-  },
-  "Quick Step II": {
-    "icon": "Ability_Evasion.png",
-    "name": "Quick Step II"
-  },
-  "Spellbound Salsa": {
-    "icon": "Ability_Evasion.png",
-    "name": "Spellbound Salsa"
-  },
-  "Fighting Spirit": {
-    "icon": "Ability_FightingSpirit.png",
-    "name": "Fighting Spirit"
-  },
-  "Fire": {
-    "icon": "Ability_Fire.png",
-    "name": "Fire"
-  },
-  "Laser Focus": {
-    "icon": "Ability_Focus.png",
-    "name": "Laser Focus"
-  },
-  "Frequency Jam": {
-    "icon": "Ability_Frequency.png",
-    "name": "Frequency Jam"
-  },
-  "Gravity Wave": {
-    "icon": "Ability_Gravity.png",
-    "name": "Gravity Wave"
-  },
-  "Hardened Shield": {
-    "icon": "Ability_Hardened_Shield.png",
-    "name": "Hardened Shield"
-  },
-  "Panacea": {
-    "icon": "Ability_HealAll.png",
-    "name": "Panacea"
-  },
-  "Panacea II": {
-    "icon": "Ability_HealAll.png",
-    "name": "Panacea II"
-  },
-  "Panacea III": {
-    "icon": "Ability_HealAll.png",
-    "name": "Panacea III"
-  },
-  "Freeze": {
-    "icon": "Ability_Ice.png",
-    "name": "Freeze"
-  },
-  "Horizontal Solace": {
-    "icon": "Ability_Ichijigamae.png",
-    "name": "Horizontal Solace"
-  },
-  "Centurion": {
-    "icon": "Ability_Invincible.png",
-    "name": "Centurion"
-  },
-  "Centurion II": {
-    "icon": "Ability_Invincible.png",
-    "name": "Centurion II"
-  },
-  "Bounce": {
-    "icon": "Ability_Killstreak.png",
-    "name": "Bounce"
-  },
-  "Bullseye Run": {
-    "icon": "Ability_Killstreak.png",
-    "name": "Bullseye Run"
-  },
-  "Hard Line": {
-    "icon": "Ability_Killstreak.png",
-    "name": "Hard Line"
-  },
-  "Resonating Surge": {
-    "icon": "Ability_Killstreak.png",
-    "name": "Resonating Surge"
-  },
-  "Drive It In": {
-    "icon": "Ability_Lead.png",
-    "name": "Drive It In"
-  },
-  "Drive It In II": {
-    "icon": "Ability_Lead.png",
-    "name": "Drive It In II"
-  },
-  "Blessing": {
-    "icon": "Ability_Light.png",
-    "name": "Blessing"
-  },
-  "Blessing II": {
-    "icon": "Ability_Light.png",
-    "name": "Blessing II"
-  },
-  "Out of Sight": {
-    "icon": "Ability_Misdirect.png",
-    "name": "Out of Sight"
-  },
-  "Miserable Mist": {
-    "icon": "Ability_Miserable.png",
-    "name": "Miserable Mist"
-  },
-  "Angelic Voice": {
-    "icon": "Ability_MusicPurple.png",
-    "name": "Angelic Voice"
-  },
-  "Angelic Voice II": {
-    "icon": "Ability_MusicPurple.png",
-    "name": "Angelic Voice II"
-  },
-  "Sheep Song": {
-    "icon": "Ability_MusicPurple.png",
-    "name": "Sheep Song"
-  },
-  "Tremor Round": {
-    "icon": "Ability_MusicRed.png",
-    "name": "Tremor Round"
-  },
-  "Fate Foreseen": {
-    "icon": "Ability_MysticFate.png",
-    "name": "Fate Foreseen"
-  },
-  "Immortal Operative": {
-    "icon": "Ability_m_1134_3.png",
-    "name": "Immortal Operative"
-  },
-  "Ascetic Stance": {
-    "icon": "Ability_m_1197_1.png",
-    "name": "Ascetic Stance"
-  },
-  "True Strike": {
-    "icon": "Ability_m_1198_1.png",
-    "name": "True Strike"
-  },
-  "Unyielding Form": {
-    "icon": "Ability_m_1199_1.png",
-    "name": "Unyielding Form"
-  },
-  "Rock Crusher": {
-    "icon": "Ability_m_1200_1.png",
-    "name": "Rock Crusher"
-  },
-  "Lucha de Parejas": {
-    "icon": "Ability_m_1234_3.png",
-    "name": "Lucha de Parejas"
-  },
-  "Opening Shot": {
-    "icon": "Ability_m_1273_1.png",
-    "name": "Opening Shot"
-  },
-  "Acrobatic Volley": {
-    "icon": "Ability_m_1274_4.png",
-    "name": "Acrobatic Volley"
-  },
-  "Emerald Fog": {
-    "icon": "Ability_m_1275_4.png",
-    "name": "Emerald Fog"
-  },
-  "Return of the Fox": {
-    "icon": "Ability_m_1276_3.png",
-    "name": "Return of the Fox"
-  },
-  "Engage Augments": {
-    "icon": "Ability_m_1416_3.png",
-    "name": "Engage Augments"
-  },
-  "Tactical Shield": {
-    "icon": "Ability_m_1417_3.png",
-    "name": "Tactical Shield"
-  },
-  "Limit Burst": {
-    "icon": "Ability_m_1418_3.png",
-    "name": "Limit Burst"
-  },
-  "Blitz Raid": {
-    "icon": "Ability_m_1419_1.png",
-    "name": "Blitz Raid"
-  },
-  "Thunder on the Water": {
-    "icon": "Ability_m_1594_1.png",
-    "name": "Thunder on the Water"
-  },
-  "Norden Harr": {
-    "icon": "Ability_m_1703_3.png",
-    "name": "Norden Harr"
-  },
-  "Vinland": {
-    "icon": "Ability_m_1704_3.png",
-    "name": "Vinland"
-  },
-  "Jomsborg": {
-    "icon": "Ability_m_1705_3.png",
-    "name": "Jomsborg"
-  },
-  "Banahogg": {
-    "icon": "Ability_m_1706_1.png",
-    "name": "Banahogg"
-  },
-  "Elemental Phalanx": {
-    "icon": "Ability_m_1720_3.png",
-    "name": "Elemental Phalanx"
-  },
-  "Noblesse Proteger": {
-    "icon": "Ability_m_1721_3.png",
-    "name": "Noblesse Proteger"
-  },
-  "Boosted Resistance": {
-    "icon": "Ability_m_1722_3.png",
-    "name": "Boosted Resistance"
-  },
-  "Sacred Protection": {
-    "icon": "Ability_m_1723_3.png",
-    "name": "Sacred Protection"
-  },
-  "Fatal Venom": {
-    "icon": "Ability_m_1768_1.png",
-    "name": "Fatal Venom"
-  },
-  "Vita Brevis": {
-    "icon": "Ability_m_1817_2.png",
-    "name": "Vita Brevis"
+    "ix": "ex1"
   },
   "Amyntiko Fos": {
-    "icon": "Ability_m_1818_3.png",
-    "name": "Amyntiko Fos"
+    "ix": "ex1"
   },
-  "Pneuma": {
-    "icon": "Ability_m_1819_3.png",
-    "name": "Pneuma"
-  },
-  "Megali Fotia": {
-    "icon": "Ability_m_1820_1.png",
-    "name": "Megali Fotia"
-  },
-  "Aether Siphon": {
-    "icon": "Ability_m_1921_1.png",
-    "name": "Aether Siphon"
-  },
-  "Wild Magica": {
-    "icon": "Ability_m_1922_1.png",
-    "name": "Wild Magica"
-  },
-  "Secret Triad": {
-    "icon": "Ability_m_1923_3.png",
-    "name": "Secret Triad"
-  },
-  "Overtrance": {
-    "icon": "Ability_m_1924_3.png",
-    "name": "Overtrance"
-  },
-  "Take the Head": {
-    "icon": "Ability_m_1964_1.png",
-    "name": "Take the Head"
-  },
-  "Watch and Wound": {
-    "icon": "Ability_m_1965_1.png",
-    "name": "Watch and Wound"
-  },
-  "Whitehail Gust": {
-    "icon": "Ability_m_1966_3.png",
-    "name": "Whitehail Gust"
-  },
-  "Seasplitter": {
-    "icon": "Ability_m_1967_1.png",
-    "name": "Seasplitter"
-  },
-  "Secret Style: Blink Slash": {
-    "icon": "Ability_m_1984_1.png",
-    "name": "Secret Style: Blink Slash"
-  },
-  "Intuition": {
-    "icon": "Ability_m_1985_3.png",
-    "name": "Intuition"
-  },
-  "Bleak Disorder": {
-    "icon": "Ability_m_2005_1.png",
-    "name": "Bleak Disorder"
-  },
-  "Flames of Chaos": {
-    "icon": "Ability_m_2006_4.png",
-    "name": "Flames of Chaos"
-  },
-  "Malignity": {
-    "icon": "Ability_m_2007_4.png",
-    "name": "Malignity"
-  },
-  "Flageolet": {
-    "icon": "Ability_m_2008_1.png",
-    "name": "Flageolet"
-  },
-  "Diatonic Harmony": {
-    "icon": "Ability_m_2009_3.png",
-    "name": "Diatonic Harmony"
-  },
-  "Accelerando": {
-    "icon": "Ability_m_2010_3.png",
-    "name": "Accelerando"
-  },
-  "Path Illuminated": {
-    "icon": "Ability_m_2011_1.png",
-    "name": "Path Illuminated"
-  },
-  "Lapin Blanc": {
-    "icon": "Ability_m_2012_3.png",
-    "name": "Lapin Blanc"
-  },
-  "Cathedral's Benison": {
-    "icon": "Ability_m_2013_3.png",
-    "name": "Cathedral's Benison"
-  },
-  "Glorious Vow": {
-    "icon": "Ability_m_2014_3.png",
-    "name": "Glorious Vow"
-  },
-  "Mastery's Edge": {
-    "icon": "Ability_m_2016_3.png",
-    "name": "Mastery's Edge"
-  },
-  "Fight Song": {
-    "icon": "Ability_m_2074_3.png",
-    "name": "Fight Song"
-  },
-  "Vez de Rudo": {
-    "icon": "Ability_m_2075_3.png",
-    "name": "Vez de Rudo"
-  },
-  "Thermopylae": {
-    "icon": "Ability_m_2076_1.png",
-    "name": "Thermopylae"
-  },
-  "Hoplite": {
-    "icon": "Ability_m_2077_3.png",
-    "name": "Hoplite"
-  },
-  "Molon Labe": {
-    "icon": "Ability_m_2078_3.png",
-    "name": "Molon Labe"
-  },
-  "Combat Rations": {
-    "icon": "Ability_m_2079_3.png",
-    "name": "Combat Rations"
-  },
-  "Ammunition Belt": {
-    "icon": "Ability_m_2080_3.png",
-    "name": "Ammunition Belt"
-  },
-  "Thousand Slices": {
-    "icon": "Ability_m_2081_4.png",
-    "name": "Thousand Slices"
-  },
-  "Executing Blow": {
-    "icon": "Ability_m_2082_3.png",
-    "name": "Executing Blow"
-  },
-  "Aperitif": {
-    "icon": "Ability_m_2110_3.png",
-    "name": "Aperitif"
-  },
-  "Couteau Royal": {
-    "icon": "Ability_m_2111_1.png",
-    "name": "Couteau Royal"
-  },
-  "Parfait d'Amour": {
-    "icon": "Ability_m_2112_3.png",
-    "name": "Parfait d'Amour"
-  },
-  "Le Manteau du Roi": {
-    "icon": "Ability_m_2113_3.png",
-    "name": "Le Manteau du Roi"
-  },
-  "Homing Beacon": {
-    "icon": "Ability_m_2180_4.png",
-    "name": "Homing Beacon"
-  },
-  "Stealth Protocol": {
-    "icon": "Ability_m_2181_3.png",
-    "name": "Stealth Protocol"
-  },
-  "Rearguard Relocation": {
-    "icon": "Ability_m_2182_3.png",
-    "name": "Rearguard Relocation"
-  },
-  "Fever Pitch": {
-    "icon": "Ability_m_2183_3.png",
-    "name": "Fever Pitch"
-  },
-  "Pinch Harmonics": {
-    "icon": "Ability_m_2184_1.png",
-    "name": "Pinch Harmonics"
-  },
-  "Everlasting Bonds": {
-    "icon": "Ability_m_2185_3.png",
-    "name": "Everlasting Bonds"
-  },
-  "Mystic Restoration": {
-    "icon": "Ability_m_2186_3.png",
-    "name": "Mystic Restoration"
-  },
-  "Fervent Focus": {
-    "icon": "Ability_m_2187_3.png",
-    "name": "Fervent Focus"
-  },
-  "Enlightened Fury": {
-    "icon": "Ability_m_2188_1.png",
-    "name": "Enlightened Fury"
-  },
-  "Roll of the Dice": {
-    "icon": "Ability_m_2189_3.png",
-    "name": "Roll of the Dice"
-  },
-  "Sublime Springscape": {
-    "icon": "Ability_m_2190_1.png",
-    "name": "Sublime Springscape"
-  },
-  "Heart of Chivalry": {
-    "icon": "Ability_m_2191_3.png",
-    "name": "Heart of Chivalry"
-  },
-  "Valorous Assault": {
-    "icon": "Ability_m_2260_1.png",
-    "name": "Valorous Assault"
-  },
-  "Mounted Bulwark": {
-    "icon": "Ability_m_2261_3.png",
-    "name": "Mounted Bulwark"
-  },
-  "Field Commander": {
-    "icon": "Ability_m_2262_3.png",
-    "name": "Field Commander"
-  },
-  "Lightning Shot": {
-    "icon": "Ability_m_2263_1.png",
-    "name": "Lightning Shot"
-  },
-  "Hypervelocity": {
-    "icon": "Ability_m_2264_1.png",
-    "name": "Hypervelocity"
-  },
-  "Brutal Cell": {
-    "icon": "Ability_m_2265_1.png",
-    "name": "Brutal Cell"
-  },
-  "Breath of the Serpent": {
-    "icon": "Ability_m_2266_3.png",
-    "name": "Breath of the Serpent"
-  },
-  "Ameno Totsuka": {
-    "icon": "Ability_m_2267_1.png",
-    "name": "Ameno Totsuka"
-  },
-  "Sanctifying Kagura": {
-    "icon": "Ability_m_2268_3.png",
-    "name": "Sanctifying Kagura"
-  },
-  "On the Waltz": {
-    "icon": "Ability_m_2269_3.png",
-    "name": "On the Waltz"
-  },
-  "Spiral Turn": {
-    "icon": "Ability_m_2270_1.png",
-    "name": "Spiral Turn"
-  },
-  "Martial Choreography": {
-    "icon": "Ability_m_2271_3.png",
-    "name": "Martial Choreography"
-  },
-  "Sealing Talisman": {
-    "icon": "Ability_m_2285_3.png",
-    "name": "Sealing Talisman"
-  },
-  "Shikigami: Mizuchi": {
-    "icon": "Ability_m_2286_1.png",
-    "name": "Shikigami: Mizuchi"
-  },
-  "Celestial Genesis": {
-    "icon": "Ability_m_2287_3.png",
-    "name": "Celestial Genesis"
-  },
-  "Execration / Five-Phase Seal": {
-    "icon": "Ability_m_2288_4.png,Ability_m_2289_4.png",
-    "name": "Execration / Five-Phase Seal"
-  },
-  "Shield of Valor": {
-    "icon": "Ability_m_2349_3.png",
-    "name": "Shield of Valor"
+  "Armor Break II": {
+    "ix": "ex1"
   },
   "Assault Drive / Weapon Discharge": {
-    "icon": "Ability_m_2350_1.png,Ability_m_2351_1.png",
-    "name": "Assault Drive / Weapon Discharge"
+    "ix": "ex1"
   },
-  "Marshaling Shout": {
-    "icon": "Ability_m_2352_3.png",
-    "name": "Marshaling Shout"
+  "Banahogg": {
+    "ix": "ex1"
   },
-  "Regimented Formation": {
-    "icon": "Ability_m_2353_3.png",
-    "name": "Regimented Formation"
+  "Black Cat's Path": {
+    "ix": "ex1"
   },
-  "Ultimate Palm Strike": {
-    "icon": "Ability_m_2375_1.png",
-    "name": "Ultimate Palm Strike"
+  "Blessing II": {
+    "ix": "ex1"
   },
-  "Shiranui Stance": {
-    "icon": "Ability_m_2420_1.png",
-    "name": "Shiranui Stance"
-  },
-  "In the Face of Adversity": {
-    "icon": "Ability_m_2421_3.png",
-    "name": "In the Face of Adversity"
-  },
-  "Sumai Meet": {
-    "icon": "Ability_m_2422_3.png",
-    "name": "Sumai Meet"
-  },
-  "Transcendent Blue": {
-    "icon": "Ability_m_2516_3.png",
-    "name": "Transcendent Blue"
-  },
-  "Sei Colpi": {
-    "icon": "Ability_m_2550_4.png",
-    "name": "Sei Colpi"
+  "Blitzburst": {
+    "ix": "ex1"
   },
   "Blood Oath": {
-    "icon": "Ability_m_2551_3.png",
-    "name": "Blood Oath"
+    "ix": "ex1"
   },
-  "Bespoke Tailoring": {
-    "icon": "Ability_m_2552_3.png",
-    "name": "Bespoke Tailoring"
+  "Bounce": {
+    "ix": "ex1"
   },
-  "Parabellum Rain": {
-    "icon": "Ability_m_2553_1.png",
-    "name": "Parabellum Rain"
-  },
-  "Empezar a Tocar": {
-    "icon": "Ability_m_2621_3.png",
-    "name": "Empezar a Tocar"
-  },
-  "Pizzicato": {
-    "icon": "Ability_m_2622_1.png",
-    "name": "Pizzicato"
-  },
-  "Despierta, Mi Bien": {
-    "icon": "Ability_m_2623_2.png",
-    "name": "Despierta, Mi Bien"
-  },
-  "Ultimate Ensemble": {
-    "icon": "Ability_m_2624_3.png",
-    "name": "Ultimate Ensemble"
-  },
-  "Spirit of Training": {
-    "icon": "Ability_m_49_3.png",
-    "name": "Spirit of Training"
-  },
-  "Gloryblade": {
-    "icon": "Ability_m_960_1.png",
-    "name": "Gloryblade"
-  },
-  "Never Miss a Beat": {
-    "icon": "Ability_NeverMissABeat.png",
-    "name": "Never Miss a Beat"
-  },
-  "Ninjutsu": {
-    "icon": "Ability_Ninjutsu.png",
-    "name": "Ninjutsu"
-  },
-  "Pandemonium": {
-    "icon": "Ability_Ougi.png",
-    "name": "Pandemonium"
-  },
-  "Uprising": {
-    "icon": "Ability_Ougi.png",
-    "name": "Uprising"
-  },
-  "Drum Roll": {
-    "icon": "Ability_OugiDamage.png",
-    "name": "Drum Roll"
-  },
-  "Overture": {
-    "icon": "Ability_Overture.png",
-    "name": "Overture"
-  },
-  "Overture II": {
-    "icon": "Ability_Overture.png",
-    "name": "Overture II"
-  },
-  "Cross Guard": {
-    "icon": "Ability_Phalanx.png",
-    "name": "Cross Guard"
-  },
-  "Phalanx": {
-    "icon": "Ability_Phalanx.png",
-    "name": "Phalanx"
-  },
-  "Phalanx II": {
-    "icon": "Ability_Phalanx.png",
-    "name": "Phalanx II"
-  },
-  "Phalanx III": {
-    "icon": "Ability_Phalanx.png",
-    "name": "Phalanx III"
-  },
-  "Chase Blade": {
-    "icon": "Ability_Piercing.png",
-    "name": "Chase Blade"
-  },
-  "Double Trouble": {
-    "icon": "Ability_Piercing.png",
-    "name": "Double Trouble"
-  },
-  "Double Trouble II": {
-    "icon": "Ability_Piercing.png",
-    "name": "Double Trouble II"
-  },
-  "Double Trouble III": {
-    "icon": "Ability_Piercing.png",
-    "name": "Double Trouble III"
-  },
-  "Soul Soloist": {
-    "icon": "Ability_Pilfer.png",
-    "name": "Soul Soloist"
-  },
-  "Unpredictable": {
-    "icon": "Ability_Pilfer.png",
-    "name": "Unpredictable"
-  },
-  "Venom": {
-    "icon": "Ability_Poison.png",
-    "name": "Venom"
-  },
-  "Battle Scar": {
-    "icon": "Ability_Pyre.png",
-    "name": "Battle Scar"
-  },
-  "Quick Strike": {
-    "icon": "Ability_Quick.png",
-    "name": "Quick Strike"
-  },
-  "Sky Realm Song": {
-    "icon": "Ability_Quick.png",
-    "name": "Sky Realm Song"
-  },
-  "Quick Down": {
-    "icon": "Ability_QuickDown.png",
-    "name": "Quick Down"
-  },
-  "Brave Soul": {
-    "icon": "Ability_Rage.png",
-    "name": "Brave Soul"
-  },
-  "Rage": {
-    "icon": "Ability_Rage.png",
-    "name": "Rage"
-  },
-  "Rage II": {
-    "icon": "Ability_Rage.png",
-    "name": "Rage II"
-  },
-  "Rage III": {
-    "icon": "Ability_Rage.png",
-    "name": "Rage III"
-  },
-  "Rage IV": {
-    "icon": "Ability_Rage.png",
-    "name": "Rage IV"
-  },
-  "Rampage": {
-    "icon": "Ability_Rampage.png",
-    "name": "Rampage"
-  },
-  "Rampage II": {
-    "icon": "Ability_Rampage.png",
-    "name": "Rampage II"
-  },
-  "Reflection": {
-    "icon": "Ability_Reflect.png",
-    "name": "Reflection"
-  },
-  "Bard Song": {
-    "icon": "Ability_Regen.png",
-    "name": "Bard Song"
-  },
-  "Lock 'n' Load": {
-    "icon": "Ability_Reload.png",
-    "name": "Lock 'n' Load"
-  },
-  "Resounding Rhythm": {
-    "icon": "Ability_ResoundingRhythm.png",
-    "name": "Resounding Rhythm"
-  },
-  "Retaliation Reprise": {
-    "icon": "Ability_Retaliate.png",
-    "name": "Retaliation Reprise"
-  },
-  "Revive": {
-    "icon": "Ability_Revive.png",
-    "name": "Revive"
-  },
-  "Rupie Flip": {
-    "icon": "Ability_RupieFlip.png",
-    "name": "Rupie Flip"
-  },
-  "Taking Chances": {
-    "icon": "Ability_Sacrifice.png",
-    "name": "Taking Chances"
-  },
-  "Taking Chances II": {
-    "icon": "Ability_Sacrifice.png",
-    "name": "Taking Chances II"
-  },
-  "Fortitude": {
-    "icon": "Ability_Selfharm.png",
-    "name": "Fortitude"
-  },
-  "Chi Channeler": {
-    "icon": "Ability_Selfheal.png",
-    "name": "Chi Channeler"
-  },
-  "Early Shot": {
-    "icon": "Ability_Shoot.png",
-    "name": "Early Shot"
-  },
-  "Fuma Shuriken": {
-    "icon": "Ability_Shuriken.png",
-    "name": "Fuma Shuriken"
-  },
-  "Selectively Skilled": {
-    "icon": "Ability_Skilled.png",
-    "name": "Selectively Skilled"
-  },
-  "Stall": {
-    "icon": "Ability_Slow.png",
-    "name": "Stall"
-  },
-  "Stall II": {
-    "icon": "Ability_Slow.png",
-    "name": "Stall II"
-  },
-  "Stall III": {
-    "icon": "Ability_Slow.png",
-    "name": "Stall III"
-  },
-  "Blood Sword": {
-    "icon": "Ability_Snatch.png",
-    "name": "Blood Sword"
-  },
-  "Energize": {
-    "icon": "Ability_SwordHeal.png",
-    "name": "Energize"
-  },
-  "Awakening Blade": {
-    "icon": "Ability_SwordRelease.png",
-    "name": "Awakening Blade"
-  },
-  "Resonating Blade": {
-    "icon": "Ability_SwordResonance.png",
-    "name": "Resonating Blade"
-  },
-  "Ensemble of Heroes": {
-    "icon": "Ability_s_17_1.jpg",
-    "name": "Ensemble of Heroes"
-  },
-  "Ensemble of Warriors": {
-    "icon": "Ability_s_17_2.jpg",
-    "name": "Ensemble of Warriors"
-  },
-  "Bounty Hunter": {
-    "icon": "Ability_Treasure.png",
-    "name": "Bounty Hunter"
-  },
-  "Bounty Hunter II": {
-    "icon": "Ability_Treasure.png",
-    "name": "Bounty Hunter II"
+  "Bounce Chasse": {
+    "ix": "ex1"
   },
   "Bounty Hunter IV": {
-    "icon": "Ability_TreasureRed.png",
-    "name": "Bounty Hunter IV"
+    "ix": "ex1"
   },
-  "Triple Threat": {
-    "icon": "Ability_Trine.png",
-    "name": "Triple Threat"
+  "Brave Soul": {
+    "ix": "ex1"
   },
-  "Two to Tango": {
-    "icon": "Ability_TwoToTango.png",
-    "name": "Two to Tango"
+  "Conceal": {
+    "ix": "ex1"
+  },
+  "Contrablade": {
+    "ix": "ex1"
+  },
+  "Couteau Royal": {
+    "ix": "ex1"
+  },
+  "Cross Guard": {
+    "ix": "ex1"
+  },
+  "Dark Haze": {
+    "ix": "ex1"
+  },
+  "Devotion": {
+    "ix": "ex1"
+  },
+  "Dirge for the Dead": {
+    "ix": "ex1"
+  },
+  "Dragphract": {
+    "ix": "ex1"
+  },
+  "Dual Arts": {
+    "ix": "ex1"
+  },
+  "Eagle Reversal": {
+    "ix": "ex1"
+  },
+  "Espada": {
+    "ix": "ex1"
+  },
+  "Extend Break": {
+    "ix": "ex1"
+  },
+  "Fury Capsule": {
+    "ix": "ex1"
+  },
+  "Guardian": {
+    "ix": "ex1"
+  },
+  "Home-Made Bomb": {
+    "ix": "ex1"
+  },
+  "Into Thin Air": {
+    "ix": "ex1"
+  },
+  "Laughing Logger": {
+    "ix": "ex1"
+  },
+  "Mana Burst": {
+    "ix": "ex1"
+  },
+  "Mosh Pit": {
+    "ix": "ex1"
+  },
+  "Noblesse Proteger": {
+    "ix": "ex1"
+  },
+  "Nutrients": {
+    "ix": "ex1"
+  },
+  "Open Fire": {
+    "ix": "ex1"
+  },
+  "Pas Seul": {
+    "ix": "ex1"
+  },
+  "Pizzicato": {
+    "ix": "ex1"
+  },
+  "Quick Down": {
+    "ix": "ex1"
+  },
+  "Randgrith": {
+    "ix": "ex1"
+  },
+  "Reflection": {
+    "ix": "ex1"
+  },
+  "Resonate Rhythm": {
+    "ix": "ex1"
+  },
+  "Ring Ruler": {
+    "ix": "ex1"
+  },
+  "Sheep Song": {
+    "ix": "ex1"
+  },
+  "Shikigami: Mizuchi": {
+    "ix": "ex1"
+  },
+  "Spirit of Training": {
+    "ix": "ex1"
+  },
+  "Steady Aim": {
+    "ix": "ex1"
+  },
+  "Swan Song": {
+    "ix": "ex1"
+  },
+  "Tactical Relocation": {
+    "ix": "ex1"
+  },
+  "Tactical Shield": {
+    "ix": "ex1"
+  },
+  "Third Eye": {
+    "ix": "ex1"
+  },
+  "True Strike": {
+    "ix": "ex1"
+  },
+  "Ultimate Palm Strike": {
+    "ix": "ex1"
+  },
+  "Uprising": {
+    "ix": "ex1"
   },
   "Veil": {
-    "icon": "Ability_Veil.png",
-    "name": "Veil"
+    "ix": "ex1"
+  },
+  "Watch and Wound": {
+    "ix": "ex1"
+  },
+  "Wild Magica": {
+    "ix": "ex1"
+  },
+  "Ensemble of Heroes": {
+    "ix": "ex1a"
+  },
+  "Sky Splitter": {
+    "ix": "ex1a"
+  },
+  "Aether Bane": {
+    "ix": "ex2"
+  },
+  "Al Doble": {
+    "ix": "ex2"
+  },
+  "Battering Ram": {
+    "ix": "ex2"
+  },
+  "Bespoke Tailoring": {
+    "ix": "ex2"
+  },
+  "Blood Sword": {
+    "ix": "ex2"
+  },
+  "Boosted Resistance": {
+    "ix": "ex2"
+  },
+  "Celestial Genesis": {
+    "ix": "ex2"
+  },
+  "Centurion II": {
+    "ix": "ex2"
+  },
+  "Change": {
+    "ix": "ex2"
+  },
+  "Chase Blade": {
+    "ix": "ex2"
+  },
+  "Choke": {
+    "ix": "ex2"
+  },
+  "Dance of Zeal": {
+    "ix": "ex2"
+  },
+  "Despierta, Mi Bien": {
+    "ix": "ex2"
+  },
+  "Diptych": {
+    "ix": "ex2"
+  },
+  "Dispel Deluge": {
+    "ix": "ex2"
+  },
+  "Dragon Break": {
+    "ix": "ex2"
+  },
+  "Einherjar": {
+    "ix": "ex2"
+  },
+  "Emerald Fog": {
+    "ix": "ex2"
+  },
+  "Force Snatch": {
+    "ix": "ex2"
+  },
+  "Fortitude": {
+    "ix": "ex2"
+  },
+  "Frequency Jam": {
+    "ix": "ex2"
+  },
+  "Horizontal Solace": {
+    "ix": "ex2"
+  },
+  "In the Face of Adversity": {
+    "ix": "ex2"
+  },
+  "Jet To Jet": {
+    "ix": "ex2"
+  },
+  "Leaf Burning": {
+    "ix": "ex2"
+  },
+  "Limit Burst": {
+    "ix": "ex2"
+  },
+  "Maddening Vitality": {
+    "ix": "ex2"
+  },
+  "Marshaling Shout": {
+    "ix": "ex2"
+  },
+  "Mic Hype": {
+    "ix": "ex2"
+  },
+  "Moonshadow": {
+    "ix": "ex2"
+  },
+  "No More Doubt": {
+    "ix": "ex2"
+  },
+  "Non-Sequence": {
+    "ix": "ex2"
+  },
+  "Parfait d'Amour": {
+    "ix": "ex2"
+  },
+  "Pneuma": {
+    "ix": "ex2"
+  },
+  "Power Raise": {
+    "ix": "ex2"
+  },
+  "Rage IV": {
+    "ix": "ex2"
+  },
+  "Recursive Nightmare": {
+    "ix": "ex2"
+  },
+  "Secret Triad": {
+    "ix": "ex2"
+  },
+  "Testudo": {
+    "ix": "ex2"
+  },
+  "Tremor Round": {
+    "ix": "ex2"
+  },
+  "Unpredictable": {
+    "ix": "ex2"
+  },
+  "Unyielding Form": {
+    "ix": "ex2"
+  },
+  "Vinland": {
+    "ix": "ex2"
+  },
+  "Voice Unveiled": {
+    "ix": "ex2"
   },
   "White Smoke": {
-    "icon": "Ability_WhiteSmoke.png",
-    "name": "White Smoke"
+    "ix": "ex2"
+  },
+  "White Wall": {
+    "ix": "ex2"
+  },
+  "Whitehail Gust": {
+    "ix": "ex2"
+  },
+  "Ensemble of Warriors": {
+    "ix": "ex2a"
+  },
+  "Salt of Cleansing Spirits": {
+    "ix": "ex2a"
+  },
+  "Adrenaline Rush": {
+    "ix": "ex3"
+  },
+  "Aurum Flow": {
+    "ix": "ex3"
+  },
+  "Barbed Wire": {
+    "ix": "ex3"
+  },
+  "Blitz Raid": {
+    "ix": "ex3"
+  },
+  "Call of the Abyss": {
+    "ix": "ex3"
+  },
+  "Chaos": {
+    "ix": "ex3"
+  },
+  "Chaser": {
+    "ix": "ex3"
+  },
+  "Colmillos": {
+    "ix": "ex3"
+  },
+  "Dappled Sunlight": {
+    "ix": "ex3"
+  },
+  "Execration / Five-Phase Seal": {
+    "ix": "ex3"
+  },
+  "Guerrilla Tactics": {
+    "ix": "ex3"
+  },
+  "Hardened Shield": {
+    "ix": "ex3"
+  },
+  "High Command": {
+    "ix": "ex3"
+  },
+  "Jomsborg": {
+    "ix": "ex3"
+  },
+  "Le Manteau du Roi": {
+    "ix": "ex3"
+  },
+  "Megali Fotia": {
+    "ix": "ex3"
+  },
+  "Overtrance": {
+    "ix": "ex3"
+  },
+  "Paws of Power": {
+    "ix": "ex3"
+  },
+  "Peace of Mind": {
+    "ix": "ex3"
+  },
+  "Rampage II": {
+    "ix": "ex3"
+  },
+  "Regimented Formation": {
+    "ix": "ex3"
+  },
+  "Rending Flash": {
+    "ix": "ex3"
+  },
+  "Return of the Fox": {
+    "ix": "ex3"
+  },
+  "Rock Crusher": {
+    "ix": "ex3"
+  },
+  "Rupie Flip": {
+    "ix": "ex3"
+  },
+  "Sacred Protection": {
+    "ix": "ex3"
+  },
+  "Seasplitter": {
+    "ix": "ex3"
+  },
+  "Sei Colpi": {
+    "ix": "ex3"
+  },
+  "Shall We Dance": {
+    "ix": "ex3"
+  },
+  "Spell Boost": {
+    "ix": "ex3"
+  },
+  "Springwater Robe": {
+    "ix": "ex3"
+  },
+  "Sumai Meet": {
+    "ix": "ex3"
+  },
+  "Tag Team": {
+    "ix": "ex3"
+  },
+  "Twilight Zone": {
+    "ix": "ex3"
+  },
+  "Ultimate Ensemble": {
+    "ix": "ex3"
+  },
+  "Unleash the Fury": {
+    "ix": "ex3"
+  },
+  "Combat Spirit Infusion": {
+    "ix": "ex3a"
+  },
+  "Absorption": {
+    "ix": "ex4"
+  },
+  "Crestfallen Flower": {
+    "ix": "ex4"
+  },
+  "Judicious Shot": {
+    "ix": "ex4"
+  },
+  "Oratorio": {
+    "ix": "ex4"
+  },
+  "Resounding Chant": {
+    "ix": "ex4"
+  },
+  "Spring's Gate": {
+    "ix": "ex4"
+  },
+  "Ulfhedinn": {
+    "ix": "ex4"
+  },
+  "Spirit Suppression": {
+    "ix": "ex4a"
+  },
+  "Lightning Strike": {
+    "ix": "ex5"
+  },
+  "Time On Target": {
+    "ix": "ex5"
   },
   "Activate": {
-    "icon": "Status Activate.png",
-    "name": "Activate"
+    "ix": "s1"
+  },
+  "Aether Blast": {
+    "ix": "s1"
+  },
+  "Aether Blast II": {
+    "ix": "s1"
+  },
+  "Aether Blast III": {
+    "ix": "s1"
+  },
+  "Aether Siphon": {
+    "ix": "s1"
+  },
+  "Alchemize Green Potion": {
+    "ix": "s1"
+  },
+  "Aperitif": {
+    "ix": "s1"
+  },
+  "Ascetic Stance": {
+    "ix": "s1"
+  },
+  "Awakening Blade": {
+    "ix": "s1"
+  },
+  "Bait Step": {
+    "ix": "s1"
+  },
+  "Blade Swap": {
+    "ix": "s1"
+  },
+  "Blade Swap II": {
+    "ix": "s1"
+  },
+  "Cat's Meow": {
+    "ix": "s1"
+  },
+  "Concludere": {
+    "ix": "s1"
+  },
+  "Counter": {
+    "ix": "s1"
+  },
+  "Counter II": {
+    "ix": "s1"
+  },
+  "Crack Shot": {
+    "ix": "s1"
+  },
+  "Crack Shot II": {
+    "ix": "s1"
+  },
+  "Crack Shot III": {
+    "ix": "s1"
+  },
+  "Drive It In": {
+    "ix": "s1"
+  },
+  "Drive It In II": {
+    "ix": "s1"
+  },
+  "Drum Roll": {
+    "ix": "s1"
+  },
+  "Early Shot": {
+    "ix": "s1"
+  },
+  "Elemental Phalanx": {
+    "ix": "s1"
+  },
+  "Empezar a Tocar": {
+    "ix": "s1"
+  },
+  "Engage Augments": {
+    "ix": "s1"
+  },
+  "Evasive Maneuvers": {
+    "ix": "s1"
+  },
+  "Execute": {
+    "ix": "s1"
+  },
+  "Finishing Touch": {
+    "ix": "s1"
+  },
+  "Full Arsenal": {
+    "ix": "s1"
+  },
+  "Full Arsenal II": {
+    "ix": "s1"
+  },
+  "Full Arsenal III": {
+    "ix": "s1"
+  },
+  "Glory Arts": {
+    "ix": "s1"
+  },
+  "Horseman's Duty": {
+    "ix": "s1"
+  },
+  "Knifehand Strike": {
+    "ix": "s1"
+  },
+  "Ninjutsu": {
+    "ix": "s1"
+  },
+  "Norden Harr": {
+    "ix": "s1"
+  },
+  "Omnipotent Eye": {
+    "ix": "s1"
+  },
+  "One with the Blade": {
+    "ix": "s1"
+  },
+  "Opening Shot": {
+    "ix": "s1"
+  },
+  "Overture": {
+    "ix": "s1"
+  },
+  "Overture II": {
+    "ix": "s1"
+  },
+  "Panacea": {
+    "ix": "s1"
+  },
+  "Panacea II": {
+    "ix": "s1"
+  },
+  "Panacea III": {
+    "ix": "s1"
+  },
+  "Parabellum Rain": {
+    "ix": "s1"
+  },
+  "Phalanx": {
+    "ix": "s1"
+  },
+  "Phalanx II": {
+    "ix": "s1"
+  },
+  "Phalanx III": {
+    "ix": "s1"
+  },
+  "Potion Refinement": {
+    "ix": "s1"
+  },
+  "Quick Step": {
+    "ix": "s1"
+  },
+  "Quick Step II": {
+    "ix": "s1"
+  },
+  "Rising Force": {
+    "ix": "s1"
+  },
+  "Runeweaving": {
+    "ix": "s1"
+  },
+  "Sealing Talisman": {
+    "ix": "s1"
+  },
+  "Selectively Skilled": {
+    "ix": "s1"
+  },
+  "Shield of Valor": {
+    "ix": "s1"
+  },
+  "Shiranui Stance": {
+    "ix": "s1"
+  },
+  "Spellbound Salsa": {
+    "ix": "s1"
+  },
+  "Stall": {
+    "ix": "s1"
+  },
+  "Stall II": {
+    "ix": "s1"
+  },
+  "Stall III": {
+    "ix": "s1"
+  },
+  "Take the Head": {
+    "ix": "s1"
+  },
+  "Three-Round Burst": {
+    "ix": "s1"
+  },
+  "Thunder on the Water": {
+    "ix": "s1"
+  },
+  "Transcendent Blue": {
+    "ix": "s1"
+  },
+  "Vita Brevis": {
+    "ix": "s1"
+  },
+  "Woodcutter's Song": {
+    "ix": "s1"
+  },
+  "Angelic Voice": {
+    "ix": "s2"
+  },
+  "Angelic Voice II": {
+    "ix": "s2"
+  },
+  "Bounty Hunter": {
+    "ix": "s2"
+  },
+  "Bounty Hunter II": {
+    "ix": "s2"
+  },
+  "Bounty Hunter III": {
+    "ix": "s2"
+  },
+  "Clarity": {
+    "ix": "s2"
+  },
+  "Classical Lead": {
+    "ix": "s2"
   },
   "Customized Action": {
-    "icon": "Status Customized Action.png",
-    "name": "Customized Action"
+    "ix": "s2"
+  },
+  "Dispel": {
+    "ix": "s2"
+  },
+  "Double Trouble": {
+    "ix": "s2"
+  },
+  "Double Trouble II": {
+    "ix": "s2"
+  },
+  "Double Trouble III": {
+    "ix": "s2"
+  },
+  "Elemental Focus": {
+    "ix": "s2"
+  },
+  "Elemental Focus II": {
+    "ix": "s2"
+  },
+  "Fate Foreseen": {
+    "ix": "s2"
+  },
+  "Fighting Spirit": {
+    "ix": "s2"
+  },
+  "Fire": {
+    "ix": "s2"
+  },
+  "Freeze": {
+    "ix": "s2"
+  },
+  "Fuma Shuriken": {
+    "ix": "s2"
+  },
+  "Grace": {
+    "ix": "s2"
+  },
+  "Just the Cure": {
+    "ix": "s2"
+  },
+  "Miserable Mist": {
+    "ix": "s2"
+  },
+  "Never Miss a Beat": {
+    "ix": "s2"
+  },
+  "Out of Sight": {
+    "ix": "s2"
+  },
+  "Overdrive Surge": {
+    "ix": "s2"
+  },
+  "Overdrive Surge II": {
+    "ix": "s2"
+  },
+  "Overdrive Surge III": {
+    "ix": "s2"
+  },
+  "Rage": {
+    "ix": "s2"
+  },
+  "Rage II": {
+    "ix": "s2"
+  },
+  "Rain of Arrows": {
+    "ix": "s2"
+  },
+  "Rain of Arrows II": {
+    "ix": "s2"
+  },
+  "Rain of Arrows III": {
+    "ix": "s2"
+  },
+  "Rampage": {
+    "ix": "s2"
+  },
+  "Resonating Blade": {
+    "ix": "s2"
+  },
+  "Self Reflection": {
+    "ix": "s2"
+  },
+  "Soul Soloist": {
+    "ix": "s2"
+  },
+  "Taking Chances": {
+    "ix": "s2"
+  },
+  "Taking Chances II": {
+    "ix": "s2"
+  },
+  "Triple Threat": {
+    "ix": "s2"
+  },
+  "Twin Coil": {
+    "ix": "s2"
+  },
+  "Venom": {
+    "ix": "s2"
+  },
+  "A Little Pick-Me-Up": {
+    "ix": "s3"
+  },
+  "Armor Break": {
+    "ix": "s3"
+  },
+  "Bard Song": {
+    "ix": "s3"
+  },
+  "Battle Scar": {
+    "ix": "s3"
+  },
+  "Blessing": {
+    "ix": "s3"
+  },
+  "Blind": {
+    "ix": "s3"
+  },
+  "Bullseye Run": {
+    "ix": "s3"
+  },
+  "Centurion": {
+    "ix": "s3"
+  },
+  "Chi Channeler": {
+    "ix": "s3"
+  },
+  "Decimate": {
+    "ix": "s3"
+  },
+  "Energize": {
+    "ix": "s3"
+  },
+  "Gravity Wave": {
+    "ix": "s3"
+  },
+  "Hard Line": {
+    "ix": "s3"
+  },
+  "Haze": {
+    "ix": "s3"
+  },
+  "Laser Focus": {
+    "ix": "s3"
+  },
+  "Lethal Aim": {
+    "ix": "s3"
+  },
+  "Lock 'n' Load": {
+    "ix": "s3"
+  },
+  "Pandemonium": {
+    "ix": "s3"
+  },
+  "Quick Strike": {
+    "ix": "s3"
+  },
+  "Quiet Strategy": {
+    "ix": "s3"
+  },
+  "Rage III": {
+    "ix": "s3"
   },
   "Refuel": {
-    "icon": "Status Refuel.png",
-    "name": "Refuel"
+    "ix": "s3"
+  },
+  "Resonating Surge": {
+    "ix": "s3"
+  },
+  "Resounding Rhythm": {
+    "ix": "s3"
+  },
+  "Retaliation Reprise": {
+    "ix": "s3"
+  },
+  "Revive": {
+    "ix": "s3"
+  },
+  "Sky Realm Song": {
+    "ix": "s3"
+  },
+  "Splitting Spirit": {
+    "ix": "s3"
+  },
+  "Substitute": {
+    "ix": "s3"
+  },
+  "Tricky Moves": {
+    "ix": "s3"
+  },
+  "Two to Tango": {
+    "ix": "s3"
+  },
+  "Bleak Disorder": {
+    "ix": "umex1"
+  },
+  "Breath of the Serpent": {
+    "ix": "umex1"
+  },
+  "Combat Rations": {
+    "ix": "umex1"
+  },
+  "Combat Shield": {
+    "ix": "umex1"
+  },
+  "Demonic Flare": {
+    "ix": "umex1"
+  },
+  "Deuce Xiphos": {
+    "ix": "umex1"
+  },
+  "Fatal Venom": {
+    "ix": "umex1"
+  },
+  "Ferocious Roar": {
+    "ix": "umex1"
+  },
+  "Fever Pitch": {
+    "ix": "umex1"
+  },
+  "Flageolet": {
+    "ix": "umex1"
+  },
+  "Glorious Vow": {
+    "ix": "umex1"
+  },
+  "Homing Beacon": {
+    "ix": "umex1"
+  },
+  "Lightning Shot": {
+    "ix": "umex1"
+  },
+  "Lucha de Parejas": {
+    "ix": "umex1"
+  },
+  "Multiplying Magic": {
+    "ix": "umex1"
+  },
+  "Mystic Restoration": {
+    "ix": "umex1"
+  },
+  "Nocked Exorcism": {
+    "ix": "umex1"
+  },
+  "Nyagrodha": {
+    "ix": "umex1"
+  },
+  "Oculus Felis": {
+    "ix": "umex1"
+  },
+  "On the Waltz": {
+    "ix": "umex1"
+  },
+  "Path Illuminated": {
+    "ix": "umex1"
+  },
+  "Primary Care": {
+    "ix": "umex1"
+  },
+  "Roll of the Dice": {
+    "ix": "umex1"
+  },
+  "Thermopylae": {
+    "ix": "umex1"
+  },
+  "Thousand Arrows": {
+    "ix": "umex1"
+  },
+  "Valorous Assault": {
+    "ix": "umex1"
+  },
+  "Verdant Melody": {
+    "ix": "umex1"
+  },
+  "Sweeping Arrow": {
+    "ix": "umex1a"
+  },
+  "Ameno Totsuka": {
+    "ix": "umex2"
+  },
+  "Arcane Field": {
+    "ix": "umex2"
+  },
+  "Astrapste": {
+    "ix": "umex2"
+  },
+  "Beast Fang": {
+    "ix": "umex2"
+  },
+  "Birdsong of Balmy Breeze": {
+    "ix": "umex2"
+  },
+  "Circle of Coalescence": {
+    "ix": "umex2"
+  },
+  "Crowning Fluidity": {
+    "ix": "umex2"
+  },
+  "Defiance": {
+    "ix": "umex2"
+  },
+  "Diatonic Harmony": {
+    "ix": "umex2"
+  },
+  "Fervent Focus": {
+    "ix": "umex2"
+  },
+  "Fight Song": {
+    "ix": "umex2"
+  },
+  "Flames of Chaos": {
+    "ix": "umex2"
+  },
+  "Gloryblade": {
+    "ix": "umex2"
+  },
+  "Hoplite": {
+    "ix": "umex2"
+  },
+  "Hypervelocity": {
+    "ix": "umex2"
+  },
+  "Immortal Operative": {
+    "ix": "umex2"
+  },
+  "Lapin Blanc": {
+    "ix": "umex2"
+  },
+  "Matatabby": {
+    "ix": "umex2"
+  },
+  "Mounted Bulwark": {
+    "ix": "umex2"
+  },
+  "Outperform": {
+    "ix": "umex2"
+  },
+  "Pinch Harmonics": {
+    "ix": "umex2"
+  },
+  "Rebellion Shot": {
+    "ix": "umex2"
+  },
+  "Secret Style: Blink Slash": {
+    "ix": "umex2"
+  },
+  "Spiral Turn": {
+    "ix": "umex2"
+  },
+  "Stealth Protocol": {
+    "ix": "umex2"
+  },
+  "Sublime Springscape": {
+    "ix": "umex2"
+  },
+  "Thousand Slices": {
+    "ix": "umex2"
+  },
+  "Deepshot Arrow": {
+    "ix": "umex2a"
+  },
+  "Accelerando": {
+    "ix": "umex3"
+  },
+  "Amber Edge": {
+    "ix": "umex3"
+  },
+  "Ammunition Belt": {
+    "ix": "umex3"
+  },
+  "Bloodzerker": {
+    "ix": "umex3"
+  },
+  "Brutal Cell": {
+    "ix": "umex3"
+  },
+  "Cathedral's Benison": {
+    "ix": "umex3"
+  },
+  "Crest Discharge": {
+    "ix": "umex3"
+  },
+  "Enlightened Fury": {
+    "ix": "umex3"
+  },
+  "Everlasting Bonds": {
+    "ix": "umex3"
+  },
+  "Executing Blow": {
+    "ix": "umex3"
+  },
+  "Field Commander": {
+    "ix": "umex3"
+  },
+  "Heart of Chivalry": {
+    "ix": "umex3"
+  },
+  "High Immunity": {
+    "ix": "umex3"
+  },
+  "Intuition": {
+    "ix": "umex3"
+  },
+  "Log Lop": {
+    "ix": "umex3"
+  },
+  "Malignity": {
+    "ix": "umex3"
+  },
+  "Martial Choreography": {
+    "ix": "umex3"
+  },
+  "Mastery's Edge": {
+    "ix": "umex3"
+  },
+  "Molon Labe": {
+    "ix": "umex3"
+  },
+  "Quadruple Hex": {
+    "ix": "umex3"
+  },
+  "Rapid Nocking": {
+    "ix": "umex3"
+  },
+  "Rearguard Relocation": {
+    "ix": "umex3"
+  },
+  "Sanctifying Kagura": {
+    "ix": "umex3"
+  },
+  "Scratching Post": {
+    "ix": "umex3"
+  },
+  "Shield Hurl": {
+    "ix": "umex3"
+  },
+  "Showstopper": {
+    "ix": "umex3"
+  },
+  "Vez de Rudo": {
+    "ix": "umex3"
+  },
+  "Affliction Arrow": {
+    "ix": "umex3a"
   }
 }
