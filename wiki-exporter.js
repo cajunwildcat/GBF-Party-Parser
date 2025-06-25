@@ -105,7 +105,7 @@ const fillSummonData = (e,i) => {
     final.summonsMaxUncap.push(e.param? summons[id].maxUncap : null);
     final.summonsUncap.push(e.param ? e.param.evolution : null);
     final.summonsImg.push((function(u,t){
-        if (u <= 4 || Object.keys(arcarumSums).includes(e.master.name)) return "A";
+        if (u <= 4 || Object.keys(arcarumSums).includes(e.master.name)) return null;
         else if (u == 5) return "B";
         else if (u == 6 && t < 5) return "C";
         else return "D";
@@ -181,7 +181,7 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach((e
             //ccw - last word
             case "19": 
                 if (e.param.level == 200) final.weapons[final.weapons.length-1] += ` (${elements[e.master.attribute-1]})`;
-                if (e.skill2 && (e.master["is_group"] && e.master["is_group"] != "29")) final.weaponsKeys.ccw = e.skill2.name.trim().split(" ").pop();
+                if (e.skill2 && ["Humanity", "Divinity", "Devilry"].some(s=>e.skill2.name.includes(s))) final.weaponsKeys.ccw = e.skill2.name.trim().split(" ").pop();
             break;
             //draconic
             case "27":
