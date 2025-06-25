@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 3.11;
+const V = 3.2;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})

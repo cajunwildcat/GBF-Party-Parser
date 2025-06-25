@@ -31,6 +31,11 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
  - If you want to change the input/output file you can use `npx bookmarklet <source> <destination>` or edit the `build` command in `package.json`
 
 ## Update Log
+Version 3.2 (25/06/2025)
+ - Changed how EX2 CCW skills are recorded 
+  - fixes Row IV CCWs adding ccw param to export
+ - Fixed Team's main/support summons adding art=A
+
 Version 3.11 (09/05/2025)
  - 5* Dark Opus no longer add uncap to export
 
