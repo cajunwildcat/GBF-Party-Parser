@@ -4,2813 +4,3215 @@
     "name": "Wind Rabbit",
     "maxUncap": 3,
     "rarity": "N",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2010002000": {
     "pageName": "Air Devil",
     "name": "Air Devil",
     "maxUncap": 3,
     "rarity": "N",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2010003000": {
     "pageName": "Killer Bee",
     "name": "Killer Bee",
     "maxUncap": 3,
     "rarity": "N",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2010004000": {
     "pageName": "Goblin",
     "name": "Goblin",
     "maxUncap": 3,
     "rarity": "N",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2010005000": {
     "pageName": "Scalewing",
     "name": "Scalewing",
     "maxUncap": 3,
     "rarity": "N",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2010006000": {
     "pageName": "Pincer",
     "name": "Pincer",
     "maxUncap": 3,
     "rarity": "N",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2010010000": {
     "pageName": "Skewerfish",
     "name": "Skewerfish",
     "maxUncap": 3,
     "rarity": "N",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2010011000": {
     "pageName": "Timber Wolf",
     "name": "Timber Wolf",
     "maxUncap": 3,
     "rarity": "N",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2010012000": {
     "pageName": "Mirage Maker",
     "name": "Mirage Maker",
     "maxUncap": 3,
     "rarity": "N",
-    "element": "light"
+    "element": "light",
+    "series": "upgrader"
   },
   "2020002000": {
     "pageName": "Alpha Wolf",
     "name": "Alpha Wolf",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2020003000": {
     "pageName": "Storm Rabbit",
     "name": "Storm Rabbit",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2020004000": {
     "pageName": "Hornbird",
     "name": "Hornbird",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2020005000": {
     "pageName": "Magma Golem",
     "name": "Magma Golem",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2020006000": {
     "pageName": "Spearsting",
     "name": "Spearsting",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2020007000": {
     "pageName": "Lavavian",
     "name": "Lavavian",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2020008000": {
     "pageName": "Wind Elemental",
     "name": "Wind Elemental",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2020009000": {
     "pageName": "Skeleton",
     "name": "Skeleton",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2020010000": {
     "pageName": "Dragonflair",
     "name": "Dragonflair",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2020011000": {
     "pageName": "Crusher",
     "name": "Crusher",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2020012000": {
     "pageName": "Minotaur",
     "name": "Minotaur",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2020013000": {
     "pageName": "Mandrake",
     "name": "Mandrake",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2020014000": {
     "pageName": "Sleepyhead",
     "name": "Sleepyhead",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2020015000": {
     "pageName": "Angelie",
     "name": "Angelie",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2020016000": {
     "pageName": "Jawfish",
     "name": "Jawfish",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2020017000": {
     "pageName": "Swordshark",
     "name": "Swordshark",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2020018000": {
     "pageName": "Fire Elemental",
     "name": "Fire Elemental",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2020019000": {
     "pageName": "Water Elemental",
     "name": "Water Elemental",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2020020000": {
     "pageName": "Earth Elemental",
     "name": "Earth Elemental",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2020021000": {
     "pageName": "Angel Queen",
     "name": "Angel Queen",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "light"
+    "element": "light",
+    "series": "upgrader"
   },
   "2020022000": {
     "pageName": "Cave Bat",
     "name": "Cave Bat",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2020023000": {
     "pageName": "Rivacuda",
     "name": "Rivacuda",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2020024000": {
     "pageName": "Lumacie Griffin",
     "name": "Lumacie Griffin",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2020025000": {
     "pageName": "Venom Lancer",
     "name": "Venom Lancer",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2020026000": {
     "pageName": "Rodfly",
     "name": "Rodfly",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2020027000": {
     "pageName": "Walking Torch",
     "name": "Walking Torch",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2020028000": {
     "pageName": "Slime",
     "name": "Slime",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2020029000": {
     "pageName": "Imp",
     "name": "Imp",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2020030000": {
     "pageName": "Bonethorn",
     "name": "Bonethorn",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2020031000": {
     "pageName": "Twilight Devil",
     "name": "Twilight Devil",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2020032000": {
     "pageName": "Purgatorian",
     "name": "Purgatorian",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2020033000": {
     "pageName": "Belle",
     "name": "Belle",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2020034000": {
     "pageName": "Ghost Light",
     "name": "Ghost Light",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2020035000": {
     "pageName": "Crawler",
     "name": "Crawler",
     "maxUncap": 3,
     "rarity": "R",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2030000000": {
     "pageName": "Tiamat (Summon)",
     "name": "Tiamat",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "wind"
+    "element": "wind",
+    "series": "omega"
   },
   "2030001000": {
     "pageName": "Colossus (Summon)",
     "name": "Colossus",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "fire"
+    "element": "fire",
+    "series": "omega"
   },
   "2030002000": {
     "pageName": "Proto Bahamut",
     "name": "Proto Bahamut",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2030003000": {
     "pageName": "Griffin",
     "name": "Griffin",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2030005000": {
     "pageName": "Golem",
     "name": "Golem",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2030006000": {
     "pageName": "Hydra",
     "name": "Hydra",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2030007000": {
     "pageName": "Wyvern",
     "name": "Wyvern",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2030008000": {
     "pageName": "Myconid",
     "name": "Myconid",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2030009000": {
     "pageName": "Hellhound",
     "name": "Hellhound",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2030010000": {
     "pageName": "Doomworm",
     "name": "Doomworm",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2030011000": {
     "pageName": "Leviathan",
     "name": "Leviathan",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "water"
+    "element": "water",
+    "series": "omega"
   },
   "2030012000": {
     "pageName": "Basilisk",
     "name": "Basilisk",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2030013000": {
     "pageName": "Machina Soldier MK II",
     "name": "Machina Soldier MK II",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2030015000": {
     "pageName": "Yggdrasil (Summon)",
     "name": "Yggdrasil",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "earth"
+    "element": "earth",
+    "series": "omega"
   },
   "2030016000": {
     "pageName": "Peridot Carbuncle",
     "name": "Peridot Carbuncle",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "wind"
+    "element": "wind",
+    "series": "carbuncle"
   },
   "2030017000": {
     "pageName": "Archangel Queen",
     "name": "Archangel Queen",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "light"
+    "element": "light",
+    "series": "upgrader"
   },
   "2030018000": {
     "pageName": "Hitodama",
     "name": "Hitodama",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2030019000": {
     "pageName": "Wilinus Icewyrm",
     "name": "Wilinus Icewyrm",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2030020000": {
     "pageName": "Elmenhilde Windsprite",
     "name": "Elmenhilde Windsprite",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2030021000": {
     "pageName": "Aquamarine Carbuncle",
     "name": "Aquamarine Carbuncle",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "water"
+    "element": "water",
+    "series": "carbuncle"
   },
   "2030022000": {
     "pageName": "Vrazarek Firewyrm",
     "name": "Vrazarek Firewyrm",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2030023000": {
     "pageName": "Stone Golem",
     "name": "Stone Golem",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2030024000": {
     "pageName": "Zircon Carbuncle",
     "name": "Zircon Carbuncle",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "earth"
+    "element": "earth",
+    "series": "carbuncle"
   },
   "2030025000": {
     "pageName": "Ruination Gargoyle",
     "name": "Ruination Gargoyle",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2030026000": {
     "pageName": "White Rabbit",
     "name": "White Rabbit",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2030028000": {
     "pageName": "Pixie",
     "name": "Pixie",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2030029000": {
     "pageName": "Anneliefe",
     "name": "Anneliefe",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2030031000": {
     "pageName": "Garnet Carbuncle",
     "name": "Garnet Carbuncle",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "fire"
+    "element": "fire",
+    "series": "carbuncle"
   },
   "2030032000": {
     "pageName": "Luminiera",
     "name": "Luminiera",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "light"
+    "element": "light",
+    "series": "omega"
   },
   "2030033000": {
     "pageName": "Elusious Windwyrm",
     "name": "Elusious Windwyrm",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2030034000": {
     "pageName": "Angelie Cascade",
     "name": "Angelie Cascade",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2030039000": {
     "pageName": "Onyx Carbuncle",
     "name": "Onyx Carbuncle",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "dark"
+    "element": "dark",
+    "series": "carbuncle"
   },
   "2030040000": {
     "pageName": "Nopal",
     "name": "Nopal",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2030041000": {
     "pageName": "Celeste",
     "name": "Celeste",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "dark"
+    "element": "dark",
+    "series": "omega"
   },
   "2030042000": {
     "pageName": "Opal Carbuncle",
     "name": "Opal Carbuncle",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "light"
+    "element": "light",
+    "series": "carbuncle"
   },
   "2030051000": {
     "pageName": "Belle Sylphid",
     "name": "Belle Sylphid",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2030062000": {
     "pageName": "Tiamat Alter",
     "name": "Tiamat Alter",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "wind"
+    "element": "wind",
+    "series": "omega"
   },
   "2030063000": {
     "pageName": "Colossus Alter",
     "name": "Colossus Alter",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "fire"
+    "element": "fire",
+    "series": "omega"
   },
   "2030064000": {
     "pageName": "Leviathan Alter",
     "name": "Leviathan Alter",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "water"
+    "element": "water",
+    "series": "omega"
   },
   "2030065000": {
     "pageName": "Yggdrasil Alter",
     "name": "Yggdrasil Alter",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "earth"
+    "element": "earth",
+    "series": "omega"
   },
   "2030066000": {
     "pageName": "Luminiera Alter",
     "name": "Luminiera Alter",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "light"
+    "element": "light",
+    "series": "omega"
   },
   "2030067000": {
     "pageName": "Celeste Alter",
     "name": "Celeste Alter",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "dark"
+    "element": "dark",
+    "series": "omega"
   },
   "2030068000": {
     "pageName": "Diantha (Summon)",
     "name": "Diantha",
     "maxUncap": 1,
     "rarity": "SR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2030069000": {
     "pageName": "Linaria",
     "name": "Linaria",
     "maxUncap": 1,
     "rarity": "SR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2030070000": {
     "pageName": "Harie",
     "name": "Harie",
     "maxUncap": 1,
     "rarity": "SR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2030071000": {
     "pageName": "Canna",
     "name": "Canna",
     "maxUncap": 1,
     "rarity": "SR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2030072000": {
     "pageName": "Diola",
     "name": "Diola",
     "maxUncap": 1,
     "rarity": "SR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2030073000": {
     "pageName": "Ruby Carbuncle",
     "name": "Ruby Carbuncle",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "fire"
+    "element": "fire",
+    "series": "carbuncle"
   },
   "2030074000": {
     "pageName": "Sapphire Carbuncle",
     "name": "Sapphire Carbuncle",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "water"
+    "element": "water",
+    "series": "carbuncle"
   },
   "2030075000": {
     "pageName": "Amber Carbuncle",
     "name": "Amber Carbuncle",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "earth"
+    "element": "earth",
+    "series": "carbuncle"
   },
   "2030076000": {
     "pageName": "Jade Carbuncle",
     "name": "Jade Carbuncle",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "wind"
+    "element": "wind",
+    "series": "carbuncle"
   },
   "2030077000": {
     "pageName": "Moonlight Carbuncle",
     "name": "Moonlight Carbuncle",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "light"
+    "element": "light",
+    "series": "carbuncle"
   },
   "2030078000": {
     "pageName": "Obsidian Carbuncle",
     "name": "Obsidian Carbuncle",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "dark"
+    "element": "dark",
+    "series": "carbuncle"
   },
   "2030079000": {
     "pageName": "Black Rabbit",
     "name": "Black Rabbit",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2030080000": {
     "pageName": "Clay Golem",
     "name": "Clay Golem",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2030081000": {
     "pageName": "Justice (SR)",
     "name": "Justice",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "water"
+    "element": "water",
+    "series": "arcarum"
   },
   "2030085000": {
     "pageName": "The Hanged Man (SR)",
     "name": "The Hanged Man",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "earth"
+    "element": "earth",
+    "series": "arcarum"
   },
   "2030089000": {
     "pageName": "Death (SR)",
     "name": "Death",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "dark"
+    "element": "dark",
+    "series": "arcarum"
   },
   "2030093000": {
     "pageName": "Temperance (SR)",
     "name": "Temperance",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "wind"
+    "element": "wind",
+    "series": "arcarum"
   },
   "2030097000": {
     "pageName": "The Devil (SR)",
     "name": "The Devil",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "fire"
+    "element": "fire",
+    "series": "arcarum"
   },
   "2030101000": {
     "pageName": "The Tower (SR)",
     "name": "The Tower",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "earth"
+    "element": "earth",
+    "series": "arcarum"
   },
   "2030105000": {
     "pageName": "The Star (SR)",
     "name": "The Star",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "light"
+    "element": "light",
+    "series": "arcarum"
   },
   "2030109000": {
     "pageName": "The Moon (SR)",
     "name": "The Moon",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "water"
+    "element": "water",
+    "series": "arcarum"
   },
   "2030113000": {
     "pageName": "The Sun (SR)",
     "name": "The Sun",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "fire"
+    "element": "fire",
+    "series": "arcarum"
   },
   "2030117000": {
     "pageName": "Judgement (SR)",
     "name": "Judgement",
     "maxUncap": 3,
     "rarity": "SR",
-    "element": "wind"
+    "element": "wind",
+    "series": "arcarum"
   },
   "2040001000": {
     "pageName": "Satan",
     "name": "Satan",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040002000": {
     "pageName": "Macula Marius (Summon)",
     "name": "Macula Marius",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040003000": {
     "pageName": "Bahamut",
     "name": "Bahamut",
     "maxUncap": 6,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "providence"
   },
   "2040004000": {
     "pageName": "Vortex Dragon",
     "name": "Vortex Dragon",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040005000": {
     "pageName": "Dark Angel Olivia",
     "name": "Dark Angel Olivia",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040006000": {
     "pageName": "Anat",
     "name": "Anat",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040007000": {
     "pageName": "Grani",
     "name": "Grani",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040008000": {
     "pageName": "Phoenix",
     "name": "Phoenix",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040009000": {
     "pageName": "Quetzalcoatl",
     "name": "Quetzalcoatl",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040010000": {
     "pageName": "Cocytus",
     "name": "Cocytus",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040011000": {
     "pageName": "Nephthys",
     "name": "Nephthys",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040012000": {
     "pageName": "Lich (Summon)",
     "name": "Lich",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040013000": {
     "pageName": "Baal (Summon)",
     "name": "Baal",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040014000": {
     "pageName": "Vohu Manah",
     "name": "Vohu Manah",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040015000": {
     "pageName": "Manawydan",
     "name": "Manawydan",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040016000": {
     "pageName": "Ifrit",
     "name": "Ifrit",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040017000": {
     "pageName": "Siren",
     "name": "Siren",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040018000": {
     "pageName": "Midgardsormr",
     "name": "Midgardsormr",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040019000": {
     "pageName": "Behemoth",
     "name": "Behemoth",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040020000": {
     "pageName": "Tiamat Omega",
     "name": "Tiamat Omega",
     "maxUncap": 6,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": "omega"
   },
   "2040021000": {
     "pageName": "Athena (Summon)",
     "name": "Athena",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040022000": {
     "pageName": "Grendel",
     "name": "Grendel",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040023000": {
     "pageName": "Apollo",
     "name": "Apollo",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040024000": {
     "pageName": "Albacore",
     "name": "Albacore",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040025000": {
     "pageName": "Cait Sith",
     "name": "Cait Sith",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040026000": {
     "pageName": "Gugalanna",
     "name": "Gugalanna",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040027000": {
     "pageName": "Yggdrasil Omega",
     "name": "Yggdrasil Omega",
     "maxUncap": 6,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": "omega"
   },
   "2040028000": {
     "pageName": "Leviathan Omega",
     "name": "Leviathan Omega",
     "maxUncap": 6,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": "omega"
   },
   "2040029000": {
     "pageName": "Odin",
     "name": "Odin",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040030000": {
     "pageName": "Hekatonkheir",
     "name": "Hekatonkheir",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040031000": {
     "pageName": "Sagittarius",
     "name": "Sagittarius",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040032000": {
     "pageName": "Cerberus (Summon)",
     "name": "Cerberus",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040033000": {
     "pageName": "Oceanus",
     "name": "Oceanus",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040034000": {
     "pageName": "Colossus Omega",
     "name": "Colossus Omega",
     "maxUncap": 6,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": "omega"
   },
   "2040035000": {
     "pageName": "Allosaurus",
     "name": "Allosaurus",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040036000": {
     "pageName": "Cybele",
     "name": "Cybele",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040037000": {
     "pageName": "Poseidon (Summon)",
     "name": "Poseidon",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040038000": {
     "pageName": "Brunnhilde",
     "name": "Brunnhilde",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "collab"
   },
   "2040039000": {
     "pageName": "Mithra",
     "name": "Mithra",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040041000": {
     "pageName": "Jack-o'-Lantern",
     "name": "Jack-o&amp;#39;-Lantern",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040042000": {
     "pageName": "Nezha (Summon)",
     "name": "Nezha",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040043000": {
     "pageName": "Marduk",
     "name": "Marduk",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040044000": {
     "pageName": "Corow",
     "name": "Corow",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040045000": {
     "pageName": "Audumbla",
     "name": "Audumbla",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040046000": {
     "pageName": "Celeste Omega",
     "name": "Celeste Omega",
     "maxUncap": 6,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "omega"
   },
   "2040047000": {
     "pageName": "Luminiera Omega",
     "name": "Luminiera Omega",
     "maxUncap": 6,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "omega"
   },
   "2040048000": {
     "pageName": "Sylph (Summon)",
     "name": "Sylph",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040049000": {
     "pageName": "Fenrir",
     "name": "Fenrir",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040050000": {
     "pageName": "Mahisha",
     "name": "Mahisha",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040053000": {
     "pageName": "Satyr (Summon)",
     "name": "Satyr",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040055000": {
     "pageName": "Wind God and Thunder God",
     "name": "Wind God and Thunder God",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040056000": {
     "pageName": "Lucifer",
     "name": "Lucifer",
     "maxUncap": 6,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "providence"
   },
   "2040057000": {
     "pageName": "Ranko Kanzaki (Summon)",
     "name": "[Skybound] Ranko Kanzaki",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "collab"
   },
   "2040058000": {
     "pageName": "Kirari Moroboshi",
     "name": "Kirari Moroboshi",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": "collab"
   },
   "2040059000": {
     "pageName": "Medusa (Summon)",
     "name": "Medusa",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040060000": {
     "pageName": "Branwen",
     "name": "Branwen",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040062000": {
     "pageName": "Diablo",
     "name": "Diablo",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040063000": {
     "pageName": "Twin Elements",
     "name": "Twin Elements",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040064000": {
     "pageName": "Magus (Summon)",
     "name": "Magus",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040065000": {
     "pageName": "Grand Order",
     "name": "Grand Order",
     "maxUncap": 5,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "dynamis"
   },
   "2040067000": {
     "pageName": "Mammon",
     "name": "Mammon",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040069000": {
     "pageName": "Neptune",
     "name": "Neptune",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040071000": {
     "pageName": "Garuda",
     "name": "Garuda",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040072000": {
     "pageName": "Avaritia",
     "name": "Avaritia",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040073000": {
     "pageName": "Kirari",
     "name": "[Skybound] Kirari",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": "collab"
   },
   "2040076000": {
     "pageName": "Oxymoron",
     "name": "Oxymoron",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040080000": {
     "pageName": "Zeus",
     "name": "Zeus",
     "maxUncap": 6,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "optimus"
   },
   "2040081000": {
     "pageName": "Robomi Rocket",
     "name": "Robomi Rocket",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040084000": {
     "pageName": "Titan",
     "name": "Titan",
     "maxUncap": 6,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": "optimus"
   },
   "2040085000": {
     "pageName": "Ebisu",
     "name": "Ebisu",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040086000": {
     "pageName": "Inchoate World",
     "name": "Inchoate World",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040090000": {
     "pageName": "Hades",
     "name": "Hades",
     "maxUncap": 6,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "optimus"
   },
   "2040091000": {
     "pageName": "Veselago",
     "name": "Veselago",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040094000": {
     "pageName": "Agni",
     "name": "Agni",
     "maxUncap": 6,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": "optimus"
   },
   "2040095000": {
     "pageName": "Deirdre",
     "name": "Deirdre",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040096000": {
     "pageName": "Pierre",
     "name": "Pierre",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "collab"
   },
   "2040097000": {
     "pageName": "Harvest Myconid",
     "name": "Harvest Myconid",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040098000": {
     "pageName": "Zephyrus",
     "name": "Zephyrus",
     "maxUncap": 6,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": "optimus"
   },
   "2040099000": {
     "pageName": "Fafnir",
     "name": "Fafnir",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040100000": {
     "pageName": "Varuna",
     "name": "Varuna",
     "maxUncap": 6,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": "optimus"
   },
   "2040105000": {
     "pageName": "Rose Queen",
     "name": "Rose Queen",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040109000": {
     "pageName": "Illuyanka",
     "name": "Illuyanka",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040113000": {
     "pageName": "Odajumoki Gang",
     "name": "Odajumoki Gang",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040114000": {
     "pageName": "Kaguya (Summon)",
     "name": "Kaguya",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": "dynamis"
   },
   "2040115000": {
     "pageName": "Joya",
     "name": "Joya",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040122000": {
     "pageName": "Morrigna (Summon)",
     "name": "Morrigna",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": "epic"
   },
   "2040123000": {
     "pageName": "King Krustacea",
     "name": "King Krustacea",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040124000": {
     "pageName": "Ti Icniuhtli Xolotl",
     "name": "Ti Icniuhtli Xolotl",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040125000": {
     "pageName": "Prometheus",
     "name": "Prometheus",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": "epic"
   },
   "2040129000": {
     "pageName": "Lady Katapillar",
     "name": "Lady Katapillar",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040130000": {
     "pageName": "Gilgamesh",
     "name": "Gilgamesh",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": "epic"
   },
   "2040131000": {
     "pageName": "Bahamut Unchained",
     "name": "Bahamut Unchained",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040133000": {
     "pageName": "Druj",
     "name": "Druj",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040134000": {
     "pageName": "Anubis",
     "name": "Anubis",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "epic"
   },
   "2040141000": {
     "pageName": "Queen Bee",
     "name": "Queen Bee",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040142000": {
     "pageName": "Ikelos",
     "name": "Ikelos",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040144000": {
     "pageName": "Hector",
     "name": "Hector",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "epic"
   },
   "2040157000": {
     "pageName": "Huanglong",
     "name": "Huanglong",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040158000": {
     "pageName": "Qilin",
     "name": "Qilin",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040159000": {
     "pageName": "Super Robo Gigantes",
     "name": "Super Robo Gigantes",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040160000": {
     "pageName": "Ca Ong",
     "name": "Ca Ong",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": "epic"
   },
   "2040167000": {
     "pageName": "Bonito",
     "name": "Bonito",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040168000": {
     "pageName": "Custos Citrullus",
     "name": "Custos Citrullus",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040170000": {
     "pageName": "Milia",
     "name": "Milia",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "collab"
   },
   "2040171000": {
     "pageName": "Sethlans",
     "name": "Sethlans",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040172000": {
     "pageName": "Treant",
     "name": "Treant",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040173000": {
     "pageName": "Tezcatlipoca",
     "name": "Tezcatlipoca",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040175000": {
     "pageName": "Verona Heart",
     "name": "Verona Heart",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040177000": {
     "pageName": "Setekh",
     "name": "Setekh",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040178000": {
     "pageName": "Grueler",
     "name": "Grueler",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040180000": {
     "pageName": "Typhon",
     "name": "Typhon",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040181000": {
     "pageName": "Dragon Knights",
     "name": "Dragon Knights",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040184000": {
     "pageName": "Blue Orbit",
     "name": "Blue Orbit",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040185000": {
     "pageName": "Shiva (Summon)",
     "name": "Shiva",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": "genesis"
   },
   "2040188000": {
     "pageName": "Thor",
     "name": "Thor",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040189000": {
     "pageName": "Levin Sisters (Summon)",
     "name": "Levin Sisters",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040192000": {
     "pageName": "Bellringer Angel",
     "name": "Bellringer Angel",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "collab"
   },
   "2040195000": {
     "pageName": "Sandalphon (Summon)",
     "name": "Sandalphon",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040198000": {
     "pageName": "Dark Flame Scion",
     "name": "Dark Flame Scion",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040199000": {
     "pageName": "Seraphim Cradle",
     "name": "Seraphim Cradle",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "upgrader"
   },
   "2040202000": {
     "pageName": "Raphael (Summon)",
     "name": "Raphael",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": "archangel"
   },
   "2040203000": {
     "pageName": "Uriel (Summon)",
     "name": "Uriel",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": "archangel"
   },
   "2040205000": {
     "pageName": "Godsworn Alexiel",
     "name": "Godsworn Alexiel",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": "genesis"
   },
   "2040207000": {
     "pageName": "H.P.A.",
     "name": "H.P.A.",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040211000": {
     "pageName": "Super Cute Genius Alchemist",
     "name": "Super Cute Genius Alchemist",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040212000": {
     "pageName": "Nacht",
     "name": "Nacht",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040214000": {
     "pageName": "Lumiel Gourmet",
     "name": "Lumiel Gourmet",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040216000": {
     "pageName": "Aphrodite",
     "name": "Aphrodite",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040219000": {
     "pageName": "Forest Ranger",
     "name": "Forest Ranger",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040221000": {
     "pageName": "Garula, Shining Hawk",
     "name": "Garula, Shining Hawk",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040224000": {
     "pageName": "Urkin",
     "name": "Urkin",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040225000": {
     "pageName": "Europa (Summon)",
     "name": "Europa",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": "genesis"
   },
   "2040228000": {
     "pageName": "Lonesome Dragoness (Summon)",
     "name": "Lonesome Dragoness",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040229000": {
     "pageName": "Zaoshen",
     "name": "Zaoshen",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040232000": {
     "pageName": "Sharom",
     "name": "Sharom",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040233000": {
     "pageName": "Ankusha",
     "name": "Ankusha",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040234000": {
     "pageName": "Kero-chan",
     "name": "Kero-chan",
     "maxUncap": 5,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "collab"
   },
   "2040236000": {
     "pageName": "Justice (SSR)",
     "name": "Justice",
     "maxUncap": 5,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": "arcarum"
   },
   "2040237000": {
     "pageName": "The Hanged Man (SSR)",
     "name": "The Hanged Man",
     "maxUncap": 5,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": "arcarum"
   },
   "2040238000": {
     "pageName": "Death (SSR)",
     "name": "Death",
     "maxUncap": 5,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "arcarum"
   },
   "2040239000": {
     "pageName": "Temperance (SSR)",
     "name": "Temperance",
     "maxUncap": 5,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": "arcarum"
   },
   "2040240000": {
     "pageName": "The Devil (SSR)",
     "name": "The Devil",
     "maxUncap": 5,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": "arcarum"
   },
   "2040241000": {
     "pageName": "The Tower (SSR)",
     "name": "The Tower",
     "maxUncap": 5,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": "arcarum"
   },
   "2040242000": {
     "pageName": "The Star (SSR)",
     "name": "The Star",
     "maxUncap": 5,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "arcarum"
   },
   "2040243000": {
     "pageName": "The Moon (SSR)",
     "name": "The Moon",
     "maxUncap": 5,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": "arcarum"
   },
   "2040244000": {
     "pageName": "The Sun (SSR)",
     "name": "The Sun",
     "maxUncap": 5,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": "arcarum"
   },
   "2040245000": {
     "pageName": "Judgement (SSR)",
     "name": "Judgement",
     "maxUncap": 5,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": "arcarum"
   },
   "2040248000": {
     "pageName": "Sapphire Dance: Gentiana",
     "name": "Sapphire Dance: Gentiana",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040249000": {
     "pageName": "Snow White",
     "name": "Snow White",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040252000": {
     "pageName": "Knight of Knights",
     "name": "Knight of Knights",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040253000": {
     "pageName": "Adramelech",
     "name": "Adramelech",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040255000": {
     "pageName": "Eren",
     "name": "Eren",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": "collab"
   },
   "2040259000": {
     "pageName": "Crimson Spear, Ebony Scythe",
     "name": "Crimson Spear, Ebony Scythe",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040261000": {
     "pageName": "Grimnir (Summon)",
     "name": "Grimnir",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": "genesis"
   },
   "2040263000": {
     "pageName": "Tsukuyomi (Summon)",
     "name": "Tsukuyomi",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040269000": {
     "pageName": "Demi Agni",
     "name": "Demi Agni",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": "Demi Optimus"
   },
   "2040270000": {
     "pageName": "Demi Varuna",
     "name": "Demi Varuna",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": "demi optimus"
   },
   "2040271000": {
     "pageName": "Demi Titan",
     "name": "Demi Titan",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": "demi optimus"
   },
   "2040272000": {
     "pageName": "Demi Zephyrus",
     "name": "Demi Zephyrus",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": "demi optimus"
   },
   "2040273000": {
     "pageName": "Demi Zeus",
     "name": "Demi Zeus",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "demi optimus"
   },
   "2040274000": {
     "pageName": "Demi Hades",
     "name": "Demi Hades",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "demi optimus"
   },
   "2040275000": {
     "pageName": "Halluel and Malluel (Summon)",
     "name": "Halluel and Malluel",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "archangel"
   },
   "2040279000": {
     "pageName": "Gigante Blazer",
     "name": "Gigante Blazer",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040281000": {
     "pageName": "Freyr (Summon)",
     "name": "Freyr",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040282000": {
     "pageName": "Unrivaled Fighter",
     "name": "Unrivaled Fighter",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040285000": {
     "pageName": "Gorilla",
     "name": "Gorilla",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040286000": {
     "pageName": "Lunalu (Summon)",
     "name": "Lunalu",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040288000": {
     "pageName": "Morgana Car",
     "name": "Morgana Car",
     "maxUncap": 5,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "collab"
   },
   "2040290000": {
     "pageName": "Nobiyo",
     "name": "Nobiyo",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040291000": {
     "pageName": "Narita",
     "name": "Narita",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040292000": {
     "pageName": "Electric Eal",
     "name": "Electric Eal",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040293000": {
     "pageName": "Macula Marius (Summer)",
     "name": "Macula Marius",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": "summer"
   },
   "2040294000": {
     "pageName": "JEHUTY",
     "name": "JEHUTY",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "collab"
   },
   "2040295000": {
     "pageName": "Gearcycle",
     "name": "Gearcycle",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040296000": {
     "pageName": "Hamsa",
     "name": "Hamsa",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040297000": {
     "pageName": "Anat, for Love and War",
     "name": "Anat, for Love and War",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040298000": {
     "pageName": "H.D. Mining Excavator",
     "name": "H.D. Mining Excavator",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040299000": {
     "pageName": "Mepple and Mipple",
     "name": "Mepple and Mipple",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "collab"
   },
   "2040300000": {
     "pageName": "Vane's Cooking",
     "name": "Vane&amp;#39;s Cooking",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040301000": {
     "pageName": "Krelkulkil",
     "name": "Krelkulkil",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040302000": {
     "pageName": "Poseidon, the Tide Father",
     "name": "Poseidon, the Tide Father",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040303000": {
     "pageName": "Princess Knight",
     "name": "Princess Knight",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "collab"
   },
   "2040304000": {
     "pageName": "Sylph, Flutterspirit of Purity",
     "name": "Sylph, Flutterspirit of Purity",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040305000": {
     "pageName": "Cerberus, Hellhound Trifecta",
     "name": "Cerberus, Hellhound Trifecta",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040306000": {
     "pageName": "Michael (Summon)",
     "name": "Michael",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": "archangel"
   },
   "2040309000": {
     "pageName": "Flamek Pact",
     "name": "Flamek Pact",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040310000": {
     "pageName": "Magus, Triad of Wisdom",
     "name": "Magus, Triad of Wisdom",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040311000": {
     "pageName": "Gabriel (Summon)",
     "name": "Gabriel",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": "archangel"
   },
   "2040312000": {
     "pageName": "Cat Parade",
     "name": "Cat Parade",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040323000": {
     "pageName": "Marduk, Battlefield Reaper",
     "name": "Marduk, Battlefield Reaper",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040324000": {
     "pageName": "Dragon's Rage",
     "name": "Dragon&amp;#39;s Rage",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040325000": {
     "pageName": "Delinquent Spirit",
     "name": "Delinquent Spirit",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040326000": {
     "pageName": "Demonbream",
     "name": "Demonbream",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040327000": {
     "pageName": "Sariel (Summon)",
     "name": "Sariel",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "archangel"
   },
   "2040328000": {
     "pageName": "Gorgon Sisters",
     "name": "Gorgon Sisters",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040329000": {
     "pageName": "From Ladiva with Love",
     "name": "From Ladiva with Love",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040330000": {
     "pageName": "Metatron (Summon)",
     "name": "Metatron",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "archangel"
   },
   "2040331000": {
     "pageName": "C.C.",
     "name": "C.C.",
     "maxUncap": 5,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "collab"
   },
   "2040332000": {
     "pageName": "Rainy Day",
     "name": "Rainy Day",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040333000": {
     "pageName": "Yggdrasil (Summer)",
     "name": "Yggdrasil (Summer)",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": "summer"
   },
   "2040334000": {
     "pageName": "God Albacore",
     "name": "God Albacore",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040335000": {
     "pageName": "Satyr (Summer)",
     "name": "Satyr",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": "summer"
   },
   "2040336000": {
     "pageName": "Rose Queen (Summer)",
     "name": "Rose Queen",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": "summer"
   },
   "2040337000": {
     "pageName": "Dancing Man",
     "name": "Dancing Man",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040338000": {
     "pageName": "Surtr",
     "name": "Surtr",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": "crest"
   },
   "2040339000": {
     "pageName": "Team Chickadee",
     "name": "Team Chickadee",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040340000": {
     "pageName": "Princess Long Ji",
     "name": "Princess Long Ji",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": "crest"
   },
   "2040341000": {
     "pageName": "Sapphire Dance: Habotan",
     "name": "Sapphire Dance: Habotan",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040342000": {
     "pageName": "Dogu",
     "name": "Dogu",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": "crest"
   },
   "2040343000": {
     "pageName": "Sky Carriage SS Pew Pew",
     "name": "Sky Carriage SS Pew Pew",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040344000": {
     "pageName": "Elil",
     "name": "Elil",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": "crest"
   },
   "2040345000": {
     "pageName": "Mukku",
     "name": "Mukku",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": "collab"
   },
   "2040347000": {
     "pageName": "Belial",
     "name": "Belial",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "providence"
   },
   "2040348000": {
     "pageName": "Proto-Joya",
     "name": "Proto-Joya",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040349000": {
     "pageName": "Swinger of the Ebony Scythe",
     "name": "Swinger of the Ebony Scythe",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040350000": {
     "pageName": "Heimdallr",
     "name": "Heimdallr",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "crest"
   },
   "2040351000": {
     "pageName": "The Eternal Defenders",
     "name": "The Eternal Defenders",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040352000": {
     "pageName": "Nyarlathotep",
     "name": "Nyarlathotep",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "crest"
   },
   "2040360000": {
     "pageName": "Dynamic Merc Duo",
     "name": "Dynamic Merc Duo",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040361000": {
     "pageName": "Red Hare",
     "name": "Red Hare",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": "bellum"
   },
   "2040362000": {
     "pageName": "Silver Salvation",
     "name": "Silver Salvation",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040363000": {
     "pageName": "Charybdis",
     "name": "Charybdis",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": "bellum"
   },
   "2040364000": {
     "pageName": "Golden Piña",
     "name": "Golden Piña",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "collab"
   },
   "2040365000": {
     "pageName": "Goregrinders",
     "name": "Goregrinders",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040366000": {
     "pageName": "Owlcat",
     "name": "Owlcat",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": "bellum"
   },
   "2040367000": {
     "pageName": "Xeno Ifrit",
     "name": "Xeno Ifrit",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040368000": {
     "pageName": "Mammoth",
     "name": "Mammoth",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": "bellum"
   },
   "2040369000": {
     "pageName": "Athena (Summer)",
     "name": "Athena",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": "summer"
   },
   "2040370000": {
     "pageName": "Xeno Vohu Manah",
     "name": "Xeno Vohu Manah",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040371000": {
     "pageName": "Deepflight Oyster",
     "name": "Deepflight Oyster",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040373000": {
     "pageName": "Colossal Hermit",
     "name": "Colossal Hermit",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040374000": {
     "pageName": "Freyr (Yukata)",
     "name": "Freyr",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": "yukata"
   },
   "2040375000": {
     "pageName": "Kaguya (Summer)",
     "name": "Kaguya",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "summer"
   },
   "2040376000": {
     "pageName": "Zhuque",
     "name": "Zhuque",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040377000": {
     "pageName": "Xuanwu",
     "name": "Xuanwu",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040378000": {
     "pageName": "Baihu",
     "name": "Baihu",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040379000": {
     "pageName": "Qinglong",
     "name": "Qinglong",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040380000": {
     "pageName": "Blessed Wedding",
     "name": "Blessed Wedding",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040381000": {
     "pageName": "Artemis",
     "name": "Artemis",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "bellum"
   },
   "2040382000": {
     "pageName": "Xeno Sagittarius",
     "name": "Xeno Sagittarius",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040383000": {
     "pageName": "Ignis Dragon",
     "name": "Ignis Dragon",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": "collab"
   },
   "2040384000": {
     "pageName": "Frost Lord's Army",
     "name": "Frost Lord's Army",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040385000": {
     "pageName": "Zirnitra",
     "name": "Zirnitra",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "bellum"
   },
   "2040386000": {
     "pageName": "Cutest Golden Statue in the Skies",
     "name": "Cutest Golden Statue in the Skies",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040387000": {
     "pageName": "Guardian Ku-Keoloewa",
     "name": "Guardian Ku-Keoloewa",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040388000": {
     "pageName": "Sariel (Holiday)",
     "name": "Sariel",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "holiday"
   },
   "2040389000": {
     "pageName": "Giyu Tomioka",
     "name": "Giyu Tomioka",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": "collab"
   },
   "2040390000": {
     "pageName": "Xeno Corow",
     "name": "Xeno Corow",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040391000": {
     "pageName": "Ultra Robo Grand God Kaiser",
     "name": "Ultra Robo Grand God Kaiser",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040392000": {
     "pageName": "Tsuchinoko",
     "name": "Tsuchinoko",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": "cryptid"
   },
   "2040393000": {
     "pageName": "Idle Sparkle",
     "name": "Idle Sparkle",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040394000": {
     "pageName": "Automagod Triumvirate",
     "name": "Automagod Triumvirate",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040395000": {
     "pageName": "Xeno Cocytus",
     "name": "Xeno Cocytus",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040396000": {
     "pageName": "Snapshot of Divinity",
     "name": "Snapshot of Divinity",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": null
   },
   "2040397000": {
     "pageName": "Arbiter of Lies",
     "name": "Arbiter of Lies",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040398000": {
     "pageName": "Wilnas (Summon)",
     "name": "Wilnas",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": "six dragons"
   },
   "2040399000": {
     "pageName": "Xeno Diablo",
     "name": "Xeno Diablo",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": null
   },
   "2040400000": {
     "pageName": "Destiny Nocturnes",
     "name": "Destiny Nocturnes",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": null
   },
   "2040401000": {
     "pageName": "Galleon (Summon)",
     "name": "Galleon",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": "six dragons"
   },
   "2040402000": {
     "pageName": "Tiamat (Summer)",
     "name": "Tiamat",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": "summer"
   },
   "2040403000": {
     "pageName": "Mandrake (Summer)",
     "name": "Mandrake",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": "summer"
   },
   "2040404000": {
     "pageName": "Gold Ship and Mejiro McQueen",
     "name": "Gold Ship and Mejiro McQueen",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "earth"
+    "element": "earth",
+    "series": "collab"
   },
   "2040405000": {
     "pageName": "Kotaro Katsura and Elizabeth",
     "name": "Kotaro Katsura and Elizabeth",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": "collab"
   },
   "2040406000": {
     "pageName": "Ewiyar (Summon)",
     "name": "Ewiyar",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": "six dragons"
   },
   "2040407000": {
     "pageName": "Shizuka, Gian, and Suneo",
     "name": "Shizuka, Gian, and Suneo",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "collab"
   },
   "2040408000": {
     "pageName": "Beelzebub",
     "name": "Beelzebub",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "providence"
   },
   "2040409000": {
     "pageName": "Lu Woh (Summon)",
     "name": "Lu Woh",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "six dragons"
   },
   "2040410000": {
     "pageName": "Shantotto II",
     "name": "Shantotto II",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "collab"
   },
   "2040411000": {
     "pageName": "Belial (Summer)",
     "name": "Belial",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": "summer"
   },
   "2040412000": {
     "pageName": "Sleepyhead (Summer)",
     "name": "Sleepyhead",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "summer"
   },
   "2040413000": {
     "pageName": "Wamdus (Summon)",
     "name": "Wamdus",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": "Six Dragons"
   },
   "2040414000": {
     "pageName": "Usopp, Chopper, Franky, Brook, and Jimbei",
     "name": "Usopp, Chopper, Franky, Brook, and Jimbei",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": "collab"
   },
   "2040415000": {
     "pageName": "Uta",
     "name": "Uta",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "collab"
   },
   "2040416000": {
     "pageName": "Hekate (Summon)",
     "name": "Hekate",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040417000": {
     "pageName": "Yatima (Summon)",
     "name": "Yatima",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": "providence"
   },
   "2040418000": {
     "pageName": "Fediel (Summon)",
     "name": "Fediel",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "six dragons"
   },
   "2040419000": {
     "pageName": "Sanrio Characters",
     "name": "Sanrio Characters",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": "collab"
   },
   "2040420000": {
     "pageName": "Cerberus (Summer)",
     "name": "Cerberus",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": "summer"
   },
   "2040421000": {
     "pageName": "Satoru Gojo",
     "name": "Satoru Gojo",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "collab"
   },
   "2040422000": {
     "pageName": "Aoi Todo",
     "name": "Aoi Todo",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "collab"
   },
   "2040423000": {
     "pageName": "Tyrannosaurus (Summer)",
     "name": "Tyrannosaurus",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": "summer"
   },
   "2040424000": {
     "pageName": "Noire (Summon)",
     "name": "Noire",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040425000": {
     "pageName": "Triple Zero",
     "name": "Triple Zero",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "providence"
   },
   "2040426000": {
     "pageName": "All Might",
     "name": "All Might",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "collab"
   },
   "2040427000": {
     "pageName": "Tuna and Salmun",
     "name": "Tuna and Salmun",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": null
   },
   "2040428000": {
     "pageName": "Mars (Summer)",
     "name": "Mars",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "summer"
   },
   "2040429000": {
     "pageName": "Beelzebub (Summer)",
     "name": "Beelzebub",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": "summer"
   },
   "2040430000": {
     "pageName": "Wedges of the Sky",
     "name": "Wedges of the Sky",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "wind"
+    "element": "wind",
+    "series": null
   },
   "2040431000": {
     "pageName": "Milim Nava",
     "name": "Milim Nava",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "collab"
   },
   "2040432000": {
     "pageName": "God Rabbit Gigamax",
     "name": "God Rabbit Gigamax",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": null
   },
   "2040433000": {
     "pageName": "Orologia (Summon)",
     "name": "Orologia",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "dark"
+    "element": "dark",
+    "series": "providence"
   },
   "2040434000": {
     "pageName": "Asuna Kagurazaka",
     "name": "Asuna Kagurazaka",
     "maxUncap": 4,
     "rarity": "SSR",
-    "element": "light"
+    "element": "light",
+    "series": "collab"
   },
   "2040435000": {
     "pageName": "Tetragod",
     "name": "Tetragod",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "water"
+    "element": "water",
+    "series": "robur"
   },
   "2040436000": {
     "pageName": "Soul Invoker",
     "name": "Soul Invoker",
     "maxUncap": 3,
     "rarity": "SSR",
-    "element": "fire"
+    "element": "fire",
+    "series": "robur"
   }
 }
