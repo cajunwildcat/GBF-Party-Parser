@@ -23815,5 +23815,56 @@
       "Spear",
       "Staff"
     ]
+  },
+  "3040599000": {
+    "pageName": "Ilsa (Formal)",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Water",
+    "series": "formal",
+    "styleName": null,
+    "styleId": null,
+    "jpname": "イルザ",
+    "releaseDate": "2025-06-30",
+    "gender": "f",
+    "obtain": [
+      "premium,formal"
+    ],
+    "flbDate": null,
+    "expeditionType": "???",
+    "type": "Attack",
+    "race": [
+      "Erune"
+    ],
+    "recruitWeapon": "Bridekeeper",
+    "weapon": [
+      "Gun",
+      "Bow"
+    ]
+  },
+  "3040600000": {
+    "pageName": "Fraux (Formal)",
+    "maxUncap": 4,
+    "rarity": "SSR",
+    "element": "Earth",
+    "series": "evokers,formal",
+    "styleName": null,
+    "styleId": null,
+    "jpname": "フラウ",
+    "releaseDate": "2025-06-30",
+    "gender": "f",
+    "obtain": [
+      "premium,formal"
+    ],
+    "flbDate": null,
+    "expeditionType": "???",
+    "type": "Attack",
+    "race": [
+      "Erune"
+    ],
+    "recruitWeapon": "Scheherazade",
+    "weapon": [
+      "Melee"
+    ]
   }
 }
