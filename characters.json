@@ -23831,7 +23831,7 @@
       "premium,formal"
     ],
     "flbDate": null,
-    "expeditionType": "???",
+    "expeditionType": null,
     "type": "Attack",
     "race": [
       "Erune"
@@ -23857,7 +23857,7 @@
       "premium,formal"
     ],
     "flbDate": null,
-    "expeditionType": "???",
+    "expeditionType": "evokers",
     "type": "Attack",
     "race": [
       "Erune"
