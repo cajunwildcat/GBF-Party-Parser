@@ -2730,7 +2730,7 @@
   "2040376000": {
     "pageName": "Zhuque",
     "name": "Zhuque",
-    "maxUncap": 4,
+    "maxUncap": 5,
     "rarity": "SSR",
     "element": "fire",
     "series": null
@@ -2738,7 +2738,7 @@
   "2040377000": {
     "pageName": "Xuanwu",
     "name": "Xuanwu",
-    "maxUncap": 4,
+    "maxUncap": 5,
     "rarity": "SSR",
     "element": "water",
     "series": null
