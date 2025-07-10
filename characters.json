@@ -749,7 +749,7 @@
     "recruitWeapon": "Shrimp Lure",
     "weapon": [
       "Sabre",
-      " Katana"
+      "Katana"
     ]
   },
   "3020031000": {
@@ -2959,7 +2959,7 @@
     "recruitWeapon": null,
     "weapon": [
       "Spear",
-      " Axe"
+      "Axe"
     ]
   },
   "3030048000": {
@@ -4479,7 +4479,7 @@
     "recruitWeapon": "Raging Halberd",
     "weapon": [
       "Spear",
-      " Axe"
+      "Axe"
     ]
   },
   "3030108000": {
@@ -6291,7 +6291,7 @@
     "recruitWeapon": "Standard Albion Bolt",
     "weapon": [
       "Sabre",
-      " Gun"
+      "Gun"
     ]
   },
   "3030182000": {
@@ -15815,8 +15815,8 @@
     ],
     "recruitWeapon": "Hard Knuckle",
     "weapon": [
-      "Gun",
-      "Melee"
+      "Melee",
+      "Gun"
     ]
   },
   "3040283000": {
@@ -16323,7 +16323,7 @@
     "recruitWeapon": "Innocent Doll",
     "weapon": [
       "Dagger",
-      " Melee"
+      "Melee"
     ]
   },
   "3040303000": {

@@ -57,7 +57,7 @@ const jqQueries = {
             pageName: item.pageName.replace(/&#039;/g, "'"),
             maxUncap: item.maxUncap,
             rarity: item.rarity,
-            element: item.element,
+            element: item.element.trim(),
             series: item.series,
             styleName: item.styleName,
             styleId: item.styleId,
@@ -67,11 +67,11 @@ const jqQueries = {
             obtain: item.obtain,
             flbDate: item.flbDate,
             expeditionType: item.expeditionType,
-            type: item.type,
+            type: item.type.trim(),
             customType: item.customType,
-            race: item.race,
+            race: item.race.map(r=>r.trim()),
             recruitWeapon: item.recruitWeapon ? item.recruitWeapon.replace(/&#039;/g, "'") : null,
-            weapon: item.weapon
+            weapon: item.weapon.map(w=>w.trim())
         }
     })).reduce((acc, curr) => Object.assign(acc, curr), {}),
     minCharacters: data => data.map(item => ({
