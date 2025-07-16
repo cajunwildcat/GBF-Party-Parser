@@ -1,6 +1,6 @@
 javascript: (async function () {
     let weapons;
-    await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/weapons-min.json", { next: 43200 })
+    await fetch("https://raw.githubusercontent.com/cajunwildcat/The-GrandCypher/main/weapons-min.json", { next: 43200 })
         .then(function (response) { return response.json(); })
         .then((response) => weapons = response);
 

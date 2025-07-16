@@ -31,6 +31,9 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
  - If you want to change the input/output file you can use `npx bookmarklet <source> <destination>` or edit the `build` command in `package.json`
 
 ## Update Log
+Version 3.3 (15/07/2025)
+ - Migrated data storage a new repo, removed existing data from this repo and updated fetch links as part of bookmarklets
+
 Version 3.2 (25/06/2025)
  - Changed how EX2 CCW skills are recorded 
   - fixes Row IV CCWs adding ccw param to export

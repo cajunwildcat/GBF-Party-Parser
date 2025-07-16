@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 3.2;
+const V = 3.3;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -15,13 +15,13 @@ if (!window.location.hash.startsWith("#party/index/")) {
     return;
 }
 let characters, summons, weapons;
-await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/characters-min.json", { next: 43200 })
+await fetch("https://raw.githubusercontent.com/cajunwildcat/The-GrandCypher/main/characters-min.json", { next: 43200 })
     .then(function(response){return response.json();})
     .then((response)=>characters=response);
-await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/summons-min.json", { next: 43200 })
+await fetch("https://raw.githubusercontent.com/cajunwildcat/The-GrandCypher/main/summons-min.json", { next: 43200 })
     .then(function(response){return response.json();})
     .then((response)=>summons=response);
-await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/weapons-min.json", { next: 43200 })
+await fetch("https://raw.githubusercontent.com/cajunwildcat/The-GrandCypher/main/weapons-min.json", { next: 43200 })
     .then(function(response){return response.json();})
     .then((response)=>weapons=response);
 const specialWepSeries = [
