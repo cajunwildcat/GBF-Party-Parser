@@ -14,6 +14,7 @@ javascript: (async function () {
             ccw: null,
             draconic: [],
             ultima: [],
+            destroyer: []
         }
     };
     const specialWepSeries = [
@@ -23,6 +24,7 @@ javascript: (async function () {
         "19",  //ccw
         "27",  //draconic
         "40",  //draconic providence
+        "44",  //destroyer
     ];
     const auxilaryWeaponClasses = ["Gladiator", "Chrysaor", "Iatromantis", "Street King", "Viking"];
     const keyMap = { /*ultima 1*/ "Dominion": "will", "Parity": "strife", "Utopia": "vitality", "Plenum": "strength", "Ultio": "zeal", "Ars": "courage", /*ultima 2*/ "Aggressio": "auto", "Facultas": "skill", "Arcanum": "ougi", "Catena": "cb", /*ultima 3*/ "Fortis": "cap", "Sanatio": "healing", "Impetus": "seraphic", "Elatio": "cbgain", /*dopus 2*/ "α": "auto", "β": "skill", "γ": "ougi", "Δ": "cb", /*dopus 3*/ "Fruit": "apple", "Conduct": "depravity ", "Fallacy": "echo", /*draconic 2*/ "True": "def", "Vermillion": "fire", "Azure": "water", "Golden": "earth", "Emerald": "wind", "White": "light", "Black": "dark" };
@@ -30,7 +32,7 @@ javascript: (async function () {
     const uncaps = [40, 60, 80, 100, 150, 200];
     const transcendences = [200, 210, 220, 230, 240];
     Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach((e, i) => {
-        final.weapons.push(e.master ? e.master.name : null);
+        final.weapons.push(e.master ? e.master.name.trim() : null);
         final.weaponsUncap.push(e.param ? (function () {
             let uncap = 0;
             const lvl = e.param.level;
@@ -81,6 +83,10 @@ javascript: (async function () {
                     }
                     if (e.skill3) e.skill3.name.trim().split(" ").pop() === "III" ? final.weaponsKeys.draconic.push("magna") : final.weaponsKeys.draconic.push("primal");
                     break;
+                //destroyer
+                case "44":
+                    if (e.skill3) e.skill3.name.trim().split(" ")[1] === "Godstrike"? final.weaponsKeys.destroyer.push("auto") : (e.skill3.name.trim().split(" ")[1] === "Godflair"? final.weaponsKeys.destroyer.push("skill") : final.weaponsKeys.destroyer.push("ougi"));
+                break;
             }
         }
     });
@@ -100,6 +106,7 @@ ${getWeapons()}
 ${`${final.weaponsKeys.opus.length > 0 ? `|opus=${final.weaponsKeys.opus.join(",")}` : ""}
 ${final.weaponsKeys.ultima.length > 0 ? `|ultima=${final.weaponsKeys.ultima.join(",")}` : ""}
 ${final.weaponsKeys.draconic.length > 0 ? `|draconic=${final.weaponsKeys.draconic.join(",")}` : ""}
+${final.weaponsKeys.destroyer.length > 0 ? `|draconic=${final.weaponsKeys.destroyer.join(",")}` : ""}
 ${final.weaponsKeys.ccw ? `|ccw=${final.weaponsKeys.ccw}` : ""}`.split("\n").filter(s => s.length > 0).join("\n")}
 }}`;
 

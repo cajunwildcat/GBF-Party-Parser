@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 3.3;
+const V = 3.4;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -31,6 +31,7 @@ const specialWepSeries = [
     "19",  //ccw
     "27",  //draconic
     "40",  //draconic providence
+    "44",  //destroyer
 ];
 const shields = ["Round Shield","Buckler","Knight Shield","Scutum","Mythril Shield","Holy Shield","Tiamat Shield","Rose Crystal Shield","Spartan Shield","Malice Adarga","Archangel's Shield","Colossus Wall","Bahamut Shield","Soul of Oneness","Eutr Nogadr Ldeysh","Hero's Shield","Shield of Lamentation","Huanglong Shield","Qilin Shield","Nibelung Mauer","Obelisk","Shield of the Enthroned","Lustrous Wall","Eth Ldog Ldeysh","Eth Ckalb Ldeysh","Moonhill","Shield of Tenets"];
 const getShieldByID = (shieldId) => {
@@ -75,6 +76,7 @@ const final = {
         ccw: null,
         draconic: [],
         ultima: [],
+        destroyer: []
     }
 };
 //mc skills
@@ -87,7 +89,7 @@ if (final.mcclass == "Paladin" || final.mcclass == "Shieldsworn") final.shield =
 //characters
 Object.values(window.Game.view.deck_model.attributes.deck.npc).forEach(e => {
     const char = e.master ? characters[parseInt(e.master.id)] : null;
-    final.characters.push(char? char["pageName"] : e.master? e.master.name : null);
+    final.characters.push(char? char["pageName"] : e.master? e.master.name.trim() : null);
     final.charactersRing.push(e.param ? e.param.has_npcaugment_constant : null);
     final.charactersImg.push(e.param ? charImgMap[e.param.evolution] : null);
     final.charactersTrans.push(e.param? e.param.phase : null);
@@ -96,10 +98,10 @@ Object.values(window.Game.view.deck_model.attributes.deck.npc).forEach(e => {
 let quick = window.Game.view.deck_model.attributes.deck.pc.quick_user_summon_id;
 const fillSummonData = (e,i) => {
     let id = e.master ? parseInt(e.master.id, 10) : null;
-    if (e.master && Object.keys(arcarumSums).includes(e.master.name)) {
+    if (e.master && Object.keys(arcarumSums).includes(e.master.name.trim())) {
         id = arcarumSums[e.master.name][parseInt(e.master.id[2])-3];
     }
-    final.summons.push(e.master? summons[id]? summons[id]["pageName"] : e.master.name : null);
+    final.summons.push(e.master? summons[id]? summons[id]["pageName"] : e.master.name.trim() : null);
     let trans = e.param ? (parseInt(e.param.level, 10) - 200) / 10: null;
     final.summonsTrans.push(trans);
     final.summonsMaxUncap.push(e.param? summons[id].maxUncap : null);
@@ -141,7 +143,7 @@ if (suppS == null) {
 Object.values(window.Game.view.deck_model.attributes.deck.pc.sub_summons).forEach(fillSummonData);
 //weapons
 Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach((e,i) => {
-    final.weapons.push(e.master ? e.master.name : null);
+    final.weapons.push(e.master ? e.master.name.trim() : null);
     final.weaponsUncap.push(e.param ? (function() {
         //TODO: change to compare uncap vs maxUncap
         let uncap = 0;
@@ -193,6 +195,10 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach((e
                 }
                 if (e.skill3) e.skill3.name.trim().split(" ").pop() === "III"? final.weaponsKeys.draconic.push("magna") : final.weaponsKeys.draconic.push("primal");
             break;
+            //destroyer
+            case "44":
+                if (e.skill3) e.skill3.name.trim().split(" ")[1] === "Godstrike"? final.weaponsKeys.destroyer.push("auto") : (e.skill3.name.trim().split(" ")[1] === "Godflair"? final.weaponsKeys.destroyer.push("skill") : final.weaponsKeys.destroyer.push("ougi"));
+            break;
         }
     }
 });
@@ -212,6 +218,7 @@ ${getWeapons()}
 ${`${final.weaponsKeys.opus.length>0? `|opus=${final.weaponsKeys.opus.join(",")}` : ""}
 ${final.weaponsKeys.ultima.length>0? `|ultima=${final.weaponsKeys.ultima.join(",")}` : ""}
 ${final.weaponsKeys.draconic.length>0? `|draconic=${final.weaponsKeys.draconic.join(",")}` : ""}
+${final.weaponsKeys.destroyer.length>0? `|destroyer=${final.weaponsKeys.destroyer.join(",")}` : ""}
 ${final.weaponsKeys.ccw? `|ccw=${final.weaponsKeys.ccw}` : ""}`.split("\n").filter(s=>s.length>0).join("\n")}
 }}
 |summons={{SummonGrid
