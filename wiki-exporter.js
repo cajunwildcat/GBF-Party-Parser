@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 3.4;
+const V = 3.5;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -50,6 +50,7 @@ const charImgMap = {"4": null,"5":"C","6":"D"};
 const uncaps = [40,60,80,100,150,200];
 const transcendences = [200, 210, 220, 230, 240];
 const arcarumSums = {"Justice": [2030081000, 2040236000],"The Hanged Man": [2030085000, 2040237000],"Death": [2030089000, 2040238000],"Temperance": [2030093000, 2040239000],"The Devil": [2030097000, 2040240000],"The Tower": [2030101000, 2040241000],"The Star": [2030105000, 2040242000],"The Moon": [2030109000, 2040243000],"The Sun": [2030113000, 2040244000],"Judgement": [2030117000, 2040245000]}
+const charAwks = {1: null, 2: "atk", 3: "def", 4: "ma"};
 arcarumIndices = [];
 const final = {
     mcclass: window.Game.view.deck_model.attributes.deck.pc.job.master.name,
@@ -60,6 +61,7 @@ const final = {
     charactersImg: [],
     charactersTrans: [],
     charactersRing: [],
+    charactersAwks: [],
 
     summons: [],
     summonsImg: [],
@@ -93,6 +95,7 @@ Object.values(window.Game.view.deck_model.attributes.deck.npc).forEach(e => {
     final.charactersRing.push(e.param ? e.param.has_npcaugment_constant : null);
     final.charactersImg.push(e.param ? charImgMap[e.param.evolution] : null);
     final.charactersTrans.push(e.param? e.param.phase : null);
+    final.charactersAwks.push(e.param? charAwks[e.param.npc_arousal_form] : null)
 });
 //summons
 let quick = window.Game.view.deck_model.attributes.deck.pc.quick_user_summon_id;
@@ -116,6 +119,8 @@ const fillSummonData = (e,i) => {
 }
 //main summons
 Object.values(window.Game.view.deck_model.attributes.deck.pc.summons).forEach(fillSummonData);
+//sub summons
+Object.values(window.Game.view.deck_model.attributes.deck.pc.sub_summons).forEach(fillSummonData);
 //support summon
 let suppS = window.Game.view.expectancyDamageData;
 final.summons.push(suppS ? suppS.summonId? summons[parseInt(suppS.summonId)]["pageName"] : null : null);
@@ -139,8 +144,6 @@ if (suppS == null) {
         final.summonsImg.splice(-1,1,"D");
     }
 }
-//sub summons
-Object.values(window.Game.view.deck_model.attributes.deck.pc.sub_summons).forEach(fillSummonData);
 //weapons
 Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach((e,i) => {
     final.weapons.push(e.master ? e.master.name.trim() : null);
@@ -227,14 +230,14 @@ ${final.weaponsKeys.ccw? `|ccw=${final.weaponsKeys.ccw}` : ""}`.split("\n").filt
 |s2=${getSummon(2)}
 |s3=${getSummon(3)}
 |s4=${getSummon(4)}
-|sub1=${getSummon(6)}
-|sub2=${getSummon(7)}
+|sub1=${getSummon(5)}
+|sub2=${getSummon(6)}
 |quick=${quick? quick : ""}
 }}
 }}`;
 
 const getCharacter = (index) => {
-    return `|char${index+1}=${final.characters[index]? final.characters[index]: ""}${final.charactersImg[index]? `|art${index+1}=${final.charactersImg[index]}` : ""}${final.charactersTrans[index] > 0? `|trans${index+1}=${final.charactersTrans[index]}` : ""}`;
+    return `|char${index+1}=${final.characters[index]? final.characters[index]: ""}${final.charactersImg[index]? `|art${index+1}=${final.charactersImg[index]}` : ""}${final.charactersTrans[index] > 0? `|trans${index+1}=${final.charactersTrans[index]}` : ""}${final.charactersAwks[index]? `|awk${index+1}=${final.charactersAwks[index]}` : ""}`;
 };
 const getCharacters = () => {
     return final.characters.map((c,i)=>getCharacter(i)).filter(q=>q.length>0).join("\n");
@@ -255,9 +258,9 @@ const getSummon = (index) => {
     let uncap = ((final.summonsMaxUncap[index] != 6 && final.summonsUncap[index] == final.summonsMaxUncap[index]) || (final.summonsMaxUncap[index] == 6 && final.summonsTrans[index] == 5))? "" :
         `|u${index}=${final.summonsTrans[index] <= 0? `${final.summonsUncap[index]}` : `trans${final.summonsTrans[index]}`}`
     let sum = `${final.summons[index]}${uncap}`;
-    if (index == 0) sum = sum.replace("u0", "umain").replace("art0", "artmain");
-    if (index == 6) sum = sum.replace("u6", "usub1").replace("art6", "artsub1");
-    if (index == 7) sum = sum.replace("u7", "usub2").replace("art7", "artsub2");
+    if (index == 0) sum = sum.replace("u0", "umain");
+    if (index == 5) sum = sum.replace("u5", "usub1");
+    if (index == 6) sum = sum.replace("u6", "usub2");
     return sum;
 };
 
