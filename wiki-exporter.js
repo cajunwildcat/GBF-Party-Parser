@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 3.5;
+const V = 3.51;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -123,18 +123,8 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.summons).forEach(fi
 Object.values(window.Game.view.deck_model.attributes.deck.pc.sub_summons).forEach(fillSummonData);
 //support summon
 let suppS = window.Game.view.expectancyDamageData;
-final.summons.push(suppS ? suppS.summonId? summons[parseInt(suppS.summonId)]["pageName"] : null : null);
-if (!final.summons.slice(-1).includes(window.Game.view.deck_model.attributes.deck.pc.damage_info.summon_name)) suppS = null;
-final.summonsTrans.push(suppS ? parseInt(suppS.evolution) == 6? 5 : 0 : null);
-final.summonsUncap.push(suppS ? parseInt(suppS.evolution) : null);
-final.summonsImg.push(suppS? (function(u,t){
-    if (u <= 4 || Object.keys(arcarumSums).includes(suppS)) return "A";
-    else if (u == 5) return "B";
-    else if (u == 6 && t < 5) return "C";
-    else return "D";
-})(final.summonsUncap.slice(-1), final.summonsTrans.slice(-1)) : null);
 //no detailed support summon data available
-if (suppS == null) {
+if (!suppS) {
     let summon = Object.values(summons).find(s=>s.name==window.Game.view.deck_model.attributes.deck.pc.damage_info.summon_name);
     final.summons.splice(-1,1,summon? summon.pageName : "");
     suppS = final.summons.slice(-1)[0];
@@ -144,6 +134,18 @@ if (suppS == null) {
         final.summonsImg.splice(-1,1,"D");
     }
 }
+else {
+    final.summons.push(suppS.summonId? summons[parseInt(suppS.summonId)].pageName : null);
+    final.summonsTrans.push(parseInt(suppS.evolution) == 6? 5 : 0);
+    final.summonsUncap.push(parseInt(suppS.evolution));
+    final.summonsImg.push(suppS? (function(u,t){
+        if (u <= 4 || Object.keys(arcarumSums).includes(suppS)) return "A";
+        else if (u == 5) return "B";
+        else if (u == 6 && t < 5) return "C";
+        else return "D";
+    })(final.summonsUncap.slice(-1), final.summonsTrans.slice(-1)) : null);
+}
+
 //weapons
 Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach((e,i) => {
     final.weapons.push(e.master ? e.master.name.trim() : null);
@@ -214,7 +216,7 @@ ${getCharacters()}
 |skill2=${final.mcskills[1]? final.mcskills[1] : ""}
 |skill3=${final.mcskills[2]? final.mcskills[2] : ""}
 |main=${final.summons[0]? final.summons[0] : ""}${final.summonsTrans[0] > 0? "|transmain=" + final.summonsTrans[0] : ""}${final.summonsImg[0]? "|artmain=" + final.summonsImg[0] : ""}
-|support=${final.summons[5]? final.summons[5] : suppS}${final.summonsTrans[5]? "|transsupport=" + final.summonsTrans[5] : ""}${final.summonsImg[5]? "|artsupport=" + final.summonsImg[5] : ""}
+|support=${final.summons[7]? final.summons[7] : suppS}${final.summonsTrans[7]? "|transsupport=" + final.summonsTrans[7] : ""}${final.summonsImg[7]? "|artsupport=" + final.summonsImg[7] : ""}
 }}
 |weapons={{WeaponGridSkills
 ${getWeapons()}

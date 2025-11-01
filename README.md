@@ -31,6 +31,9 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
  - If you want to change the input/output file you can use `npx bookmarklet <source> <destination>` or edit the `build` command in `package.json`
 
 ## Update Log
+Version 3.51 (01/11/2025)
+ - Fixed issue with support summon output
+
 Version 3.5 (30/10/2025)
  - Character awakenings other than balanced will automatically be filled out
  - Fixed issue with max uncapped sub summons not removing uncap param
