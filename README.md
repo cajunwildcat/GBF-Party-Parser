@@ -31,6 +31,9 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
  - If you want to change the input/output file you can use `npx bookmarklet <source> <destination>` or edit the `build` command in `package.json`
 
 ## Update Log
+Version 3.52 (03/11/2025)
+ - Fixed support summon & sub summon 2 bug
+
 Version 3.51 (01/11/2025)
  - Fixed issue with support summon output
 

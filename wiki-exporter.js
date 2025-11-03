@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 3.51;
+const V = 3.52;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -126,12 +126,11 @@ let suppS = window.Game.view.expectancyDamageData;
 //no detailed support summon data available
 if (!suppS) {
     let summon = Object.values(summons).find(s=>s.name==window.Game.view.deck_model.attributes.deck.pc.damage_info.summon_name);
-    final.summons.splice(-1,1,summon? summon.pageName : "");
-    suppS = final.summons.slice(-1)[0];
-    if (suppSAssumptions.includes(suppS)) {
-        final.summonsTrans.splice(-1,1,5);
-        final.summonsUncap.splice(-1,1,6);
-        final.summonsImg.splice(-1,1,"D");
+    final.summons.push(summon? summon.pageName : null);
+    if (summon && suppSAssumptions.includes(summon.pageName)) {
+        final.summonsTrans.push(5);
+        final.summonsUncap.push(6);
+        final.summonsImg.push("D");
     }
 }
 else {
@@ -216,7 +215,7 @@ ${getCharacters()}
 |skill2=${final.mcskills[1]? final.mcskills[1] : ""}
 |skill3=${final.mcskills[2]? final.mcskills[2] : ""}
 |main=${final.summons[0]? final.summons[0] : ""}${final.summonsTrans[0] > 0? "|transmain=" + final.summonsTrans[0] : ""}${final.summonsImg[0]? "|artmain=" + final.summonsImg[0] : ""}
-|support=${final.summons[7]? final.summons[7] : suppS}${final.summonsTrans[7]? "|transsupport=" + final.summonsTrans[7] : ""}${final.summonsImg[7]? "|artsupport=" + final.summonsImg[7] : ""}
+|support=${final.summons[7]? final.summons[7] : ""}${final.summonsTrans[7]? "|transsupport=" + final.summonsTrans[7] : ""}${final.summonsImg[7]? "|artsupport=" + final.summonsImg[7] : ""}
 }}
 |weapons={{WeaponGridSkills
 ${getWeapons()}
