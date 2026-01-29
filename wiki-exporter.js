@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 3.53;
+const V = 3.6;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -161,7 +161,12 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach((e
         return uncap;
     })() : 0);
     final.weaponsMaxUncap.push(e.master? weapons[parseInt(e.master.id)].maxUncap : null);
-    final.weaponsAwaken.push(e.param? e.param.arousal["form_name"]: null);
+    if (e.param && e.param.arousal.form_name && e.param.arousal.level > 1) {
+        final.weaponsAwaken.push(e.param.arousal.form_name);
+    }
+    else {
+        final.weaponsAwaken.push(null);
+    }
     if (e.master && specialWepSeries.includes(e.master["series_id"])) {
         switch (e.master["series_id"]) {
             //opus - s2 first word, s3 last word unless II or III, then word before

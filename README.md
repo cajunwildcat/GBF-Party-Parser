@@ -31,6 +31,9 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
  - If you want to change the input/output file you can use `npx bookmarklet <source> <destination>` or edit the `build` command in `package.json`
 
 ## Update Log
+Version 3.6 (29/01/2026)
+ - Weapon awakening type will not be grabbed if awakening is lvl 1 (no upgrades have been made)
+
 Version 3.53 (15/11/2025)
  - 1* and 2* summons default to being exported as 0*
 

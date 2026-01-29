@@ -45,7 +45,12 @@ javascript: (async function () {
             return uncap;
         })() : 0);
         final.weaponsMaxUncap.push(e.master ? weapons[parseInt(e.master.id)].maxUncap : null);
-        final.weaponsAwaken.push(e.param ? e.param.arousal["form_name"] : null);
+        if (e.param && e.param.arousal.form_name && e.param.arousal.level > 1) {
+            final.weaponsAwaken.push(e.param.arousal.form_name);
+        }
+        else {
+            final.weaponsAwaken.push(null);
+        }
         if (e.master && specialWepSeries.includes(e.master["series_id"])) {
             switch (e.master["series_id"]) {
                 //opus - s2 first word, s3 last word unless II or III, then word before
@@ -71,7 +76,7 @@ javascript: (async function () {
                 //ccw - last word
                 case "19":
                     if (e.param.level == 200) final.weapons[final.weapons.length - 1] += ` (${elements[e.master.attribute - 1]})`;
-                    if (e.skill2 && ["Humanity", "Divinity", "Devilry"].some(s=>e.skill2.name.includes(s))) final.weaponsKeys.ccw = e.skill2.name.trim().split(" ").pop();
+                    if (e.skill2 && ["Humanity", "Divinity", "Devilry"].some(s => e.skill2.name.includes(s))) final.weaponsKeys.ccw = e.skill2.name.trim().split(" ").pop();
                     break;
                 //draconic
                 case "27":
@@ -85,8 +90,8 @@ javascript: (async function () {
                     break;
                 //destroyer
                 case "44":
-                    if (e.skill3) e.skill3.name.trim().split(" ")[1] === "Godstrike"? final.weaponsKeys.destroyer.push("auto") : (e.skill3.name.trim().split(" ")[1] === "Godflair"? final.weaponsKeys.destroyer.push("skill") : final.weaponsKeys.destroyer.push("ougi"));
-                break;
+                    if (e.skill3) e.skill3.name.trim().split(" ")[1] === "Godstrike" ? final.weaponsKeys.destroyer.push("auto") : (e.skill3.name.trim().split(" ")[1] === "Godflair" ? final.weaponsKeys.destroyer.push("skill") : final.weaponsKeys.destroyer.push("ougi"));
+                    break;
             }
         }
     });
@@ -95,7 +100,7 @@ javascript: (async function () {
     };
     const getWeapon = (index) => {
         if (final.weapons[index] == null) return "";
-        let uncap = ((final.weaponsMaxUncap[index] != 6 && final.weaponsUncap[index] == final.weaponsMaxUncap[index]) || ((final.weapons[index].includes("Renunciation") || final.weapons[index].includes("Repudiation")) && final.weaponsUncap[index] == 5))? "" :
+        let uncap = ((final.weaponsMaxUncap[index] != 6 && final.weaponsUncap[index] == final.weaponsMaxUncap[index]) || ((final.weapons[index].includes("Renunciation") || final.weapons[index].includes("Repudiation")) && final.weaponsUncap[index] == 5)) ? "" :
             `|u${index}=${final.weaponsUncap[index]}`;
         let wep = `|wp${index}=${final.weapons[index]}${uncap}${final.weaponsAwaken[index] ? `|awk${index}=${final.weaponsAwaken[index]}` : ""}`
         if (index == 0) wep = wep.replace("wp0", "mh").replace("u0", "umh").replace("awk0", "awkmh");
