@@ -30,7 +30,19 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
  - Afterwards you use `npm run build` to replace the content of `bookmarklet` with an update verison from the current version of `wiki-exporter.js`
  - If you want to change the input/output file you can use `npx bookmarklet <source> <destination>` or edit the `build` command in `package.json`
 
+## TODO
+ - Change fetched files to be a single file
+  - Includes objects for characters, summons, weapons, shields, minos
+
 ## Update Log
+Version 3.7 (11/02/2026)
+ - Changed export format to match new version of TeamSpread
+  - No longer uses Team/WeaponGridSkills/SummonGrid as part of the TeamSpread params
+  - Removed summon art/trans for main/support summon, now use same uncap param
+  - Removed character art/trans, condensed to single uncap param
+  - Now generates empty source, comments, rotation params at bottom of template
+ - Added new minos and shields (they're not really new at this point huh)
+
 Version 3.6 (29/01/2026)
  - Weapon awakening type will not be grabbed if awakening is lvl 1 (no upgrades have been made)
 

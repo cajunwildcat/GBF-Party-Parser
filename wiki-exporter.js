@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 3.6;
+const V = 3.7;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -33,7 +33,7 @@ const specialWepSeries = [
     "40",  //draconic providence
     "44",  //destroyer
 ];
-const shields = ["Round Shield","Buckler","Knight Shield","Scutum","Mythril Shield","Holy Shield","Tiamat Shield","Rose Crystal Shield","Spartan Shield","Malice Adarga","Archangel's Shield","Colossus Wall","Bahamut Shield","Soul of Oneness","Eutr Nogadr Ldeysh","Hero's Shield","Shield of Lamentation","Huanglong Shield","Qilin Shield","Nibelung Mauer","Obelisk","Shield of the Enthroned","Lustrous Wall","Eth Ldog Ldeysh","Eth Ckalb Ldeysh","Moonhill","Shield of Tenets"];
+const shields = ["Round Shield","Buckler","Knight Shield","Scutum","Mythril Shield","Holy Shield","Tiamat Shield","Rose Crystal Shield","Spartan Shield","Malice Adarga","Archangel's Shield","Colossus Wall","Bahamut Shield","Soul of Oneness","Eutr Nogadr Ldeysh","Hero's Shield","Shield of Lamentation","Huanglong Shield","Qilin Shield","Nibelung Mauer","Obelisk","Shield of the Enthroned","Lustrous Wall","Eth Ldog Ldeysh","Eth Ckalb Ldeysh","Moonhill","Shield of Tenets","New World Shield","Anima Animus Shield","ESV Shield (Man-Portable)"];
 const getShieldByID = (shieldId) => {
     let shieldID = (shieldId-1).toString();
     const shieldRarity = shieldID[0];
@@ -43,10 +43,9 @@ const getShieldByID = (shieldId) => {
 const auxilaryWeaponClasses = ["Gladiator", "Chrysaor", "Iatromantis", "Street King", "Viking"];
 const splitskillNames = {"Execration":"Execration / Five-Phase Seal", "Assault Drive" : "Assault Drive / Weapon Discharge"}
 const suppSAssumptions = ["Lucifer", "Bahamut", "Agni", "Varuna", "Titan", "Zephyrus", "Zeus", "Hades", "Colossus Omega", "Leviathan Omega", "Yggdrasil Omega", "Tiamat Omega", "Luminiera Omega", "Celeste Omega"];
-const minos = ["burlona", "schalk", "levi", "yggy", "baha", "luwoh", "mimic", "ouro", "europa", "wilnas", "agastia", "faa", "chachazero"];
+const minos = ["burlona", "schalk", "levi", "yggy", "baha", "luwoh", "mimic", "ouro", "europa", "wilnas", "agastia", "faa", "chachazero", "perfida", "qilin", "cocomimi"];
 const keyMap = { /*ultima 1*/ "Dominion": "will", "Parity": "strife", "Utopia": "vitality", "Plenum": "strength", "Ultio": "zeal", "Ars": "courage", /*ultima 2*/ "Aggressio": "auto", "Facultas": "skill", "Arcanum": "ougi", "Catena": "cb", /*ultima 3*/ "Fortis": "cap", "Sanatio": "healing", "Impetus": "seraphic", "Elatio": "cbgain", /*dopus 2*/ "α": "auto", "β": "skill", "γ": "ougi", "Δ": "cb", /*dopus 3*/ "Fruit": "apple", "Conduct": "depravity ", "Fallacy": "echo", /*draconic 2*/ "True": "def", "Vermillion": "fire", "Azure": "water", "Golden": "earth", "Emerald": "wind", "White": "light", "Black": "dark" };
 const elements = ["Fire", "Water", "Earth", "Wind", "Light", "Dark"];
-const charImgMap = {"4": null,"5":"C","6":"D"};
 const uncaps = [40,60,80,100,150,200];
 const transcendences = [200, 210, 220, 230, 240];
 const arcarumSums = {"Justice": [2030081000, 2040236000],"The Hanged Man": [2030085000, 2040237000],"Death": [2030089000, 2040238000],"Temperance": [2030093000, 2040239000],"The Devil": [2030097000, 2040240000],"The Tower": [2030101000, 2040241000],"The Star": [2030105000, 2040242000],"The Moon": [2030109000, 2040243000],"The Sun": [2030113000, 2040244000],"Judgement": [2030117000, 2040245000]}
@@ -58,7 +57,7 @@ const final = {
     mino: null,
 
     characters: [],
-    charactersImg: [],
+    charactersUncap: [],
     charactersTrans: [],
     charactersRing: [],
     charactersAwks: [],
@@ -93,7 +92,7 @@ Object.values(window.Game.view.deck_model.attributes.deck.npc).forEach(e => {
     const char = e.master ? characters[parseInt(e.master.id)] : null;
     final.characters.push(char? char["pageName"] : e.master? e.master.name.trim() : null);
     final.charactersRing.push(e.param ? e.param.has_npcaugment_constant : null);
-    final.charactersImg.push(e.param ? charImgMap[e.param.evolution] : null);
+    final.charactersUncap.push(e.param ? e.param.evolution : null);
     final.charactersTrans.push(e.param? e.param.phase : null);
     final.charactersAwks.push(e.param? charAwks[e.param.npc_arousal_form] : null)
 });
@@ -213,25 +212,21 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach((e
 });
 
 const wikiTable = () => `{{TeamSpread
-|team={{Team
 |class=${final.mcclass}${final.mino? `|mino=${final.mino}` : ""}${final.shield? `|shield=${final.shield}` : ""}
 ${getCharacters()}
 |skill1=${final.mcskills[0]? final.mcskills[0] : ""}
 |skill2=${final.mcskills[1]? final.mcskills[1] : ""}
 |skill3=${final.mcskills[2]? final.mcskills[2] : ""}
-|main=${final.summons[0]? final.summons[0] : ""}${final.summonsTrans[0] > 0? "|transmain=" + final.summonsTrans[0] : ""}${final.summonsImg[0]? "|artmain=" + final.summonsImg[0] : ""}
-|support=${final.summons[7]? final.summons[7] : ""}${final.summonsTrans[7]? "|transsupport=" + final.summonsTrans[7] : ""}${final.summonsImg[7]? "|artsupport=" + final.summonsImg[7] : ""}
-}}
-|weapons={{WeaponGridSkills
+${""}
 ${getWeapons()}
 ${`${final.weaponsKeys.opus.length>0? `|opus=${final.weaponsKeys.opus.join(",")}` : ""}
 ${final.weaponsKeys.ultima.length>0? `|ultima=${final.weaponsKeys.ultima.join(",")}` : ""}
 ${final.weaponsKeys.draconic.length>0? `|draconic=${final.weaponsKeys.draconic.join(",")}` : ""}
 ${final.weaponsKeys.destroyer.length>0? `|destroyer=${final.weaponsKeys.destroyer.join(",")}` : ""}
 ${final.weaponsKeys.ccw? `|ccw=${final.weaponsKeys.ccw}` : ""}`.split("\n").filter(s=>s.length>0).join("\n")}
-}}
-|summons={{SummonGrid
+${""}
 |main=${getSummon(0)}
+|support=${getSummon(7)}
 |s1=${getSummon(1)}
 |s2=${getSummon(2)}
 |s3=${getSummon(3)}
@@ -239,11 +234,17 @@ ${final.weaponsKeys.ccw? `|ccw=${final.weaponsKeys.ccw}` : ""}`.split("\n").filt
 |sub1=${getSummon(5)}
 |sub2=${getSummon(6)}
 |quick=${quick? quick : ""}
-}}
+${""}
+|source=
+|comments=
+|rotation=
 }}`;
 
 const getCharacter = (index) => {
-    return `|char${index+1}=${final.characters[index]? final.characters[index]: ""}${final.charactersImg[index]? `|art${index+1}=${final.charactersImg[index]}` : ""}${final.charactersTrans[index] > 0? `|trans${index+1}=${final.charactersTrans[index]}` : ""}${final.charactersAwks[index]? `|awk${index+1}=${final.charactersAwks[index]}` : ""}`;
+    return `|char${index+1}=${final.characters[index]? final.characters[index]: ""}${
+    final.charactersUncap[index] > 4? `|uchar${index+1}=${final.charactersTrans[index] > 0? 
+    `t${final.charactersTrans[index]}` : final.charactersUncap[index]}` : ""}${
+    final.charactersAwks[index]? `|awkchar${index+1}=${final.charactersAwks[index]}` : ""}`;
 };
 const getCharacters = () => {
     return final.characters.map((c,i)=>getCharacter(i)).filter(q=>q.length>0).join("\n");
@@ -256,17 +257,18 @@ const getWeapon = (index) => {
     let uncap = ((final.weaponsMaxUncap[index] != 6 && final.weaponsUncap[index] == final.weaponsMaxUncap[index]) || ((final.weapons[index].includes("Renunciation") || final.weapons[index].includes("Repudiation")) && final.weaponsUncap[index] == 5))? "" :
         `|u${index}=${final.weaponsUncap[index]}`;
     let wep = `|wp${index}=${final.weapons[index]}${uncap}${final.weaponsAwaken[index]? `|awk${index}=${final.weaponsAwaken[index]}` : ""}`
-    if (index == 0) wep = wep.replace("wp0", "mh").replace("u0", "umh").replace("awk0", "awkmh");
+    if (index == 0) wep = wep.replace("0=", "mh=").replace("wp","");
     return wep;
 };
 const getSummon = (index) => {
     if (final.summons[index] == null) return "";
     let uncap = ((final.summonsMaxUncap[index] != 6 && final.summonsUncap[index] == final.summonsMaxUncap[index]) || (final.summonsMaxUncap[index] == 6 && final.summonsTrans[index] == 5))? "" :
-        `|u${index}=${final.summonsTrans[index] <= 0? `${final.summonsUncap[index] < 3? 0 : final.summonsUncap}` : `trans${final.summonsTrans[index]}`}`
+        `|us${index}=${final.summonsTrans[index] <= 0? `${final.summonsUncap[index] < 3? 0 : final.summonsUncap}` : `trans${final.summonsTrans[index]}`}`
     let sum = `${final.summons[index]}${uncap}`;
-    if (index == 0) sum = sum.replace("u0", "umain");
-    if (index == 5) sum = sum.replace("u5", "usub1");
-    if (index == 6) sum = sum.replace("u6", "usub2");
+    if (index == 0) sum = sum.replace("us0", "umain");
+    if (index == 7) sum = sum.split("|us7")[0];
+    if (index == 5) sum = sum.replace("us5", "usub1");
+    if (index == 6) sum = sum.replace("us6", "usub2");
     return sum;
 };
 
