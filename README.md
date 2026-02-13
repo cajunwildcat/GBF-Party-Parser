@@ -35,6 +35,9 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
   - Includes objects for characters, summons, weapons, shields, minos
 
 ## Update Log
+Version 3.71 (11/02/2026)
+ - Fixed mh awk and uncap params being wrong
+
 Version 3.7 (11/02/2026)
  - Changed export format to match new version of TeamSpread
   - No longer uses Team/WeaponGridSkills/SummonGrid as part of the TeamSpread params

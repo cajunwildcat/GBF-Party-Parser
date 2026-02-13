@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 3.7;
+const V = 3.71;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -257,7 +257,7 @@ const getWeapon = (index) => {
     let uncap = ((final.weaponsMaxUncap[index] != 6 && final.weaponsUncap[index] == final.weaponsMaxUncap[index]) || ((final.weapons[index].includes("Renunciation") || final.weapons[index].includes("Repudiation")) && final.weaponsUncap[index] == 5))? "" :
         `|u${index}=${final.weaponsUncap[index]}`;
     let wep = `|wp${index}=${final.weapons[index]}${uncap}${final.weaponsAwaken[index]? `|awk${index}=${final.weaponsAwaken[index]}` : ""}`
-    if (index == 0) wep = wep.replace("0=", "mh=").replace("wp","");
+    if (index == 0) wep = wep.replaceAll("0=", "mh=").replace("wp","");
     return wep;
 };
 const getSummon = (index) => {
