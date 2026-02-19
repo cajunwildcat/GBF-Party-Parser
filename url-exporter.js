@@ -1,12 +1,12 @@
 javascript: (async function () {
-const V = 3.71;
+const V = 3.8;
 let v;
-await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
+await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/url-version", { cache: 'no-store' })
     .then(function(response){return response.json();})
     .then(function(response){if (v = parseFloat(response)) ;});
 if (V < v) {
     if (confirm("There is an update to the bookmarklet, please copy the new version to ensure the copied data is as accurate as possible.\nClick Cancel to ignore this update.")) {
-        open("https://github.com/cajunwildcat/GBF-Party-Parser", "_blank");
+        open("https://github.com/cajunwildcat/GBF-Party-Parser?tab=readme-ov-file#url-version", "_blank");
         return;
     }
 }
@@ -40,12 +40,8 @@ const getShieldByID = (shieldId) => {
     shieldID = shields[parseInt(shieldID.substring(1)) + (shieldRarity == "2"? 0 : shieldRarity == "3"? 3 : 8)];
     return shieldID;
 }
-const auxilaryWeaponClasses = ["Gladiator", "Chrysaor", "Iatromantis", "Street King", "Viking"];
 const splitskillNames = {"Execration":"Execration / Five-Phase Seal", "Assault Drive" : "Assault Drive / Weapon Discharge"}
-const suppSAssumptions = ["Lucifer", "Bahamut", "Agni", "Varuna", "Titan", "Zephyrus", "Zeus", "Hades", "Colossus Omega", "Leviathan Omega", "Yggdrasil Omega", "Tiamat Omega", "Luminiera Omega", "Celeste Omega"];
-const minos = ["burlona", "schalk", "levi", "yggy", "baha", "luwoh", "mimic", "ouro", "europa", "wilnas", "agastia", "faa", "chachazero", "perfida", "qilin", "cocomimi"];
 const keyMap = { /*ultima 1*/ "Dominion": "will", "Parity": "strife", "Utopia": "vitality", "Plenum": "strength", "Ultio": "zeal", "Ars": "courage", /*ultima 2*/ "Aggressio": "auto", "Facultas": "skill", "Arcanum": "ougi", "Catena": "cb", /*ultima 3*/ "Fortis": "cap", "Sanatio": "healing", "Impetus": "seraphic", "Elatio": "cbgain", /*dopus 2*/ "α": "auto", "β": "skill", "γ": "ougi", "Δ": "cb", /*dopus 3*/ "Fruit": "apple", "Conduct": "depravity ", "Fallacy": "echo", /*draconic 2*/ "True": "def", "Vermillion": "fire", "Azure": "water", "Golden": "earth", "Emerald": "wind", "White": "light", "Black": "dark" };
-const elements = ["Fire", "Water", "Earth", "Wind", "Light", "Dark"];
 const uncaps = [40,60,80,100,150,200];
 const transcendences = [200, 210, 220, 230, 240];
 const arcarumSums = {"Justice": [2030081000, 2040236000],"The Hanged Man": [2030085000, 2040237000],"Death": [2030089000, 2040238000],"Temperance": [2030093000, 2040239000],"The Devil": [2030097000, 2040240000],"The Tower": [2030101000, 2040241000],"The Star": [2030105000, 2040242000],"The Moon": [2030109000, 2040243000],"The Sun": [2030113000, 2040244000],"Judgement": [2030117000, 2040245000]}
@@ -84,11 +80,11 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.set_action).forEach
     final.mcskills.push(e.name ? splitskillNames[e.name.trim()]? splitskillNames[e.name.trim()] : e.name.trim() : null);
 });
 //manadiver mino
-if (final.mcclass == "Manadiver") final.mino = minos[window.Game.view.deck_model.attributes.deck.pc.familiar_id-1];
-if (final.mcclass == "Paladin" || final.mcclass == "Shieldsworn") final.shield = getShieldByID(window.Game.view.deck_model.attributes.deck.pc.shield_id);
+if (window.Game.view.deck_model.attributes.deck.pc.familiar_id) final.mino = window.Game.view.deck_model.attributes.deck.pc.familiar_id;
+if (window.Game.view.deck_model.attributes.deck.pc.shield_id) final.shield = window.Game.view.deck_model.attributes.deck.pc.shield_id;
 //characters
 Object.values(window.Game.view.deck_model.attributes.deck.npc).forEach(e => {
-    final.characters.push(e.master.id? e.master.id : null);
+    final.characters.push(e.master? e.master.id : null);
     final.charactersRing.push(e.param ? e.param.has_npcaugment_constant : null);
     final.charactersUncap.push(e.param ? e.param.evolution : null);
     final.charactersTrans.push(e.param? e.param.phase : null);
@@ -198,6 +194,7 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach((e
 const getMC = () => {
     let cl = decimalToBase62(final.mcclass);
     let skills = final.mcskills.map(s => {
+        if (!s) return "";
         let id = abilities[s].id.split("_");
         id[0] = decimalToBase62(id[0]);
         id = id.join("_");
@@ -254,6 +251,6 @@ function decimalToBase62(num) {
     }
     return result;
 }
-navigator.clipboard.writeText(`https://cajunwildcat.github.io/GBF-Grid-Maker/?c=${getCharacters()}&w=${getWeapons()}&s=${getSummons()}&mc=${getMC()}${quick? `&qs=${quick}` : ""}${final.weaponsKeys.opus.length>0? `&opus=${final.weaponsKeys.opus.join(",")}` : ""}${final.weaponsKeys.ultima.length>0? `&ulti=${final.weaponsKeys.ultima.join(",")}` : ""}${final.weaponsKeys.draconic.length>0? `&drac=${final.weaponsKeys.draconic.join(",")}` : ""}${final.weaponsKeys.destroyer.length>0? `&dest=${final.weaponsKeys.destroyer.join(",")}` : ""}${final.weaponsKeys.ccw? `&ccw=${final.weaponsKeys.ccw}` : ""}`)
+navigator.clipboard.writeText(`https://cajunwildcat.github.io/GBF-Grid-Maker/?c=${getCharacters()}&w=${getWeapons()}&s=${getSummons()}&mc=${getMC()}${quick? `&qs=${quick}` : ""}${final.weaponsKeys.opus.length>0? `&opus=${final.weaponsKeys.opus.join(",")}` : ""}${final.weaponsKeys.ultima.length>0? `&ulti=${final.weaponsKeys.ultima.join(",")}` : ""}${final.weaponsKeys.draconic.length>0? `&drac=${final.weaponsKeys.draconic.join(",")}` : ""}${final.weaponsKeys.destroyer.length>0? `&dest=${final.weaponsKeys.destroyer.join(",")}` : ""}${final.weaponsKeys.ccw? `&ccw=${final.weaponsKeys.ccw}` : ""}${final.mino? `&mino=${final.mino}`: ""}${final.shield? `&shield=${final.shield}`: ""}`)
 alert("URL Copied to Clipboard");
 }())
