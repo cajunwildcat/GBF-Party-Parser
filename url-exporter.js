@@ -260,11 +260,10 @@ function decimalToBase62(num) {
     try {
         document.execCommand("copy");
         document.body.removeChild(textarea);
-        alert("Copied data to clipboard");
+        alert("URL Copied to Clipboard");
     }
     catch (e) {
         document.body.removeChild(textarea);
     }
 }(`https://cajunwildcat.github.io/GBF-Grid-Maker/?c=${getCharacters()}&w=${getWeapons()}&s=${getSummons()}&mc=${getMC()}${quick? `&qs=${quick}` : ""}${final.weaponsKeys.opus.length>0? `&opus=${final.weaponsKeys.opus.join(",")}` : ""}${final.weaponsKeys.ultima.length>0? `&ulti=${final.weaponsKeys.ultima.join(",")}` : ""}${final.weaponsKeys.draconic.length>0? `&drac=${final.weaponsKeys.draconic.join(",")}` : ""}${final.weaponsKeys.destroyer.length>0? `&dest=${final.weaponsKeys.destroyer.join(",")}` : ""}${final.weaponsKeys.ccw? `&ccw=${final.weaponsKeys.ccw}` : ""}${final.mino? `&mino=${final.mino}`: ""}${final.shield? `&shield=${final.shield}`: ""}`));
-alert("URL Copied to Clipboard");
 }())
