@@ -12,6 +12,7 @@ Bookmarklet that generates a gbf.wiki formatted TeamSpread of the currently open
 
 ### URL Version
 - [This](https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/url-bookmarklet) of the bookmarklet will copy a URL to your clipboard that links to my [Grid Maker Tool](https://cajunwildcat.github.io/GBF-Grid-Maker/) with pre-filled info for the party. If you are not a wiki editor, this is probably the bookmarklet you want.
+- [This](https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/url-bookmarklet-image) version will open the grid maker in a new tab and auto generate an image of the grid to be saved or copied.
 
 ## Why use this bookmarklet
 
