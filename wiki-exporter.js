@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 3.72;
+const V = 3.8;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -14,16 +14,13 @@ if (!window.location.hash.startsWith("#party/index/")) {
     alert('Please go to a GBF Party screen');
     return;
 }
-let characters, summons, weapons;
-await fetch("https://raw.githubusercontent.com/cajunwildcat/The-GrandCypher/main/characters-min.json", { next: 43200 })
+let minData, summons, weapons, characters;
+await fetch("https://raw.githubusercontent.com/cajunwildcat/The-GrandCypher/main/bookmarklet-mins.json", { next: 43200 })
     .then(function(response){return response.json();})
-    .then((response)=>characters=response);
-await fetch("https://raw.githubusercontent.com/cajunwildcat/The-GrandCypher/main/summons-min.json", { next: 43200 })
-    .then(function(response){return response.json();})
-    .then((response)=>summons=response);
-await fetch("https://raw.githubusercontent.com/cajunwildcat/The-GrandCypher/main/weapons-min.json", { next: 43200 })
-    .then(function(response){return response.json();})
-    .then((response)=>weapons=response);
+    .then((response)=>minData=response);
+summons = minData.summons;
+weapons = minData.weapons;
+characters = minData.characters;
 const specialWepSeries = [
     "3",   //opus
     "13",  //ultima
@@ -90,7 +87,7 @@ if (final.mcclass == "Paladin" || final.mcclass == "Shieldsworn") final.shield =
 //characters
 Object.values(window.Game.view.deck_model.attributes.deck.npc).forEach(e => {
     const char = e.master ? characters[parseInt(e.master.id)] : null;
-    final.characters.push(char? char["pageName"] : e.master? e.master.name.trim() : null);
+    final.characters.push(char? char : e.master? e.master.name.trim() : null);
     final.charactersRing.push(e.param ? e.param.has_npcaugment_constant : null);
     final.charactersUncap.push(e.param ? e.param.evolution : null);
     final.charactersTrans.push(e.param? e.param.phase : null);

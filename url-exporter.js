@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 3.81;
+const V = 3.9;
 const image = false;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/url-version", { cache: 'no-store' })
@@ -15,16 +15,13 @@ if (!window.location.hash.startsWith("#party/index/")) {
     alert('Please go to a GBF Party screen');
     return;
 }
-let summons, weapons, abilities;
-await fetch("https://raw.githubusercontent.com/cajunwildcat/The-GrandCypher/main/summons-min.json", { next: 43200 })
+let minData, summons, weapons, abilities;
+await fetch("https://raw.githubusercontent.com/cajunwildcat/The-GrandCypher/main/bookmarklet-mins.json", { next: 43200 })
     .then(function(response){return response.json();})
-    .then((response)=>summons=response);
-await fetch("https://raw.githubusercontent.com/cajunwildcat/The-GrandCypher/main/weapons-min.json", { next: 43200 })
-    .then(function(response){return response.json();})
-    .then((response)=>weapons=response);
-await fetch("https://raw.githubusercontent.com/cajunwildcat/The-GrandCypher/main/abilities-min.json", { next: 43200 })
-    .then(function(response){return response.json();})
-    .then((response)=>abilities=response);
+    .then((response)=>minData=response);
+summons = minData.summons;
+weapons = minData.weapons;
+abilities = minData.abilities;
 const specialWepSeries = [
     "3",   //opus
     "13",  //ultima
@@ -34,18 +31,12 @@ const specialWepSeries = [
     "40",  //draconic providence
     "44",  //destroyer
 ];
-const shields = ["Round Shield","Buckler","Knight Shield","Scutum","Mythril Shield","Holy Shield","Tiamat Shield","Rose Crystal Shield","Spartan Shield","Malice Adarga","Archangel's Shield","Colossus Wall","Bahamut Shield","Soul of Oneness","Eutr Nogadr Ldeysh","Hero's Shield","Shield of Lamentation","Huanglong Shield","Qilin Shield","Nibelung Mauer","Obelisk","Shield of the Enthroned","Lustrous Wall","Eth Ldog Ldeysh","Eth Ckalb Ldeysh","Moonhill","Shield of Tenets","New World Shield","Anima Animus Shield","ESV Shield (Man-Portable)"];
-const getShieldByID = (shieldId) => {
-    let shieldID = (shieldId-1).toString();
-    const shieldRarity = shieldID[0];
-    shieldID = shields[parseInt(shieldID.substring(1)) + (shieldRarity == "2"? 0 : shieldRarity == "3"? 3 : 8)];
-    return shieldID;
-}
+const jp = Game.lang == "ja";
 const splitskillNames = {"Execration":"Execration / Five-Phase Seal", "Assault Drive" : "Assault Drive / Weapon Discharge"}
-const keyMap = { /*ultima 1*/ "Dominion": "will", "Parity": "strife", "Utopia": "vitality", "Plenum": "strength", "Ultio": "zeal", "Ars": "courage", /*ultima 2*/ "Aggressio": "auto", "Facultas": "skill", "Arcanum": "ougi", "Catena": "cb", /*ultima 3*/ "Fortis": "cap", "Sanatio": "healing", "Impetus": "seraphic", "Elatio": "cbgain", /*dopus 2*/ "α": "auto", "β": "skill", "γ": "ougi", "Δ": "cb", /*dopus 3*/ "Fruit": "apple", "Conduct": "depravity ", "Fallacy": "echo", /*draconic 2*/ "True": "def", "Vermillion": "fire", "Azure": "water", "Golden": "earth", "Emerald": "wind", "White": "light", "Black": "dark" };
+const keyMap = {"Dominion":"will","Parity":"strife","Utopia":"vitality","Plenum":"strength","Ultio":"zeal","Ars":"courage","Aggressio":"auto","Facultas":"skill","Arcanum":"ougi","Catena":"cb","Fortis":"cap","Sanatio":"healing","Impetus":"seraphic","Elatio":"cbgain","α":"auto","β":"skill","γ":"ougi","Δ":"cb","Fruit":"apple","Conduct":"depravity ","Fallacy":"echo","True":"def","Vermillion":"fire","Azure":"water","Golden":"earth","Emerald":"wind","White":"light","Black":"dark","Godstrike":"auto","Godflair":"skill","Godheart":"ougi","ウィス":"will","ビス":"strife","メンス":"vitality","プレナム":"strength","ウルティオ":"zeal","アルス":"courage","アッグレシオ":"auto","ファクルタス":"skill","アルカヌム":"ougi","カテーナ":"cb","フォルティス":"cap","サーナーティオ":"healing","インペトゥス":"seraphic","エーラーティオ":"cbgain","アルファ":"auto","ベータ":"skill","ガンマ":"ougi","デルタ":"cb","渾身":"stamina","背水":"enmity","三手":"trium","進境":"progression","刹那":"celere","神威":"majesty","狡知の誘惑":"freyr","禁忌の果実":"apple","邪罪と罪":"depravity ","虚偽と詐術":"echo","極破":"extremity","極技":"sagacity","極奥":"supremacy","真":"def","朱":"fire","碧":"water","金":"earth","翠":"wind","白":"light","黒":"dark","闘争の神撃":"auto","闘争の神技":"skill","闘争の神奥":"ougi"};
 const uncaps = [40,60,80,100,150,200];
 const transcendences = [200, 210, 220, 230, 240];
-const arcarumSums = {"Justice": [2030081000, 2040236000],"The Hanged Man": [2030085000, 2040237000],"Death": [2030089000, 2040238000],"Temperance": [2030093000, 2040239000],"The Devil": [2030097000, 2040240000],"The Tower": [2030101000, 2040241000],"The Star": [2030105000, 2040242000],"The Moon": [2030109000, 2040243000],"The Sun": [2030113000, 2040244000],"Judgement": [2030117000, 2040245000]}
+const arcarumSums = {"Justice":[2030081000,2040236000],"The Hanged Man":[2030085000,2040237000],"Death":[2030089000,2040238000],"Temperance":[2030093000,2040239000],"The Devil":[2030097000,2040240000],"The Tower":[2030101000,2040241000],"The Star":[2030105000,2040242000],"The Moon":[2030109000,2040243000],"The Sun":[2030113000,2040244000],"Judgement":[2030117000,2040245000],"ジャスティス":[2030081000,2040236000],"ザ・ハングドマン":[2030085000,2040237000],"デス":[2030089000,2040238000],"テンペランス":[2030093000,2040239000],"ザ・デビル":[2030097000,2040240000],"ザ・タワー":[2030101000,2040241000],"ザ・スター":[2030105000,2040242000],"ザ・ムーン":[2030109000,2040243000],"ザ・サン":[2030113000,2040244000],"ジャッジメント":[2030117000,2040245000]};
 arcarumIndices = [];
 const final = {
     mcclass: window.Game.view.deck_model.attributes.deck.pc.job.master.id,
@@ -119,7 +110,7 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.sub_summons).forEac
 let suppS = window.Game.view.expectancyDamageData;
 //no detailed support summon data available
 if (!suppS) {
-    let summon = Object.keys(summons).find(s=>summons[s].name==window.Game.view.deck_model.attributes.deck.pc.damage_info.summon_name);
+    let summon = Object.keys(summons).find(s=>summons[s].name==window.Game.view.deck_model.attributes.deck.pc.damage_info.summon_name || summons[s].jpname==window.Game.view.deck_model.attributes.deck.pc.damage_info.summon_name);
     final.summons.push(summon? summon : null);
 }
 else {
@@ -154,21 +145,29 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach((e
         switch (e.master["series_id"]) {
             //opus - s2 first word, s3 last word unless II or III, then word before
             case "3":
-                if (e.skill2) final.weaponsKeys.opus.push(keyMap[e.skill2.name.trim().split(" ")[0]]);
+                if (e.skill2) {
+                    if (jp) final.weaponsKeys.opus.push(keyMap[e.skill2.name.trim().split("・")[0]]);
+                    else final.weaponsKeys.opus.push(keyMap[e.skill2.name.trim().split(" ")[0]]);
+                }
                 if (e.skill3) {
-                    let fullName = e.skill3.name.trim().split(" ");
-                    let skill = (fullName[fullName.length-1] == "II" || fullName[fullName.length-1] == "III")? fullName[fullName.length-2] : fullName.pop();
-                    final.weaponsKeys.opus.push(keyMap[skill]? keyMap[skill] : skill);
+                    if (jp) {
+                        let skill = keyMap[e.skill3.name.trim()];
+                        if (!skill) skill = keyMap[e.skill3.name.trim().slice(-2)];
+                        final.weaponsKeys.opus.push(skill);
+                    }
+                    else {
+                        let fullName = e.skill3.name.trim().split(" ");
+                        let skill = (fullName[fullName.length-1] == "II" || fullName[fullName.length-1] == "III")? fullName[fullName.length-2] : fullName.pop();
+                        final.weaponsKeys.opus.push(keyMap[skill]? keyMap[skill] : skill);
+                    }
                 }
             break;
             //ultima - last word
             case "13":
-                if (e.skill1) final.weaponsKeys.ultima.push(keyMap[e.skill1.name.trim().split(" ").pop()]);
-                if (e.skill2) final.weaponsKeys.ultima.push(keyMap[e.skill2.name.trim().split(" ").pop()]);
-                if (e.skill3) final.weaponsKeys.ultima.push(keyMap[e.skill3.name.trim().split(" ").pop()]);
-            break;
-            case "17":
-            //superlative - only for element
+                let split = jp? "・" : " ";
+                if (e.skill1) final.weaponsKeys.ultima.push(keyMap[e.skill1.name.trim().split(split).pop()]);
+                if (e.skill2) final.weaponsKeys.ultima.push(keyMap[e.skill2.name.trim().split(split).pop()]);
+                if (e.skill3) final.weaponsKeys.ultima.push(keyMap[e.skill3.name.trim().split(split).pop()]);
             break;
             //ccw - last word
             case "19": 
@@ -178,15 +177,29 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach((e
             case "27":
             case "40": 
                 if (e.skill2) {
-                    let fullName = e.skill2.name.trim().split(" ");
-                    let skill = (fullName[fullName.length-1] === "Barrier")? keyMap[fullName[0]] : fullName.pop();
-                    final.weaponsKeys.draconic.push(skill);
+                    if (jp) {
+                        let skill;
+                        switch (e.skill2.name.slice(-2)) {
+                            case "威烈": skill = "amp"; break;
+                            case "活命": skill = "hp"; break;
+                            default: skill = keyMap[e.skill2.name[0]]; break;
+                        }
+                        final.weaponsKeys.draconic.push(skill);
+                    }
+                    else {
+                        let fullName = e.skill2.name.trim().split(" ");
+                        let skill = (fullName[fullName.length-1] === "Barrier")? keyMap[fullName[0]] : fullName.pop();
+                        final.weaponsKeys.draconic.push(skill);
+                    }
                 }
-                if (e.skill3) e.skill3.name.trim().split(" ").pop() === "III"? final.weaponsKeys.draconic.push("magna") : final.weaponsKeys.draconic.push("primal");
+                if (e.skill3) e.skill3.name.trim().slice(-3) === "III"? final.weaponsKeys.draconic.push("magna") : final.weaponsKeys.draconic.push("primal");
             break;
             //destroyer
             case "44":
-                if (e.skill3) e.skill3.name.trim().split(" ")[1] === "Godstrike"? final.weaponsKeys.destroyer.push("auto") : (e.skill3.name.trim().split(" ")[1] === "Godflair"? final.weaponsKeys.destroyer.push("skill") : final.weaponsKeys.destroyer.push("ougi"));
+                if (e.skill3) {
+                    if (jp) final.weaponsKeys.destroyer = keyMap[e.skill3.name.replaceAll("I","")];
+                    else final.weaponsKeys.destroyer = keyMap[e.skill3.name.trim().split(" ")[1]];
+                }
             break;
         }
     }
@@ -196,7 +209,7 @@ const getMC = () => {
     let cl = decimalToBase62(final.mcclass);
     let skills = final.mcskills.map(s => {
         if (!s) return "";
-        let id = abilities[s].id.split("_");
+        let id = Object.keys(abilities).find(k => abilities[k].name == s || abilities[k].jpname == s).split("_");
         id[0] = decimalToBase62(id[0]);
         id = id.join("_");
         return id;
@@ -267,7 +280,7 @@ function copy (text) {
         document.body.removeChild(textarea);
     }
 };
-const url = `https://cajunwildcat.github.io/GBF-Grid-Maker/?c=${getCharacters()}&w=${getWeapons()}&s=${getSummons()}&mc=${getMC()}${quick? `&qs=${quick}` : ""}${final.weaponsKeys.opus.length>0? `&opus=${final.weaponsKeys.opus.join(",")}` : ""}${final.weaponsKeys.ultima.length>0? `&ulti=${final.weaponsKeys.ultima.join(",")}` : ""}${final.weaponsKeys.draconic.length>0? `&drac=${final.weaponsKeys.draconic.join(",")}` : ""}${final.weaponsKeys.destroyer.length>0? `&dest=${final.weaponsKeys.destroyer.join(",")}` : ""}${final.weaponsKeys.ccw? `&ccw=${final.weaponsKeys.ccw}` : ""}${final.mino? `&mino=${final.mino}`: ""}${final.shield? `&shield=${final.shield}`: ""}${image? "&image=t" : ""}`;
+const url = `https://cajunwildcat.github.io/GBF-Grid-Maker/?c=${getCharacters()}&w=${getWeapons()}&s=${getSummons()}&mc=${getMC()}${quick? `&qs=${quick}` : ""}${final.weaponsKeys.opus.length>0? `&opus=${final.weaponsKeys.opus.join(",")}` : ""}${final.weaponsKeys.ultima.length>0? `&ulti=${final.weaponsKeys.ultima.join(",")}` : ""}${final.weaponsKeys.draconic.length>0? `&drac=${final.weaponsKeys.draconic.join(",")}` : ""}${final.weaponsKeys.destroyer? `&dest=${final.weaponsKeys.destroyer}` : ""}${final.weaponsKeys.ccw? `&ccw=${final.weaponsKeys.ccw}` : ""}${final.mino? `&mino=${final.mino}`: ""}${final.shield? `&shield=${final.shield}`: ""}${image? "&image=t" : ""}${jp? "&lang=jp" : ""}`;
 if (image) window.open(url, "_blank")
 else copy(url);
 }())

@@ -4,9 +4,7 @@
   "description": "",
   "main": "wiki-exporter.js",
   "scripts": {
-    "build": "npx bookmarklet wiki-exporter.js wiki-bookmarklet",
-    "build2": "node build2.js",
-    "build3": "npx bookmarklet weapon-exporter.js weapon-bookmarklet"
+    "build": "node build.js"
   },
   "author": "",
   "license": "ISC",

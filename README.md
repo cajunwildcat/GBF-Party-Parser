@@ -39,6 +39,12 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
   - Includes objects for characters, summons, weapons, shields, minos
 
 ## Update Log
+Version 3.8 (25/02/2026)
+ - Changed data fetch to single file
+URL Version 3.9 (25/02/2026)
+ - Added support for importing when game language is set to JP
+ - Changed data fetch to single file
+
 Version 3.72 (25/02/2026)
  - Adjusted skill and ca awk exporting
 URL Version 3.81 (25/02/2026)
