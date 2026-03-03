@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 3.9;
+const V = 3.91;
 const image = false;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/url-version", { cache: 'no-store' })
@@ -76,7 +76,7 @@ if (window.Game.view.deck_model.attributes.deck.pc.familiar_id) final.mino = win
 if (window.Game.view.deck_model.attributes.deck.pc.shield_id) final.shield = window.Game.view.deck_model.attributes.deck.pc.shield_id;
 //characters
 Object.values(window.Game.view.deck_model.attributes.deck.npc).forEach(e => {
-    final.characters.push(e.master? e.master.id : null);
+    final.characters.push(e.master? e.master.id.slice(0,-1)+e.param.style.replace("1","0") : null);
     final.charactersRing.push(e.param ? e.param.has_npcaugment_constant : null);
     final.charactersUncap.push(e.param ? e.param.evolution : null);
     final.charactersTrans.push(e.param? e.param.phase : null);
@@ -220,11 +220,15 @@ const getMC = () => {
 const getCharacter = (index) => {
     let c = final.characters[index];
     if (!c) return "";
+    let style = c.toString().slice(-1);
+    if (style > 1) {
+        c -= style;
+    }
     let id = decimalToBase62((c - 3000000000) / 1000);
     let uncap = final.charactersTrans[index] > 0? "t"+final.charactersTrans[index] : final.charactersUncap[index] > 4? final.charactersUncap[index] : "";
     let awk = final.charactersAwks[index]? final.charactersAwks[index] - 1 : "";
 
-    return `${id}${uncap?`.${uncap}`:""}${awk?`$${awk}`:""}`;
+    return `${id}${uncap?`.${uncap}`:""}${awk?`$${awk}`:""}${style>1?`%${style}`:""}`;
 };
 const getCharacters = () => {
     return final.characters.map((c,i)=>getCharacter(i)).filter(q=>q.length>0).join(",");
