@@ -39,6 +39,9 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
   - Includes objects for characters, summons, weapons, shields, minos
 
 ## Update Log
+Wiki Version 3.82 (11/03/2026)
+ - Fixed weapon uncaps being exported even if max uncapped
+
 Version 3.81 (02/03/2026)
  - Added support for style swapped characters
 URL Version 3.91 (02/03/2026)

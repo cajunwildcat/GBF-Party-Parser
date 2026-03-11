@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 3.81;
+const V = 3.82;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -156,7 +156,7 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach((e
         }
         return uncap;
     })() : 0);
-    final.weaponsMaxUncap.push(e.master? weapons[parseInt(e.master.id)].maxUncap : null);
+    final.weaponsMaxUncap.push(e.master? weapons[parseInt(e.master.id)] : null);
     if (e.param && e.param.arousal.form_name && e.param.arousal.level > 1) {
         final.weaponsAwaken.push(e.param.arousal.form_name.replace(" dmg", "").replaceAll(".",""));
     }
