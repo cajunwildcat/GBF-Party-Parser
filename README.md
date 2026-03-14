@@ -3,7 +3,6 @@
 Bookmarklet that generates a gbf.wiki formatted TeamSpread of the currently open team page and copies it to your clipboard.
 
 ## Installation
-
 - Copy [this](https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/wiki-bookmarklet) code and paste it into the URL bar of a new bookmark in the browser you use to play GBF.
 <br><img src="./images/tutorial-1.png" width="200"/><img src="./images/tutorial-2.png" width="200"/><br>
   - <b>Make sure to clear the url field before pasting!<b>
@@ -14,18 +13,21 @@ Bookmarklet that generates a gbf.wiki formatted TeamSpread of the currently open
 - [This](https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/url-bookmarklet) of the bookmarklet will copy a URL to your clipboard that links to my [Grid Maker Tool](https://cajunwildcat.github.io/GBF-Grid-Maker/) with pre-filled info for the party. If you are not a wiki editor, this is probably the bookmarklet you want.
 - [This](https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/url-bookmarklet-image) version will open the grid maker in a new tab and auto generate an image of the grid to be saved or copied.
 
-## Why use this bookmarklet
+### 自動ブックマークレット
+注：これらのコードはいずれも、ゲームを改変したり、ゲームと何らかの形で連携したりするものではありません。これらが実行するのは、ブラウザの開発者コンソールを開けば誰でも確認できるデータを読み取るだけなのです。実質的には、gbfdropの「アイテム記録」機能と同様のものです。
+- [このバージョンのコードは](https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/url-bookmarklet)、コピーされたレイアウトに合わせて事前に入力されたデータを含む、私の外部サイトへのリンクをクリップボードにコピーします。これにより、レイアウトを後で使うために簡単に保存したり、誰かに送信したりすることができるようになります。
+- [このバージョンでは](https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/url-bookmarklet-image)、サイトが新しいタブで開かれ、レイアウトの画像が自動的に生成されます。この画像は保存またはコピーすることができます。
 
+## Why use this bookmarklet
 This bookmarklet makes use of a kept up to date databse of character and summon IDs in this repo to get more accurate names. This means it is able to accurate differentiate between characters with multiple versions such as `Vira` and `Vira (Grand)`. The names are set according to the page names on the gbf.wiki so you should not have to edit anything.
 
 A smaller feature, but opening the estimated damage panel in order to get more accurate Support Summon data.
 
 ## Limitations
-
 - Newly added characters and summons will not be grabbed properly and break functionality. Please wait a day or two after their release before using the bookmarklet on teams including them.
 - To get more accurate Support Summon data (LB & Transcendence) you have to open the Estimated Damage panel at least once. Afterwards you can close it and use the bookmark as much as you want until you reload the page or switch teams.
   - Otherwise only the summon name will be filled out.
-- More detailed information about characters such as their EMPs or Awakening is not available to be extracted from the game on the team page, so these cannot be automatically filled out.
+- More detailed information about characters such as their EMPs is not available to be extracted from the game on the team page, so these cannot be automatically filled out.
 
 ## Developer Installation
 
@@ -39,6 +41,9 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
   - Includes objects for characters, summons, weapons, shields, minos
 
 ## Update Log
+URL Version 4.0 (14/03/2026)
+ - Added bullet exporting
+
 Wiki Version 3.82 (11/03/2026)
  - Fixed weapon uncaps being exported even if max uncapped
 

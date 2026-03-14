@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 3.91;
+const V = 4.0;
 const image = false;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/url-version", { cache: 'no-store' })
@@ -65,15 +65,19 @@ const final = {
         draconic: [],
         ultima: [],
         destroyer: []
-    }
+    },
 };
 //mc skills
 Object.values(window.Game.view.deck_model.attributes.deck.pc.set_action).forEach(e => {
     final.mcskills.push(e.name ? splitskillNames[e.name.trim()]? splitskillNames[e.name.trim()] : e.name.trim() : null);
 });
-//manadiver mino
+//class gear info
 if (window.Game.view.deck_model.attributes.deck.pc.familiar_id) final.mino = window.Game.view.deck_model.attributes.deck.pc.familiar_id;
 if (window.Game.view.deck_model.attributes.deck.pc.shield_id) final.shield = window.Game.view.deck_model.attributes.deck.pc.shield_id;
+if (bullets = Game.view.deck_model.attributes.bullet_info.set_bullets) {
+    final.bullets = Object.keys(bullets).filter(k=>k.startsWith("bullet_")).map(k=>bullets[k].bullet_id || "").join(",");
+    while (final.bullets.length > 0 && final.bullets[final.bullets.length-1] == ",") final.bullets = final.bullets.slice(0,-1)
+}
 //characters
 Object.values(window.Game.view.deck_model.attributes.deck.npc).forEach(e => {
     final.characters.push(e.master? e.master.id.slice(0,-1)+e.param.style.replace("1","0") : null);
@@ -244,7 +248,7 @@ const getWeapon = (index) => {
     return `${id}${uncap?`.${uncap}`:""}${awk?`$${awk}`:""}`;
 };
 const getWeapons = () => {
-    return final.weapons.map((w,i)=>getWeapon(i)).filter(q=>q.length>0).join(",");
+    return final.weapons.map((w,i)=>getWeapon(i)).join(",");
 };
 
 const getSummon = (index) => {
@@ -256,7 +260,7 @@ const getSummon = (index) => {
     return `${id}${uncap? `.${uncap}` : ""}`;
 };
 const getSummons = () => {
-    return final.summons.map((w,i)=>getSummon(i)).filter(q=>q.length>0).join(",");
+    return final.summons.map((w,i)=>getSummon(i)).join(",");
 }
 
 function decimalToBase62(num) {
@@ -284,7 +288,7 @@ function copy (text) {
         document.body.removeChild(textarea);
     }
 };
-const url = `https://cajunwildcat.github.io/GBF-Grid-Maker/?c=${getCharacters()}&w=${getWeapons()}&s=${getSummons()}&mc=${getMC()}${quick? `&qs=${quick}` : ""}${final.weaponsKeys.opus.length>0? `&opus=${final.weaponsKeys.opus.join(",")}` : ""}${final.weaponsKeys.ultima.length>0? `&ulti=${final.weaponsKeys.ultima.join(",")}` : ""}${final.weaponsKeys.draconic.length>0? `&drac=${final.weaponsKeys.draconic.join(",")}` : ""}${final.weaponsKeys.destroyer? `&dest=${final.weaponsKeys.destroyer}` : ""}${final.weaponsKeys.ccw? `&ccw=${final.weaponsKeys.ccw}` : ""}${final.mino? `&mino=${final.mino}`: ""}${final.shield? `&shield=${final.shield}`: ""}${image? "&image=t" : ""}${jp? "&lang=jp" : ""}`;
+const url = `https://cajunwildcat.github.io/GBF-Grid-Maker/?c=${getCharacters()}&w=${getWeapons()}&s=${getSummons()}&mc=${getMC()}${quick? `&qs=${quick}` : ""}${final.weaponsKeys.opus.length>0? `&opus=${final.weaponsKeys.opus.join(",")}` : ""}${final.weaponsKeys.ultima.length>0? `&ulti=${final.weaponsKeys.ultima.join(",")}` : ""}${final.weaponsKeys.draconic.length>0? `&drac=${final.weaponsKeys.draconic.join(",")}` : ""}${final.weaponsKeys.destroyer? `&dest=${final.weaponsKeys.destroyer}` : ""}${final.weaponsKeys.ccw? `&ccw=${final.weaponsKeys.ccw}` : ""}${final.mino? `&mino=${final.mino}`: ""}${final.shield? `&shield=${final.shield}`: ""}${image? "&image=t" : ""}${jp? "&lang=jp" : ""}${final.bullets? `&bullet=${final.bullets}` : ""}`;
 if (image) window.open(url, "_blank")
 else copy(url);
 }())
