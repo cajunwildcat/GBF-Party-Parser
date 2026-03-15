@@ -41,6 +41,9 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
   - Includes objects for characters, summons, weapons, shields, minos
 
 ## Update Log
+URL Version 4.1 (14/03/2026)
+ - Fixed bug with summon uncap exporting
+
 URL Version 4.0 (14/03/2026)
  - Added bullet exporting
 
