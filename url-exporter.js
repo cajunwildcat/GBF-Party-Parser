@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 4.0;
+const V = 4.1;
 const image = false;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/url-version", { cache: 'no-store' })
@@ -256,7 +256,7 @@ const getSummon = (index) => {
     if (!s) return "";
     let id = decimalToBase62((s - 2000000000) / 1000);
     let uncap = ((final.summonsMaxUncap[index] != 6 && final.summonsUncap[index] == final.summonsMaxUncap[index]) || (final.summonsMaxUncap[index] == 6 && final.summonsTrans[index] == 5))? "" :
-        final.summonsTrans[index] <= 0? `${final.summonsUncap[index] < 3? 0 : final.summonsUncap}` : `t${final.summonsTrans[index]}`
+        final.summonsTrans[index] <= 0? `${final.summonsUncap[index] < 3? 0 : final.summonsUncap[index]}` : `t${final.summonsTrans[index]}`
     return `${id}${uncap? `.${uncap}` : ""}`;
 };
 const getSummons = () => {
