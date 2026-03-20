@@ -37,8 +37,8 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
  - If you want to change the input/output file you can use `npx bookmarklet <source> <destination>` or edit the `build` command in `package.json`
 
 ## TODO
- - Change fetched files to be a single file
-  - Includes objects for characters, summons, weapons, shields, minos
+ - Add befoulments to both URL and wiki exporter
+   - URL needs grid maker update to support
 
 ## Update Log
 URL Version 4.1 (14/03/2026)
