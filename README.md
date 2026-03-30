@@ -41,6 +41,9 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
    - URL needs grid maker update to support
 
 ## Update Log
+Wiki Version 3.9 (30/03/2026)
+ - Fixed trans summon and 5* summon bugs
+
 URL Version 4.1 (14/03/2026)
  - Fixed bug with summon uncap exporting
 

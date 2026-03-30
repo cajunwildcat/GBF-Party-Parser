@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 3.82;
+const V = 3.9;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -260,7 +260,7 @@ const getWeapon = (index) => {
 const getSummon = (index) => {
     if (final.summons[index] == null) return "";
     let uncap = ((final.summonsMaxUncap[index] != 6 && final.summonsUncap[index] == final.summonsMaxUncap[index]) || (final.summonsMaxUncap[index] == 6 && final.summonsTrans[index] == 5))? "" :
-        `|us${index}=${final.summonsTrans[index] <= 0? `${final.summonsUncap[index] < 3? 0 : final.summonsUncap}` : `trans${final.summonsTrans[index]}`}`
+        `|us${index}=${final.summonsTrans[index] <= 0? `${final.summonsUncap[index] < 3? 0 : final.summonsUncap[index]}` : `t${final.summonsTrans[index]}`}`
     let sum = `${final.summons[index]}${uncap}`;
     if (index == 0) sum = sum.replace("us0", "umain");
     if (index == 7) sum = sum.split("|us7")[0];
