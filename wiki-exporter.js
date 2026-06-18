@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 3.9;
+const V = 4.0;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -69,6 +69,7 @@ const final = {
     weaponsUncap: [],
     weaponsMaxUncap: [],
     weaponsAwaken: [],
+    weaponsBFs: [],
     weaponsKeys: {
         opus: [],
         ccw: null,
@@ -157,11 +158,27 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach((e
         return uncap;
     })() : 0);
     final.weaponsMaxUncap.push(e.master? weapons[parseInt(e.master.id)] : null);
+    //awakening
     if (e.param && e.param.arousal.form_name && e.param.arousal.level > 1) {
         final.weaponsAwaken.push(e.param.arousal.form_name.replace(" dmg", "").replaceAll(".",""));
     }
     else {
         final.weaponsAwaken.push(null);
+    }
+    //befoulment
+    if (e.param && e.param.odiant.is_odiant_weapon) {
+        let bf = e.param.augment_image[0].replace("ex_skill_","").replace("_down","");
+        switch(bf) {
+            case "ab_atk": bf = "skill"; break;
+            case "sp_atk": bf = "ca"; break;
+            case "turn_damage": bf = "turn dmg"; break;
+            case "ailment_enhance": bf = "dsr"; break;
+            case "ta": bf = "ma"; break;
+        }
+        final.weaponsBFs.push(bf);
+    }
+    else {
+        final.weaponsBFs.push(null);
     }
     if (e.master && specialWepSeries.includes(e.master["series_id"])) {
         switch (e.master["series_id"]) {
@@ -253,7 +270,7 @@ const getWeapon = (index) => {
     if (final.weapons[index] == null) return "";
     let uncap = ((final.weaponsMaxUncap[index] != 6 && final.weaponsUncap[index] == final.weaponsMaxUncap[index]) || ((final.weapons[index].includes("Renunciation") || final.weapons[index].includes("Repudiation")) && final.weaponsUncap[index] == 5))? "" :
         `|u${index}=${final.weaponsUncap[index]}`;
-    let wep = `|wp${index}=${final.weapons[index]}${uncap}${final.weaponsAwaken[index]? `|awk${index}=${final.weaponsAwaken[index]}` : ""}`
+    let wep = `|wp${index}=${final.weapons[index]}${uncap}${final.weaponsAwaken[index]? `|awk${index}=${final.weaponsAwaken[index]}` : ""}${final.weaponsBFs[index]? `|bf${index}=${final.weaponsBFs[index]}` : ""}`;
     if (index == 0) wep = wep.replaceAll("0=", "mh=").replace("wp","");
     return wep;
 };

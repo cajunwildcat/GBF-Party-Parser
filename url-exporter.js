@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 4.1;
+const V = 4.2;
 const image = false;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/url-version", { cache: 'no-store' })
@@ -59,6 +59,7 @@ const final = {
     weaponsUncap: [],
     weaponsMaxUncap: [],
     weaponsAwaken: [],
+    weaponsBFs: [],
     weaponsKeys: {
         opus: [],
         ccw: null,
@@ -144,6 +145,13 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach((e
     }
     else {
         final.weaponsAwaken.push(null);
+    }
+    //befoulment
+    if (e.param && e.param.odiant.is_odiant_weapon) {
+        final.weaponsBFs.push(e.param.augment_skill_info[0][0].skill_id.toString().slice(-2));
+    }
+    else {
+        final.weaponsBFs.push(null);
     }
     if (e.master && specialWepSeries.includes(e.master["series_id"])) {
         switch (e.master["series_id"]) {
@@ -245,7 +253,8 @@ const getWeapon = (index) => {
     let uncap = ((final.weaponsMaxUncap[index] != 6 && final.weaponsUncap[index] == final.weaponsMaxUncap[index]) || ((final.weapons[index].includes("Renunciation") || final.weapons[index].includes("Repudiation")) && final.weaponsUncap[index] == 5))? "" :
     `${final.weaponsUncap[index]}`;
     let awk = final.weaponsAwaken[index]? `${final.weaponsAwaken[index]}` : "";
-    return `${id}${uncap?`.${uncap}`:""}${awk?`$${awk}`:""}`;
+    let bf = final.weaponsBFs[index]? `${final.weaponsBFs[index]}` : "";
+    return `${id}${uncap?`.${uncap}`:""}${awk?`$${awk}`:""}${bf? `£${bf}` : ""}`;
 };
 const getWeapons = () => {
     return final.weapons.map((w,i)=>getWeapon(i)).join(",");
