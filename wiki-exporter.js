@@ -171,7 +171,7 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach((e
         switch(bf) {
             case "ab_atk": bf = "skill"; break;
             case "sp_atk": bf = "ca"; break;
-            case "turn_damage": bf = "turn dmg"; break;
+            case "turn_damage": bf = "dot"; break;
             case "ailment_enhance": bf = "dsr"; break;
             case "ta": bf = "ma"; break;
         }
