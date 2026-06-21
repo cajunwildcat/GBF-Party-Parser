@@ -37,10 +37,16 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
  - If you want to change the input/output file you can use `npx bookmarklet <source> <destination>` or edit the `build` command in `package.json`
 
 ## TODO
- - Add befoulments to both URL and wiki exporter
-   - URL needs grid maker update to support
 
 ## Update Log
+URL Version 4.21 (21/06/2026)
+ - Fixed Fire Draconic HP skill bug
+
+Wiki Version 4.0 (19/06/2026)
+ - Added Odious Befoulment export
+URL Version 4.2 (19/06/2026)
+ - Added Odious Befoulment export
+
 Wiki Version 3.9 (30/03/2026)
  - Fixed trans summon and 5* summon bugs
 

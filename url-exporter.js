@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 4.2;
+const V = 4.21;
 const image = false;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/url-version", { cache: 'no-store' })
@@ -199,7 +199,7 @@ Object.values(window.Game.view.deck_model.attributes.deck.pc.weapons).forEach((e
                         final.weaponsKeys.draconic.push(skill);
                     }
                     else {
-                        let fullName = e.skill2.name.trim().split(" ");
+                        let fullName = e.skill2.name.trim().split(/\s/);
                         let skill = (fullName[fullName.length-1] === "Barrier")? keyMap[fullName[0]] : fullName.pop();
                         final.weaponsKeys.draconic.push(skill);
                     }
