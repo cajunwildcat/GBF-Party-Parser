@@ -3,14 +3,14 @@
 Bookmarklet that generates a gbf.wiki formatted TeamSpread of the currently open team page and copies it to your clipboard.
 
 ## Installation
-- Copy [this](https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/wiki-bookmarklet) code and paste it into the URL bar of a new bookmark in the browser you use to play GBF.
+- Copy [this](https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/wiki-bookmarklet) code and paste it into the URL bar of a new bookmark in the browser you use to play GBF. **If you are not a frequent wiki editor, check below for the bookmark you probably actually want**.
 <br><img src="./images/tutorial-1.png" width="200"/><img src="./images/tutorial-2.png" width="200"/><br>
   - <b>Make sure to clear the url field before pasting!<b>
 - Go to a party team and click the bookmark
 - Click the okay button in the pop-up to have the team copied to your clipboard for easy pasting access.
 
 ### URL Version
-- [This](https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/url-bookmarklet) of the bookmarklet will copy a URL to your clipboard that links to my [Grid Maker Tool](https://cajunwildcat.github.io/GBF-Grid-Maker/) with pre-filled info for the party. If you are not a wiki editor, this is probably the bookmarklet you want.
+- [This](https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/url-bookmarklet) version of the bookmarklet will copy a URL to your clipboard that links to my [Grid Maker Tool](https://cajunwildcat.github.io/GBF-Grid-Maker/) with pre-filled info for the party. If you are not a wiki editor, this is probably the bookmarklet you want.
 - [This](https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/url-bookmarklet-image) version will open the grid maker in a new tab and auto generate an image of the grid to be saved or copied.
 
 ### 自動ブックマークレット
