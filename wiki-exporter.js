@@ -1,5 +1,5 @@
 javascript: (async function () {
-const V = 4.0;
+const V = 4.1;
 let v;
 await fetch("https://raw.githubusercontent.com/cajunwildcat/GBF-Party-Parser/main/version", { cache: 'no-store' })
     .then(function(response){return response.json();})
@@ -250,6 +250,7 @@ ${""}
 |quick=${quick? quick : ""}
 ${""}
 |source=
+|setup=
 |comments=
 |rotation=
 }}`;

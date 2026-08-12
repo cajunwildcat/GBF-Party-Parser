@@ -39,6 +39,9 @@ Using node you can auto build a bookmarklet from the code in `wiki-exporter.js`.
 ## TODO
 
 ## Update Log
+Wiki Version 4.1 (11/08/2026)
+ - Added `|setup=` to exported template
+
 URL Version 4.21 (21/06/2026)
  - Fixed Fire Draconic HP skill bug
 
